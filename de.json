@@ -1,0 +1,175 @@
+{
+    "[Learn more](https://actualbudget": {
+        "org/docs/getting-started/sync/#debugging-sync-issues)": "[Mehr erfahren](https://actualbudget.org/docs/getting-started/sync/#debugging-sync-issues)"
+    },
+    "{{count}} transactions_one": "{{count}} Transaktion",
+    "{{count}} transactions_other": "{{count}} Transaktionen",
+    "A category must be transferred to another of the same type (expense or income)": "Eine Kategorie muss auf den gleichen Typ übertragen werden (Ausgabe oder Einkommen)",
+    "A new version of Actual is available!": "Eine neue Version von Actual ist verfügbar!",
+    "Actual has updated the syncing format": "Actual hat das Synchronisierungsformat aktualisiert",
+    "Account": "Konto",
+    "Actual is a personal finance tool that focuses on beautiful design and a slick user experience": {
+        " <2>Editing your data should be as fast as possible": {
+            "</2> On top of that, we want to provide powerful tools to allow you to do whatever you want with your data": "Actual ist ein persönliches Finanztool, das sich auf ein schönes Design und eine ausgefeilte Benutzerführung konzentriert. <2>Die Bearbeitung deiner Daten sollte so schnell wie möglich sein.</2> Darüber hinaus möchten wir dir leistungsstarke Tools zur Verfügung stellen, mit denen du mit deinen Daten machen kannst, was du willst."
+        }
+    },
+    "Amount": "Betrag",
+    "An unknown error occurred: {{error}}": "Ein unbekannter Fehler trat auf: {{error}}",
+    "Cleared": "Abgewickelt",
+    "Closing": "Schließen...",
+    "Cancel": "Abbrechen",
+    "Category": "Kategorie",
+    "Consider opening <2>our tour</2> in a new tab for some guidance on what to do when you’ve set your password": "Öffne <2>unsere Tour</2> in einem neuen Tab, für die nächsten Schritte nach dem Setzen des Passworts.",
+    "Create key": "Schlüssel erstellen",
+    "Create rule": "Regel erstellen",
+    "Currently, Actual implements budgeting based on a <2>monthly envelope system</2>": "Gegenwärtig setzt Actual auf die Budgetierung mit einem <2>monatlichen Umschlagsystem</2>.",
+    "Date": "Datum",
+    "Delete": "Löschen",
+    "Create test file": "Testdatei erstellen",
+    "Don’t use a server": "Keinen Server verwenden",
+    "Existing sessions will be logged out and you will log in to this server": {
+        " We will validate that Actual is running at this URL": "Bestehende Sitzungen werden abgemeldet und du meldest dich auf diesem Server an. Wir werden überprüfen, ob Actual unter dieser URL läuft."
+    },
+    "File needs upload": "Datei braucht Upload",
+    "Downloading": "Herunterladen...",
+    "Duplicate": "Duplizieren",
+    "Edit field": "Feld bearbeiten",
+    "Get started by importing an existing budget file from Actual or another budgeting app, create a demo budget file, or start fresh with an empty budget": {
+        " You can always create or import another budget later": "Beginne, indem du eine vorhandene Budgetdatei aus Actual oder einer anderen Budgetierungsanwendung importierst, eine Demo-Budgetdatei erstellst oder mit einem leeren Budget neu beginnst. Du kannst später jederzeit ein weiteres Budget erstellen oder importieren."
+    },
+    "https://example": {
+        "com": "https://beispiel.de"
+    },
+    "Import my budget": "Mein Budget importieren",
+    "Initializing the connection to the local database": "Initialisierung der Verbindung zur lokalen Datenbank...",
+    "Happy budgeting!": "Fröhliches budgetieren!",
+    "Let’s get started!": "Fangen wir an!",
+    "Link schedule": "Zeitplan verknüpfen",
+    "Loading the last budget file": "Laden der letzten Budget-Datei...",
+    "Loading global preferences": "Laden der globalen Präferenzen...",
+    "Loading": "Laden...",
+    "Make sure the app is up-to-date": "Stelle sicher, dass die App aktuell ist.",
+    "Missing encryption key": "Fehlender Verschlüsselungscode",
+    "Make transfer": "Transfer erstellen",
+    "Make as split transaction": "Split-Transaktion erstellen",
+    "Notes": "Notizen",
+    "Making demo": "Demo wird erstellt...",
+    "OK": "OK",
+    "Open changelog": "Changelog öffnen",
+    "Post transaction": "Transaktion eintragen",
+    "Opening last budget": "Öffne letztes Budget...",
+    "Repair": "Reparieren",
+    "Passwords do not match": "Passwörter stimmen nicht überein",
+    "Payee": "Empfänger",
+    "Revert": "Zurücksetzen",
+    "Server is not running at this URL": {
+        " Make sure you have HTTPS set up properly": "Server läuft nicht unter dieser URL. Stelle sicher, dass HTTPS korrekt eingerichtet ist."
+    },
+    "Show": "Zeigen",
+    "Server does not look like an Actual server": {
+        " Is it set up correctly?": "Server sieht nicht aus wie ein Actual Server. Ist er korrekt eingerichtet?"
+    },
+    "Skip scheduled date": "Geplantes Datum überspringen",
+    "Something internally went wrong": {
+        " You may want to restart the app if anything looks wrong": {
+            " Please report this as a new issue on Github": "Irgendetwas ist intern schief gelaufen. Du kannst die Anwendung neu starten, wenn etwas falsch aussieht. Bitte melde dies als neues Problem auf Github."
+        }
+    },
+    "Something went wrong when registering your encryption key id": {
+        " You need to recreate your key": {
+            " ": "Etwas ging schief bei der Registrierung deines Verschlüsselungscode. Du musst den Schlüssel neu erstellen. "
+        }
+    },
+    "Start fresh": "Neu anfangen",
+    "Stop using a server": "Server nicht mehr verwenden",
+    "Syncing has been fixed!": "Die Synchronisierung wurde repariert!",
+    "Syncing has been reset on this cloud file": "Die Synchronisierung wurde für diese Cloud-Datei zurückgesetzt",
+    "There is no server configured": {
+        " After running the server, specify the URL here to use the app": {
+            " You can always change this later": {
+                " We will validate that Actual is running at this URL": "Es ist kein Server konfiguriert. Nachdem Starten des Servers, gib hier die URL an, um die App zu verwenden. Du kannst dies jederzeit ändern. Wir werden überprüfen, ob Actual unter dieser URL läuft."
+            }
+        }
+    },
+    "There was a problem syncing your data": {
+        " We can try to repair your sync state to fix it": "Es gab ein Problem bei der Synchronisierung deiner Daten. Wir können versuchen, die Synchronisierung zu reparieren, um das Problem zu beheben."
+    },
+    "This file is not a cloud file": "Diese Datei ist keine Cloud-Datei",
+    "Try Demo": "Demo ausprobieren",
+    "Unable to contact the server": "Der Server kann nicht kontaktiert werden",
+    "Unlink schedule": "Zeitplan trennen",
+    "Unsplit {{count}} transactions_one": "Split von {{count}} Transaktion aufheben",
+    "Unsplit {{count}} transactions_other": "Split von {{count}} Transaktionen aufheben",
+    "Update required": "Update erforderlich",
+    "Use current domain": "Aktuelle Domain verwenden",
+    "Version {{latestVersion}} of Actual was recently released": "Version {{latestVersion}} von Actual wurde kürzlich veröffentlicht.",
+    "View demo": "Demo ansehen",
+    "View schedule": "Zeitplan anzeigen",
+    "We couldn’t apply changes from the server": {
+        " This probably means you need to update the app to support the latest database": "Wir konnten die Änderungen vom Server nicht übernehmen. Dies bedeutet wahrscheinlich, dass die App aktualisiert werden muss, um die neueste Datenbank zu unterstützen."
+    },
+    "We couldn’t apply that change to the database": {
+        " Please report this as a bug by [opening a Github issue]({{githubIssueLink}})": "Wir konnten diese Änderung nicht auf die Datenbank anwenden. Bitte melde diesen Fehler, indem du [ein Github-Issue erstellst]({{githubIssueLink}})."
+    },
+    "We had problems syncing your changes": {
+        " Please report this as a bug by [opening a Github issue]({{githubIssueLink}})": "Wir hatten Probleme beim Synchronisieren deiner Änderungen. Bitte melde diesen Fehler, indem du [ein Github-Issue erstellst]({{githubIssueLink}})."
+    },
+    "We were unable to repair your sync state, sorry! You need to reset your sync state": "Wir konnten den Synchronisierungsstatus nicht reparieren, tut uns leid! Du musst deine Synchronisierung zurücksetzen.",
+    "Welcome to Actual!": "Willkommen bei Actual!",
+    "Where’s the server?": "Wo ist der Server?",
+    "You need to register it to take advantage of syncing which allows you to use it across devices and never worry about losing your data": "Du musst es registrieren, um die Vorteile der Synchronisierung zu nutzen, die es dir ermöglicht, Actual geräteübergreifend zu verwenden und dir keine Sorgen um den Verlust deiner Daten zu machen.",
+    "Your data is out of sync": "Deine Daten sind nicht synchron",
+    "You need to revert it to continue syncing": {
+        " Any unsynced data will be lost": {
+            " If you like, you can instead [upload this file](#upload) to be the latest version": "Um die Synchronisierung fortzusetzen, musst du sie zurücksetzen. Alle nicht synchronisierten Daten gehen dabei verloren. Wenn du möchtest, kannst du stattdessen [diese Datei hochladen](#upload), um sie zur neuesten Version zu machen."
+        }
+    },
+    "Your data is still out of sync": "Deine Daten sind weiterhin nicht synchron",
+    "Your encryption key need to be reset": "Dein Verschlüsselungscode muss zurückgesetzt werden",
+    "A file with id “{{id}}” already exists with the name “{{name}}”": {
+        " This file will be replaced": {
+            " This probably happened because files were manually moved around outside of Actual": "Eine Datei mit id “{{id}}” existiert bereits mit dem Namen “{{name}}”. Diese Datei wird ersetzt. Dies geschah wahrscheinlich, weil die Dateien manuell außerhalb von Actual verschoben wurden."
+        }
+    },
+    "Actual is a super fast privacy-focused app for managing your finances": {
+        " To secure your data, you’ll need to set a password for your server": "Actual ist eine superschnelle, auf Datenschutz ausgerichtete App zur Verwaltung deiner Finanzen. Um deine Daten zu schützen, musst du ein Passwort für deinen Server festlegen."
+    },
+    "Consider taking our <2>guided tour</2> to help you get your bearings, and check out the rest of the documentation while you’re there to learn more about advanced topics": "Nimm an unserer <2>geführten Tour</2> teil, um dich zu orientieren, und sieh dir die übrige Dokumentation an, um mehr über fortgeschrittene Themen zu erfahren.",
+    "Reset sync": "Synchronisierung zurücksetzen",
+    "Register": "Registrieren",
+    "Retrieving remote files": "Abrufen von externen Dateien...",
+    "Reset key": "Schlüssel zurücksetzen",
+    "Something went wrong when creating this cloud file": {
+        " You need to upload this file to fix it": "Bei der Erstellung dieser Cloud-Datei ging etwas schief. Du musst diese Datei hochladen, um das Problem zu beheben."
+    },
+    "Unable to encrypt your data": {
+        " You have the correct key so this is likely an internal failure": {
+            " To fix this, reset your sync data with a new key": "Daten können nicht verschlüsselt werden. Du hast den richtigen Schlüssel, also handelt es sich wahrscheinlich um einen internen Fehler. Um diesen zu beheben, setze deine Synchronisierungsdaten mit einem neuen Schlüssel zurück."
+        }
+    },
+    "Upload": "Hochladen",
+    "We hit a limit on the local storage available": {
+        " Edits may not be saved": {
+            " Please get in touch https://actualbudget": {
+                "org/contact/ so we can help debug this": "Wir sind an eine Grenze des verfügbaren lokalen Speichers gestoßen. Bearbeitungen werden möglicherweise nicht gespeichert. Bitte kontaktiere uns unter https://actualbudget.org/contact/, damit wir das Problem beheben können."
+            }
+        }
+    },
+    "This happens rarely (if ever again)": {
+        " The internal syncing format has changed and you need to reset sync": {
+            " This will upload data from this device and revert all other devices": {
+                " [Learn more about what this means](https://actualbudget": {
+                    "org/docs/getting-started/sync/#what-does-resetting-sync-mean)": {
+                        "\n\nOld encryption keys are not migrated": {
+                            " If using encryption, [reset encryption here](#makeKey)": "Dies geschieht selten (wenn überhaupt). Das interne Synchronisierungsformat hat sich geändert und du musst die Synchronisierung zurücksetzen. Dadurch werden Daten von diesem Gerät hochgeladen und alle anderen Geräte zurückgesetzt. [Erfahre mehr darüber, was dies bedeutet] (https://actualbudget.org/docs/getting-started/sync/#what-does-resetting-sync-mean).\n\nAlte Verschlüsselungscodes werden nicht migriert. Wenn du Verschlüsselung verwendest, [setze die Verschlüsselung hier zurück](#makeKey)."
+                        }
+                    }
+                }
+            }
+        }
+    },
+    "Unable to encrypt your data because you are missing the key": {
+        " Create your key to sync your data": "Daten können nicht verschlüsselt werden, weil dir der Schlüssel fehlt. Erstelle deinen Schlüssel, um deine Daten zu synchronisieren."
+    },
+    "Password cannot be empty": "Passwort kann nicht leer sein"
+}
