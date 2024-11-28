@@ -1,5 +1,4 @@
 {
-    "[Learn more](https://actualbudget.org/docs/getting-started/sync/#debugging-sync-issues)": "[Learn more](https://actualbudget.org/docs/getting-started/sync/#debugging-sync-issues)",
     "{{count}} transactions_one": "{{count}} transactions",
     "{{count}} transactions_other": "{{count}} transactions",
     "A category must be transferred to another of the same type (expense or income)": "A category must be transferred to another of the same type (expense or income)",
