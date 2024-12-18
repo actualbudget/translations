@@ -1217,5 +1217,36 @@
     "Loading banks": "Loading banks…",
     "Loading reports": "Loading reports…",
     "Select category": "Select category…",
-    "Select new file": "Select new file…"
+    "Select new file": "Select new file…",
+    " - copy": " - copy",
+    " locally": " locally",
+    "Calendar": "Calendar",
+    "Calendar card": "Calendar card",
+    "Duplicate “{{fileName}}”": "Duplicate “{{fileName}}”",
+    "Duplicate file “{{newName}}” created": "Duplicate file “{{newName}}” created.",
+    "Duplicate for all devices": "Duplicate for all devices",
+    "Duplicating:  {{oldName}}  --  to:  {{newName}}": "Duplicating:  {{oldName}}  --  to:  {{newName}}",
+    "Failed to duplicate budget": "Failed to duplicate budget",
+    "Failed to duplicate budget file": "Failed to duplicate budget file.",
+    "Failed to save dashboard widget": "Failed to save dashboard widget.",
+    "GoCardless menu": "GoCardless menu",
+    "Hide transactions": "Hide transactions",
+    "Loading more transactions": "Loading more transactions...",
+    "Loading transactions": "Loading transactions...",
+    "New Budget Name": "New Budget Name",
+    "No transactions": "No transactions",
+    "On budget": "On budget",
+    "On Budget Accounts": "On Budget Accounts",
+    "Projected savings:": "Projected savings:",
+    "Show transactions": "Show transactions",
+    "SimpleFIN menu": "SimpleFIN menu",
+    "Transaction list": "Transaction list",
+    "Unable to duplicate a budget that is not located on your device": {
+        "<1></1>Please download the budget from the server before duplicating": "Unable to duplicate a budget that is not located on your device.<1></1>Please download the budget from the server before duplicating."
+    },
+    "Uncategorized & Off budget": "Uncategorized & Off budget",
+    "Unknown error with budget name": "Unknown error with budget name",
+    "Your budget is hosted on a server, making it accessible for download on your devices": {
+        "<1></1>Would you like to duplicate this budget for all your devices or keep it stored locally on this device?": "Your budget is hosted on a server, making it accessible for download on your devices.<1></1>Would you like to duplicate this budget for all your devices or keep it stored locally on this device?"
+    }
 }
