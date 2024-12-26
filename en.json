@@ -1119,5 +1119,6 @@
     "Your encryption key need to be reset": "Your encryption key need to be reset",
     "Your files won’t be moved. You can manually move them to the folder.": "Your files won’t be moved. You can manually move them to the folder.",
     "Your password or something else has changed with your bank and you need to login again.": "Your password or something else has changed with your bank and you need to login again.",
-    "Your SimpleFIN Access Token is no longer valid. Please reset and generate a new token.": "Your SimpleFIN Access Token is no longer valid. Please reset and generate a new token."
+    "Your SimpleFIN Access Token is no longer valid. Please reset and generate a new token.": "Your SimpleFIN Access Token is no longer valid. Please reset and generate a new token.",
+    "Closing": "Closing..."
 }
