@@ -1,1 +1,1378 @@
-{}
+{
+    "A new version of Actual is available!": "Доступна нова версія Actual!",
+    "An unknown error occurred: {{error}}": "Сталася невідома помилка: {{error}}",
+    "Cancel": "Скасувати",
+    "Category": "Категорія",
+    "Duplicate": "дублікат",
+    "File needs upload": "Потрібно завантажити файл",
+    "https://example.com": "https://example.com",
+    "Import my budget": "Імпортуйте мій бюджет",
+    "Let’s get started!": "Давайте почнемо!",
+    "Link schedule": "Розклад посилань",
+    "Make as split transaction": "Зробити як розділену транзакцію",
+    "Make sure the app is up-to-date.": "Переконайтеся, що програма оновлена.",
+    "Missing encryption key": "Відсутній ключ шифрування",
+    "Notes": "Примітки",
+    "Password cannot be empty": "Пароль не може бути пустим",
+    "Post transaction": "Опублікувати транзакцію",
+    "Register": "зареєструватися",
+    "Server does not look like an Actual server. Is it set up correctly?": "Сервер не схожий на реальний сервер. Чи правильно він налаштований?",
+    "Skip scheduled date": "Пропустити заплановану дату",
+    "Stop using a server": "Припиніть використання сервера",
+    "This file is not a cloud file": "Цей файл не є хмарним файлом",
+    "Try Demo": "Спробуйте демо",
+    "Unlink schedule": "Від’єднати розклад",
+    "Update required": "Потрібне оновлення",
+    "Upload": "Завантажити",
+    "This cannot be changed later": "Це неможливо змінити пізніше.",
+    "This month": "Цей місяць",
+    "This week": "Цього тижня",
+    "This will change the password for this server instance": {
+        " All existing sessions will stay logged in": "Це змінить пароль для цього екземпляра сервера. Усі наявні сеанси залишаться в системі."
+    },
+    "Timed out": {
+        " Please try again": "Час очікування минув. Спробуйте ще раз."
+    },
+    "To:": "до:",
+    "transactions": "операції",
+    "Type:": "Тип:",
+    "Unable to decrypt file": "Неможливо розшифрувати файл",
+    "Unable to decrypt file with this password": {
+        " Please try again": "Неможливо розшифрувати файл із цим паролем. Спробуйте ще раз."
+    },
+    "Underfunded ({{amount}})": "Недофінансування ({{amount}})",
+    "Unfavorite": "Вилучити з обраного",
+    "Unlink": "Від’єднати",
+    "Unlink account": "Від’єднати обліковий запис",
+    "Unsaved filter": "Незбережений фільтр",
+    "Update key": "Ключ оновлення",
+    "Upcoming dates": "Найближчі дати",
+    "Update now": "Оновіть зараз",
+    "Update report": "Звіт про оновлення",
+    "Using server: <1>{url}</1>": "Використання сервера: <1>{url}</1>",
+    " bank account": " банківський рахунок",
+    " change the user interface colors": " змінити кольори інтерфейсу користувача.",
+    ", and more": "і багато іншого",
+    "(Account linking not opening in a new tab? Click here)": "(Зв’язування облікового запису не відкривається в новій вкладці? Натисніть тут)",
+    "(give feedback)": "(надати відгук)",
+    "(hidden)": "(прихований)",
+    "(modified)": "(змінений)",
+    "(please select)": "(виберіть будь ласка)",
+    "{{displayMonth}} budget templates have been applied": "{{displayMonth}} застосовано шаблони бюджету.",
+    "{{displayMonth}} budget templates have been overwritten": "{{displayMonth}} шаблони бюджету були перезаписані.",
+    "{{displayMonth}} budgets have all been set to zero": "{{displayMonth}} усі бюджети обнулені.",
+    "#goal 1000": "#goal 1000",
+    "#template $10 repeat every week starting 2025-01-03 up to $80": "#шаблон $10 повторювати щотижня, починаючи з 03.01.2025 до $80",
+    "#template $500 by 2025-03 repeat every 2 years": "#шаблон $500 до 2025-03 повторювати кожні 2 роки",
+    "#template $500 by 2025-03 repeat every year": "#шаблон $500 до 2025-03 повторювати щороку",
+    "#template up to $150 hold": "#шаблон до 150 дол",
+    "#template schedule SCHEDULE_NAME": "#шаблон розкладу SCHEDULE_NAME",
+    "#template up to $150": "#шаблон до 150 дол",
+    "<0>Actual’s data directory</0> <2><0>where your files are stored</0></2>": "<0>Каталог даних Actual</0> <2><0>де зберігаються ваші файли</0></2>",
+    "<0>No server configured</0>": "<0>Сервер не налаштовано</0>",
+    "$10 a week": "10 доларів на тиждень",
+    "$50 each month": "50 доларів щомісяця",
+    "1 month": "1 місяць",
+    "A budget has no name": "Бюджет не має назви",
+    "Accounts": "Облікові записи",
+    "Accounts Overview": "Огляд облікових записів",
+    "Actions": "Дії",
+    "Actual": "Фактичний",
+    "View notes": "Переглянути примітки",
+    "View previous month": "Переглянути попередній місяць",
+    "View rules": "Переглянути правила",
+    "Waiting on GoCardless": "Очікування GoCardless…",
+    "We found the following accounts": {
+        " Select which ones you want to add:": "Ми знайшли такі облікові записи. Виберіть, які ви хочете додати:"
+    },
+    "We had an unknown problem opening “{{id}}”": "У нас виникла невідома проблема з відкриттям “{{id}}”.",
+    "Weekly": "Щотижня",
+    "Add": "додати",
+    "Add category": "Додати категорію",
+    "Add New": "Додати новий",
+    "Add new widget": "Додати новий віджет",
+    "Add recurrence": "Додати повторення",
+    "Advanced Settings": "Розширені налаштування",
+    "All accounts": "Всі рахунки",
+    "All Accounts": "Усі облікові записи",
+    "All time": "Весь час",
+    "All Time": "Весь час",
+    "All time divisor": "Дільник усього часу",
+    "and": "і",
+    "App updated to {{version}}": "Додаток оновлено до {{version}}",
+    "Append": "Додайте",
+    "append to notes": "додати до приміток",
+    "Apply": "Застосувати",
+    "Apply actions": "Застосувати дії",
+    "Apply budget template": "Застосувати шаблон бюджету",
+    "Apply budget templates": "Застосуйте шаблони бюджету",
+    "Are you sure you want to delete report:": "Ви впевнені, що бажаєте видалити звіт:",
+    "Are you sure?": "Ви впевнені?",
+    "Area Graph": "Діаграма площ",
+    "Assets:": "Активи:",
+    "automatic syncing": "автоматична синхронізація",
+    "Automatically add transaction": "Автоматично додавати транзакцію",
+    "Average": "Середній",
+    "Average per month": "В середньому за місяць",
+    "Average per transaction": "У середньому за транзакцію",
+    "Average spent": "Середні витрати",
+    "Average:": "Середній:",
+    "Back": "Назад",
+    "Backup now": "Резервне копіювання зараз",
+    "Balance": "Баланс",
+    "Balance for {{categoryName}} category": "Баланс для категорії {{categoryName}}",
+    "Balance must be a number": "Баланс має бути числом",
+    "Balance:": "Баланс:",
+    "bank account": "банківський рахунок",
+    "Bank Account To Sync": "Банківський рахунок для синхронізації",
+    "Bank sync": "Банківська синхронізація",
+    "Bank Sync": "Банківська синхронізація",
+    "Bank Sync Offline": "Банківська синхронізація в автономному режимі",
+    "Break down less-frequent expenses into monthly expenses": "Розбийте менш часті витрати на щомісячні",
+    "Budget": "Бюджет",
+    "Budget ID:": "ID бюджету:",
+    "Budget Name": "Назва бюджету",
+    "Budget page menu": "Меню сторінки бюджету",
+    "Budget set to {{numberOfMonths}}-month average": "Бюджет установлено на {{numberOfMonths}}-місячний середній.",
+    "Budget Summary": "Резюме бюджету",
+    "Budgeted:": "Бюджетний:",
+    "With transaction(s) selected": "З вибраними транзакціями",
+    "Year": "рік",
+    "Yearly": "щорічно",
+    "You are about to change Actual’s data directory from:": "Ви збираєтеся змінити каталог даних Actual з:",
+    "You are not logged in": "Ви не ввійшли в систему.",
+    "Cash Flow": "Грошовий потік",
+    "Cash flow graph": "Графік грошових потоків",
+    "Category group name": "Назва групи категорій",
+    "Category is required": "Необхідно вказати категорію",
+    "Category name": "Назва категорії",
+    "Center": "центр",
+    "Change": "Зміна",
+    "Change Directory": "Змінити каталог",
+    "Change password": "Змінити пароль",
+    "Check templates": "Перевірте шаблони",
+    "Checking Header Token Login ": "Перевірка входу в маркер заголовка…",
+    "Choose your bank:": "Виберіть свій банк:",
+    "Clear all conditions": "Очистити всі умови",
+    "Clear transactions on import": "Очистити операції з імпорту",
+    "Cleared total:": "Усього очищено:",
+    "Click the button below to reload and apply the update": "Натисніть кнопку нижче, щоб оновити та застосувати оновлення.",
+    "Close": "Закрити",
+    "Close account": "Закрити акаунт",
+    "Close Account": "Закрити акаунт",
+    "Close Budget": "Закрити бюджет",
+    "Close file": "Закрити файл",
+    "Close the current budget and open another": "Закрийте поточний бюджет і відкрийте інший",
+    "Closed accounts": "Закриті рахунки…",
+    "Closed: {{ accountName }}": "Закрито: {{ accountName }}",
+    "Collapse month summary": "Згорнути підсумок за місяць",
+    "Compare": "Порівняйте",
+    "Compare {{formattedStartDate}} to {{typeOrFormattedEndDate}}": "Порівняти {{formattedStartDate}} з {{typeOrFormattedEndDate}}",
+    "Compare:": "Порівняйте:",
+    "Complete": "Повний",
+    "Configure GoCardless integration": "Налаштуйте інтеграцію GoCardless",
+    "Confirm": "Підтвердити",
+    "Confirm Delete": "Підтвердьте видалення",
+    "Confirm password": "Підтвердьте пароль",
+    "Connecting": "Підключення…",
+    "Context menus": "Контекстні меню",
+    "Could not search: {props": {
+        "error}": "Не вдалося виконати пошук: {props.error}"
+    },
+    "Cover from category:": "Обкладинка з категорії:",
+    "Cover overspending": "Покрити перевитрати",
+    "Cover: Overbudgeted": "Обкладинка: Перебюджет",
+    "Create": "Створити",
+    "Create a local account": "Створіть локальний обліковий запис",
+    "Create local account": "Створіть локальний обліковий запис",
+    "Create New": "Створити новий",
+    "Create new rule": "Створити нове правило",
+    "Create Reconciliation Transaction": "Створення транзакції узгодження",
+    "Current month": "Поточний місяць",
+    "Custom Report:": "Спеціальний звіт:",
+    "Custom Report: {{name}}": "Спеціальний звіт: {{name}}",
+    "Custom Report: Unsaved report": "Спеціальний звіт: незбережений звіт",
+    "Daily": "Щодня",
+    "Dashboard has been successfully imported": {
+        " Don’t like what you see? You can always press [ctrl+z](#undo) to undo": "Інформаційну панель успішно імпортовано. Вам не подобається те, що ви бачите? Ви завжди можете натиснути [ctrl+z](#undo), щоб скасувати."
+    },
+    "Data Table": "Таблиця даних",
+    "Date filters": "Фільтри дат",
+    "Dates": "дати",
+    "Day:": "День:",
+    "Debts:": "борги:",
+    "Default": "За замовчуванням",
+    "Delete file from all devices": "Видалити файл з усіх пристроїв",
+    "Delete filter": "Видалити фільтр",
+    "Delete split": "Видалити розкол",
+    "Delete transaction": "Видалити транзакцію",
+    "Deleting it will remove it and all of its backups permanently": "Видалення видалить його та всі його резервні копії назавжди.",
+    "Deposit": "депозит",
+    "Deposits": "Депозити",
+    "Difference:": "Різниця:",
+    "Disable templating": "Вимкнути шаблони",
+    "Done Reconciling": "Звірку завершено",
+    "Donut Graph": "Кольоровий графік",
+    "Edit": "Редагувати",
+    "Edit as rule": "Редагувати як правило",
+    "Edit dashboard": "Редагувати інформаційну панель",
+    "Enable": "Увімкнути",
+    "End Date": "Дата закінчення",
+    "End of month cleanup": "Прибирання в кінці місяця",
+    "End-to-end encryption": "Наскрізне шифрування",
+    "End-to-end Encryption is turned on": "Наскрізне шифрування ввімкнено.",
+    "European": "європейський",
+    "Existing filters will be cleared": "Існуючі фільтри буде очищено",
+    "Expand all": "Розгорнути все",
+    "Expand month summary": "Розгорнути підсумок місяця",
+    "Expenses": "Витрати",
+    "Export": "Експорт",
+    "Export data": "Експорт даних",
+    "Export Transactions": "Експортні операції",
+    "Failed importing the dashboard file": "Не вдалося імпортувати файл інформаційної панелі.",
+    "Failed parsing the imported JSON": "Не вдалося розібрати імпортований JSON.",
+    "Fatal Error": "Фатальна помилка",
+    "Fatal error occurred: unable to open import file dialog": "Сталася критична помилка: неможливо відкрити діалогове вікно імпорту файлу.",
+    "File has header row": "Файл має рядок заголовка",
+    "Files": "Файли",
+    "Files in the destination folder with the same name will be overwritten": "Файли в цільовій папці з такою ж назвою буде перезаписано.",
+    "Filter payees": "Фільтрувати одержувачів…",
+    "Filter rules": "Правила фільтрування…",
+    "Filter schedules…": "Фільтр розкладів…",
+    "Filter to the selected transactions": "Відфільтрувати вибрані транзакції",
+    "Filtered balance:": "Відфільтрований баланс:",
+    "Filters": "Фільтри",
+    "Find matching transactions": "Знайдіть відповідні транзакції",
+    "Find schedules": "Знайдіть розклади",
+    "First day of the week": "Перший день тижня",
+    "Flip amount": "Перевернути суму",
+    "For budget": "Для бюджету",
+    "For Budget": "Для бюджету",
+    "force close": "примусово закрити",
+    "Formatting": "Форматування",
+    "Fully funded": "Повністю профінансовано",
+    "Generate new key": "Згенерувати новий ключ",
+    "Goal Tempaltes": "Гол Темпальтес",
+    "Goal templates": "Шаблони цілей",
+    "Goal Templates": "Шаблони цілей",
+    "Goal Type:": "Тип цілі:",
+    "Goal:": "Мета:",
+    "GoCardless": "Go Card less",
+    "GoCardless integration has not yet been configured": "Інтеграція GoCardless ще не налаштована.",
+    "has tag(s)": "має тег(и)",
+    "hidden categories": "приховані категорії",
+    "Hide “cleared” checkboxes": "Приховати «очищені» прапорці",
+    "Hold": "Тримайте",
+    "Hold for next month": "Залиште на наступний місяць",
+    "I understand the risks, show experimental features": "Я розумію ризики, показую експериментальні особливості",
+    "IDs": "ідентифікатори",
+    "If": "Якщо",
+    "If you use a backup, you will have to setup all your devices to sync from the new budget": "Якщо ви використовуєте резервне копіювання, вам доведеться налаштувати всі свої пристрої для синхронізації з нового бюджету.",
+    "if you want to add transactions manually": {
+        " You can also": "якщо ви хочете додати транзакції вручну. Ви також можете"
+    },
+    "Import": "Імпорт",
+    "Import a file exported from Actual": "Імпорт файлу, експортованого з Actual",
+    "Import file": "Імпорт файлу",
+    "Import From": "Імпортувати з",
+    "Import from Actual export": "Імпорт із фактичного експорту",
+    "import QIF/OFX/QFX files into a local account": "імпорт файлів QIF/OFX/QFX до локального облікового запису",
+    "Import transactions": "Імпортні операції",
+    "imported payee": "імпортований одержувач",
+    "Imported payee": "Імпортований одержувач",
+    "In the future, you can add accounts from the sidebar": "У майбутньому ви зможете додавати облікові записи з бічної панелі.",
+    "Income": "Дохід",
+    "Interval:": "Інтервал:",
+    "is after or equals": "є після або дорівнює",
+    "is approx": "складає прибл",
+    "is approximately": "становить приблизно",
+    "is before": "є раніше",
+    "is before or equals": "передує або дорівнює",
+    "is between": "знаходиться між",
+    "is exactly": "точно",
+    "is greater than or equals": "більше або дорівнює",
+    "is less than or equals": "менше або дорівнює",
+    "is not": "не є",
+    "is true": "це правда",
+    "It is recommended for the encryption password to be different than the log-in password in order to better protect your data": "Рекомендується, щоб пароль шифрування відрізнявся від пароля для входу, щоб краще захистити ваші дані.",
+    "It is required to provide both the secret id and secret key": "Необхідно надати як секретний ідентифікатор, так і секретний ключ.",
+    "Item is no longer authorized": {
+        " You need to login again": "Товар більше не авторизований. Вам потрібно увійти знову."
+    },
+    "Last 12 months": "Останні 12 місяців",
+    "Last 3 months": "Останні 3 місяці",
+    "Left": "Ліворуч",
+    "Line Graph": "Лінійний графік",
+    "Link accounts": "Пов’язати облікові записи",
+    "Link Accounts": "Пов’язати облікові записи",
+    "Link bank account with GoCardless": "Пов’яжіть банківський рахунок із GoCardless",
+    "Link bank account with SimpleFIN": "Пов’яжіть банківський рахунок із SimpleFIN",
+    "Link Your Bank": "Зв’яжіть свій банк",
+    "Linked transactions": "Пов'язані транзакції",
+    "Live": "Жити",
+    "Login with Password": "Увійти за допомогою пароля",
+    "Long": "довгий",
+    "Make Transfer": "Здійснити переказ",
+    "Manage Payees": "Керуйте одержувачами",
+    "manage-rules": "управляти правилами",
+    "Merge": "Об’єднати",
+    "Merge and edit rule": "Правило об’єднання та редагування",
+    "Merge with existing transactions": "Об’єднати з існуючими транзакціями",
+    "Modal dialog": "Модальний діалог",
+    "Mode:": "Режим:",
+    "Month": "місяць",
+    "Monthly": "Щомісяця",
+    "Monthly Templates": "Щомісячні шаблони",
+    "Move schedule": "Розклад руху",
+    "Move to a category": "Перейти до категорії",
+    "Move to the next transaction down": "Перейти до наступної операції вниз",
+    "Move to the next transaction down and scroll": "Перейдіть до наступної операції вниз і прокрутіть",
+    "Move to the next transaction up": "Перейти до наступної операції вгору",
+    "Move to the next transaction up and scroll": "Перейдіть до наступної операції вгору та прокрутіть",
+    "Multi-month Templates": "Багатомісячні шаблони",
+    "Name": "Ім'я",
+    "Name cannot be blank": "Ім’я не може бути пустим.",
+    "Net Deposit": "Чистий депозит",
+    "Net Payment": "Чистий платіж",
+    "Net worth graph": "Графік чистого капіталу",
+    "Net worth:": "Чиста вартість:",
+    "Net:": "Чистий:",
+    "New Account": "Новий акаунт",
+    "New Category Group": "Нова група категорій",
+    "New Category Name": "Нова назва категорії",
+    "New version available:": "Доступна нова версія:",
+    "Next": "Далі",
+    "No": "Ні",
+    "No linked transactions": "Немає пов’язаних транзакцій",
+    "No matching schedules": "Немає відповідних розкладів",
+    "No matching transactions": "Немає відповідних транзакцій",
+    "No notes": "Без приміток",
+    "No open accounts could be found": {
+        " Did you close the account? If so, unlink the account": "Відкритих рахунків не знайдено. Ви закрили рахунок? Якщо так, від’єднайте обліковий запис."
+    },
+    "No payees": "Немає одержувачів",
+    "No recurring date": "Немає повторюваної дати",
+    "No rules": "Ніяких правил",
+    "No schedules": "Розкладів немає",
+    "No schedules found": "Розкладів не знайдено",
+    "number of months": "кількість місяців",
+    "number of transactions": "кількість транзакцій",
+    "Numbers": "Числа",
+    "of": "з",
+    "of these conditions match:": "з цих умов відповідають:",
+    "Off budget": "Позабюджетний",
+    "Off Budget": "Позабюджетний",
+    "Off Budget Accounts": "Позабюджетні рахунки",
+    "Off-budget": "Позабюджетний",
+    "one of": "один із",
+    "Overbudgeted": "Перебюджет",
+    "Password": "Пароль",
+    "Password successfully changed": "Пароль успішно змінено",
+    "Payment": "Оплата",
+    "Percentage": "Відсоток",
+    "Post": "Опублікувати",
+    "Projected Savings:": "Прогнозована економія:",
+    "Range:": "Діапазон:",
+    "Rate limit exceeded for this item": {
+        " Please try again later": "Для цього елемента перевищено обмеження кількості. Спробуйте пізніше."
+    },
+    "Reauthorize": "Переавторизуйте",
+    "Received": "Отримано",
+    "Reconcile": "Примиритися",
+    "Reconciled": "Помирилися",
+    "Reconciled Transaction": "Узгоджена транзакція",
+    "Recurring": "Повторювані",
+    "Remove overspending rollover": "Видалити перевитрати",
+    "Remove recurrence": "Видалити рецидив",
+    "Rename": "Перейменувати",
+    "Reopen account": "Повторно відкрити рахунок",
+    "Repeat every": "Повторіть кожен",
+    "Repeats": "Повтори",
+    "Replace": "Замінити",
+    "Reports": "Звіти",
+    "Reset budget cache": "Скинути кеш бюджету",
+    "Reset GoCardless credentials": "Скинути облікові дані GoCardless",
+    "Reset SimpleFIN credentials": "Скинути облікові дані SimpleFIN",
+    "Revert to original version": "Повернутися до оригінальної версії",
+    "Right": "правильно",
+    "Rule action templating": "Шаблон дії правила",
+    "Rules": "правила",
+    "Save": "зберегти",
+    "Save new filter": "Зберегти новий фільтр",
+    "Save widget": "Зберегти віджет",
+    "Saved": "Збережено",
+    "Saved Filters": "Збережені фільтри",
+    "Saved:": "Збережено:",
+    "Schedule": "розклад",
+    "Schedule Templates": "Шаблони розкладів",
+    "Scheduled date": "Запланована дата",
+    "Secret Key:": "Секретний ключ:",
+    "Select a backup to load": {
+        " After loading a backup, you will have a chance to revert to the current version in this screen": "Виберіть резервну копію для завантаження. Після завантаження резервної копії ви матимете можливість повернутися до поточної версії на цьому екрані."
+    },
+    "Select all transactions": "Виберіть усі операції",
+    "Select one of these compressed files and import it here": "Виберіть один із цих стиснених файлів та імпортуйте його сюди.",
+    "Selected balance:": "Вибраний баланс:",
+    "Set budgets to zero": "Обнулити бюджети",
+    "Set to 6 month average": "Встановити середнє значення за 6 місяців",
+    "Set up GoCardless for bank sync": "Налаштуйте GoCardless для банківської синхронізації",
+    "Set up SimpleFIN for bank sync": "Налаштуйте SimpleFIN для банківської синхронізації",
+    "Settings": "Налаштування",
+    "Show all payees": "Показати всіх одержувачів",
+    "Show as": "Показати як",
+    "Show balance": "Показати баланс",
+    "Show completed schedules": "Показати виконані розклади",
+    "Show Error": "Показати помилку",
+    "Show Labels": "Показати мітки",
+    "Show Legend": "Показати легенду",
+    "Show password": "Показати пароль",
+    "Show reconciled transactions": "Показати звірені операції",
+    "Show running balance": "Показати біговий баланс",
+    "Show unchecked": "Показати без позначки",
+    "Sidebar menu": "Бічне меню",
+    "Skip next date": "Пропустити наступну дату",
+    "Some rules were not deleted because they are linked to schedules": "Деякі правила не видалено, оскільки вони пов’язані з розкладами",
+    "Something went wrong trying to create a key, sorry! Visit https://actualbudget": {
+        "org/contact/ for support": "Під час створення ключа сталася помилка. Вибачте! Відвідайте https://actualbudget.org/contact/ для підтримки."
+    },
+    "Spending analysis": "Аналіз витрат",
+    "Split Transaction": "Розділена транзакція",
+    "Split:": "Спліт:",
+    "Stage": "етап",
+    "Stage of rule:": "Стадія правління:",
+    "Start using a server": "Почніть використовувати сервер",
+    "Static": "Статичний",
+    "Status": "Статус",
+    "Success! Click to continue &rarr;": "Успіх! Натисніть, щоб продовжити &rar;",
+    "Suggested Payees": "Запропоновані одержувачі",
+    "Sum": "сума",
+    "Summary": "Резюме",
+    "Summary card": "Підсумкова картка",
+    "Switch budget file": "Переключити файл бюджету",
+    "Switch Budget File": "Переключити файл бюджету",
+    "Switch theme": "Змінити тему",
+    "Switching from:": "Перехід з:",
+    "Sync": "Синхронізувати",
+    "Template": "Шаблон",
+    "template ": "шаблон ",
+    "The account needs your attention at <2>SimpleFIN</2>": "Обліковий запис потребує вашої уваги в <2>SimpleFIN</2>.",
+    "The newer web app": "Новіший веб-додаток",
+    "The server returned the following error:": "Сервер повернув таку помилку:",
+    "Themes": "Теми",
+    "There is already a schedule with this name": "Розклад із такою назвою вже є",
+    "There was a problem loading the app in this browser version": "Виникла проблема із завантаженням програми в цій версії веб-переглядача.",
+    "These transactions match this schedule:": "Ці транзакції відповідають цьому графіку:",
+    "This a <1>local file</1> which is not stored on a server": "Це <1>локальний файл</1>, який не зберігається на сервері.",
+    "This account is experiencing connection problems": {
+        " Let’s fix it": "Цей обліковий запис має проблеми з підключенням. Давайте це виправимо."
+    },
+    "This budget cannot be loaded with this version of the app": {
+        " Make sure the app is up-to-date": "Цей бюджет не можна завантажити з цією версією програми. Переконайтеся, що програма оновлена."
+    },
+    "You can load a different backup or revert to the original version below": "Ви можете завантажити іншу резервну копію або повернутися до початкової версії нижче.",
+    "Your cleared balance <1>{clearedBalance}</1> needs <4>{difference}</4> to match<6></6> your bank's balance of <9>{bankBalance}</9>": "Ваш сплачений баланс <1>{clearedBalance}</1> має <4>{difference}</4> відповідати<6></6> балансу вашого банку <9>{bankBalance}</9>",
+    "Your data is encrypted with a key that only you have before sending it it out to the cloud": {
+        " Local data remains unencrypted so if you forget your password you can re-encrypt it": "Ваші дані шифруються за допомогою ключа, який є лише у вас, перш ніж надсилати їх у хмару. Локальні дані залишаються незашифрованими, тож якщо ви забудете свій пароль, ви можете повторно зашифрувати його."
+    },
+    "Your password or something else has changed with your bank and you need to login again": "Ваш пароль або щось інше змінилося у вашому банку, і вам потрібно ввійти знову.",
+    "Your SimpleFIN Access Token is no longer valid": {
+        " Please reset and generate a new token": "Ваш маркер доступу SimpleFIN більше не дійсний. Будь ласка, скиньте та створіть новий маркер."
+    },
+    "Downloading and applying update": "Завантаження та застосування оновлення…",
+    "Import is running": "Імпорт виконується…",
+    "Loading reports": "Завантаження звітів…",
+    "Select category": "Виберіть категорію…",
+    " - copy": " - копія",
+    " locally": " локально",
+    "Calendar": "Календар",
+    "Failed to duplicate budget file": "Не вдалося скопіювати файл бюджету.",
+    "GoCardless menu": "Меню GoCardless",
+    "New Budget Name": "Нова назва бюджету",
+    "No transactions": "Жодних транзакцій",
+    "On budget": "За бюджетом",
+    "On Budget Accounts": "Про бюджетні рахунки",
+    "SimpleFIN menu": "Меню SimpleFIN",
+    "Uncategorized & Off budget": "Без категорії та поза бюджетом",
+    "Internal error": "Внутрішня помилка",
+    "Login expired": "Термін дії входу минув",
+    "Manage and view users who can create new budgets or be invited to access existing ones": {
+        " <2>Learn more</2>": "Керуйте та переглядайте користувачів, які можуть створювати нові бюджети або отримати доступ до наявних. <2>Докладніше</2>"
+    },
+    "Multi-user will not work after disabling": "Багатокористувацький режим не працюватиме після відключення",
+    "No users": "Немає користувачів",
+    "No users available": "Немає доступних користувачів",
+    "No users available to give access": "Немає доступних користувачів для надання доступу",
+    "OpenID authentication method": "Метод аутентифікації OpenID",
+    "OpenID Connect on the Microsoft identity platform": "OpenID Connect на платформі ідентифікації Microsoft",
+    "OpenID is": "OpenID є",
+    "OpenID Provider": "Постачальник OpenID",
+    "OpenID server cannot be empty": "Сервер OpenID не може бути порожнім",
+    "Owner:": "Власник:",
+    "Revert to server password": "Повернутися до пароля сервера",
+    "Review OpenID configuration": "Перегляньте конфігурацію OpenID",
+    "Role": "Роль",
+    "Securing Applications with Keycloak": "Захист додатків за допомогою Keycloak",
+    "Select a user": "Виберіть користувача",
+    "Server Owner": "Власник сервера",
+    "Sign in with OpenID": "Увійдіть за допомогою OpenID",
+    "Something happened while deleting users": "Під час видалення користувачів щось трапилося",
+    "The current password will be disabled": "Поточний пароль буде вимкнено",
+    "Today": "Сьогодні",
+    "Transfer ownership": "Передача права власності",
+    "Type the server password to disable OpenID": "Введіть пароль сервера, щоб вимкнути OpenID",
+    "User": "Користувач",
+    "User Access Management": "Керування доступом користувачів",
+    "User Directory": "Каталог користувачів",
+    "View file list": "Переглянути список файлів",
+    "You have to be admin to set secrets": "Ви повинні бути адміністратором, щоб установити секрети",
+    "(logged in as: <1>{userData?": {
+        "displayName}</1>)": "(увійшов як: <1>{userData?.displayName}</1>)"
+    },
+    "(logged in as: <2><0>{userData?": {
+        "displayName}</0></2>)": "(увійшов як: <2><0>{userData?.displayName}</0></2>)"
+    },
+    "(Optional)": "(Додатково)",
+    "Access": "Доступ",
+    "Access Revocation Incomplete": "Відкликання доступу не завершено",
+    "Add new user": "Додати нового користувача",
+    "Admin": "адмін",
+    "After disabling OpenID all sessions will be closed": "Після вимкнення OpenID усі сеанси будуть закриті",
+    "After enabling openid all sessions will be closed": "Після ввімкнення openid усі сеанси будуть закриті",
+    "Auth0 application settings": "Налаштування програми Auth0",
+    "Auto login failed - No header sent": "Помилка автоматичного входу – заголовок не надіслано",
+    "Auto login failed - Proxy not trusted": "Помилка автоматичного входу - проксі не довіряють",
+    "Basic": "Базовий",
+    "Client ID": "ID клієнта",
+    "Client ID cannot be empty": "ID клієнта не може бути порожнім",
+    "Client secret": "Секрет клієнта",
+    "Client secret cannot be empty": "Секрет клієнта не може бути порожнім",
+    "Configure OAuth2 Provider": "Налаштувати постачальника OAuth2",
+    "Display Name": "Відображуване ім'я",
+    "Enable OpenID": "Увімкніть OpenID",
+    "enabled": "включено",
+    "Error getting available users": "Помилка отримання доступних користувачів",
+    "Error getting openid config": "Помилка отримання конфігурації openid",
+    "Failed to transfer ownership": "Не вдалося передати право власності",
+    "Get started with passwordless": {
+        "id": "Почніть роботу з passwordless.id"
+    },
+    "Go to login": "Перейти до входу",
+    "Transfer to another category": "Перевести в іншу категорію",
+    "Try again": "Спробуйте знову",
+    "Edit field": "Поле редагування",
+    "Actual has updated the syncing format": "Actual оновив формат синхронізації",
+    "Currently, Actual implements budgeting based on a <2>monthly envelope system</2>.": "Наразі Actual реалізує бюджетування на основі <2>системи щомісячних конвертів</2>.",
+    "Date": "Дата",
+    "Revert": "Повернути",
+    "Make sure the app is up-to-date. Do you want to load a backup?": "Переконайтеся, що програма оновлена. Бажаєте завантажити резервну копію?",
+    "Undo the last change": "Скасувати останню зміну",
+    "Unpin sidebar": "Відкріпити бічну панель",
+    "Up to $150 each month, but retain any funds over $150": "До 150 доларів США щомісяця, але зберігайте будь-які кошти понад 150 доларів США",
+    "#template schedule full SCHEDULE_NAME": "#шаблон розкладу повний SCHEDULE_NAME",
+    "{{count}} transactions_one": "{{count}} трансакція",
+    "{{count}} transactions_few": "{{count}} транзакцій",
+    "{{count}} transactions_many": "{{count}} транзакцій",
+    "Create rule": "Створити правило",
+    "Syncing has been fixed!": "Синхронізацію виправлено!",
+    "This is a <1>hosted file</1> but it was created by another user": {
+        " You can only delete the local copy": "Це <1>розміщений файл</1>, але його створив інший користувач. Ви можете лише видалити."
+    },
+    "to ": "до ",
+    "Add Group": "Додати групу",
+    "A file with id “{{id}}” already exists with the name “{{name}}”. This file will be replaced. This probably happened because files were manually moved around outside of Actual.": "Файл з ідентифікатором “{{id}}” уже існує з назвою “{{name}}”. Цей файл буде замінено. Можливо, це сталося через те, що файли вручну переміщувалися за межі Actual.",
+    "Transactions will no longer be synchronized with this account and must be manually entered": "Транзакції більше не синхронізуватимуться з цим обліковим записом, і їх потрібно вводити вручну.",
+    "Show": "Показати",
+    "Unable to encrypt your data because you are missing the key. Create your key to sync your data.": "Неможливо зашифрувати ваші дані, оскільки вам не вказано ключ. Створіть свій ключ для синхронізації даних.",
+    "A category must be transferred to another of the same type (expense or income)": "Категорія повинна бути перенесена в іншу такого ж типу (витрати або доходи)",
+    "Something went wrong when registering your encryption key id. You need to recreate your key. ": "Щось пішло не так під час реєстрації ідентифікатора ключа шифрування. Вам потрібно заново створити свій ключ. ",
+    "This key only applies to this file": {
+        " You will need to generate a new key for each file you want to encrypt": "Цей ключ стосується лише цього файлу. Вам потрібно буде створити новий ключ для кожного файлу, який ви хочете зашифрувати."
+    },
+    "Transfers:": "Трансфери:",
+    "This happens rarely (if ever again). The internal syncing format has changed and you need to reset sync. This will upload data from this device and revert all other devices. [Learn more about what this means](https://actualbudget.org/docs/getting-started/sync/#what-does-resetting-sync-mean).\n\nOld encryption keys are not migrated. If using encryption, [reset encryption here](#makeKey).": "Це трапляється рідко (якщо колись знову). Формат внутрішньої синхронізації змінився, і вам потрібно скинути синхронізацію. Це завантажить дані з цього пристрою та поверне всі інші пристрої. [Докладніше про те, що це означає](https://actualbudget.org/docs/getting-started/sync/#what-does-resetting-sync-mean). \n\nСтарі ключі шифрування не переносяться. Якщо використовується шифрування, [скиньте шифрування тут](#makeKey).",
+    "Transfer To/From": "Трансфер до/з",
+    "Consider taking our <2>guided tour</2> to help you get your bearings, and check out the rest of the documentation while you’re there to learn more about advanced topics.": "Скористайтеся нашою <2>інструкцією</2>, яка допоможе вам зорієнтуватися, і перегляньте решту документації, поки ви там, щоб дізнатися більше про складні теми.",
+    "Account": "Обліковий запис",
+    "Actual is a personal finance tool that focuses on beautiful design and a slick user experience. <2>Editing your data should be as fast as possible.</2> On top of that, we want to provide powerful tools to allow you to do whatever you want with your data.": "Actual — це інструмент для особистих фінансів, який зосереджений на красивому дизайні та зручному користуванні. <2>Редагування ваших даних має відбуватися якомога швидше.</2> Крім того, ми хочемо надати потужні інструменти, які дозволять вам робити зі своїми даними все, що завгодно.",
+    "Amount": "Сума",
+    "Delete": "Видалити",
+    "Retrieving remote files...": "Отримання віддалених файлів…",
+    "We couldn’t apply that change to the database. Please report this as a bug by [opening a Github issue]({{githubIssueLink}}).": "Ми не змогли застосувати цю зміну до бази даних. Будь ласка, повідомте про це як про помилку, [відкривши проблему Github]({{githubIssueLink}}).",
+    "Use Memo as a fallback for empty Payees": "Використовуйте Memo як запасний варіант для порожніх одержувачів",
+    "Actual is a super fast privacy-focused app for managing your finances. To secure your data, you’ll need to set a password for your server.": "Actual — це надшвидка програма, орієнтована на конфіденційність, для керування вашими фінансами. Щоб захистити свої дані, вам потрібно встановити пароль для свого сервера.",
+    "Repair": "Ремонт",
+    "View demo": "Переглянути демо",
+    "This file is encrypted": "Цей файл зашифровано",
+    "Cleared": "Очищено",
+    "Closing...": "Закриття…",
+    "Consider opening <2>our tour</2> in a new tab for some guidance on what to do when you’ve set your password.": "Спробуйте відкрити <2>наш огляд</2> у новій вкладці, щоб дізнатися, що робити, коли ви встановили пароль.",
+    "Open changelog": "Відкрити журнал змін",
+    "Something went wrong when creating this cloud file. You need to upload this file to fix it.": "Під час створення цього хмарного файлу сталася помилка. Вам потрібно завантажити цей файл, щоб виправити це.",
+    "This will generate a new key for encrypting your data": "Це створить новий ключ для шифрування ваших даних.",
+    "To Be Budgeted": "До бюджету",
+    "Token:": "Токен:",
+    "Create key": "Створити ключ",
+    "Time": "час",
+    "Create test file": "Створити тестовий файл",
+    "Unsplit {{count}} transactions_one": "Розділити {{count}} транзакцій",
+    "Unsplit {{count}} transactions_few": "Розділити {{count}} транзакції",
+    "Unsplit {{count}} transactions_many": "Розділити {{count}} транзакції",
+    "Where’s the server?": "Де сервер?",
+    "This custom report has been deleted": "Цей спеціальний звіт видалено.",
+    "Don’t use a server": "Не використовуйте сервер",
+    "Downloading...": "Завантаження…",
+    "Reset sync": "Скинути синхронізацію",
+    "Payee": "одержувач",
+    "Existing sessions will be logged out and you will log in to this server. We will validate that Actual is running at this URL.": "Існуючі сеанси буде виведено з системи, і ви увійдете на цей сервер. Ми перевіримо, що Actual працює за цією URL-адресою.",
+    "Making demo...": "Створення демо…",
+    "Transfer is required": "Потрібен трансфер",
+    "Get started by importing an existing budget file from Actual or another budgeting app, create a demo budget file, or start fresh with an empty budget. You can always create or import another budget later.": "Розпочніть з імпорту існуючого файлу бюджету з Actual або іншої програми бюджетування, створіть демонстраційний файл бюджету або почніть заново з порожнім бюджетом. Ви завжди можете створити або імпортувати інший бюджет пізніше.",
+    "Passwords do not match": "Паролі не збігаються",
+    "This file is encrypted and you do not have the key for it": "Цей файл зашифровано, і ви не маєте для нього ключа.",
+    "This requires a sync reset": "Для цього потрібне скидання синхронізації",
+    "Transfer: To Budget": "Переказ: На бюджет",
+    "Happy budgeting!": "Вдалого бюджету!",
+    "Loading global preferences...": "Завантаження глобальних налаштувань…",
+    "We couldn’t apply changes from the server. This probably means you need to update the app to support the latest database.": "Не вдалося застосувати зміни з сервера. Можливо, це означає, що вам потрібно оновити програму для підтримки найновішої бази даних.",
+    "Loading the last budget file...": "Завантаження останнього файлу бюджету…",
+    "Loading...": "Завантажуємо…",
+    "Use current domain": "Використовувати поточний домен",
+    "Your encryption key need to be reset": "Ваш ключ шифрування потрібно скинути",
+    "Make transfer": "Зробити переказ",
+    "Your data is still out of sync": "Ваші дані все ще не синхронізовані",
+    "OK": "OK",
+    "Opening last budget...": "Відкриття останнього бюджету…",
+    "Syncing has been reset on this cloud file": "Синхронізацію цього хмарного файлу скинуто",
+    "We had problems syncing your changes. Please report this as a bug by [opening a Github issue]({{githubIssueLink}}).": "У нас виникли проблеми із синхронізацією ваших змін. Повідомте про це як про помилку, [відкривши проблему Github]({{githubIssueLink}}).",
+    "Transfer: ": "Трансфер: ",
+    "Reset key": "Ключ скидання",
+    "Server is not running at this URL. Make sure you have HTTPS set up properly.": "Сервер не працює за цією URL-адресою. Переконайтеся, що HTTPS налаштовано правильно.",
+    "Start fresh": "Почніть заново",
+    "Something internally went wrong. You may want to restart the app if anything looks wrong. Please report this as a new issue on Github.": "Щось внутрішньо пішло не так. Ви можете перезапустити програму, якщо щось виглядає не так. Повідомте про це як про нову проблему на Github.",
+    "There is no server configured. After running the server, specify the URL here to use the app. You can always change this later. We will validate that Actual is running at this URL.": "Сервер не налаштовано. Після запуску сервера вкажіть тут URL-адресу, щоб використовувати програму. Ви завжди можете змінити це пізніше. Ми перевіримо, що Actual працює за цією URL-адресою.",
+    "There was a problem syncing your data. We can try to repair your sync state to fix it.": "Виникла проблема із синхронізацією ваших даних. Ми можемо спробувати відновити ваш стан синхронізації, щоб виправити це.",
+    "This rule applies to these transactions:": "Це правило застосовується до таких операцій:",
+    "Unable to contact the server": "Не вдалося зв'язатися з сервером",
+    "Unable to encrypt your data. You have the correct key so this is likely an internal failure. To fix this, reset your sync data with a new key.": "Не вдалося зашифрувати ваші дані. Ви маєте правильний ключ, тож це, швидше за все, внутрішній збій. Щоб виправити це, скиньте дані синхронізації за допомогою нового ключа.",
+    "Version {{latestVersion}} of Actual was recently released.": "Версія {{latestVersion}} Actual була нещодавно випущена.",
+    "View schedule": "Переглянути розклад",
+    "We hit a limit on the local storage available. Edits may not be saved. Please get in touch https://actualbudget.org/contact/ so we can help debug this.": "Ми досягли ліміту доступного локального сховища. Зміни можуть не зберігатися. Будь ласка, зв’яжіться з https://actualbudget.org/contact/, щоб ми могли допомогти у виправленні цієї помилки.",
+    "We were unable to repair your sync state, sorry! You need to reset your sync state.": "Нам не вдалося відновити ваш стан синхронізації, вибачте! Вам потрібно скинути стан синхронізації.",
+    "Welcome to Actual!": "Ласкаво просимо до Актуального!",
+    "You need to register it to take advantage of syncing which allows you to use it across devices and never worry about losing your data.": "Його потрібно зареєструвати, щоб скористатися перевагами синхронізації, яка дає змогу використовувати його на різних пристроях і ніколи не хвилюватися про втрату даних.",
+    "This is a <1>hosted file</1> which means it is stored on your server to make it available for download on any device": {
+        " You can delete it from the server, which will also remove it from all of your devices": "Це <1>розміщений файл</1>, що означає, що він зберігається на вашому сервері, щоб зробити його доступним для завантаження на будь-якому пристрої. Ви можете видалити його з сервера, що також видалить його з усіх ваших пристроїв."
+    },
+    "Toggle selection of current transaction": "Перемкнути вибір поточної транзакції",
+    "Transfers": "Трансфери",
+    "You need to revert it to continue syncing. Any unsynced data will be lost. If you like, you can instead [upload this file](#upload) to be the latest version.": "Вам потрібно повернути його, щоб продовжити синхронізацію. Усі несинхронізовані дані буде втрачено. Якщо хочете, натомість ви можете [завантажити цей файл](#upload), щоб мати останню версію.",
+    "Your data is out of sync": "Ваші дані не синхронізовані",
+    "This file is encrypted and you have key to access it": "Цей файл зашифровано, і у вас є ключ для доступу до нього.",
+    "This file is encrypted with an old unsupported key style": {
+        " Recreate the key on a device where the file is available, or use an older version of Actual to download it": "Цей файл зашифровано за допомогою старого непідтримуваного стилю ключа. Повторно створіть ключ на пристрої, де доступний файл, або скористайтеся старішою версією Actual, щоб завантажити його."
+    },
+    "This file was encrypted with a different key than you are currently using": {
+        " This probably means you changed your password": {
+            " Enter your current password to update your key": "Цей файл зашифровано іншим ключем, ніж той, який ви зараз використовуєте. Можливо, це означає, що ви змінили пароль. Введіть поточний пароль, щоб оновити ключ."
+        }
+    },
+    "to": "до",
+    "Toggle cleared for selected transactions": "Перемикач знято для вибраних транзакцій",
+    "Toggle the privacy filter": "Увімкнути фільтр конфіденційності",
+    "This is a cloud-based file but its state is unknown because you are offline": "Це хмарний файл, але його стан невідомий, оскільки ви офлайн.",
+    "This report is configured to use a non-existing filter value (i": {
+        "e": {
+            " category/account/payee)": "Цей звіт налаштовано на використання неіснуючого значення фільтра (тобто категорії/облікового запису/одержувача платежу)."
+        }
+    },
+    "This schedule has custom conditions and actions": "Цей розклад має власні умови та дії",
+    "To Budget": "До бюджету",
+    "Weekly Templates": "Щотижневі шаблони",
+    "allocate": "виділяти",
+    "Totals": "Підсумки",
+    "Toggle all transactions between current and most recently selected transaction": "Перемикати всі транзакції між поточною та останньою вибраною транзакцією",
+    "Total": "Всього",
+    "Toggle hidden categories": "Перемкнути приховані категорії",
+    "Transfer to:": "Трансфер до:",
+    "to automatically download transactions": {
+        " GoCardless provides reliable, up-to-date information from hundreds of banks": "для автоматичного завантаження транзакцій. GoCardless надає надійну та актуальну інформацію від сотень банків.",
+        " SimpleFIN provides reliable, up-to-date information from hundreds of banks": "для автоматичного завантаження транзакцій. SimpleFIN надає надійну та актуальну інформацію від сотень банків."
+    },
+    "To import data from YNAB4, locate where your YNAB4 data is stored": {
+        " It is usually in your Documents folder under YNAB": {
+            " Your data is a directory inside that with the<1>": {
+                "ynab4</1> suffix": "Щоб імпортувати дані з YNAB4, знайдіть, де зберігаються дані YNAB4. Зазвичай він знаходиться у вашій папці «Документи» під YNAB. Ваші дані — це каталог із суфіксом<1>.ynab4</1>."
+            }
+        }
+    },
+    "To link your bank account, you will be redirected to a new page where GoCardless will ask to connect to your bank": {
+        " GoCardless will not be able to withdraw funds from your accounts": "Щоб зв’язати свій банківський рахунок, ви будете перенаправлені на нову сторінку, де GoCardless попросить підключитися до вашого банку. GoCardless не зможе зняти кошти з ваших рахунків."
+    },
+    "Transfer": "Трансфер",
+    "Transfer this amount:": "Перерахуйте цю суму:",
+    "### Text Widget\n\nEdit this widget to change the **markdown** content": "### Текстовий віджет\n\nВідредагуйте цей віджет, щоб змінити вміст **уцінки**.",
+    "#template $10 repeat every week starting 2025-01-03": "#шаблон $10 повторювати щотижня, починаючи з 03.01.2025",
+    "Backups are taken every {{BACKUP_FREQUENCY_MINS}} minutes and stored in <4><0>Actual’s data directory</0></4>": {
+        " Actual retains a maximum of {{MAX_BACKUPS}} backups at any time": "Резервні копії створюються кожні {{BACKUP_FREQUENCY_MINS}} хвилин і зберігаються в <4><0>каталозі даних Actual</0></4>. Actual зберігає максимум {{MAX_BACKUPS}} резервних копій у будь-який час."
+    },
+    "View current month": "Переглянути поточний місяць",
+    "<0>Read here</0> for instructions on how to migrate your data from YNAB": {
+        " You need to export your data as JSON, and that page explains how to do that": "<0>Прочитайте тут</0> інструкції щодо переміщення даних із YNAB. Вам потрібно експортувати дані як JSON, і на цій сторінці пояснюється, як це зробити."
+    },
+    "1 Year": "1 рік",
+    "<0><0>{t('How is net worth calculated?')}</0></0><1>{t(\n                'Net worth shows the balance of all accounts over time, including all of your investments": {
+        " Your “net worth” is considered to be the amount you’d have if you sold all your assets and paid off as much debt as possible": {
+            " If you hover over the graph, you can also see the amount of assets and debt individually": {
+                "',\n              )}</1>": "<0><0>{t('Як обчислюється чистий капітал?')}</0></0><1>{t( \n                «Чиста вартість показує баланс усіх рахунків протягом певного часу, включаючи всі ваші інвестиції. Ваш «чистий капітал» — це сума, яку ви мали б, якби продали всі свої активи та виплатили якомога більше боргів. Якщо ви наведете курсор на графік, ви також побачите суму активів і боргу окремо.', \n              )}</1>"
+            }
+        }
+    },
+    "<0><0>How are “Average” and “Spent Average MTD” calculated?</0></0><1>They are both the average cumulative spending by day for the three months before the selected “compare” month": {
+        "</1>": "<0><0>Як розраховуються «Середній» і «Витрачений середній MTD»?</0></0><1>Вони обидва є середніми сукупними витратами за день за три місяці до вибраного місяця «порівняння».</1>"
+    },
+    "When": "Коли",
+    "Add category group": "Додати групу категорій",
+    "<0><0>How is cash flow calculated?</0></0><1>Cash flow shows the balance of your budgeted accounts over time, and the amount of expenses/income each day or month": {
+        " Your budgeted accounts are considered to be “cash on hand,” so this gives you a picture of how available money fluctuates": {
+            "</1>": "<0><0>Як розраховується грошовий потік?</0></0><1>Грошовий потік показує баланс ваших бюджетних рахунків протягом певного часу та суму витрат/доходів кожного дня чи місяця. Ваші бюджетні рахунки вважаються «грошовими коштами», тож це дає вам уявлення про те, як коливаються доступні гроші.</1>"
+        }
+    },
+    "<0>Experimental features": {
+        "</0> These features are not fully tested and may not work as expected": {
+            " THEY MAY CAUSE IRRECOVERABLE DATA LOSS": {
+                " They may do nothing at all": {
+                    " Only enable them if you know what you are doing": "<0>Експериментальні функції.</0> Ці функції не повністю протестовані та можуть не працювати належним чином. ВОНИ МОЖУТЬ ПРИЧИНИТИ НЕПОВОРОТНУ ВТРАТУ ДАНИХ. Вони можуть взагалі нічого не робити. Увімкніть їх, лише якщо ви знаєте, що робите."
+                }
+            }
+        }
+    },
+    "3 months": "3 місяців",
+    "A valid amount is required": "Потрібна дійсна сума",
+    "Account in Actual": "Рахунок в Актуальному",
+    "Try Demo &rarr;": "Спробуйте демо &rarr;",
+    "Unable to connect to the server": {
+        " We need to access the server to get some information about your keys": "Неможливо підключитися до сервера. Нам потрібен доступ до сервера, щоб отримати інформацію про ваші ключі."
+    },
+    "{{displayMonth}} budgets have all been set to last month’s budgeted amounts": "{{displayMonth}} усі бюджети встановлено відповідно до бюджету минулого місяця.",
+    "Actual’s data directory successfully changed": "Каталог даних Actual успішно змінено.",
+    "Add another split": "Додайте ще один розкол",
+    "Advanced options": "Розширені параметри",
+    "All reconciled!": "Всі помирилися!",
+    "Year to date": "З року в рік",
+    "amount (outflow)": "сума (відтік)",
+    "Clear search term": "Очистити термін пошуку",
+    "Approximately {{currencyAmount}}": "Приблизно {{currencyAmount}}",
+    "Budget set to last month’s budget": "Бюджет встановлено до бюджету минулого місяця.",
+    "Unselect All": "Скасувати вибір усіх",
+    "Initializing the connection to the local database...": "Неможливо розшифрувати файл із цим паролем. Спробуйте ще раз…",
+    "Unsplit transaction": "Нерозділена транзакція",
+    "Unable to encrypt your data because you are missing the key": {
+        " Create the latest key in the next step": "Неможливо зашифрувати ваші дані, оскільки вам не вказано ключ. Створіть останній ключ на наступному кроці."
+    },
+    "Update": "оновлення",
+    "Uncategorized": "Без категорії",
+    "Uncategorized & Off Budget": "Без категорії та поза бюджетом",
+    "Uncleared": "Нерозмитнений",
+    "Uncleared total:": "Нерозмитнено всього:",
+    "Unlink from schedule": "Від’єднати від розкладу",
+    "{{displayMonth}} end-of-month cleanup templates have been applied": "{{displayMonth}} застосовано шаблони очищення наприкінці місяця.",
+    "Unlocking this transaction means you won‘t be warned about changes that can impact your reconciled balance": {
+        " (Changes to amount, account, payee, etc)": "Розблокування цієї транзакції означає, що ви не отримуватимете попереджень про зміни, які можуть вплинути на ваш звірений баланс. (Зміни суми, рахунку, одержувача тощо)."
+    },
+    "Unsaved report": "Незбережений звіт",
+    "Up to $150 each month, and remove extra funds over $150": "До 150 доларів США щомісяця та видаляйте додаткові кошти понад 150 доларів США",
+    "Update condtions": "Умови оновлення",
+    "Uploading the file failed": {
+        " Check your network connection": "Не вдалося завантажити файл. Перевірте підключення до мережі."
+    },
+    "Usually we automatically post transactions for these, but you are offline or syncing failed": {
+        " In order to avoid duplicate transactions, we let you choose whether or not to create transactions for these schedules": "Зазвичай ми автоматично публікуємо транзакції для них, але ви перебуваєте в режимі офлайн або не вдалося синхронізувати. Щоб уникнути повторюваних транзакцій, ми дозволяємо вам вибирати, створювати чи ні транзакції для цих розкладів."
+    },
+    "Budgeted amount for {{categoryName}} category": "Запланована сума для категорії {{categoryName}}",
+    " and all other devices will have to revert to this version of your data": {
+        " Actual will take you through that process on those devices": " і всі інші пристрої повинні повернутися до цієї версії ваших даних. Actual проведе вас через цей процес на цих пристроях."
+    },
+    "Yes": "Так",
+    " are the names Actual uses to identify your budget internally": {
+        " There are several different IDs associated with your budget": {
+            " The Budget ID is used to identify your budget file": {
+                " The Sync ID is used to access the budget on the server": " це імена, які Actual використовує для внутрішньої ідентифікації вашого бюджету. З вашим бюджетом пов’язано кілька різних ідентифікаторів. Ідентифікатор бюджету використовується для ідентифікації файлу бюджету. Sync ID використовується для доступу до бюджету на сервері."
+            }
+        }
+    },
+    " does not affect how budget data is stored, and can be changed at any time": " не впливає на те, як зберігаються бюджетні дані, і може бути змінено в будь-який час.",
+    "#template $500 by 2025-03 repeat every 6 months": "#шаблон $500 до 2025-03 повторювати кожні 6 місяців",
+    "28+": "28+",
+    " if you are experiencing bugs relating to split transactions and the “Reset budget cache” button above does not help, this tool may fix them": {
+        " Some examples of bugs include seeing blank payees on splits or incorrect account balances": {
+            " This tool does two things:": " якщо у вас виникають помилки, пов’язані з розділеними транзакціями, і кнопка «Скинути кеш бюджету» вище не допомагає, цей інструмент може їх виправити. Деякі приклади помилок включають відображення порожніх одержувачів на розподілах або неправильні залишки на рахунку. Цей інструмент робить дві речі:"
+        }
+    },
+    " is a super fast privacy-focused app for managing your finances": " це надшвидка програма, орієнтована на конфіденційність, для керування вашими фінансами.",
+    " is not available when making an unencrypted connection to a remote server": {
+        " You’ll need to enable HTTPS on your server to use end-to-end encryption": {
+            " This problem may also occur if your browser is too old to work with Actual": " недоступний під час встановлення незашифрованого підключення до віддаленого сервера. Вам потрібно буде ввімкнути HTTPS на вашому сервері, щоб використовувати наскрізне шифрування. Ця проблема також може виникнути, якщо ваш браузер застарий для роботи з Actual."
+        }
+    },
+    "#template $50": "#шаблон $50",
+    "$10 a week, up to a maximum of $80": "10 доларів на тиждень, максимум до 80 доларів",
+    "6 months": "6 місяців",
+    " is not available when running without a server": {
+        " Budget files are always kept unencrypted locally, and encryption is only applied when sending data to a server": " недоступний під час роботи без сервера. Бюджетні файли завжди зберігаються незашифрованими локально, а шифрування застосовується лише під час надсилання даних на сервер."
+    },
+    " is only available when syncing is": " доступний лише під час синхронізації",
+    "View next month": "Переглянути в наступному місяці",
+    " will clear all cached values for the budget and recalculate the entire budget": {
+        " All values in the budget are cached for performance reasons, and if there is a bug in the cache you won’t see correct values": {
+            " There is no danger in resetting the cache": {
+                " Hopefully you never have to do this": " очистить усі кешовані значення для бюджету та перерахує весь бюджет. Усі значення в бюджеті кешуються з міркувань продуктивності, і якщо в кеші є помилка, ви не побачите правильні значення. Немає небезпеки у скиданні кешу. Сподіваюся, вам ніколи не доведеться цього робити."
+            }
+        }
+    },
+    "We don’t have a key that encrypts or decrypts this file": {
+        " Enter the password for this file to create the key for encryption": "Ми не маємо ключа, який би зашифрував або розшифрував цей файл. Введіть пароль для цього файлу, щоб створити ключ для шифрування."
+    },
+    "We found some possible schedules in your current transactions": {
+        " Select the ones you want to create": "Ми знайшли кілька можливих розкладів у ваших поточних трансакціях. Виберіть ті, які ви хочете створити."
+    },
+    " will remove all local data used to track changes for syncing, and create a fresh sync ID on the server": {
+        " This file on other devices will have to be re-downloaded to use the new sync ID": {
+            " Use this if there is a problem with syncing and you want to start fresh": " видалить усі локальні дані, які використовуються для відстеження змін для синхронізації, і створить новий ідентифікатор синхронізації на сервері. Цей файл на інших пристроях потрібно буде повторно завантажити, щоб використовувати новий ідентифікатор синхронізації. Використовуйте це, якщо виникла проблема із синхронізацією, і ви хочете почати заново."
+        }
+    },
+    "(none)": "(немає)",
+    "[Learn more](https://actualbudget": {
+        "org/docs/getting-started/sync/#debugging-sync-issues)": "[Дізнайтеся більше](https://actualbudget.org/docs/getting-started/sync/#debugging-sync-issues)"
+    },
+    "We had an unknown problem syncing the account": "Під час синхронізації облікового запису виникла невідома проблема.",
+    "{{count}} associated rules_one": "{{count}} пов’язаних правил",
+    "{{count}} associated rules_few": "{{count}} пов’язаних правила",
+    "{{count}} associated rules_many": "{{count}} пов’язаних правила",
+    "weekend": "вихідні",
+    "{{formattedStartDate}} - {{formattedEndDate}}": "{{formattedStartDate}} - {{formattedEndDate}}",
+    "Create Local Account": "Створити локальний обліковий запис",
+    "Create new file": "Створити новий файл",
+    "Deleting this reconciled transaction may bring your reconciliation out of balance": "Видалення цієї узгодженої транзакції може вивести вашу звірку з балансу.",
+    "Failed loading available banks: GoCardless access credentials might be misconfigured": {
+        " Please <2>set them up</2> again": "Не вдалося завантажити доступні банки: облікові дані доступу GoCardless можуть бути неправильно налаштовані. <2>Налаштуйте їх</2> знову."
+    },
+    "CSV OPTIONS": "ПАРАМЕТРИ CSV",
+    "Enable encryption…": "Увімкнути шифрування…",
+    "Hide balance": "Приховати баланс",
+    "Edit notes": "Редагувати нотатки",
+    "enables a secure connection": "забезпечує безпечне з'єднання",
+    "For Actual to be useful, you need to add an account": {
+        " You can link an account to automatically download transactions, or manage it locally yourself": "Щоб Actual був корисним, вам потрібно додати обліковий запис. Ви можете зв’язати обліковий запис для автоматичного завантаження транзакцій або самостійно керувати ним локально."
+    },
+    "Hide running balance": "Приховати поточний баланс",
+    "is less than": "менше ніж",
+    "Saved Reports": "Збережені звіти",
+    "Net Assets:": "Чисті активи:",
+    "New Group Name": "Нова назва групи",
+    "Once you have exported your data, select the file and Actual will import it": {
+        " Budgets may not match up exactly because things work slightly differently, but you should be able to fix up any problems": "Після експорту даних виберіть файл, і Actual імпортує його. Бюджети можуть не зовсім збігатися, оскільки все працює дещо інакше, але ви зможете вирішити будь-які проблеми."
+    },
+    "Open the help menu": "Відкрийте меню довідки",
+    "Network unavailable": "Мережа недоступна",
+    "Open Actual": "Відкрийте Актуальне",
+    "prepend to notes": "додавати до приміток",
+    "Reset to default": "Скинути до замовчування",
+    "No actions available": "Немає доступних дій",
+    "Overfunded ({{amount}})": "Надмір ({{amount}})",
+    "Prepend": "Початок",
+    "Redo the last undone change": "Повторити останню скасовану зміну",
+    "Report Name": "Назва звіту",
+    "Set up bank sync": "Налаштувати банківську синхронізацію",
+    "Sign in": "Увійдіть",
+    "Reset next month’s buffer": "Скинути буфер наступного місяця",
+    "Rollover overspending": "Перевитрати на ролловер",
+    "Selected transactions": "Вибрані операції",
+    "No server": "Немає сервера",
+    "is not enabled": {
+        " Any data on the server is still protected by the server password, but it’s not end-to-end encrypted which means the server owners have the ability to read it": {
+            " If you want, you can use an additional password to encrypt your data on the server": "не ввімкнено. Будь-які дані на сервері все ще захищені паролем сервера, але вони не зашифровані наскрізно, що означає, що власники сервера мають можливість їх прочитати. Якщо ви хочете, ви можете використовувати додатковий пароль для шифрування ваших даних на сервері."
+        }
+    },
+    "Select a transaction, then": "Потім виберіть транзакцію",
+    "Create Payee “{{payeeName}}”": "Створити одержувача \"{{payeeName}}\"",
+    "If checked, the schedule will automatically create transactions for you in the specified account": "Якщо позначено, розклад автоматично створюватиме транзакції для вас у вказаному обліковому записі",
+    "Dashboard has been successfully reset to default state": {
+        " Don’t like what you see? You can always press [ctrl+z](#undo) to undo": "Інформаційну панель успішно скинуто до стандартного стану. Вам не подобається те, що ви бачите? Ви завжди можете натиснути [ctrl+z](#undo), щоб скасувати."
+    },
+    "Decide later": "Вирішіть пізніше",
+    "Expenses:": "Витрати:",
+    "Delete {{fileName}}": "Видалити {{fileName}}",
+    "Enable encryption": "Увімкнути шифрування",
+    "Filter Name": "Назва фільтра",
+    "Dashboard widget successfully saved": "Віджет інформаційної панелі успішно збережено.",
+    "Income:": "Дохід:",
+    "Net Worth": "чистий капітал",
+    "No transactions found": "Транзакцій не знайдено",
+    "Overspent:": "Перевитрачено:",
+    "Date is required": "Необхідно вказати дату",
+    "I understand the risks, run Actual in the unsupported fallback mode": "Я розумію ризики, запустіть Actual у непідтримуваному резервному режимі",
+    "Learn more…": "Дізнайтеся більше…",
+    "Debt:": "борг:",
+    "Overspent": "Перевитрачено",
+    "Previous month": "Попередній місяць",
+    "Delete file locally": "Видалити файл локально",
+    "Encrypting the file failed": {
+        " You have the correct key so this is an internal bug": {
+            " To fix this, generate a new key in the next step": "Не вдалося зашифрувати файл. У вас правильний ключ, тому це внутрішня помилка. Щоб виправити це, згенеруйте новий ключ на наступному кроці."
+        }
+    },
+    "Encrypting your file failed because you are missing your encryption key": {
+        " Create your key in the next step": "Помилка шифрування файлу, оскільки ви не вказали ключ шифрування. Створіть свій ключ на наступному кроці."
+    },
+    "In order to enable bank-sync via GoCardless (only for EU banks) you will need to create access credentials": {
+        " This can be done by creating an account with": "Щоб увімкнути банківську синхронізацію через GoCardless (лише для банків ЄС), вам потрібно буде створити облікові дані доступу. Це можна зробити, створивши обліковий запис у"
+    },
+    "link schedule": "розклад посилань",
+    "Pin sidebar": "Закріпити бічну панель",
+    "Delete selected transactions": "Видалити вибрані транзакції",
+    "Deleting reconciled transactions may bring your reconciliation out of balance": "Видалення узгоджених транзакцій може вивести вашу звірку з рівноваги.",
+    "Duplicating reconciled transactions may bring your reconciliation out of balance": "Дублювання узгоджених транзакцій може вивести вашу звірку з рівноваги.",
+    "Export budget": "Експортний бюджет",
+    "Hide reconciled transactions": "Приховати узгоджені операції",
+    "If this error persists, please get <2>in touch</2> so it can be investigated": "Якщо ця помилка не зникне, <2>зв’яжіться</2>, щоб її можна було дослідити.",
+    "Delimiter:": "роздільник:",
+    "Move left when editing": "Перемістіть ліворуч під час редагування",
+    "Description": "опис",
+    "Edit content": "Редагувати вміст",
+    "Display": "Дисплей",
+    "Saving your changes to this reconciled transaction may bring your reconciliation out of balance": "Збереження змін у цій узгодженій транзакції може призвести до дисбалансу звірки.",
+    "Do nothing": "Нічого не робити",
+    "Hide decimal places": "Приховати знаки після коми",
+    "Documentation": "Документація",
+    "does not contain": "не містить",
+    "Downloaded file is invalid, sorry! Visit https://actualbudget": {
+        "org/contact/ for support": "Завантажений файл недійсний, вибачте! Відвідайте https://actualbudget.org/contact/ для підтримки."
+    },
+    "Expand split transactions": "Розгорніть розділені транзакції",
+    "Downloading the file failed": {
+        " Check your network connection": "Не вдалося завантажити файл. Перевірте підключення до мережі."
+    },
+    "No backups available": "Немає резервних копій",
+    "Open balance menu for {{categoryName}} category": "Відкрити меню балансу для категорії {{categoryName}}",
+    "Edit account name": "Редагувати назву облікового запису",
+    "Financial Files": "Фінансові файли",
+    "Edit Upcoming Length ({options": {
+        "find(x => x": {
+            "value === upcomingLength)?": {
+                "label ?? '1 Week'})": "Редагувати майбутню тривалість ({options.find(x => x.value === upcomingLength)?.label ?? '1 тиждень'})"
+            }
+        }
+    },
+    "If you expected a schedule here and don’t see it, it might be because the payees of the transactions don’t match": {
+        " Make sure you rename payees on all transactions for a schedule to be the same payee": "Якщо ви очікували розкладу тут, але не бачите його, можливо, одержувачі трансакцій не збігаються. Переконайтеся, що ви перейменували одержувачів у всіх транзакціях, щоб у розкладі був той самий одержувач."
+    },
+    "Import from nYNAB": "Імпорт з nYNAB",
+    "Keyboard shortcuts": "Комбінації клавіш",
+    "Link or view schedule for selected transactions": "Посилання або перегляд розкладу для вибраних транзакцій",
+    "Menu": "Меню",
+    "Editing reconciled transactions may bring your reconciliation out of balance": "Редагування узгоджених транзакцій може вивести ваше звірення з рівноваги.",
+    "Even though encryption is enabled, the exported zip file will not have any encryption": "Навіть якщо шифрування ввімкнено, експортований zip-файл не матиме шифрування.",
+    "Net worth shows the balance of all accounts over time, including all of your investments": {
+        " Your “net worth” is considered to be the amount you’d have if you sold all your assets and paid off as much debt as possible": {
+            " If you hover over the graph, you can also see the amount of assets and debt individually": "Чистий капітал показує баланс усіх рахунків за певний час, включаючи всі ваші інвестиції. Ваш «чистий капітал» — це сума, яку ви мали б, якби продали всі свої активи та виплатили якомога більше боргів. Якщо ви наведете курсор на графік, ви також побачите суму активів і боргу окремо."
+        }
+    },
+    "Enable templating": "Увімкнути створення шаблонів",
+    "Invalid date format": "Недійсний формат дати",
+    "Loading report": "Завантаження звіту…",
+    "Ensures that deleted split transactions are fully deleted": {
+        " In previous versions of the app, certain split transactions may appear deleted but not all of them are actually deleted": {
+            " This causes the transactions list to look correct, but certain balances may be incorrect when filtering": "Забезпечує повне видалення видалених розділених транзакцій. У попередніх версіях програми певні розділені транзакції могли виглядати видаленими, але не всі з них видалялися. Це призводить до того, що список транзакцій виглядає правильно, але певні баланси можуть бути неправильними під час фільтрації."
+        }
+    },
+    "Favorite": "улюблений",
+    "for more information": "для отримання додаткової інформації.",
+    "Enter the current balance of your bank account that you want to reconcile with:": "Введіть поточний баланс вашого банківського рахунку, який ви хочете звірити:",
+    "Hold Buffer": "Тримайте буфер",
+    "Fund upcoming scheduled transactions over time": "Фінансуйте майбутні заплановані транзакції з часом",
+    "Help": "Довідка",
+    "notes": "примітки",
+    "Please update Actual!": "Будь ласка, оновіть актуальне!",
+    "It looks like you're using an outdated version of the Actual client": {
+        " Your budget data has been updated by another client, but this client is still on the old verison": {
+            " For the best experience, please update Actual to the latest version": "Схоже, ви використовуєте застарілу версію фактичного клієнта. Дані вашого бюджету оновив інший клієнт, але цей клієнт усе ще використовує стару версію. Для найкращої роботи оновіть Actual до останньої версії."
+        }
+    },
+    "Search": "Пошук",
+    "How is net worth calculated?": "Як розраховується чиста вартість?",
+    "Filter transactions": "Фільтрувати транзакції",
+    "Finish editing dashboard": "Завершіть редагування інформаційної панелі",
+    "From": "Від",
+    "is false": "є помилковим",
+    "No payees selected": "Не вибрано одержувачів",
+    "None": "Жодного",
+    "For Actual to be useful, you need to <1>add an account</1>": {
+        " You can link an account to automatically download transactions, or manage it locally yourself": "Щоб Actual був корисним, вам потрібно <1>додати обліковий запис</1>. Ви можете зв’язати обліковий запис для автоматичного завантаження транзакцій або самостійно керувати ним локально."
+    },
+    "For this time period": "За цей період часу",
+    "Link a": "Посилання a",
+    "Found Schedules": "Знайдені розклади",
+    "In order to enable bank-sync via SimpleFIN (only for North American banks), you will need to create a token": {
+        " This can be done by creating an account with": "Щоб увімкнути банківську синхронізацію через SimpleFIN (лише для банків Північної Америки), вам потрібно буде створити маркер. Це можна зробити, створивши обліковий запис у"
+    },
+    "Loading Error": "Помилка завантаження",
+    "Monthly Spending": "Щомісячні витрати",
+    "Fund upcoming scheduled transaction only on needed month": "Профінансуйте майбутню заплановану операцію лише в потрібний місяць",
+    "Hide": "Сховати",
+    "Hide unchecked": "Сховати зняті позначки",
+    "Move right when editing": "Переміщення праворуч під час редагування",
+    "Notes: {{name}}": "Примітки: {{name}}",
+    "Hold this amount:": "Зберігайте цю суму:",
+    "If the server is using a self-signed certificate <2>select it here</2>": "Якщо сервер використовує самопідписаний сертифікат, <2>виберіть його тут</2>.",
+    "Link account": "Пов’язати обліковий запис",
+    "If you can't update Actual at this time you can find the latest release at <2>app": {
+        "actualbudget": {
+            "org</2>": {
+                " You can use it until your client is updated": "Якщо ви не можете оновити Actual зараз, ви можете знайти останній випуск на <2>app.actualbudget.org</2>. Ви можете використовувати його, доки ваш клієнт не буде оновлено."
+            }
+        }
+    },
+    "Import from YNAB4": "Імпорт з YNAB4",
+    "If you lost your password, you likely still have access to your server to manually reset it": "Якщо ви втратили свій пароль, ви все ще маєте доступ до свого сервера, щоб скинути його вручну.",
+    "If you’ve already downloaded your data on other devices, you will need to reset them": {
+        " Actual will automatically take you through this process": "Якщо ви вже завантажили свої дані на інші пристрої, вам потрібно буде скинути їх. Actual автоматично проведе вас через цей процес."
+    },
+    "Spent amount for {{categoryName}} category": "Витрачена сума для категорії {{categoryName}}",
+    "Select transactions to link on save": "Виберіть транзакції для зв’язування під час збереження",
+    "Server online": "Сервер онлайн",
+    "Set-up GoCardless": "Налаштуйте GoCardless",
+    "Last year": "Минулого року",
+    "Link Account": "Пов’язати обліковий запис",
+    "New custom report": "Новий спеціальний звіт",
+    "is": "є",
+    "is after": "є після",
+    "Last week": "Минулого тижня",
+    "North American": "північноамериканський",
+    "When you’ve located your data, <2>compress it into a zip file</2>": {
+        " On macOS, right-click the folder and select “Compress”": {
+            " On Windows, right-click and select “Send to &rarr; Compressed (zipped) folder”": {
+                " Upload the zipped folder for importing": "Коли ви знайдете свої дані, <2>стисніть їх у файл zip</2>. У macOS клацніть папку правою кнопкою миші та виберіть «Стиснути». У Windows клацніть правою кнопкою миші та виберіть «Надіслати в → Стиснута (заархівована) папка». Завантажте заархівовану папку для імпорту."
+            }
+        }
+    },
+    "Budget “{id}” not found": {
+        " Check the id of your budget in the Advanced section of the settings page": "Бюджет “{id}” не знайдено. Перевірте ідентифікатор свого бюджету в розділі Додатково на сторінці налаштувань."
+    },
+    "Actual requires access to <1>SharedArrayBuffer</1> in order to function properly": {
+        " If you’re seeing this error, either your browser does not support <3>SharedArrayBuffer</3>, or your server is not sending the appropriate headers, or you are not using HTTPS": {
+            " See <6>our troubleshooting documentation</6> to learn more": {
+                " <9></9>": "Для належної роботи Actual потрібен доступ до <1>SharedArrayBuffer</1>. Якщо ви бачите цю помилку, або ваш браузер не підтримує <3>SharedArrayBuffer</3>, або ваш сервер не надсилає відповідні заголовки, або ви не використовуєте HTTPS. Перегляньте <6>нашу документацію з усунення несправностей</6>, щоб дізнатися більше. <9></9>"
+            }
+        }
+    },
+    "Checking GoCardless configuration": "Перевірка конфігурації GoCardless..",
+    "Actual uses <1>SharedArrayBuffer</1> to allow usage from multiple tabs at once and to ensure correct behavior when switching files": {
+        " While it can run without access to<3>SharedArrayBuffer</3>, you may encounter data loss or notice multiple budget files being merged with each other": "Actual використовує <1>SharedArrayBuffer</1>, щоб дозволити використання з кількох вкладок одночасно та забезпечити правильну поведінку під час перемикання файлів. Хоча він може працювати без доступу до <3>SharedArrayBuffer</3>, ви можете зіткнутися з втратою даних або помітити, як кілька файлів бюджету об’єднано один з одним."
+    },
+    "Change server URL": "Змінити URL-адресу сервера",
+    "Add a new transaction": "Додайте нову транзакцію",
+    "Bar Graph": "Гістограма",
+    "Add account": "Додати акаунт",
+    "Add Account": "Додати обліковий запис",
+    "Add action": "Додати дію",
+    "Closed Accounts": "Закриті рахунки",
+    "Add new schedule": "Додати новий розклад",
+    "Add specific days": "Додайте конкретні дні",
+    "Add transaction": "Додати транзакцію",
+    "all transactions": "всі транзакції",
+    "amount": "сума",
+    "Budgeted Accounts": "Бюджетні рахунки",
+    "amount (inflow)": "сума (приплив)",
+    "Are you sure you want to close ": "Ви впевнені, що бажаєте закрити? ",
+    "Confirm Unlink": "Підтвердити від’єднання",
+    "Amount (inflow)": "Сума (приплив)",
+    "Amount (outflow)": "Сума (відтік)",
+    "AMOUNT OPTIONS": "ВАРІАНТИ СУМИ",
+    "is greater than": "більше ніж",
+    "An error occurred while linking your account, sorry!": "Вибачте, під час пов’язування вашого облікового запису сталася помилка!",
+    "Change location": "Змінити місце розташування",
+    "An error occurred while saving": {
+        " Please visit https://actualbudget": {
+            "org/contact/ for support": "Під час збереження сталася помилка. Щоб отримати підтримку, відвідайте https://actualbudget.org/contact/."
+        }
+    },
+    "An internal error occurred, sorry! Visit https://actualbudget": {
+        "org/contact/ for support": {
+            " (ref: {{reason}})": "Сталася внутрішня помилка, вибачте! Відвідайте https://actualbudget.org/contact/ для підтримки. (посилання: {{reason}})"
+        }
+    },
+    "An internal error occurred": {
+        " Try to login again, or get <2>in touch</2> for support": "Сталася внутрішня помилка. Спробуйте увійти ще раз або <2>зв’яжіться</2> для отримання підтримки."
+    },
+    "Apply to all": "Застосувати до всіх",
+    "Cover from a category": "Обкладинка з категорії",
+    "An unknown error occurred while exporting": {
+        " Please report this as a new issue on Github": "Під час експорту сталася невідома помилка. Повідомте про це як про нову проблему на Github."
+    },
+    "Backups": "Резервні копії",
+    "Budgeted": "Бюджетний",
+    "Choose the number of months shown at a time": "Виберіть кількість місяців, які відображаються одночасно",
+    "Are you sure you want to edit this transaction?": "Ви впевнені, що бажаєте відредагувати цю трансакцію?",
+    "Available for download": "Доступний для завантаження",
+    "You are currently working from a backup": "Зараз ви працюєте з резервної копії.",
+    "Be aware that other devices may have already created these transactions": {
+        " If you have multiple devices, make sure you only do this on one device or you will have duplicate transactions": "Майте на увазі, що інші пристрої могли вже створити ці транзакції. Якщо у вас кілька пристроїв, переконайтеся, що ви робите це лише на одному пристрої, інакше ви матимете дублікати транзакцій."
+    },
+    "Budget template applied": "Застосовано шаблон бюджету.",
+    "Change server password": "Змінити пароль сервера",
+    "Choose Report": "Виберіть Повідомити",
+    "You can also": "Ви також можете",
+    "You can also delete just the local copy": {
+        " This will remove all local data and the file will be listed as available for download": "Ви також можете видалити лише локальну копію. Це призведе до видалення всіх локальних даних, і файл буде вказано як доступний для завантаження."
+    },
+    "Collapse all": "Згорнути все",
+    "By enabling bank-sync, you will be granting GoCardless (a third party service) read-only access to your entire account’s transaction history": {
+        " This service is not affiliated with Actual in any way": {
+            " Make sure you’ve read and understand GoCardless’s <2>Privacy Policy</2> before proceeding": "Увімкнувши банківську синхронізацію, ви надасте GoCardless (стороння служба) доступ лише для читання до всієї історії транзакцій вашого облікового запису. Ця послуга жодним чином не пов’язана з Actual. Перш ніж продовжити, переконайтеся, що ви прочитали та зрозуміли <2>Політику конфіденційності</2> GoCardless."
+        }
+    },
+    "You can always manually post a transaction later for a due schedule by selecting the schedule and clicking “Post transaction” in the action menu": "Ви завжди можете вручну опублікувати транзакцію пізніше за належним розкладом, вибравши розклад і натиснувши «Опублікувати транзакцію» в меню дій.",
+    "Cannot save: No widget available": "Неможливо зберегти: немає доступного віджета.",
+    "Category ‘{{name}}‘ already exists in group (May be Hidden)": "Категорія «{{name}}» вже існує в групі (може бути прихованою)",
+    "Change:": "Зміна:",
+    "Choose the schedule these {{ count }} transactions belong to:_one": "Виберіть графік, до якого належать ці {{ count }} транзакції:",
+    "Choose the schedule these {{ count }} transactions belong to:_few": "Виберіть розклад, до якого належать ці {{ count }} транзакції:",
+    "Choose the schedule these {{ count }} transactions belong to:_many": "Виберіть розклад, до якого належать ці {{ count }} транзакції:",
+    "Choose your country:": "Виберіть країну:",
+    "Key generation is randomized": {
+        " The same password will create different keys, so this will change your key regardless of the password being different": "Генерація ключів рандомізована. Один і той самий пароль створюватиме різні ключі, тому ваш ключ буде змінено незалежно від того, чи інший пароль."
+    },
+    "Loading accounts": "Завантаження облікових записів…",
+    "Link to schedule": "Посилання на розклад",
+    "Collapse split transactions": "Згорнути розділені транзакції",
+    "Creating budget": "Створення бюджету…",
+    "Connect to an Actual server to set up": "Щоб налаштувати, підключіться до фактичного сервера",
+    "contains": "містить",
+    "Copy last month’s budget": "Скопіюйте бюджет минулого місяця",
+    "Local": "Місцевий",
+    "Create schedules": "Створюйте розклади",
+    "Schedule Name": "Назва розкладу",
+    "Sign in to this Actual instance": "Увійдіть у цей фактичний екземпляр",
+    "Split": "Спліт",
+    "Last month": "Останній місяць",
+    "New Category": "Нова категорія",
+    "Last 6 months": "Останні 6 місяців",
+    "Link Schedule": "Розклад посилань",
+    "Move down when editing": "Переміщення вниз під час редагування",
+    "Payees": "одержувачі",
+    "Server offline": "Сервер офлайн",
+    "Keyboard Shortcuts": "Комбінації клавіш",
+    "Move files to new directory": "Перемістити файли в новий каталог",
+    "Please wait": "Будь ласка, зачекайте…",
+    "Learn more": "Дізнайтесь більше",
+    "Name {{ newAccountName }} already exists": "Ім’я {{ newAccountName }} уже існує.",
+    "Link bank in browser &rarr;": "Банк посилань у браузері &rar;",
+    "Load Backup": "Завантажити резервну копію",
+    "Net": "Чистий",
+    "matches": "сірники",
+    "Merging will remove the payee and transfer any existing rules to the new payee": "Злиття призведе до видалення одержувача платежу та передачі всіх існуючих правил новому одержувачу платежу.",
+    "Modal logo": "Модальний логотип",
+    "Notes (markdown supported)": "Примітки (підтримується уцінка)",
+    "Remove bank-sync": "Видалити bank-sync",
+    "Move up when editing": "Переміщення вгору під час редагування",
+    "Payments": "Платежі",
+    "See": "див",
+    "Show transactions for {{categoryName}} category": "Показати трансакції для категорії {{categoryName}}",
+    "More": "більше",
+    "Repair split transactions": "Виправлення розділених транзакцій",
+    "Next month": "Наступного місяця",
+    "No budget files": "Немає бюджетних файлів",
+    "Set category for selected transactions": "Встановити категорію для вибраних транзакцій",
+    "More payees are available, search to find them": "Доступно більше одержувачів, пошукайте їх",
+    "Remove": "видалити",
+    "Net Debts:": "Чисті борги:",
+    "Rules are always run in the order that you see them": "Правила завжди виконуються в тому порядку, у якому ви їх бачите.",
+    "Save and continue": "Зберегти та продовжити",
+    "Next date": "Наступна дата",
+    "Revert changes": "Скасувати зміни",
+    "not one of": "не один із",
+    "Open budget menu for {{categoryName}} category": "Відкрити меню бюджету для категорії {{categoryName}}",
+    "Pre": "попередньо",
+    "Skip lines:": "Пропустити рядки:",
+    "Hide transactions": "Приховати транзакції",
+    " Delete {selectedInst": {
+        "items": {
+            "size} users ": " Видалити користувачів {selectedInst.items.size} "
+        }
+    },
+    "Invalid password": "Невірний пароль",
+    "Options": "Опції",
+    "Overwrite with budget template": "Перезаписати шаблоном бюджету",
+    "Please get <2>in touch</2> for support": "Будь ласка, <2>зв'яжіться</2> для підтримки",
+    "Secret ID:": "Секретний ідентифікатор:",
+    "Select account": "Виберіть обліковий запис…",
+    "Single month": "Один місяць",
+    "payee (name)": "одержувач (ім'я)",
+    "Release Notes": "Примітки до випуску",
+    "Reconciliation balance adjustment": "Коригування звіряльного балансу",
+    "Restart": "Перезапустіть",
+    "Rule": "правило",
+    "Save new report": "Зберегти новий звіт",
+    "Split into multiple transactions": "Розділити на кілька транзакцій",
+    "Post transactions": "Проводити транзакції",
+    "Post transactions?": "Опублікувати транзакції?",
+    "Remove all sorting": "Видалити все сортування",
+    "Set-up SimpleFIN": "Налаштування SimpleFIN",
+    "Remove active category filters to show the category selector": "Видаліть активні фільтри категорій, щоб відобразити селектор категорій.",
+    "Rename budget": "Перейменувати бюджет",
+    "Restart app": "Перезапустіть програму",
+    "Scheduled transaction upcoming length adjustment": "Майбутнє коригування тривалості запланованої транзакції",
+    "Stacked Bar Graph": "Стокова гістограма",
+    "Your files won’t be moved": {
+        " You can manually move them to the folder": "Ваші файли не буде переміщено. Ви можете вручну перемістити їх до папки."
+    },
+    "Calendar card": "Календарна картка",
+    "Save compare and filter options": "Збережіть параметри порівняння та фільтрування",
+    "Save notes": "Зберігайте нотатки",
+    "You can import data from another Actual account or instance": {
+        " First export your data from a different account, and it will give you a compressed file": {
+            " This file is a simple zip file that contains the <1>db": {
+                "sqlite</1> and <4>metadata": {
+                    "json</4> files": "Ви можете імпортувати дані з іншого фактичного облікового запису або екземпляра. Спочатку експортуйте дані з іншого облікового запису, і ви отримаєте стиснутий файл. Цей файл є простим файлом zip, який містить файли <1>db.sqlite</1> та <4>metadata.json</4>."
+                }
+            }
+        }
+    },
+    "Select zip file": "Виберіть файл zip…",
+    "Spent": "Витрачено",
+    "Schedule: {{name}}": "Розклад: {{name}}",
+    "Schedules": "Розклади",
+    "Select All": "Виберіть усі",
+    "Select file": "Виберіть файл…",
+    "You’re up to date!": "Ви в курсі подій!",
+    "Server self-signed certificate": "Самопідписаний сертифікат сервера",
+    "Set a long-term goal instead of a monthly goal": "Встановіть довгострокову ціль замість щомісячної",
+    "Set budgets to 3 month average": "Установіть середній бюджет на 3 місяці",
+    "There was a problem loading your report": "Під час завантаження звіту виникла проблема",
+    "set": "встановити",
+    "Invalid Password": "Невірний пароль",
+    "Set account for selected transactions": "Встановити рахунок для вибраних транзакцій",
+    "Set notes for selected transactions": "Встановіть примітки для вибраних транзакцій",
+    "Set payee for selected transactions": "Встановити одержувача для вибраних транзакцій",
+    "Set to 3 month average": "Встановити середнє значення за 3 місяці",
+    "Set to yearly average": "Встановити середньорічне значення",
+    "Setup bank-sync": "Налаштувати банківську синхронізацію",
+    "Show “cleared” checkboxes": "Показати «очищені» прапорці",
+    "Show advanced settings": "Показати розширені налаштування",
+    "Show Summary": "Показати резюме",
+    "Sign out": "Вийти",
+    "Something went wrong trying to download that file, sorry! Visit https://actualbudget": {
+        "org/contact/ for support": {
+            " reason: {{reason}}{{info}}": "Під час спроби завантажити цей файл сталася помилка, вибачте! Відвідайте https://actualbudget.org/contact/ для підтримки. причина: {{reason}}{{info}}"
+        }
+    },
+    "Something went wrong while resetting your file": {
+        " Please try again": "Під час скидання файлу сталася помилка. Спробуйте ще раз."
+    },
+    "Sync ID:": "Ідентифікатор синхронізації:",
+    "Loading more transactions": "Завантаження інших транзакцій…",
+    "Error getting users": "Помилка отримання користувачів",
+    "Failed to refresh login methods": "Не вдалося оновити методи входу",
+    "Split amount into separate inflow/outflow columns": "Розділіть суму на окремі стовпці припливу/відтоку",
+    "There are payees that have schedules that are due today_one": "Є одержувачі, які мають графіки, які потрібно сплатити сьогодні.",
+    "There are payees that have schedules that are due today_few": "Є одержувачі, які мають графіки, які потрібно сплачувати сьогодні.",
+    "There are payees that have schedules that are due today_many": "Є одержувачі, які мають графіки, які потрібно сплачувати сьогодні.",
+    "Unknown": "Невідомий",
+    "Loading banks": "Завантаження банків…",
+    "Duplicate file “{{newName}}” created": "Створено дублікат файлу “{{newName}}”.",
+    "The first user to login will become the server owner": "Перший користувач, який увійде, стане власником сервера",
+    "Sync the payee and cleared flag of a split transaction to the main or “parent” transaction, if appropriate": {
+        " The payee will only be set if it currently doesn’t have one": "Синхронізувати одержувача платежу та позначку очищення розділеної транзакції з основною або «батьківською» транзакцією, якщо потрібно. Одержувач платежу буде встановлено, лише якщо його наразі немає."
+    },
+    "The payees <1>{payeeNamesList}</1> have schedules that are due today_one": "Одержувачі платежу <1>{payeeNamesList}</1> мають графіки, які потрібно сплатити сьогодні.",
+    "The payees <1>{payeeNamesList}</1> have schedules that are due today_few": "Одержувачі платежу <1>{payeeNamesList}</1> мають графіки, які потрібно сплачувати сьогодні.",
+    "The payees <1>{payeeNamesList}</1> have schedules that are due today_many": "Одержувачі платежу <1>{payeeNamesList}</1> мають графіки, які потрібно сплачувати сьогодні.",
+    "Syncing": {
+        " {{count}} accounts remaining_one": "Синхронізація… Залишився {{count}} обліковий запис",
+        " {{count}} accounts remaining_few": "Синхронізація… Залишилося {{count}} облікових записів",
+        " {{count}} accounts remaining_many": "Синхронізація… Залишилося {{count}} облікових записів"
+    },
+    "The old unsupported desktop app": "Стара непідтримувана настільна програма",
+    "Text position:": "Позиція тексту:",
+    "Text widget": "Текстовий віджет",
+    "<0><0>Repair split transactions</0> if you are experiencing bugs relating to split transactions and the “Reset budget cache” button above does not help, this tool may fix them": {
+        " Some examples of bugs include seeing blank payees on splits or incorrect account balances": {
+            " This tool does three things:</0><1><0>Ensures that deleted split transactions are fully deleted": {
+                " In previous versions of the app, certain split transactions may appear deleted but not all of them are actually deleted": {
+                    " This causes the transactions list to look correct, but certain balances may be incorrect when filtering": {
+                        "</0><1>Sync the payee and cleared flag of a split transaction to the main or “parent” transaction, if appropriate": {
+                            " The payee will only be set if it currently doesn’t have one": {
+                                "</1><2>Checks that the sum of all child transactions adds up to the total amount": {
+                                    " If not, these will be flagged below to allow you to easily locate and fix the amounts": {
+                                        "</2></1>": "<0><0>Виправте розділені транзакції</0>, якщо у вас виникли помилки, пов’язані з розділеними транзакціями, і кнопка «Скинути кеш бюджету» вище не допомагає, цей інструмент може їх виправити. Деякі приклади помилок включають відображення порожніх одержувачів на розподілах або неправильні залишки на рахунку. Цей інструмент робить три речі:</0><1><0>Переконується, що видалені розділені транзакції повністю видаляються. У попередніх версіях програми певні розділені транзакції могли виглядати видаленими, але не всі з них видалялися. Це призводить до того, що список транзакцій виглядає правильно, але певні баланси можуть бути неправильними під час фільтрування.</0><1>Синхронізуйте одержувача платежу та позначку очищення розділеної транзакції з основною або «батьківською» транзакцією, якщо це необхідно. Одержувач платежу буде встановлено, лише якщо його наразі немає.</1><2>Перевіряє, чи сума всіх дочірніх транзакцій дорівнює загальній сумі. Якщо ні, вони будуть позначені нижче, щоб ви могли легко знайти та виправити суми.</2></1>"
+                                    }
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    },
+    "Select the login method": "Виберіть спосіб входу",
+    "The window should close automatically": {
+        " If nothing happened you can close this window or tab": "Вікно має закритися автоматично. Якщо нічого не сталося, ви можете закрити це вікно або вкладку."
+    },
+    "Then apply these actions:": "Потім застосуйте такі дії:",
+    "Internal server error": "Внутрішня помилка сервера",
+    "Back to file list": "Назад до списку файлів",
+    "Enabled": "Увімкнено",
+    "Loading transactions": "Завантаження транзакцій…",
+    "There was a problem loading one of the chunks of the application": {
+        " Please reload the page and try again": {
+            " If the issue persists - there might be an issue with either your internet connection and/or the server where the app is hosted": "Виникла проблема із завантаженням однієї з частин програми. Перезавантажте сторінку та повторіть спробу. Якщо проблема не зникає, проблема може бути з вашим підключенням до Інтернету та/або сервером, на якому розміщено програму."
+        }
+    },
+    "There was a problem loading your date range": "Під час завантаження діапазону дат виникла проблема",
+    "Owner": "Власник",
+    "Username": "Ім'я користувача",
+    "Failed to duplicate budget": "Не вдалося скопіювати бюджет",
+    "There was an error changing your directory, please check the directory and try again": "Під час зміни каталогу сталася помилка. Перевірте каталог і повторіть спробу.",
+    "There was an unrecoverable error in the UI": {
+        " Sorry!": "В інтерфейсі користувача виникла невиправна помилка. Вибачте!"
+    },
+    "Your browser doesn’t support IndexedDB in this environment, a feature that Actual requires to run": {
+        " This might happen if you are in private browsing mode": {
+            " Please try a different browser or turn off private browsing": "Ваш браузер не підтримує IndexedDB у цьому середовищі, функцію, яка потрібна для роботи Actual. Це може статися, якщо ви перебуваєте в режимі приватного перегляду. Будь ласка, спробуйте інший браузер або вимкніть приватний перегляд."
+        }
+    },
+    "Select new file": "Виберіть новий файл…",
+    "Edit user {{userName}}": "Редагувати користувача {{userName}}",
+    "Duplicate “{{fileName}}”": "Дублікат “{{fileName}}”",
+    "Duplicate for all devices": "Дублікат для всіх пристроїв",
+    "Projected savings:": "Прогнозована економія:",
+    "Duplicating:  {{oldName}}  --  to:  {{newName}}": "Копіювання: {{oldName}} -- до: {{newName}}",
+    "Failed to save dashboard widget": "Не вдалося зберегти віджет інформаційної панелі.",
+    "Transaction list": "Список транзакцій",
+    "Integrating Google Sign-In into your web app": "Інтеграція входу Google у вашу веб-програму",
+    "Select a user from the directory": "Виберіть користувача з каталогу",
+    "Something happened while editing access": "Щось трапилося під час редагування доступу",
+    "Use any OpenId provider of your preference": {
+        " <2>If your provider does not support discovery, configure it manually from server</2>": "Використовуйте будь-який постачальник OpenId за вашим бажанням. <2>Якщо ваш провайдер не підтримує виявлення, налаштуйте його вручну з сервера</2>"
+    },
+    "User Access": "Доступ користувача",
+    "Show transactions": "Показати транзакції",
+    "Unable to duplicate a budget that is not located on your device": {
+        "<1></1>Please download the budget from the server before duplicating": "Не вдається скопіювати бюджет, який не розміщено на вашому пристрої.<1></1>Перш ніж копіювати, завантажте бюджет із сервера."
+    },
+    "Unknown error with budget name": "Невідома помилка з назвою бюджету",
+    "Your budget is hosted on a server, making it accessible for download on your devices": {
+        "<1></1>Would you like to duplicate this budget for all your devices or keep it stored locally on this device?": "Ваш бюджет розміщено на сервері, що робить його доступним для завантаження на ваші пристрої.<1></1>Бажаєте ви скопіювати цей бюджет для всіх своїх пристроїв чи зберегти його локально на цьому пристрої?"
+    },
+    "Disable OpenID": "Вимкнути OpenID",
+    "disabled": "вимкнено",
+    "Found {{count}} split transactions with mismatched amounts on the below dates": {
+        " Please review them manually:_one": "Знайдено {{count}} розділених транзакцій із невідповідними сумами на вказані нижче дати. Перегляньте їх вручну:",
+        " Please review them manually:_few": "Знайдено {{count}} розділених транзакцій із невідповідними сумами на вказані нижче датою. Перегляньте їх вручну:",
+        " Please review them manually:_many": "Знайдено {{count}} розділених транзакцій із невідповідними сумами на вказані нижче датою. Перегляньте їх вручну:"
+    },
+    "Select Provider": "Виберіть Постачальник",
+    "You don't have the required permissions to set up secrets": {
+        " Please contact an Admin to configure": "Ви не маєте необхідних дозволів для налаштування секретів. Щоб налаштувати, зверніться до адміністратора"
+    }
+}
