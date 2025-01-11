@@ -998,7 +998,6 @@
     "Net worth shows the balance of all accounts over time, including all of your investments. Your “net worth” is considered to be the amount you’d have if you sold all your assets and paid off as much debt as possible. If you hover over the graph, you can also see the amount of assets and debt individually.": "Чистий капітал показує баланс усіх рахунків за певний час, включаючи всі ваші інвестиції. Ваш «чистий капітал» — це сума, яку ви мали б, якби продали всі свої активи та виплатили якомога більше боргів. Якщо ви наведете курсор на графік, ви також побачите суму активів і боргу окремо.",
     "No split transactions found needing repair.": "Не знайдено розділених транзакцій, які потребують ремонту.",
     "Note that the URL depends on your application domain and region.": "Зауважте, що URL-адреса залежить від домену програми та регіону.",
-    "Note that the URL depends on your Authentik domain and provider slug name.": "Зауважте, що URL-адреса залежить від вашого домену Authentik і назви слага постачальника.",
     "Note that the URL depends on your Keycloak domain and realm.": "Зауважте, що URL-адреса залежить від вашого домену та області Keycloak.",
     "OpenID is required to enable multi-user mode.": "Щоб увімкнути багатокористувацький режим, потрібен OpenID.",
     "Please enter a value for the username; the field cannot be empty.": "Будь ласка, введіть значення для імені користувача; поле не може бути порожнім.",
