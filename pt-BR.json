@@ -1,1 +1,15 @@
-{}
+{
+    "(give feedback)": "(deixar feedback)",
+    "(modified)": "(modificado)",
+    "(Optional)": "(Opcional)",
+    "{{count}} associated rules_one": "{{count}} regras associada",
+    "{{count}} associated rules_many": "{{count}} regras associadas",
+    "{{count}} associated rules_other": "{{count}} regras associadas",
+    "(none)": "(nenhum)",
+    "(please select)": "(selecione)",
+    "{{count}} transactions_one": "{{count}} transação",
+    "{{count}} transactions_many": "{{count}} transações",
+    "{{count}} transactions_other": "{{count}} transações",
+    "{{displayMonth}} budget templates have been applied.": "Os templates de {{displayMonth}} foram aplicados.",
+    "{{displayMonth}} budget templates have been overwritten.": "Os templates de {{displayMonth}} foram sobrescritos."
+}
