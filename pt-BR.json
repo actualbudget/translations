@@ -11,5 +11,6 @@
     "{{count}} transactions_many": "{{count}} transações",
     "{{count}} transactions_other": "{{count}} transações",
     "{{displayMonth}} budget templates have been applied.": "Os templates de {{displayMonth}} foram aplicados.",
-    "{{displayMonth}} budget templates have been overwritten.": "Os templates de {{displayMonth}} foram sobrescritos."
+    "{{displayMonth}} budget templates have been overwritten.": "Os templates de {{displayMonth}} foram sobrescritos.",
+    "(hidden)": "(oculto)"
 }
