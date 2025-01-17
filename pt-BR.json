@@ -406,5 +406,18 @@
     "Invalid password": "Senha inválida",
     "Reconciled": "Reconciliado",
     "Register": "Registrar",
-    "Remove": "Excluir"
+    "Remove": "Excluir",
+    "Duplicating reconciled transactions may bring your reconciliation out of balance.": "Duplicar transações reconciliadas pode gerar inconsistências no saldo de reconciliação.",
+    "Edit dashboard": "Editar painel de controle",
+    "Failed to transfer ownership": "Falha ao transferir a propriedade",
+    "Files in the destination folder with the same name will be overwritten.": "Arquivos na pasta de destino com o mesmo nome serão substituídos.",
+    "Overspent": "Excedido",
+    "Do nothing": "Não fazer nada",
+    "Donut Graph": "Gráfico de Donut",
+    "end of the current month": "fim do mês atual",
+    "Failed to refresh login methods": "Falha ao atualizar os métodos de login",
+    "Failed to save dashboard widget.": "Falha ao salvar o widget do painel de controle",
+    "Fatal error occurred: unable to open import file dialog.": "Ocorreu um erro fatal: impossível abrir a caixa de diálogo de importação de arquivo.",
+    "Filter Name": "Nome do Filtro",
+    "Overbudgeted": "Orçamento Excedido"
 }
