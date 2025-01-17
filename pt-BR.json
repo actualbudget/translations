@@ -10,7 +10,7 @@
     "{{count}} transactions_one": "{{count}} transação",
     "{{count}} transactions_many": "{{count}} transações",
     "{{count}} transactions_other": "{{count}} transações",
-    "{{displayMonth}} budget templates have been applied.": "Os templates de {{displayMonth}} foram aplicados.",
+    "{{displayMonth}} budget templates have been applied.": "Os modelos de orçamento de {{displayMonth}} foram aplicados",
     "{{displayMonth}} budget templates have been overwritten.": "Os modelos de orçamento de {{displayMonth}} foram substituídos.",
     "(hidden)": "(oculto)",
     "$10 a week": "$10 por semana",
@@ -324,7 +324,7 @@
     "<0>End-to-end encryption</0> is not enabled. Any data on the server is still protected by the server password, but it’s not end-to-end encrypted which means the server owners have the ability to read it. If you want, you can use an additional password to encrypt your data on the server.": "<0>A criptografia de ponta a ponta</0> não está habilitada. Todos os dados no servidor ainda estão protegidos pela senha do servidor, mas não estão criptografados de ponta a ponta, o que significa que os proprietários do servidor têm a capacidade de lê-los. Se preferir, você pode usar uma senha adicional para criptografar seus dados no servidor.",
     "Consider taking our <2>guided tour</2> to help you get your bearings, and check out the rest of the documentation while you’re there to learn more about advanced topics.": "Considere fazer nossa <2>visita guiada</2> para ajudá-lo a se orientar e confira o restante da documentação quando estiver por lá para aprender mais sobre tópicos avançados.",
     "<0>Authentication method</0> modifies how users log in to the system.": "O <0>método de autenticação</0> modifica como os usuários fazem login no sistema.",
-    "Expand all": "Expandir tudo",
+    "Expand all": "Exibir tudo",
     "Expand month summary": "Expandir resumo do mês",
     "<0>Important:</0> if you forget this password <3>and</3> you don’t have any local copies of your data, you will lose access to all your data. The data cannot be decrypted without the password.": "<0>Importante:</0> se você esquecer esta senha <3>e</3> não tiver nenhuma cópia local dos seus dados, você perderá o acesso a todas as suas informações. Os dados não poderão ser descriptografados sem a senha.",
     "Advanced Settings": "Configurações Avançadas",
@@ -419,5 +419,14 @@
     "Failed to save dashboard widget.": "Falha ao salvar o widget do painel de controle",
     "Fatal error occurred: unable to open import file dialog.": "Ocorreu um erro fatal: impossível abrir a caixa de diálogo de importação de arquivo.",
     "Filter Name": "Nome do Filtro",
-    "Overbudgeted": "Orçamento Excedido"
+    "Overbudgeted": "Orçamento Excedido",
+    "End Date": "Data Final",
+    "Cash flow graph": "Gráfico do fluxo de caixa",
+    "Enter the current balance of your bank account that you want to reconcile with:": "Informe o saldo atual dessa conta bancária para reconciliar:",
+    "Existing sessions will be logged out and you will log in to this server. We will validate that Actual is running at this URL.": "As sessões existentes serão encerradas e você fará login neste servidor. Vamos verificar se o Actual está funcionando neste URL.",
+    "Expand split transactions": "Exibir transações divididas",
+    "Failed to complete ownership transfer. Please try again.": "A transferência de propriedade não foi concluída. Tente novamente.",
+    "Failed to duplicate budget": "Falha ao duplicar o orçamento",
+    "Failed to duplicate budget file.": "Falha ao duplicar o arquivo de orçamento.",
+    "Filter schedules…": "Filtrar agendamentos…"
 }
