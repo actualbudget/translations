@@ -1119,5 +1119,13 @@
     "Dark theme": "Dark theme",
     "Select category...": "Select category...",
     "Syncing... {{count}} accounts remaining_one": "Syncing... {{count}} account remaining",
-    "Syncing... {{count}} accounts remaining_other": "Syncing... {{count}} accounts remaining"
+    "Syncing... {{count}} accounts remaining_other": "Syncing... {{count}} accounts remaining",
+    "Are you sure you want to delete the report named ‘<2>{{name}}</2>’?": "Are you sure you want to delete the report named ‘<2>{{name}}</2>’?",
+    "Post transaction today": "Post transaction today",
+    "Skip next scheduled date": "Skip next scheduled date",
+    "This only affects how schedules are displayed and not how budget data is stored. It can be changed at any time.": "This only affects how schedules are displayed and not how budget data is stored. It can be changed at any time.",
+    "You can always manually post a transaction later for a due schedule by selecting the schedule and clicking “Post transaction today” in the action menu.": "You can always manually post a transaction later for a due schedule by selecting the schedule and clicking “Post transaction today” in the action menu.",
+    "Change how many days in advance of the scheduled date a scheduled transaction appears in the account ledger as upcoming.": "Change how many days in advance of the scheduled date a scheduled transaction appears in the account ledger as upcoming.",
+    "Change upcoming length": "Change upcoming length",
+    "end of the current month": "end of the current month"
 }
