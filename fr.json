@@ -86,7 +86,6 @@
     "An unknown error occurred: {{error}}": "Une erreur inconnue s'est produite: {{error}}",
     "Get started by importing an existing budget file from Actual or another budgeting app, create a demo budget file, or start fresh with an empty budget. You can always create or import another budget later.": "Commencez par importer un fichier de budget existant à partir d'Actual ou d'une autre application de budgétisation, créez un fichier de budget de démonstration ou démarrez avec un budget vide. Vous pourrez toujours créer ou importer un autre budget ultérieurement.",
     "Existing sessions will be logged out and you will log in to this server. We will validate that Actual is running at this URL.": "Les sessions existantes seront déconnectées et vous vous connecterez à ce serveur. Nous validerons qu'Actual fonctionne avec cette URL.",
-    "Post transaction": "Post-transaction",
     "Server is not running at this URL. Make sure you have HTTPS set up properly.": "Le serveur ne fonctionne pas à cette URL. Assurez-vous que le protocole HTTPS soit correctement configuré.",
     "Reset sync": "Réinitialiser la synchronisation",
     "Revert": "Revenir en arrière",
