@@ -664,5 +664,15 @@
     "The current password will be disabled": "Het huidige wachtwoord wordt gedeactiveerd",
     "The username you entered already exists. Please choose a different username.": "De gebruikersnaam die je hebt ingevoerd bestaat al. Kies een andere gebruikersnaam.",
     "Show Error": "Fout Tonen",
-    "The OpenID provider URL.": "De OpenID provider URL."
+    "The OpenID provider URL.": "De OpenID provider URL.",
+    "Accounts Overview": "Rekeningenoverzicht",
+    "Change this username with caution; it is the server owner.": "Let op bij het wijzigen van deze gebruikersnaam; het is de eigenaar van de server.",
+    "End-to-end Encryption is turned on.": "End-to-end versleuteling is ingeschakeld.",
+    "Disable templating": "Sjablonen uitschakelen",
+    "Duplicate file “{{newName}}” created.": "Gedupliceerd bestand “{{newName}}” aangemaakt.",
+    "<0>Themes</0> change the user interface colors.": "<0>Thema's</0> veranderen de kleuren van de gebruikersinterface.",
+    "Add category group": "Categoriegroep toevoegen",
+    "Balance for {{categoryName}} category": "Saldo voor categorie {{categoryName}}",
+    "Bank Account To Sync": "Te synchroniseren rekening",
+    "<0>Reset sync</0> will remove all local data used to track changes for syncing, and create a fresh sync ID on the server. This file on other devices will have to be re-downloaded to use the new sync ID. Use this if there is a problem with syncing and you want to start fresh.": "<0>Reset sync</0> verwijdert alle lokale gegevens die worden gebruikt om wijzigingen bij te houden voor synchronisatie en maakt een nieuwe sync ID aan op de server. Dit bestand zal op andere apparaten opnieuw gedownload moeten worden om de nieuwe sync ID te gebruiken. Gebruik dit als er een probleem is met synchroniseren en je opnieuw wilt beginnen."
 }
