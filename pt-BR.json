@@ -412,7 +412,7 @@
     "Failed to transfer ownership": "Falha ao transferir a propriedade",
     "Files in the destination folder with the same name will be overwritten.": "Arquivos na pasta de destino com o mesmo nome serão substituídos.",
     "Overspent": "Excedido",
-    "Do nothing": "Não fazer nada",
+    "Do nothing": "Não faça nada",
     "Donut Graph": "Gráfico de Donut",
     "end of the current month": "fim do mês atual",
     "Failed to refresh login methods": "Falha ao atualizar os métodos de login",
@@ -421,7 +421,7 @@
     "Filter Name": "Nome do Filtro",
     "Overbudgeted": "Orçamento Excedido",
     "End Date": "Data Final",
-    "Cash flow graph": "Gráfico do fluxo de caixa",
+    "Cash flow graph": "Gráfico de fluxo de caixa",
     "Enter the current balance of your bank account that you want to reconcile with:": "Informe o saldo atual dessa conta bancária para reconciliar:",
     "Existing sessions will be logged out and you will log in to this server. We will validate that Actual is running at this URL.": "As sessões existentes serão encerradas e você fará login neste servidor. Vamos verificar se o Actual está funcionando neste URL.",
     "Expand split transactions": "Exibir transações divididas",
@@ -1140,5 +1140,8 @@
     "Up to $150 each month, but retain any funds over $150": "Até $150 mensais, mas manter valores acima de $150",
     "We found some possible schedules in your current transactions. Select the ones you want to create.": "Encontramos alguns agendamentos possíveis nas suas transações atuais. Selecione os que deseja criar.",
     "You can load a different backup or revert to the original version below.": "Você pode carregar um backup diferente ou reverter para a versão original abaixo.",
-    "Your cleared balance <1>{clearedBalance}</1> needs <4>{difference}</4> to match<6></6> your bank's balance of <9>{bankBalance}</9>": "Seu saldo confirmado <1>{clearedBalance}</1> precisa de <4>{difference}</4> para coincidir com o saldo do seu banco de <9>{bankBalance}</9>"
+    "Your cleared balance <1>{clearedBalance}</1> needs <4>{difference}</4> to match<6></6> your bank's balance of <9>{bankBalance}</9>": "Seu saldo confirmado <1>{clearedBalance}</1> precisa de <4>{difference}</4> para coincidir com o saldo do seu banco de <9>{bankBalance}</9>",
+    "Switch to envelope budgeting": "Mudar para orçamento de envelope",
+    "Your data is encrypted with a key that only you have before sending it it out to the cloud. Local data remains unencrypted so if you forget your password you can re-encrypt it.": "Seus dados são criptografados com uma chave que só você tem antes de enviá-los para a nuvem. Os dados locais permanecem não criptografados, então, se você esquecer sua senha, você pode criptografá-los novamente.",
+    "Your budget is hosted on a server, making it accessible for download on your devices.<1></1>Would you like to duplicate this budget for all your devices or keep it stored locally on this device?": "Seu orçamento está hospedado em um servidor, tornando-o acessível para baixar em seus dispositivos.<1></1>Você gostaria de duplicar esse orçamento para todos os seus dispositivos ou mantê-lo armazenado localmente neste dispositivo?"
 }
