@@ -1,1 +1,11 @@
-{}
+{
+    "(give feedback)": "(geef feedback)",
+    "(hidden)": "(verborgen)",
+    "(modified)": "(aangepast)",
+    "(none)": "(geen)",
+    "(Optional)": "(Optioneel)",
+    "(please select)": "(selecteer)",
+    "{{count}} transactions_one": "{{count}} transactie",
+    "{{count}} transactions_other": "{{count}} transacties",
+    "{{selectedPayeeNames}}, and more": "{{selectedPayeeNames}} en meer"
+}
