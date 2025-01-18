@@ -1085,5 +1085,16 @@
     "<0>Language</0> support is not available. Please follow the instructions <3>here</3> to add missing translation files.": "O suporte a <0>Idiomas</0> não está disponível. Por favor, siga as instruções <3>aqui</3> para adicionar arquivos de tradução ausentes.",
     "When you’ve located your data, <2>compress it into a zip file</2>. On macOS, right-click the folder and select “Compress”. On Windows, right-click and select “Send to &rarr; Compressed (zipped) folder”. Upload the zipped folder for importing.": "Quando você localizar seus dados, <2>compacte-os em um arquivo zip</2>. No macOS, clique com o botão direito na pasta e selecione “Compactar”. No Windows, clique com o botão direito e selecione “Enviar para &rarr; Pasta compactada (ZIP)”. Carregue a pasta compactada para importar.",
     "This file was encrypted with a different key than you are currently using. This probably means you changed your password. Enter your current password to update your key.": "Este arquivo foi criptografado com uma chave diferente da que você está usando atualmente. Isso provavelmente significa que você alterou sua senha. Insira sua senha atual para atualizar sua chave.",
-    "You can import data from another Actual account or instance. First export your data from a different account, and it will give you a compressed file. This file is a simple zip file that contains the <1>db.sqlite</1> and <4>metadata.json</4> files.": "Você pode importar dados de outra conta ou instância do Actual. Primeiro exporte seus dados de uma conta diferente, e isso lhe dará um arquivo compactado. Este arquivo é um arquivo zip simples que contém os arquivos <1>db.sqlite</1> e <4>metadata.json</4>."
+    "You can import data from another Actual account or instance. First export your data from a different account, and it will give you a compressed file. This file is a simple zip file that contains the <1>db.sqlite</1> and <4>metadata.json</4> files.": "Você pode importar dados de outra conta ou instância do Actual. Primeiro exporte seus dados de uma conta diferente, e isso lhe dará um arquivo compactado. Este arquivo é um arquivo zip simples que contém os arquivos <1>db.sqlite</1> e <4>metadata.json</4>.",
+    "With transaction(s) selected": "Com as transações selecionadas",
+    "You are not logged in.": "Você não está autenticado.",
+    "You don`t have permissions over this file.": "Você não tem permissões neste arquivo.",
+    "Your data is out of sync": "Seus dados não estão sincronizados",
+    "Welcome to Actual!": "Bem vindo(a) ao Actual!",
+    "You don't have the required permissions to set up secrets. Please contact an Admin to configure": "Você não tem as permissões necessárias para configurar segredos. Por favor entre em contato com um Admin para configurar",
+    "Your data is still out of sync": "Seus dados ainda não estão sincronizados",
+    "You are currently working from a backup.": "Você está operando a partir de um backup.",
+    "You are about to change Actual’s data directory from:": "Você está prestes a mudar os caminho dos dados do Actual de:",
+    "When displaying user information, this will be shown instead of the username.": "Ao apresentar informações do usuário, isto será mostrado no lugar do username.",
+    "You have to be admin to set secrets": "Você precisa ser um administrador para configurar segredos"
 }
