@@ -779,7 +779,7 @@
     "SimpleFIN menu": "Menu SimpleFIN",
     "Spending analysis": "Análise de gastos",
     "Summary card": "Cartão de resumo",
-    "Switch budget file": "Mudar arquivo de orçamento",
+    "Switch budget file": "Trocar para outro orçamento",
     "Syncing has been fixed!": "A sincronização foi corrigida!",
     "Syncing has been reset on this cloud file": "A sincronização foi redefinida neste arquivo de nuvem",
     "This month": "Este mês",
@@ -950,5 +950,7 @@
     "Select a backup to load. After loading a backup, you will have a chance to revert to the current version in this screen.": "Selecione um backup para carregar. Após carregar um backup, você terá a chance de reverter para a versão atual nesta tela.",
     "If you’ve already downloaded your data on other devices, you will need to reset them. Actual will automatically take you through this process.": "Se você já baixou seus dados em outros dispositivos, será necessário redefini-los. Actual passará automaticamente por esse processo.",
     "It is required to provide a token.": "É necessário fornecer um token.",
-    "Github does not support discovery. You need to configure it in the server.": "O Github não oferece suporte à descoberta. Você precisa configurá-lo no servidor."
+    "Github does not support discovery. You need to configure it in the server.": "O Github não oferece suporte à descoberta. Você precisa configurá-lo no servidor.",
+    "Find matching transactions": "Buscar transações correspondentes",
+    "Switch Budget File": "Trocar de Orçamento"
 }
