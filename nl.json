@@ -61,5 +61,11 @@
     "A file with id “{{id}}” already exists with the name “{{name}}”. This file will be replaced. This probably happened because files were manually moved around outside of Actual.": "Er bestaat al een bestand met id “{{id}}” met de naam “{{name}}”. Dit bestand zal worden vervangen. Dit is waarschijnlijk veroorzaakt door het handmatig verplaatsen van bestanden buiten Actual.",
     "<0>Authentication method</0> modifies how users log in to the system.": "<0>Authenticatiemethode</0> wijzigt hoe gebruikers inloggen op het systeem.",
     "3 months": "3 maanden",
-    "Actual requires access to <1>SharedArrayBuffer</1> in order to function properly. If you’re seeing this error, either your browser does not support <3>SharedArrayBuffer</3>, or your server is not sending the appropriate headers, or you are not using HTTPS. See <6>our troubleshooting documentation</6> to learn more. <9></9>": "Actual heeft toegang tot <1>SharedArrayBuffer</1> nodig om goed te kunnen functioneren. Als je deze foutmelding ziet, ondersteunt je browser <3>SharedArrayBuffer</3> niet, verzendt je server niet de juiste headers, of je gebruikt geen HTTPS. Raadpleeg <6>onze documentatie voor het oplossen van problemen</6> voor meer informatie. <9></9>"
+    "Actual requires access to <1>SharedArrayBuffer</1> in order to function properly. If you’re seeing this error, either your browser does not support <3>SharedArrayBuffer</3>, or your server is not sending the appropriate headers, or you are not using HTTPS. See <6>our troubleshooting documentation</6> to learn more. <9></9>": "Actual heeft toegang tot <1>SharedArrayBuffer</1> nodig om goed te kunnen functioneren. Als je deze foutmelding ziet, ondersteunt je browser <3>SharedArrayBuffer</3> niet, verzendt je server niet de juiste headers, of je gebruikt geen HTTPS. Raadpleeg <6>onze documentatie voor het oplossen van problemen</6> voor meer informatie. <9></9>",
+    "{{displayMonth}} budget templates have been applied.": "Budgetsjablonen voor {{displayMonth}} toegepast.",
+    "{{displayMonth}} budget templates have been overwritten.": "Budgetsjablonen voor {{displayMonth}}  bijgewerkt.",
+    "{{displayMonth}} budgets have all been set to zero.": "De budgetten voor {{displayMonth}} werden op 0 gezet.",
+    "{{count}} associated rules_one": "{{count}} bijhorende regel",
+    "{{count}} associated rules_other": "{{count}} bijhorende regels",
+    "{{displayMonth}} budgets have all been set to last month’s budgeted amounts.": "Alle budgetten voor {{displayMonth}} zijn op de waarden van vorige maand gezet."
 }
