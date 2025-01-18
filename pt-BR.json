@@ -722,5 +722,11 @@
     "No linked transactions": "Nenhuma transação vinculada",
     "No recurring date": "Nenhuma data de recorrência",
     "Repair split transactions": "Reparar transações divididas",
-    "Review OpenID configuration": "Revisar a configuração do OpenID"
+    "Review OpenID configuration": "Revisar a configuração do OpenID",
+    "New Budget Name": "Novo Nome do Orçamento",
+    "Role is required.": "A função é obrigatória.",
+    "Unlink account": "Desconectar conta",
+    "Unlink schedule": "Desvincular agendamento",
+    "To Budget": "Para Orçar",
+    "Retrieving remote files...": "Carregando arquivos remotos…"
 }
