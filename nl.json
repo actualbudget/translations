@@ -67,7 +67,7 @@
     "{{displayMonth}} budgets have all been set to zero.": "De budgetten voor {{displayMonth}} werden op 0 gezet.",
     "{{count}} associated rules_one": "{{count}} bijhorende regel",
     "{{count}} associated rules_other": "{{count}} bijhorende regels",
-    "{{displayMonth}} budgets have all been set to last month’s budgeted amounts.": "Alle budgetten voor {{displayMonth}} zijn op de waarden van vorige maand gezet.",
+    "{{displayMonth}} budgets have all been set to last month’s budgeted amounts.": "{{displayMonth}} budgetten zijn gezet naar de waardes van vorige maand.",
     "Average per transaction": "Gemiddeld per transactie",
     "Budget set to {{numberOfMonths}}-month average.": "Budget ingesteld op {{numberOfMonths}}-maand gemiddelde.",
     "Budget set to last month’s budget.": "Budget ingesteld op het budget van vorige maand.",
