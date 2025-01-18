@@ -647,5 +647,7 @@
     "is less than or equals": "é menor ou igual a",
     "Let’s get started!": "Vamos começar!",
     "Link Your Bank": "Conectar Seu Banco",
-    "Login expired, please log in again.": "Sessão encerrada, faça login novamente."
+    "Login expired, please log in again.": "Sessão encerrada, faça login novamente.",
+    "Link bank account with SimpleFIN": "Vincular conta bancária com o SimpleFIN",
+    "Link bank account with GoCardless": "Vincular conta bancária com o GoCardless"
 }
