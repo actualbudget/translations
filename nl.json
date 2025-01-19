@@ -353,7 +353,6 @@
     "Amount": "Bedrag",
     "An error occurred while saving. Please visit https://actualbudget.org/contact/ for support.": "Er is een fout opgetreden tijdens het opslaan. Ga naar https://actualbudget.org/contact/ voor ondersteuning.",
     "An internal error occurred. Try to log in again, or get <2>in touch</2> for support.": "Er is een interne fout opgetreden. Probeer opnieuw in te loggen of neem <2>contact</2> op voor ondersteuning.",
-    "An unknown error occurred while exporting. Please report this as a new issue on Github.": "Er is een onbekende fout opgetreden tijdens het exporteren. Meld dit als een nieuw probleem op GitHub.",
     "An unknown error occurred: {{error}}": "Er is een onbekende fout opgetreden: {{error}}",
     "and": "en",
     "Apply actions": "Acties toepassen",
