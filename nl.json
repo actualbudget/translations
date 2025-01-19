@@ -495,7 +495,7 @@
     "Recurring": "Terugkerend",
     "Redo the last undone change": "Laatste ongedaan gemaakte wijziging opnieuw uitvoeren",
     "Remove active category filters to show the category selector.": "Verwijder actieve categoriefilters om de categoriekiezer te tonen.",
-    "Rename": "Naam wijzigen",
+    "Rename": "Hernoemen",
     "Rename budget": "Naam van budget wijzigen",
     "Reopen account": "Rekening heropenen",
     "Repair split transactions": "Gesplitste transacties repareren",
@@ -554,7 +554,7 @@
     "Password": "Wachtwoord",
     "Repair": "Repareren",
     "$50 each month": "$50 per maand",
-    "Actual has updated the syncing format": "Actual heeft het synchronisatie formaat bijgewerkt",
+    "Actual has updated the syncing format": "Actual heeft het synchronisatieformaat bijgewerkt",
     "Selected balance:": "Geselecteerd saldo:",
     "Selected transactions": "Geselecteerde transacties",
     "Server is not running at this URL. Make sure you have HTTPS set up properly.": "Server draait niet op deze URL. Zorg dat je HTTPS goed hebt ingesteld.",
@@ -708,5 +708,13 @@
     "This file is not a cloud file": "Dit bestand is geen cloud-bestand",
     "This file was encrypted with a different key than you are currently using. This probably means you changed your password. Enter your current password to update your key.": "Dit bestand is versleuteld met een andere sleutel dan je nu gebruikt. Dit betekent waarschijnlijk dat je je wachtwoord hebt gewijzigd. Voer je huidige wachtwoord in om je sleutel bij te werken.",
     "This action is irreversible, ownership of this budget file will only be able to be transferred by the server administrator or new owner.": "Deze actie is onomkeerbaar, eigendom van dit budget bestand kan alleen worden overgedragen door de server administrator of nieuwe eigenaar.",
-    "There was a problem loading your report": "Er was een probleem met het laden van je rapport"
+    "There was a problem loading your report": "Er was een probleem met het laden van je rapport",
+    "Save notes": "Notities bewaren",
+    "Save": "Bewaren",
+    "Save and continue": "Bewaren en doorgaan",
+    "Save compare and filter options": "Vergelijk- en filteropties bewaren",
+    "Server does not look like an Actual server. Is it set up correctly?": "De server lijkt niet op een Actual server. Is deze correct ingesteld?",
+    "Remove all sorting": "Alle sortering verwijderen",
+    "Rules are always run in the order that you see them.": "Regels worden altijd uitgevoerd in de getoonde volgorde.",
+    "Save new report": "Nieuw rapport bewaren"
 }
