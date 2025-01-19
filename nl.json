@@ -63,7 +63,7 @@
     "3 months": "3 maanden",
     "Actual requires access to <1>SharedArrayBuffer</1> in order to function properly. If you’re seeing this error, either your browser does not support <3>SharedArrayBuffer</3>, or your server is not sending the appropriate headers, or you are not using HTTPS. See <6>our troubleshooting documentation</6> to learn more. <9></9>": "Actual heeft toegang tot <1>SharedArrayBuffer</1> nodig om goed te kunnen functioneren. Als je deze foutmelding ziet, ondersteunt je browser <3>SharedArrayBuffer</3> niet, verzendt je server niet de juiste headers, of je gebruikt geen HTTPS. Raadpleeg <6>onze documentatie voor het oplossen van problemen</6> voor meer informatie. <9></9>",
     "{{displayMonth}} budget templates have been applied.": "Budgetsjablonen voor {{displayMonth}} toegepast.",
-    "{{displayMonth}} budget templates have been overwritten.": "Budgetsjablonen voor {{displayMonth}}  bijgewerkt.",
+    "{{displayMonth}} budget templates have been overwritten.": "Budgetsjablonen voor {{displayMonth}} bijgewerkt.",
     "{{displayMonth}} budgets have all been set to zero.": "De budgetten voor {{displayMonth}} werden op 0 gezet.",
     "{{count}} associated rules_one": "{{count}} bijhorende regel",
     "{{count}} associated rules_other": "{{count}} bijhorende regels",
@@ -582,7 +582,7 @@
     "Change upcoming length": "Aankomende periode wijzigen",
     "Clear all conditions": "Alle voorwaarden wissen",
     "All time": "Altijd",
-    "If you lost your password, you likely still have access to your server to manually reset it.": "Als je je wachtwoord kwijt bent, heb je waarschijnlijk nog toegang tot je server om het handmatig opnieuw in te stellen.",
+    "If you lost your password, you likely still have access to your server to manually reset it.": "Bij het verlies van je wachtwoord heb je waarschijnlijk nog toegang tot je server om het wachtwoord handmatig opnieuw in te stellen.",
     "Schedule": "Schema",
     "Scheduled transaction upcoming length adjustment": "Geplande transactie komende termijn aanpassen",
     "Schedules": "Schema's",
@@ -715,5 +715,9 @@
     "Server does not look like an Actual server. Is it set up correctly?": "De server lijkt niet op een Actual server. Is deze correct ingesteld?",
     "Remove all sorting": "Alle sortering verwijderen",
     "Rules are always run in the order that you see them.": "Regels worden altijd uitgevoerd in de getoonde volgorde.",
-    "Save new report": "Nieuw rapport bewaren"
+    "Save new report": "Nieuw rapport bewaren",
+    "<0>Experimental features.</0> These features are not fully tested and may not work as expected. THEY MAY CAUSE IRRECOVERABLE DATA LOSS. They may do nothing at all. Only enable them if you know what you are doing.": "<0>Experimentele functionaliteiten.</0> Deze functionaliteiten zijn niet volledig getest en gedragen zich mogelijks onverwacht. ZIJ KUNNEN ONHERSTELBAAR VERLIES VAN GEGEVENS VEROORZAKEN. Misschien doen ze helemaal niets... Zet deze enkel aan als je weet waar je mee bezig bent.",
+    "<0>Formatting</0> does not affect how budget data is stored, and can be changed at any time.": "<0>Opmaak</0> beïnvloed niet hoe budgetgegevens worden bewaard. Opmaak kan op elk moment veranderd worden.",
+    "<0>Important:</0> if you forget this password <3>and</3> you don’t have any local copies of your data, you will lose access to all your data. The data cannot be decrypted without the password.": "<0>Belangrijk:</0> als je dit wachtwoord vergeet <3>en</3> je hebt geen lokale kopieën van je data, dan verlies je de toegang tot al je data. De gegevens kunnen niet worden gedecodeerd zonder het wachtwoord.",
+    "<0><0>How are “Average” and “Spent Average MTD” calculated?</0></0><1>They are both the average cumulative spending by day for the three months before the selected “compare” month.</1>": "<0><0>Hoe worden “Gemiddelde” and “Gemiddelde uitgaven MTD” berekend?</0></0><1>Ze zijn beiden de gemiddelde cumulatieve uitgaven per dag voor de 3 maanden voorafgaand aan de gekozen vergelijkingsmaand.</1>"
 }
