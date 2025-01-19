@@ -436,7 +436,7 @@
     "Hide": "Ocultar",
     "Filter rules...": "Filtrar regras...",
     "File needs upload": "Arquivo precisa de upload",
-    "Files": "Orçamentos",
+    "Files": "Arquivos",
     "Friday": "Sexta-Feira",
     "Expenses:": "Gastos:",
     "Export": "Exportar",
@@ -1138,5 +1138,10 @@
     "Your cleared balance <1>{clearedBalance}</1> needs <4>{difference}</4> to match<6></6> your bank's balance of <9>{bankBalance}</9>": "Seu saldo confirmado <1>{clearedBalance}</1> precisa de <4>{difference}</4> para coincidir com o saldo do seu banco de <9>{bankBalance}</9>",
     "Switch to envelope budgeting": "Mudar para orçamento de envelope",
     "Your data is encrypted with a key that only you have before sending it it out to the cloud. Local data remains unencrypted so if you forget your password you can re-encrypt it.": "Seus dados são criptografados com uma chave que só você tem antes de enviá-los para a nuvem. Os dados locais permanecem não criptografados, então, se você esquecer sua senha, você pode criptografá-los novamente.",
-    "Your budget is hosted on a server, making it accessible for download on your devices.<1></1>Would you like to duplicate this budget for all your devices or keep it stored locally on this device?": "Seu orçamento está hospedado em um servidor, tornando-o acessível para baixar em seus dispositivos.<1></1>Você gostaria de duplicar esse orçamento para todos os seus dispositivos ou mantê-lo armazenado localmente neste dispositivo?"
+    "Your budget is hosted on a server, making it accessible for download on your devices.<1></1>Would you like to duplicate this budget for all your devices or keep it stored locally on this device?": "Seu orçamento está hospedado em um servidor, tornando-o acessível para baixar em seus dispositivos.<1></1>Você gostaria de duplicar esse orçamento para todos os seus dispositivos ou mantê-lo armazenado localmente neste dispositivo?",
+    "Something internally went wrong. You may want to restart the app if anything looks wrong. Please report this as a new issue on GitHub.": "Algo deu errado internamente. Se algo não parecer correto, reinicie o aplicativo. Por favor, reporte isso como uma nova issue no Github.",
+    "We had problems syncing your changes. Please report this as a bug by [opening a GitHub issue]({{githubIssueLink}}).": "Tivemos problemas para sincronizar suas alterações. Por favor, reporte isso como um bug [abrindo uma issue no GitHub]({{githubIssueLink}}).",
+    "An unknown error occurred while exporting. Please report this as a new issue on GitHub.": "Ocorreu um erro desconhecido ao exportar. Por favor, reporte isso como uma nova issue no GitHub.",
+    "GitHub does not support discovery. You need to configure it in the server.": "O GitHub não oferece suporte à descoberta. Você precisa configurá-lo no servidor.",
+    "We couldn’t apply that change to the database. Please report this as a bug by [opening a GitHub issue]({{githubIssueLink}}).": "Não conseguimos aplicar essa alteração ao banco de dados. Por favor, reporte isso como um bug [abrindo uma issue no GitHub]({{githubIssueLink}})"
 }
