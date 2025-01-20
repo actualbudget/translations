@@ -766,5 +766,10 @@
     "Cannot save: No widget available.": "Kan niet opslaan: Geen widget beschikbaar.",
     "Bar Graph": "Staafdiagram",
     "Calendar card": "Kalendar kaart",
-    "<0>End-to-end encryption</0> is not enabled. Any data on the server is still protected by the server password, but it’s not end-to-end encrypted which means the server owners have the ability to read it. If you want, you can use an additional password to encrypt your data on the server.": "<0>End-to-end encryptie</0> is niet ingeschakeld. Alle gegevens op de server worden nog steeds beschermd door het serverwachtwoord, maar ze zijn niet end-to-end versleuteld. Dit betekent dat de servereigenaren de mogelijkheid hebben om de gegevens te lezen. Als je wilt, kun je een extra wachtwoord gebruiken om je gegevens op de server te versleutelen."
+    "<0>End-to-end encryption</0> is not enabled. Any data on the server is still protected by the server password, but it’s not end-to-end encrypted which means the server owners have the ability to read it. If you want, you can use an additional password to encrypt your data on the server.": "<0>End-to-end encryptie</0> is niet ingeschakeld. Alle gegevens op de server worden nog steeds beschermd door het serverwachtwoord, maar ze zijn niet end-to-end versleuteld. Dit betekent dat de servereigenaren de mogelijkheid hebben om de gegevens te lezen. Als je wilt, kun je een extra wachtwoord gebruiken om je gegevens op de server te versleutelen.",
+    "Clear transactions on import": "Transacties afhandelen bij importeren",
+    "Consider opening <2>our tour</2> in a new tab for some guidance on what to do when you’ve set your password.": "Overweeg <2>onze rondleiding</2> te openen in een nieuw tabblad. Je leert er wat je kan doen na het instellen van je wachtwoord.",
+    "Create New": "Nieuw Aanmaken",
+    "Cover from a category": "Vul aan vanuit een categorie",
+    "Cover from category:": "Vul aan vanuit een categorie:"
 }
