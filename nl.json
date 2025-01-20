@@ -731,5 +731,11 @@
     "Actions": "Acties",
     "Account linking not opening in a new tab? Click here": "Opent het koppelen van een rekening niet in een nieuw tabblad? Klik hier",
     "Clear search term": "Zoekterm wissen",
-    "Can also assign ownership of a budget to another person, ensuring efficient budget management.": "Kan ook een ander persoon eigenaar maken van een budget, voor efficiënt budgetbeheer."
+    "Can also assign ownership of a budget to another person, ensuring efficient budget management.": "Kan ook een ander persoon eigenaar maken van een budget, voor efficiënt budgetbeheer.",
+    "Change location": "Wijzig locatie",
+    "Name {{ newAccountName }} already exists.": "Er bestaat al een account met de naam {{ newAccountName }}.",
+    "not one of": "geen van",
+    "Break down less-frequent expenses into monthly expenses": "Breek minder frequente kosten op in maandelijkse kosten",
+    "Budget template applied.": "Budgetsjabloon toegepast.",
+    "Budgeted amount for {{categoryName}} category": "Begroot bedrag voor de categorie {{categoryName}}"
 }
