@@ -1122,5 +1122,15 @@
     "You can always manually post a transaction later for a due schedule by selecting the schedule and clicking “Post transaction today” in the action menu.": "You can always manually post a transaction later for a due schedule by selecting the schedule and clicking “Post transaction today” in the action menu.",
     "Change how many days in advance of the scheduled date a scheduled transaction appears in the account ledger as upcoming.": "Change how many days in advance of the scheduled date a scheduled transaction appears in the account ledger as upcoming.",
     "Change upcoming length": "Change upcoming length",
-    "end of the current month": "end of the current month"
+    "end of the current month": "end of the current month",
+    "<0>Language</0> support is not available. Please follow the instructions <3>here</3> to add missing translation files.": "<0>Language</0> support is not available. Please follow the instructions <3>here</3> to add missing translation files.",
+    "System default": "System default",
+    "An unknown error occurred while exporting. Please report this as a new issue on GitHub.": "An unknown error occurred while exporting. Please report this as a new issue on GitHub.",
+    "No languages available": "No languages available",
+    "Select language": "Select language",
+    "<0>Language</0> is the display language of all text. Please note that no warranty is provided for the accuracy or completeness of non-English translations. If you encounter a translation error, feel free to make a suggestion on <3>Weblate</3>.": "<0>Language</0> is the display language of all text. Please note that no warranty is provided for the accuracy or completeness of non-English translations. If you encounter a translation error, feel free to make a suggestion on <3>Weblate</3>.",
+    "GitHub does not support discovery. You need to configure it in the server.": "GitHub does not support discovery. You need to configure it in the server.",
+    "Something internally went wrong. You may want to restart the app if anything looks wrong. Please report this as a new issue on GitHub.": "Something internally went wrong. You may want to restart the app if anything looks wrong. Please report this as a new issue on GitHub.",
+    "We couldn’t apply that change to the database. Please report this as a bug by [opening a GitHub issue]({{githubIssueLink}}).": "We couldn’t apply that change to the database. Please report this as a bug by [opening a GitHub issue]({{githubIssueLink}}).",
+    "We had problems syncing your changes. Please report this as a bug by [opening a GitHub issue]({{githubIssueLink}}).": "We had problems syncing your changes. Please report this as a bug by [opening a GitHub issue]({{githubIssueLink}})."
 }
