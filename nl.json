@@ -764,5 +764,7 @@
     "An unknown error occurred while exporting. Please report this as a new issue on GitHub.": "Er trad een onbekende fout op tijdens het exporteren. We nodigen je uit dit probleem te rapporteren op GitHub.",
     "<0>Language</0> is the display language of all text. Please note that no warranty is provided for the accuracy or completeness of non-English translations. If you encounter a translation error, feel free to make a suggestion on <3>Weblate</3>.": "<0>Taal</0> bepaalt de gebruikte taal voor alle tekst. Merk op dat er geen garanties zijn over de juistheid of volledigheid van vertalingen. Bij het vinden van een vertaalfout nodigen we je graag uit een suggestie toe te voegen op <3>Weblate</3>.",
     "Cannot save: No widget available.": "Kan niet opslaan: Geen widget beschikbaar.",
-    "Bar Graph": "Staafdiagram"
+    "Bar Graph": "Staafdiagram",
+    "Calendar card": "Kalendar kaart",
+    "<0>End-to-end encryption</0> is not enabled. Any data on the server is still protected by the server password, but it’s not end-to-end encrypted which means the server owners have the ability to read it. If you want, you can use an additional password to encrypt your data on the server.": "<0>End-to-end encryptie</0> is niet ingeschakeld. Alle gegevens op de server worden nog steeds beschermd door het serverwachtwoord, maar ze zijn niet end-to-end versleuteld. Dit betekent dat de servereigenaren de mogelijkheid hebben om de gegevens te lezen. Als je wilt, kun je een extra wachtwoord gebruiken om je gegevens op de server te versleutelen."
 }
