@@ -73,7 +73,7 @@
     "Create new file": "Criar novo arquivo",
     "<0>Experimental features.</0> These features are not fully tested and may not work as expected. THEY MAY CAUSE IRRECOVERABLE DATA LOSS. They may do nothing at all. Only enable them if you know what you are doing.": "<0>Funcionalidades experimentais.</0> Estas são funcionalidades que não foram completamente testadas e podem não funcionar conforme o esperado. ELAS PODEM CAUSAR PERDA DE DADOS IRRECUPERÁVEIS. Elas podem não fazer nada também. Apenas as habilite se você souber o que está fazendo.",
     "Create new rule": "Criar nova regra",
-    "Close file": "Sair",
+    "Close file": "Fechar arquivo",
     "Confirm": "Confirmar",
     "Create key": "Criar chave",
     "{{displayMonth}} budgets have all been set to zero.": "Todos os orçamentos de {{displayMonth}} foram zerados.",
@@ -1143,5 +1143,5 @@
     "We had problems syncing your changes. Please report this as a bug by [opening a GitHub issue]({{githubIssueLink}}).": "Tivemos problemas para sincronizar suas alterações. Por favor, reporte isso como um bug [abrindo uma issue no GitHub]({{githubIssueLink}}).",
     "An unknown error occurred while exporting. Please report this as a new issue on GitHub.": "Ocorreu um erro desconhecido ao exportar. Por favor, reporte isso como uma nova issue no GitHub.",
     "GitHub does not support discovery. You need to configure it in the server.": "O GitHub não oferece suporte à descoberta. Você precisa configurá-lo no servidor.",
-    "We couldn’t apply that change to the database. Please report this as a bug by [opening a GitHub issue]({{githubIssueLink}}).": "Não conseguimos aplicar essa alteração ao banco de dados. Por favor, reporte isso como um bug [abrindo uma issue no GitHub]({{githubIssueLink}})"
+    "We couldn’t apply that change to the database. Please report this as a bug by [opening a GitHub issue]({{githubIssueLink}}).": "Não conseguimos aplicar essa alteração ao banco de dados. Por favor, reporte isso como um bug [abrindo uma issue no GitHub]({{githubIssueLink}})."
 }
