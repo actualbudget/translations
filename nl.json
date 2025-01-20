@@ -762,5 +762,7 @@
     "Change Directory": "Map Wijzigen",
     "<0>Read here</0> for instructions on how to migrate your data from YNAB. You need to export your data as JSON, and that page explains how to do that.": "<0>Lees hier</0> hoe je YNAB gegevens kan migreren. Je moet de gegevens als JSON vanuit YNAB exporteren. Op die pagina lees je hoe dat moet.",
     "An unknown error occurred while exporting. Please report this as a new issue on GitHub.": "Er trad een onbekende fout op tijdens het exporteren. We nodigen je uit dit probleem te rapporteren op GitHub.",
-    "<0>Language</0> is the display language of all text. Please note that no warranty is provided for the accuracy or completeness of non-English translations. If you encounter a translation error, feel free to make a suggestion on <3>Weblate</3>.": "<0>Taal</0> bepaalt de gebruikte taal voor alle tekst. Merk op dat er geen garanties zijn over de juistheid of volledigheid van vertalingen. Bij het vinden van een vertaalfout nodigen we je graag uit een suggestie toe te voegen op <3>Weblate</3>."
+    "<0>Language</0> is the display language of all text. Please note that no warranty is provided for the accuracy or completeness of non-English translations. If you encounter a translation error, feel free to make a suggestion on <3>Weblate</3>.": "<0>Taal</0> bepaalt de gebruikte taal voor alle tekst. Merk op dat er geen garanties zijn over de juistheid of volledigheid van vertalingen. Bij het vinden van een vertaalfout nodigen we je graag uit een suggestie toe te voegen op <3>Weblate</3>.",
+    "Cannot save: No widget available.": "Kan niet opslaan: Geen widget beschikbaar.",
+    "Bar Graph": "Staafdiagram"
 }
