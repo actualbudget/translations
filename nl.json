@@ -63,7 +63,7 @@
     "3 months": "3 maanden",
     "Actual requires access to <1>SharedArrayBuffer</1> in order to function properly. If you’re seeing this error, either your browser does not support <3>SharedArrayBuffer</3>, or your server is not sending the appropriate headers, or you are not using HTTPS. See <6>our troubleshooting documentation</6> to learn more. <9></9>": "Actual heeft toegang tot <1>SharedArrayBuffer</1> nodig om goed te kunnen functioneren. Als je deze foutmelding ziet, ondersteunt je browser <3>SharedArrayBuffer</3> niet, verzendt je server niet de juiste headers, of je gebruikt geen HTTPS. Raadpleeg <6>onze documentatie voor het oplossen van problemen</6> voor meer informatie. <9></9>",
     "{{displayMonth}} budget templates have been applied.": "Budgetsjablonen voor {{displayMonth}} toegepast.",
-    "{{displayMonth}} budget templates have been overwritten.": "Budgetsjablonen voor {{displayMonth}} bijgewerkt.",
+    "{{displayMonth}} budget templates have been overwritten.": "De budgetsjablonen voor {{displayMonth}} zijn overschreven.",
     "{{displayMonth}} budgets have all been set to zero.": "De budgetten voor {{displayMonth}} zijn allemaal op nul gezet.",
     "{{count}} associated rules_one": "{{count}} bijhorende regel",
     "{{count}} associated rules_other": "{{count}} bijhorende regels",
@@ -726,5 +726,10 @@
     "Basic": "Basis",
     "Budgeted": "Begroot",
     "Budgeted:": "Begroot:",
-    "<0><0>How is cash flow calculated?</0></0><1>Cash flow shows the balance of your budgeted accounts over time, and the amount of expenses/income each day or month. Your budgeted accounts are considered to be “cash on hand,” so this gives you a picture of how available money fluctuates.</1>": "<0><0>Hoe wordt de kasstroom berekend?</0></0><1>De kasstroom laat het saldo van je gebudgetteerde rekeningen over tijd zien, evenals het bedrag aan uitgaven/inkomsten per dag of maand. Je gebudgetteerde rekeningen worden beschouwd als \"beschikbaar geld,\" waardoor je een beeld krijgt van hoe het beschikbare geld fluctueert.</1>"
+    "<0><0>How is cash flow calculated?</0></0><1>Cash flow shows the balance of your budgeted accounts over time, and the amount of expenses/income each day or month. Your budgeted accounts are considered to be “cash on hand,” so this gives you a picture of how available money fluctuates.</1>": "<0><0>Hoe wordt de kasstroom berekend?</0></0><1>De kasstroom laat het saldo van je gebudgetteerde rekeningen over tijd zien, evenals het bedrag aan uitgaven/inkomsten per dag of maand. Je gebudgetteerde rekeningen worden beschouwd als \"beschikbaar geld,\" waardoor je een beeld krijgt van hoe het beschikbare geld fluctueert.</1>",
+    "{{displayMonth}} end-of-month cleanup templates have been applied.": "Opruimsjablonen voor het einde van de maand {{displayMonth}} zijn toegepast.",
+    "Actions": "Acties",
+    "Account linking not opening in a new tab? Click here": "Opent het koppelen van een rekening niet in een nieuw tabblad? Klik hier",
+    "Clear search term": "Zoekterm wissen",
+    "Can also assign ownership of a budget to another person, ensuring efficient budget management.": "Kan ook een ander persoon eigenaar maken van een budget, voor efficiënt budgetbeheer."
 }
