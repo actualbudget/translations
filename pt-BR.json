@@ -300,7 +300,7 @@
     "{{displayMonth}} budgets have all been set to last month’s budgeted amounts.": "Todos os orçamentos de {{displayMonth}} foram definidos com os valores orçados no mês passado.",
     "{{displayMonth}} end-of-month cleanup templates have been applied.": "Os modelos de limpeza de final de mês para {{displayMonth}} foram aplicados.",
     "<0><0>How are “Average” and “Spent Average MTD” calculated?</0></0><1>They are both the average cumulative spending by day for the three months before the selected “compare” month.</1>": "<0><0>Como são calculados “Média” e “Média de Gastos no Acumulado do Mês”?</0></0><1>Ambos são a média acumulada de gastos por dia dos três meses anteriores ao mês selecionado para \"comparação.\"</1>",
-    "<0>Envelope budgeting</0> (recommended) digitally mimics physical envelope budgeting system by allocating funds into virtual envelopes for different expenses. It helps track spending and ensure you don‘t overspend in any category.": "<0>Orçamento por envelope</0> (recomendado) replica digitalmente o sistema físico de orçamento por envelopes, alocando fundos em envelopes virtuais para diferentes despesas. Isso ajuda a acompanhar os gastos e garantir que você não exceda o orçamento em nenhuma categoria.",
+    "<0>Envelope budgeting</0> (recommended) digitally mimics physical envelope budgeting system by allocating funds into virtual envelopes for different expenses. It helps track spending and ensure you don‘t overspend in any category.": "<0>Orçamento de envelope</0> (recomendado) imita digitalmente o sistema de orçamento de envelope físico ao alocar dinheiro em envelopes virtuais para diferentes despesas. Ele ajuda a rastrear gastos e garante que você não gaste demais em nenhuma categoria.",
     "append to notes": "adicionar às notas",
     "Choose the schedule these {{ count }} transactions belong to:_one": "Escolha o agendamento ao qual esta {{ count }} transação pertence:",
     "Choose the schedule these {{ count }} transactions belong to:_many": "Escolha o agendamento ao qual estas {{ count }} transações pertencem:",
@@ -346,7 +346,7 @@
     "Debt:": "Dívidas:",
     "Debts:": "Dívidas:",
     "Deposit": "Crédito",
-    "<0>Read here</0> for instructions on how to migrate your data from YNAB. You need to export your data as JSON, and that page explains how to do that.": "<0>Leia aqui</0> as instruções sobre como migrar seus dados do YNAB. Você precisará exportar seus dados em formato JSON, e essa página explica como fazer isso.",
+    "<0>Read here</0> for instructions on how to migrate your data from YNAB. You need to export your data as JSON, and that page explains how to do that.": "<0>Leia aqui</0> para obter instruções sobre como migrar seus dados do YNAB, Você precisa exportar seus dados como JSON, e essa página explica como fazer isso.",
     "Actual requires access to <1>SharedArrayBuffer</1> in order to function properly. If you’re seeing this error, either your browser does not support <3>SharedArrayBuffer</3>, or your server is not sending the appropriate headers, or you are not using HTTPS. See <6>our troubleshooting documentation</6> to learn more. <9></9>": "O Actual requer acesso ao <1>SharedArrayBuffer</1> para operar corretamente. Caso veja este erro, isso pode significar que: seu navegador não suporta <3>SharedArrayBuffer</3>, o seu servidor não está enviando os \"headers\" necessários ou que você não está utilizando HTTPS. Confira a <6>nossa documentação de ajuda</6> para mais informações. <9></9>",
     "Budget “{id}” not found. Check the id of your budget in the Advanced section of the settings page.": "Orçamento \"{id}\" não encontrado. Verifique o ID do seu orçamento na seção Configurações Avançadas da página de configurações.",
     "Empty": "Vazio",
@@ -1144,5 +1144,13 @@
     "An unknown error occurred while exporting. Please report this as a new issue on GitHub.": "Ocorreu um erro desconhecido ao exportar. Por favor, reporte isso como uma nova issue no GitHub.",
     "GitHub does not support discovery. You need to configure it in the server.": "O GitHub não oferece suporte à descoberta. Você precisa configurá-lo no servidor.",
     "We couldn’t apply that change to the database. Please report this as a bug by [opening a GitHub issue]({{githubIssueLink}}).": "Não conseguimos aplicar essa alteração ao banco de dados. Por favor, reporte isso como um bug [abrindo uma issue no GitHub]({{githubIssueLink}}).",
-    "<0>Category Learning</0> will automatically determine the best category for a transaction and create a rule that sets the category for the payee. <3>Learn more</3>": "<0>Aprendizado de Categoria</0> determinará automaticamente a melhor categoria para uma transação e criará uma regra que define a categoria para o beneficiário. <3>Saiba mais</3>"
+    "<0>Category Learning</0> will automatically determine the best category for a transaction and create a rule that sets the category for the payee. <3>Learn more</3>": "<0>Aprendizado de Categoria</0> determinará automaticamente a melhor categoria para uma transação e criará uma regra que define a categoria para o beneficiário. <3>Saiba mais</3>",
+    "Disabling Category Learning will not delete any existing rules but will prevent new rules from being created automatically on a global level.": "Desabilitar o Aprendizado de Categoria não excluirá nenhuma regra existente, mas impedirá que novas regras sejam criadas automaticamente em nível global.",
+    "Category learning disabled": "Aprendizado de categoria desligado",
+    "Category Learning": "Aprendizado de Categoria",
+    "Category learning settings": "Configurações do aprendizado de categoria",
+    "Disable category learning": "Desativar aprendizado de categoria",
+    "Disable learning": "Desativar aprendizado",
+    "Enable category learning": "Ativar aprendizado de categoria",
+    "Enable learning": "Ativar aprendizado"
 }
