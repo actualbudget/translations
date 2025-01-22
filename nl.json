@@ -775,12 +775,15 @@
     "Hold Buffer": "Buffer Vasthouden",
     "Dashboard widget successfully saved.": "Dashboardwidget succesvol opgeslagen.",
     "It is recommended for the encryption password to be different than the log-in password in order to better protect your data.": "Het is aan te raden om een ander encryptie-wachtwoord te gebruiken dan het inlog-wachtwoord om je gegevens beter te beschermen.",
-    "Manage and view users who can create new budgets or be invited to access existing ones.": "Beheer en toon gebruikers die nieuwe budgetten kunnen aanmaken of uitgenodigd kunnen worden voor bestaande budgetten.",
+    "Manage and view users who can create new budgets or be invited to access existing ones.": "Beheer en toon gebruikers die nieuwe budgetbestanden kunnen aanmaken of uitgenodigd kunnen worden voor bestaande.",
     "Failed to save dashboard widget.": "Dashboardwidget kon niet worden opgeslagen.",
     "Goal templates": "Doelsjablonen",
     "Goal Templates": "Doelsjablonen",
     "Goal Type:": "Doeltype:",
     "Missing encryption key": "Encryptiesleutel ontbreekt",
     "Monthly Spending": "Maandelijkse Uitgaven",
-    "Net Debts:": "Nettoschulden:"
+    "Net Debts:": "Nettoschulden:",
+    "Access Revocation Incomplete": "Herroeping van de rechten niet voltooid",
+    "Cash Flow": "Cashflow",
+    "Cash flow graph": "Cashflow grafiek"
 }
