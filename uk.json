@@ -711,7 +711,6 @@
     "Payments": "Платежі",
     "Show transactions for {{categoryName}} category": "Показати трансакції для категорії {{categoryName}}",
     "More": "більше",
-    "Repair split transactions": "Виправлення розділених транзакцій",
     "Next month": "Наступного місяця",
     "No budget files": "Немає бюджетних файлів",
     "Set category for selected transactions": "Встановити категорію для вибраних транзакцій",
@@ -745,7 +744,6 @@
     "Set-up SimpleFIN": "Налаштування SimpleFIN",
     "Rename budget": "Перейменувати бюджет",
     "Restart app": "Перезапустіть програму",
-    "Scheduled transaction upcoming length adjustment": "Майбутнє коригування тривалості запланованої транзакції",
     "Stacked Bar Graph": "Стокова гістограма",
     "Calendar card": "Календарна картка",
     "Save compare and filter options": "Збережіть параметри порівняння та фільтрування",
@@ -781,25 +779,6 @@
     "The old unsupported desktop app": "Стара непідтримувана настільна програма",
     "Text position:": "Позиція тексту:",
     "Text widget": "Текстовий віджет",
-    "<0><0>Repair split transactions</0> if you are experiencing bugs relating to split transactions and the “Reset budget cache” button above does not help, this tool may fix them": {
-        " Some examples of bugs include seeing blank payees on splits or incorrect account balances": {
-            " This tool does three things:</0><1><0>Ensures that deleted split transactions are fully deleted": {
-                " In previous versions of the app, certain split transactions may appear deleted but not all of them are actually deleted": {
-                    " This causes the transactions list to look correct, but certain balances may be incorrect when filtering": {
-                        "</0><1>Sync the payee and cleared flag of a split transaction to the main or “parent” transaction, if appropriate": {
-                            " The payee will only be set if it currently doesn’t have one": {
-                                "</1><2>Checks that the sum of all child transactions adds up to the total amount": {
-                                    " If not, these will be flagged below to allow you to easily locate and fix the amounts": {
-                                        "</2></1>": "<0><0>Виправте розділені транзакції</0>, якщо у вас виникли помилки, пов’язані з розділеними транзакціями, і кнопка «Скинути кеш бюджету» вище не допомагає, цей інструмент може їх виправити. Деякі приклади помилок включають відображення порожніх одержувачів на розподілах або неправильні залишки на рахунку. Цей інструмент робить три речі:</0><1><0>Переконується, що видалені розділені транзакції повністю видаляються. У попередніх версіях програми певні розділені транзакції могли виглядати видаленими, але не всі з них видалялися. Це призводить до того, що список транзакцій виглядає правильно, але певні баланси можуть бути неправильними під час фільтрування.</0><1>Синхронізуйте одержувача платежу та позначку очищення розділеної транзакції з основною або «батьківською» транзакцією, якщо це необхідно. Одержувач платежу буде встановлено, лише якщо його наразі немає.</1><2>Перевіряє, чи сума всіх дочірніх транзакцій дорівнює загальній сумі. Якщо ні, вони будуть позначені нижче, щоб ви могли легко знайти та виправити суми.</2></1>"
-                                    }
-                                }
-                            }
-                        }
-                    }
-                }
-            }
-        }
-    },
     "Select the login method": "Виберіть спосіб входу",
     "Then apply these actions:": "Потім застосуйте такі дії:",
     "Back to file list": "Назад до списку файлів",
