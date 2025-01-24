@@ -27,7 +27,7 @@
     "Amount": "Monto",
     "Currently, Actual implements budgeting based on a <2>monthly envelope system</2>.": "De momento, Actual implementa presupuestos basados en un <2>sistema de sobres mensuales</2>.",
     "Existing sessions will be logged out and you will log in to this server. We will validate that Actual is running at this URL.": "Se te desconectará de las sesiones existentes y te conectarás a este servidor. Validaremos que Actual se está ejecutando en esta dirección.",
-    "Downloading...": "Descargando...",
+    "Downloading...": "Descargando…",
     "{{displayMonth}} end-of-month cleanup templates have been applied.": "Se han aplicado las plantillas de limpieza de fin de mes de {{displayMonth}}.",
     "{{displayMonth}} budgets have all been set to zero.": "Los presupuestos de {{displayMonth}} se han establecido en cero.",
     "{{displayMonth}} budgets have all been set to last month’s budgeted amounts.": "Los presupuestos de {{displayMonth}} se han establecido con las mismas cantidades del mes pasado.",
@@ -39,5 +39,10 @@
     "{{displayMonth}} budget templates have been overwritten.": "Se han sobreescrito las plantillas del presupuesto de {{displayMonth}}.",
     "{{displayMonth}} budget templates have been applied.": "Se han aplicado las plantillas del presupuesto de {{displayMonth}}.",
     "<0>Actual’s data directory</0> <2><0>where your files are stored</0></2>": "<0>Directorio de datos de Actual</0> <2><0>donde se almacenan tus datos</0></2>",
-    "<0>Authentication method</0> modifies how users log in to the system.": "<0>Método de autenticación</0> modifica la forma en que los usuarios inician sesión en el sistema."
+    "<0>Authentication method</0> modifies how users log in to the system.": "<0>Método de autenticación</0> modifica la forma en que los usuarios inician sesión en el sistema.",
+    "(Optional)": "(Opcional)",
+    "(hidden)": "(oculto)",
+    "(modified)": "(modificado)",
+    "<0>Create a local account</0> if you want to add transactions manually. You can also <3>import QIF/OFX/QFX files into a local account</3>.": "<0>Crea una cuenta local</0> si deseas agregar transacciones manualmente. También puedes <3>importar archivos QIF/OFX/QFX en una cuenta local</3>.",
+    "<0>Envelope budgeting</0> (recommended) digitally mimics physical envelope budgeting system by allocating funds into virtual envelopes for different expenses. It helps track spending and ensure you don‘t overspend in any category.": "<0>Presupuestación con sobres</0> (recomendado) imita digitalmente el sistema de presupuestación con sobres físicos al asignar fondos a sobres virtuales para diferentes gastos. Ayuda a rastrear el gasto y asegura que no te excedas en ninguna categoría."
 }
