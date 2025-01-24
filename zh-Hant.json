@@ -78,7 +78,6 @@
     "Revert": "復原",
     "Server is not running at this URL. Make sure you have HTTPS set up properly.": "此URL並無運行中的伺服器端，請檢查HTTPS設定正確與否。",
     "Show": "顯示",
-    "Skip scheduled date": "略過排程日子",
     "There was a problem syncing your data. We can try to repair your sync state to fix it.": "在同步你的資料時發生問題，我們可以重新同步以嘗試解決問題。",
     "This file is not a cloud file": "此檔案並非雲端檔案",
     "Unable to encrypt your data. You have the correct key so this is likely an internal failure. To fix this, reset your sync data with a new key.": "無法加密資料。你的密鑰正確，所以應該發生了內部問題。請建立新密鑰並重新同步資料以解決此問題。",

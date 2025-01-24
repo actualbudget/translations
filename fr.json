@@ -49,7 +49,6 @@
     "Repair": "Réparer",
     "Reset key": "Réinitialiser la clé",
     "Server does not look like an Actual server. Is it set up correctly?": "Le serveur ne ressemble pas à un serveur Actual. Est-il configuré correctement ?",
-    "Skip scheduled date": "Sauter la date prévue",
     "Something went wrong when creating this cloud file. You need to upload this file to fix it.": "Un problème s'est produit lors de la création de ce fichier cloud. Vous devez télécharger ce fichier pour le corriger.",
     "Something went wrong when registering your encryption key id. You need to recreate your key. ": "Un problème s'est produit lors de l'enregistrement de votre clé de cryptage. Vous devez recréer votre clé. ",
     "Syncing has been reset on this cloud file": "La synchronisation a été réinitialisée sur ce fichier cloud",
