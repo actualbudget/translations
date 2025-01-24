@@ -94,5 +94,6 @@
     "Change server URL": "Server URL ändern",
     "{{selectedPayeeNames}}, and more": "{{selectedPayeeNames}} und weitere",
     "Change server password": "Serverpasswort ändern",
-    "(modified)": "(verändert)"
+    "(modified)": "(verändert)",
+    "(hidden)": "(versteckt)"
 }
