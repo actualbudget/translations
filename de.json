@@ -91,5 +91,8 @@
     "Help": "Hilfe",
     "Weekly Templates": "Wöchentliche Vorlagen",
     "Waiting on GoCardless...": "Warten auf GoCardless...",
-    "Change server URL": "Server URL ändern"
+    "Change server URL": "Server URL ändern",
+    "{{selectedPayeeNames}}, and more": "{{selectedPayeeNames}} und weitere",
+    "Change server password": "Serverpasswort ändern",
+    "(modified)": "(verändert)"
 }
