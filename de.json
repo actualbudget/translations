@@ -88,5 +88,8 @@
     "Close file": "Datei schließen",
     "Weekly": "Wöchentlich",
     "Create a local account": "Ein lokales Konto erstellen",
-    "Help": "Hilfe"
+    "Help": "Hilfe",
+    "Weekly Templates": "Wöchentliche Vorlagen",
+    "Waiting on GoCardless...": "Warten auf GoCardless...",
+    "Change server URL": "Server URL ändern"
 }
