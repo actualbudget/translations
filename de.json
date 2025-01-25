@@ -95,5 +95,18 @@
     "{{selectedPayeeNames}}, and more": "{{selectedPayeeNames}} und weitere",
     "Change server password": "Serverpasswort ändern",
     "(modified)": "(verändert)",
-    "(hidden)": "(versteckt)"
+    "(hidden)": "(versteckt)",
+    "Checking GoCardless configuration..": "Überprüfe GoCardless Konfiguration..",
+    "(Optional)": "(Optional)",
+    "(none)": "(nichts)",
+    "(please select)": "(bitte auswählen)",
+    "{{count}} associated rules_one": "{{count}} verknüpfte Regel",
+    "{{count}} associated rules_other": "{{count}} verknüpfte Regeln",
+    "{{displayMonth}} budget templates have been applied.": "{{displayMonth}} Budgetvorlagen wurden angewendet.",
+    "{{displayMonth}} budget templates have been overwritten.": "{{displayMonth}} Budgetvorlagen wurden überschrieben.",
+    "{{displayMonth}} budgets have all been set to last month’s budgeted amounts.": "{{displayMonth}} Budgets wurden auf die Beträge vom letzten Monat gesetzt.",
+    "{{displayMonth}} budgets have all been set to zero.": "{{displayMonth}} Budgets wurden auf Null zurückgesetzt.",
+    "{{displayMonth}} end-of-month cleanup templates have been applied.": "{{displayMonth}} Monatsende Aufräum-Vorlagen wurden angewendet.",
+    "Create": "Erstellen",
+    "Check templates": "Vorlagen überprüfen"
 }
