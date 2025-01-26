@@ -1,1 +1,18 @@
-{}
+{
+    "(give feedback)": "(deixar feedback)",
+    "(modified)": "(modificado)",
+    "{{count}} associated rules_one": "{{count}} regra associada",
+    "{{count}} associated rules_many": "{{count}} regras associadas",
+    "{{count}} associated rules_other": "{{count}} regras associadas",
+    "(none)": "(nenhum)",
+    "(Optional)": "(Opcional)",
+    "(please select)": "(selecione)",
+    "{{count}} transactions_one": "{{count}} transação",
+    "{{count}} transactions_many": "{{count}} transações",
+    "{{count}} transactions_other": "{{count}} transações",
+    "{{displayMonth}} budget templates have been applied.": "Os modelos de orçamento de {{displayMonth}} foram aplicados.",
+    "{{displayMonth}} budget templates have been overwritten.": "Os modelos de orçamento de {{displayMonth}} foram substituídos.",
+    "{{displayMonth}} budgets have all been set to zero.": "Todos os orçamentos de {{displayMonth}} foram colocados a zero.",
+    "{{displayMonth}} end-of-month cleanup templates have been applied.": "Foram aplicados os modelos de limpeza de final de mês para {{displayMonth}}.",
+    "{{selectedPayeeNames}}, and more": "{{selectedPayeeNames}}, e mais"
+}
