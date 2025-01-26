@@ -108,5 +108,12 @@
     "{{displayMonth}} budgets have all been set to zero.": "{{displayMonth}} Budgets wurden auf Null zurückgesetzt.",
     "{{displayMonth}} end-of-month cleanup templates have been applied.": "{{displayMonth}} Monatsende Aufräum-Vorlagen wurden angewendet.",
     "Create": "Erstellen",
-    "Check templates": "Vorlagen überprüfen"
+    "Check templates": "Vorlagen überprüfen",
+    "<0>Goal:</0><1>{{amount}}</1>": "<0>Ziel:</0><1>{{amount}}</1>",
+    "<0>Custom Report:</0> <2>{{name}}</2>": "<0>Benutzerdefinierter Bericht:</0> <2>{{name}}</2>",
+    "28+": "28+",
+    "1 month": "1 Monat",
+    "3 months": "3 Monate",
+    "6 months": "6 Monate",
+    "Access": "Zugriff"
 }
