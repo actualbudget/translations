@@ -973,5 +973,11 @@
     "View next month": "Volgende maand tonen",
     "You can load a different backup or revert to the original version below.": "Je kunt hieronder een andere back-up laden of teruggaan naar de originele versie.",
     "Year to date": "Jaar tot op heden",
-    "You are about to change Actual’s data directory from:": "Je staat op het punt om de gegevensmap van Actual te wijzigen van:"
+    "You are about to change Actual’s data directory from:": "Je staat op het punt om de gegevensmap van Actual te wijzigen van:",
+    "Enable category learning": "Het leren van categorieën inschakelen",
+    "Category learning disabled": "Het leren van categorieën is uitgeschakeld",
+    "Disable category learning": "Het leren van categorieën uitschakelen",
+    "Category learning settings": "Instellingen voor het leren van categorieën",
+    "<0>Category Learning</0> will automatically determine the best category for a transaction and create a rule that sets the category for the payee. <3>Learn more</3>": "<0>Leren van Categorieën</0> zal automatisch de beste categorie voor een transactie bepalen en een regel maken die de categorie voor de begunstigde instelt. <3>Meer informatie</3>",
+    "Disabling Category Learning will not delete any existing rules but will prevent new rules from being created automatically on a global level.": "Het leren van categorieën uitschakelen zal geen bestaande regels verwijderen. Het voorkomt dat nieuwe regels automatisch globaal worden aangemaakt."
 }
