@@ -1,1 +1,10 @@
-{}
+{
+    "(hidden)": "(skjult)",
+    "(Optional)": "(Valgfri)",
+    "(please select)": "(vælg venligst)",
+    "(modified)": "(ændret)",
+    "{{count}} associated rules_one": "{{count}} tilknyttet regel",
+    "{{count}} associated rules_other": "{{count}} tilknyttede regler",
+    "{{count}} transactions_one": "{{count}} transaktion",
+    "{{count}} transactions_other": "{{count}} transaktioner"
+}
