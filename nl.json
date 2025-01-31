@@ -842,8 +842,8 @@
     "Fixed {{count}} splits that weren’t properly deleted._other": "{{count}} splitsingen hersteld die niet correct waren verwijderd.",
     "Fixed {{count}} splits with a blank payee._one": "{{count}} splitsing met een lege begunstigde gerepareerd.",
     "Fixed {{count}} splits with a blank payee._other": "{{count}} splitsingen met een lege begunstigde gerepareerd.",
-    "Found {{count}} split transactions with mismatched amounts on the below dates. Please review them manually:_one": "{{aantal}} gesplitste transactie gevonden met onjuist bedrag op de onderstaande datum. Controleer deze handmatig:",
-    "Found {{count}} split transactions with mismatched amounts on the below dates. Please review them manually:_other": "{{aantal}} gesplitste transacties gevonden met onjuiste bedragen op de onderstaande datums. Controleer deze handmatig:",
+    "Found {{count}} split transactions with mismatched amounts on the below dates. Please review them manually:_one": "{{count}} gesplitste transactie gevonden met onjuist bedrag op de onderstaande datum. Controleer deze handmatig:",
+    "Found {{count}} split transactions with mismatched amounts on the below dates. Please review them manually:_other": "{{count}} gesplitste transacties gevonden met onjuiste bedragen op de onderstaande datums. Controleer deze handmatig:",
     "Hold": "Vasthouden",
     "Hold this amount:": "Houd dit bedrag vast:",
     "How is net worth calculated?": "Hoe wordt netto vermogen berekend?",
@@ -979,5 +979,6 @@
     "Disable category learning": "Het leren van categorieën uitschakelen",
     "Category learning settings": "Instellingen voor het leren van categorieën",
     "<0>Category Learning</0> will automatically determine the best category for a transaction and create a rule that sets the category for the payee. <3>Learn more</3>": "<0>Leren van Categorieën</0> zal automatisch de beste categorie voor een transactie bepalen en een regel maken die de categorie voor de begunstigde instelt. <3>Meer informatie</3>",
-    "Disabling Category Learning will not delete any existing rules but will prevent new rules from being created automatically on a global level.": "Het leren van categorieën uitschakelen zal geen bestaande regels verwijderen. Het voorkomt dat nieuwe regels automatisch globaal worden aangemaakt."
+    "Disabling Category Learning will not delete any existing rules but will prevent new rules from being created automatically on a global level.": "Het leren van categorieën uitschakelen zal geen bestaande regels verwijderen. Het voorkomt dat nieuwe regels automatisch globaal worden aangemaakt.",
+    "Release Notes": "Releaseopmerkingen"
 }
