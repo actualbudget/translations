@@ -1019,5 +1019,8 @@
     "Modal logo": "Modaal logo",
     "Note that the URL depends on your authentik domain and provider slug name.": "De URL is afhankelijk van je authentik domein en aanbieder slug naam.",
     "The payees <1>{payeeNamesList}</1> have schedules that are due today._one": "De begunstigde <1>{payeeNamesList}</1> heeft een schema die vandaag betaald moet worden.",
-    "The payees <1>{payeeNamesList}</1> have schedules that are due today._other": "De begunstigden <1>{payeeNamesList}</1> hebben schema's die vandaag betaald moeten worden."
+    "The payees <1>{payeeNamesList}</1> have schedules that are due today._other": "De begunstigden <1>{payeeNamesList}</1> hebben schema's die vandaag betaald moeten worden.",
+    "Set up bank-sync": "Banksynchronisatie instellen",
+    "Schedule Templates": "Schemasjablonen",
+    "Set up bank sync": "Banksynchronisatie instellen"
 }
