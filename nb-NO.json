@@ -1,1 +1,6 @@
-{}
+{
+    "(hidden)": "(gjemt)",
+    "(modified)": "(endret)",
+    "{{count}} transactions_one": "{{count}} transaksjon",
+    "{{count}} transactions_other": "{{count}} transaksjoner"
+}
