@@ -118,7 +118,7 @@
     "Access": "Zugriff",
     "Calendar": "Kalender",
     "Average:": "Durchschnitt:",
-    "amount": "Menge",
+    "amount": "Betrag",
     "Assets:": "Kapitalanlagen:",
     "Amount:": "Betrag:",
     "all transactions": "Alle Transaktionen",
@@ -143,8 +143,8 @@
     "Admin": "Administrator",
     "Advanced options": "Erweiterte Optionen",
     "Advanced Settings": "Erweiterte Einstellungen",
-    "amount (inflow)": "Betrag (Zufluss)",
-    "Amount (inflow)": "Betrag (Zufluss)",
+    "amount (inflow)": "Betrag (Einnahmen)",
+    "Amount (inflow)": "Betrag (Einnahmen)",
     "and": "und",
     "Average": "Durchschnitt",
     "Bar Graph": "Balkendiagramm",
@@ -512,5 +512,7 @@
     "Deposits": "Einzahlungen",
     "Enable templating": "Templates aktivieren",
     "Reauthorize": "Reautorisieren",
-    "to ": "bis "
+    "to ": "bis ",
+    "amount (outflow)": "Betrag (Ausgaben)",
+    "Amount (outflow)": "Betrag (Ausgaben)"
 }
