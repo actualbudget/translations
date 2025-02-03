@@ -95,7 +95,7 @@
     "{{selectedPayeeNames}}, and more": "{{selectedPayeeNames}} und weitere",
     "Change server password": "Serverpasswort ändern",
     "(modified)": "(verändert)",
-    "(hidden)": "(versteckt)",
+    "(hidden)": "(ausgeblendet)",
     "Checking GoCardless configuration..": "Überprüfe GoCardless Konfiguration..",
     "(Optional)": "(Optional)",
     "(none)": "(nichts)",
