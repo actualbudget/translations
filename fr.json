@@ -106,5 +106,8 @@
     "You can load a different backup or revert to the original version below.": "Vous pouvez charger une sauvegarde différente ou revenir à la version original ci-dessous.",
     "Your SimpleFIN Access Token is no longer valid. Please reset and generate a new token.": "Votre jeton d'accès à SimpleFin n'est plus valide. Merci de le réinitialiser et de générer un nouveau jeton",
     "{{displayMonth}} budget templates have been overwritten.": "Les modèles de budget pour {{displayMonth}} ont été écrasés.",
-    "{{displayMonth}} budget templates have been applied.": "Le modèle de budget pour {{displayMonth}} a été appliqué."
+    "{{displayMonth}} budget templates have been applied.": "Le modèle de budget pour {{displayMonth}} a été appliqué.",
+    "{{selectedPayeeNames}}, and more": "{{selectedPayeeNames}}, et plus",
+    "{{displayMonth}} budgets have all been set to last month’s budgeted amounts.": "Les budgets de {{displayMonth}} ont tous été fixés aux montants budgétisés du mois dernier.",
+    "{{displayMonth}} end-of-month cleanup templates have been applied.": "Les nettoyages de fin de mois de {{displayMonth}} ont été appliqué."
 }
