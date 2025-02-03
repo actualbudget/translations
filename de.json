@@ -107,7 +107,7 @@
     "{{displayMonth}} budgets have all been set to last month’s budgeted amounts.": "{{displayMonth}} Budgets wurden auf die Beträge vom letzten Monat gesetzt.",
     "{{displayMonth}} budgets have all been set to zero.": "{{displayMonth}} Budgets wurden auf Null zurückgesetzt.",
     "{{displayMonth}} end-of-month cleanup templates have been applied.": "{{displayMonth}} Monatsende Aufräum-Vorlagen wurden angewendet.",
-    "Create": "Erstellen",
+    "Create": "Erstelle",
     "Check templates": "Vorlagen überprüfen",
     "<0>Goal:</0><1>{{amount}}</1>": "<0>Ziel:</0><1>{{amount}}</1>",
     "<0>Custom Report:</0> <2>{{name}}</2>": "<0>Benutzerdefinierter Bericht:</0> <2>{{name}}</2>",
