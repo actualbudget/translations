@@ -250,5 +250,7 @@
     "Income": "Einnahmen",
     "Name": "Name",
     "Schedule": "Terminplan",
-    "is": "ist"
+    "is": "ist",
+    "<0>No server configured</0>": "<0>Kein Server konfiguriert</0>",
+    "Balance": "Saldo"
 }
