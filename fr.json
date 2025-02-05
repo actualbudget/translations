@@ -109,5 +109,13 @@
     "{{displayMonth}} budget templates have been applied.": "Le modèle de budget pour {{displayMonth}} a été appliqué.",
     "{{selectedPayeeNames}}, and more": "{{selectedPayeeNames}}, et plus",
     "{{displayMonth}} budgets have all been set to last month’s budgeted amounts.": "Les budgets de {{displayMonth}} ont tous été fixés aux montants budgétisés du mois dernier.",
-    "{{displayMonth}} end-of-month cleanup templates have been applied.": "Les nettoyages de fin de mois de {{displayMonth}} ont été appliqué."
+    "{{displayMonth}} end-of-month cleanup templates have been applied.": "Les nettoyages de fin de mois de {{displayMonth}} ont été appliqué.",
+    "<0>Create a local account</0> if you want to add transactions manually. You can also <3>import QIF/OFX/QFX files into a local account</3>.": "<0>Créez un compte local</0> si vous souhaitez ajouter des transactions manuellement. Vous pouvez également <3>importer des fichiers QIF/OFX/QFX dans un compte local</3>.",
+    "<0>Actual</0> is a super fast privacy-focused app for managing your finances.": "<0>Actual</0> est une application super rapide, axée sur la confidentialité, qui vous permet de gérer vos finances.",
+    "<0>Category Learning</0> will automatically determine the best category for a transaction and create a rule that sets the category for the payee. <3>Learn more</3>": "<0>L'apprentissage de la catégorie</0> détermine automatiquement la meilleure catégorie pour une transaction et crée une règle qui définit la catégorie pour le bénéficiaire. <3>En savoir plus</3>",
+    "<0>Budgeted:</0><1>{{amount}}</1>": "<0>Budgétisé :</0><1>{{amount}}</1>",
+    "<0>Custom Report:</0> <2>{{name}}</2>": "<0>Rapport personnalisé:</0> <2>{{name}}</2>",
+    "<0>Budget ID:</0> {{budgetId}}": "<0>Identifiant budget:</0> {{budgetId}}",
+    "<0>Authentication method</0> modifies how users log in to the system.": "<0>Méthode d'authentification</0> modifie la façon dont les utilisateurs se connectent au système.",
+    "<0>Balance:</0><1>{{amount}}</1>": "<0>Balance:</0><1>{{amount}}</1>"
 }
