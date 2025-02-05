@@ -117,5 +117,7 @@
     "<0>Custom Report:</0> <2>{{name}}</2>": "<0>Rapport personnalisé:</0> <2>{{name}}</2>",
     "<0>Budget ID:</0> {{budgetId}}": "<0>Identifiant budget:</0> {{budgetId}}",
     "<0>Authentication method</0> modifies how users log in to the system.": "<0>Méthode d'authentification</0> modifie la façon dont les utilisateurs se connectent au système.",
-    "<0>Balance:</0><1>{{amount}}</1>": "<0>Balance:</0><1>{{amount}}</1>"
+    "<0>Balance:</0><1>{{amount}}</1>": "<0>Balance:</0><1>{{amount}}</1>",
+    "<0>Read here</0> for instructions on how to migrate your data from YNAB. You need to export your data as JSON, and that page explains how to do that.": "<0>Lire cette page</0> pour savoir comment migrer vos données depuis YNAB. Vous devez exporter vos données au format JSON, et cette page explique comment procéder.",
+    "<0>No server configured</0>": "<0>Aucun serveur configuré</0>"
 }
