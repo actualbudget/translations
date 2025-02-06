@@ -1057,5 +1057,13 @@
     "Suggested Payees": "Empfohlene Zahlungsempfänger",
     "Text position:": "Textposition:",
     "Uncleared total:": "Vorgemerkte Summe:",
-    "Unsaved filter": "Ungesicherter Filter"
+    "Unsaved filter": "Ungesicherter Filter",
+    "Transaction list": "Transaktionsliste",
+    "This will change the password for this server instance. All existing sessions will stay logged in.": "Dadurch wird das Passwort für diese Serverinstanz geändert. Alle bestehenden Sitzungen bleiben eingeloggt.",
+    "Toggle the privacy filter": "Umschalten des Datenschutzfilters",
+    "This rule applies to these transactions:": "Diese Regel gilt für diese Transaktionen:",
+    "Toggle all transactions between current and most recently selected transaction": "Alle Transaktionen zwischen der aktuellen und der zuletzt ausgewählten Transaktion umschalten",
+    "Toggle hidden categories": "Ausgeblendete Kategorien umschalten",
+    "Toggle selection of current transaction": "Umschalten der Auswahl der aktuellen Transaktion",
+    "To Be Budgeted": "Zu budgetieren"
 }
