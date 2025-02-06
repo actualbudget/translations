@@ -1,1 +1,17 @@
-{}
+{
+    "{{count}} transactions_one": "{{count}} transazione",
+    "{{count}} transactions_many": "{{count}} transazioni",
+    "{{count}} transactions_other": "",
+    "{{count}} associated rules_one": "{{count}} regola associata",
+    "{{count}} associated rules_many": "{{count}} regole associate",
+    "{{count}} associated rules_other": "",
+    "{{displayMonth}} budget templates have been applied.": "{{displayMonth}} modelli di bilancio applicati.",
+    "(hidden)": "(nascosto)",
+    "(modified)": "(modificato)",
+    "(none)": "(nessuno)",
+    "(Optional)": "(Opzionale)",
+    "(please select)": "(si prega di selezionare)",
+    "{{displayMonth}} budgets have all been set to last month’s budgeted amounts.": "Tutti i budget di {{displayMonth}} sono stati impostati sugli importi preventivati del mese scorso.",
+    "{{displayMonth}} end-of-month cleanup templates have been applied.": "Sono stati applicati {{displayMonth}} modelli di pulizia di fine mese.",
+    "{{displayMonth}} budget templates have been overwritten.": "{{displayMonth}} modelli di bilancio sovrascritti."
+}
