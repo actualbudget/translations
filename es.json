@@ -84,5 +84,9 @@
     "Average:": "Promedio:",
     "<0>Reset budget cache</0> will clear all cached values for the budget and recalculate the entire budget. All values in the budget are cached for performance reasons, and if there is a bug in the cache you won’t see correct values. There is no danger in resetting the cache. Hopefully you never have to do this.": "<0>Restablecer caché del presupuesto</0> borrará todos los valores almacenados en caché para el presupuesto y recalculará todo el presupuesto. Todos los valores del presupuesto se almacenan en caché por razones de rendimiento, y si hay un error en la caché no verás los valores correctos. No hay peligro en restablecer la caché. Esperemos que nunca tengas que hacer esto.",
     "Accounts": "Cuentas",
-    "(give feedback)": "(dar feedback)"
+    "(give feedback)": "(dar feedback)",
+    "(none)": "(ninguno)",
+    "{{count}} associated rules_one": "{{count}} regla asociada",
+    "{{count}} associated rules_many": "{{count}} reglas asociadas",
+    "{{count}} associated rules_other": "{{count}} de reglas asociadas"
 }
