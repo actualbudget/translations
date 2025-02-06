@@ -14,5 +14,6 @@
     "{{displayMonth}} budget templates have been overwritten.": "Os modelos de orçamento de {{displayMonth}} foram substituídos.",
     "{{displayMonth}} budgets have all been set to zero.": "Todos os orçamentos de {{displayMonth}} foram colocados a zero.",
     "{{displayMonth}} end-of-month cleanup templates have been applied.": "Foram aplicados os modelos de limpeza de final de mês para {{displayMonth}}.",
-    "{{selectedPayeeNames}}, and more": "{{selectedPayeeNames}}, e mais"
+    "{{selectedPayeeNames}}, and more": "{{selectedPayeeNames}}, e mais",
+    "(hidden)": "(oculto)"
 }
