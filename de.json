@@ -1065,5 +1065,7 @@
     "Toggle all transactions between current and most recently selected transaction": "Alle Transaktionen zwischen der aktuellen und der zuletzt ausgewählten Transaktion umschalten",
     "Toggle hidden categories": "Ausgeblendete Kategorien umschalten",
     "Toggle selection of current transaction": "Umschalten der Auswahl der aktuellen Transaktion",
-    "To Be Budgeted": "Zu budgetieren"
+    "To Be Budgeted": "Zu budgetieren",
+    "Try again": "Erneut versuchen",
+    "Timed out. Please try again.": "Zeitüberschreitung. Bitte versuche es erneut."
 }
