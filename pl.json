@@ -1,1 +1,16 @@
-{}
+{
+    "<0>Budgeted:</0><1>{{amount}}</1>": "<0>Zabudżetowane:</0><1>{{amount}}</1>",
+    "{{count}} transactions_one": "{{count}} transakcja",
+    "{{count}} transactions_few": "{{count}} transakcje",
+    "{{count}} transactions_many": "{{count}} transakcji",
+    "{{count}} associated rules_one": "{{count}} powiązana reguła",
+    "{{count}} associated rules_few": "{{count}} powiązane reguły",
+    "{{count}} associated rules_many": "{{count}} powiązanych reguł",
+    "<0>Balance:</0><1>{{amount}}</1>": "<0>Bilans:</0><1>{{amount}}</1>",
+    "(give feedback)": "(podziel się opinią)",
+    "<0>Budget ID:</0> {{budgetId}}": "<0>ID budżetu:</0> {{budgetId}}",
+    "{{selectedPayeeNames}}, and more": "{{selectedPayeeNames}} i więcej",
+    "(please select)": "(wybierz)",
+    "(Optional)": "(Opcjonalne)",
+    "(none)": "(brak)"
+}
