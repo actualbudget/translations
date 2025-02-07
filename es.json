@@ -88,5 +88,16 @@
     "(none)": "(ninguno)",
     "{{count}} associated rules_one": "{{count}} regla asociada",
     "{{count}} associated rules_many": "{{count}} reglas asociadas",
-    "{{count}} associated rules_other": "{{count}} de reglas asociadas"
+    "{{count}} associated rules_other": "{{count}} de reglas asociadas",
+    "<0>Important:</0> if you forget this password <3>and</3> you don’t have any local copies of your data, you will lose access to all your data. The data cannot be decrypted without the password.": "<0>Importante:</0> si olvidas esta contraseña <3>y</3> no tienes copias locales de tus datos, perderás el acceso a todos tus datos. Los datos no pueden ser descifrados sin la contraseña.",
+    "<0>Formatting</0> does not affect how budget data is stored, and can be changed at any time.": "<0>El formato</0> no afecta a la forma en que se almacenan los datos del presupuesto, y se puede cambiar en cualquier momento.",
+    "amount (outflow)": "monto (salida)",
+    "An error occurred while saving. Please visit https://actualbudget.org/contact/ for support.": "Ha ocurrido un error al guardar. Por favor visita https://actualbudget.org/contact/ para obtener soporte.",
+    "A valid amount is required": "Se requiere un monto válido",
+    "<0>End-to-end encryption</0> is not available when making an unencrypted connection to a remote server. You’ll need to enable HTTPS on your server to use end-to-end encryption. This problem may also occur if your browser is too old to work with Actual.": "<0>El cifrado de extremo a extremo</0> no está disponible al establecer una conexión sin cifrar a un servidor remoto. Necesitarás habilitar HTTPS en tu servidor para usar cifrado de extremo a extremo. Este problema también puede ocurrir si tu navegador es demasiado antiguo para trabajar con Actual.",
+    "<0>End-to-end encryption</0> is not enabled. Any data on the server is still protected by the server password, but it’s not end-to-end encrypted which means the server owners have the ability to read it. If you want, you can use an additional password to encrypt your data on the server.": "<0>El cifrado de extremo a extremo</0> no está habilitado. Cualquier dato en el servidor sigue estando protegido por la contraseña del servidor, pero no está cifrado de extremo a extremo, por lo que los propietarios del servidor tienen la capacidad de leerlo. Si lo deseas, puedes usar una contraseña adicional para cifrar tus datos en el servidor.",
+    "amount": "monto",
+    "An error occurred while linking your account, sorry!": "Ha ocurrido un error al vincular tu cuenta, ¡perdón!",
+    "<0>End-to-end encryption</0> is not available when running without a server. Budget files are always kept unencrypted locally, and encryption is only applied when sending data to a server.": "<0>El cifrado de extremo a extremo</0> no está disponible cuando se ejecuta sin un servidor. Los archivos de presupuesto siempre se mantienen sin cifrar localmente, y el cifrado solo se aplica al enviar datos a un servidor.",
+    "Amount (outflow)": "Monto (salida)"
 }
