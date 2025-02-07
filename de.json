@@ -1086,5 +1086,7 @@
     "To link your bank account, you will be redirected to a new page where GoCardless will ask to connect to your bank. GoCardless will not be able to withdraw funds from your accounts.": "Um Ihr Bankkonto zu verknüpfen, werden Sie auf eine neue Seite weitergeleitet, auf der GoCardless Sie auffordert, sich mit Ihrer Bank zu verbinden. GoCardless wird nicht in der Lage sein, Geld von Ihren Konten abzuheben.",
     "Transfer ownership": "Übertragung des Eigentums",
     "Transfer this amount:": "Überweisen Sie diesen Betrag:",
-    "Transfer is required": "Die Übertragung ist erforderlich"
+    "Transfer is required": "Die Übertragung ist erforderlich",
+    "To Budget": "Zu Budgetieren",
+    "Switch theme": "Thema wechseln"
 }
