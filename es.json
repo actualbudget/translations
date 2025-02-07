@@ -99,5 +99,9 @@
     "amount": "monto",
     "An error occurred while linking your account, sorry!": "Ha ocurrido un error al vincular tu cuenta, ¡perdón!",
     "<0>End-to-end encryption</0> is not available when running without a server. Budget files are always kept unencrypted locally, and encryption is only applied when sending data to a server.": "<0>El cifrado de extremo a extremo</0> no está disponible cuando se ejecuta sin un servidor. Los archivos de presupuesto siempre se mantienen sin cifrar localmente, y el cifrado solo se aplica al enviar datos a un servidor.",
-    "Amount (outflow)": "Monto (salida)"
+    "Amount (outflow)": "Monto (salida)",
+    "Actual requires access to <1>SharedArrayBuffer</1> in order to function properly. If you’re seeing this error, either your browser does not support <3>SharedArrayBuffer</3>, or your server is not sending the appropriate headers, or you are not using HTTPS. See <6>our troubleshooting documentation</6> to learn more. <9></9>": "Actual necesita acceso a <1>SharedArrayBuffer</1> para funcionar correctamente. Si ves este error, puede que tu navegador no sea compatible con <3>SharedArrayBuffer</3>, o que tu servidor no esté enviando los encabezados adecuados, o que no estés usando HTTPS. Consulta <6>nuestra documentación de solución de problemas</6> para obtener más información. <9></9>",
+    "28+": "28+",
+    "Add new widget": "Crear nuevo widget",
+    "Actual uses <1>SharedArrayBuffer</1> to allow usage from multiple tabs at once and to ensure correct behavior when switching files. While it can run without access to<3>SharedArrayBuffer</3>, you may encounter data loss or notice multiple budget files being merged with each other.": "Actual utiliza <1>SharedArrayBuffer</1> para permitir el uso de varias pestañas al mismo tiempo y garantizar el comportamiento correcto al cambiar de archivos. Aunque puede funcionar sin acceso a <3>SharedArrayBuffer</3>, podrías experimentar pérdida de datos o notar que varios archivos de presupuesto se fusionan entre sí."
 }
