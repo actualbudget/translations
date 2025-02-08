@@ -1151,5 +1151,6 @@
     "We don’t have a key that encrypts or decrypts this file. Enter the password for this file to create the key for encryption.": "Wir haben keinen Schlüssel, um diese Datei zu verschlüsseln oder zu entschlüsseln. Gib das Passwort für diese Datei ein, um den Schlüssel für die Verschlüsselung zu erstellen.",
     "We found some possible schedules in your current transactions. Select the ones you want to create.": "Wir haben einige mögliche Terminpläne in deinen aktuellen Transaktionen gefunden. Wähle diejenigen aus, die du erstellen möchtest.",
     "Unknown error with budget name": "Unbekannter Fehler mit dem Namen des Budgets",
-    "Unsplit transaction": "Teilung einer Transaktion aufheben"
+    "Unsplit transaction": "Teilung einer Transaktion aufheben",
+    "You don't have the required permissions to set up secrets. Please contact an Admin to configure": "Du hast nicht die erforderlichen Berechtigungen, um Secrets einzurichten. Bitte kontaktiere einen Administrator zur Konfiguration"
 }
