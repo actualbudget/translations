@@ -1075,7 +1075,7 @@
     "Can do everything that Basic users can. In addition, they have the ability to add new users to the directory and access budget files from all users.": "Können alles tun, was Basic-Benutzer können. Zusätzlich haben sie die Möglichkeit, neue Benutzer zum Verzeichnis hinzuzufügen und auf Budgetdateien aller Benutzer zuzugreifen.",
     "Interval": "Intervall",
     "Group": "Gruppe",
-    "Transfer to:": "Umbuchen auf:",
+    "Transfer to:": "Übertragen auf:",
     "There was a problem loading your report": "Beim Laden deines Berichts ist ein Problem aufgetreten",
     "Transfer to category": "Umbuchen in Kategorie",
     "This will generate a new key for encrypting your data. <2>This requires a sync reset</2> and all other devices will have to revert to this version of your data. Actual will take you through that process on those devices.": "Dies wird einen neuen Schlüssel zur Verschlüsselung deiner Daten generieren. <2>Dies erfordert einen Synchronisations-Reset</2> und alle anderen Geräte müssen auf diese Version deiner Daten zurückgesetzt werden. Actual wird dich auf diesen Geräten durch den Prozess führen.",
@@ -1088,5 +1088,7 @@
     "Transfer this amount:": "Überweisen Sie diesen Betrag:",
     "Transfer is required": "Die Übertragung ist erforderlich",
     "To Budget": "Zu Budgetieren",
-    "Switch theme": "Thema wechseln"
+    "Switch theme": "Thema wechseln",
+    "Transfer To/From": "Übertragen Zu/Von",
+    "Upcoming dates": "Anstehende Termine"
 }
