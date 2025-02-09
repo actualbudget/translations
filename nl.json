@@ -1070,5 +1070,8 @@
     "Key generation is randomized. The same password will create different keys, so this will change your key regardless of the password being different.": "Het genereren van sleutels is willekeurig. Hetzelfde wachtwoord maakt verschillende sleutels aan, dus dit zal je sleutel veranderen ongeacht of het wachtwoord anders is.",
     "Multi-month Templates": "Meermaandelijkse Sjablonen",
     "Hide “cleared” checkboxes": "Verberg “Verwerkt” vinkjes",
-    "Show “cleared” checkboxes": "Toon “Verwerkt” vinkjes"
+    "Show “cleared” checkboxes": "Toon “Verwerkt” vinkjes",
+    "Transfers": "Overboekingen",
+    "Version {{latestVersion}} of Actual was recently released.": "Versie {{latestVersion}} van Actual is beschikbaar.",
+    "<0>Reset budget cache</0> will clear all cached values for the budget and recalculate the entire budget. All values in the budget are cached for performance reasons, and if there is a bug in the cache you won’t see correct values. There is no danger in resetting the cache. Hopefully you never have to do this.": "<0>Reset budget cache</0> zal alle tussenliggende berekeningen wissen en het volledig budget opnieuw uitrekenen. In het budget worden veel waardes gecached voor performantie redenen. Als er een fout in de cache optreedt, zal je niet de juiste waarden te zien krijgen. De cache resetten houdt geen enkel gevaar in. We hopen dat je dit eigenlijk nooit hoeft te doen..."
 }
