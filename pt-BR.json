@@ -1101,5 +1101,18 @@
     "Disable category learning": "Desativar aprendizado de categoria",
     "Disable learning": "Desativar aprendizado",
     "Enable category learning": "Ativar aprendizado de categoria",
-    "Enable learning": "Ativar aprendizado"
+    "Enable learning": "Ativar aprendizado",
+    "<0>Balance:</0><1>{{amount}}</1>": "<0>Saldo:</0><1>{{amount}}</1>",
+    "<0>Custom Report:</0> <2>{{name}}</2>": "<0>Relatório Personalizado:</0> <2>{{name}}</2>",
+    "<allocatedAmount /> <italic>of <totalAmount /></italic>": "<allocatedAmount /> <italic>de <totalAmount /></italic>",
+    "Account list": "Lista de contas",
+    "Amount:": "Valor:",
+    "Budget name": "Nome do orçamento",
+    "Category “{{name}}” already exists in group (it may be hidden)": "Categoria “{{name}}” já existe no grupo (pode estar oculta)",
+    "Close budget": "Fechar orçamento",
+    "Configure OAuth2 provider": "Configurar provedor OAuth2",
+    "Next: {{month}}": "Próximo: {{month}}",
+    "No account": "Nenhuma conta",
+    "OpenID provider": "Provedor OpenID",
+    "Payee:": "Beneficiário:"
 }
