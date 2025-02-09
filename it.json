@@ -13,5 +13,6 @@
     "(please select)": "(si prega di selezionare)",
     "{{displayMonth}} budgets have all been set to last month’s budgeted amounts.": "Tutti i budget di {{displayMonth}} sono stati impostati sugli importi preventivati del mese scorso.",
     "{{displayMonth}} end-of-month cleanup templates have been applied.": "Sono stati applicati {{displayMonth}} modelli di pulizia di fine mese.",
-    "{{displayMonth}} budget templates have been overwritten.": "{{displayMonth}} modelli di bilancio sovrascritti."
+    "{{displayMonth}} budget templates have been overwritten.": "{{displayMonth}} modelli di bilancio sovrascritti.",
+    "(give feedback)": "(fornire un feedback)"
 }
