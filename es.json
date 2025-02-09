@@ -196,5 +196,7 @@
     "<0>Language</0> is the display language of all text. Please note that no warranty is provided for the accuracy or completeness of non-English translations. If you encounter a translation error, feel free to make a suggestion on <3>Weblate</3>.": "<0>Idioma</0> es el idioma de visualización de todo el texto. Tenga en cuenta que no se ofrece garantía de la precisión o integridad de las traducciones que no estén en inglés. Si encuentra un error en la traducción, no dude en hacer una sugerencia en <3>Weblate</3>.",
     "All Accounts": "Todas las Cuentas",
     "Admin": "Administrador",
-    "Add new schedule": "Crear nueva planificación"
+    "Add new schedule": "Crear nueva planificación",
+    "$10 a week, up to a maximum of $80": "10 $ por semana, hasta un máximo de 80 $",
+    "$10 a week": "10 $ por semana"
 }
