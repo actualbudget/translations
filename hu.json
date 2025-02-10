@@ -1,1 +1,16 @@
-{}
+{
+    "Group": "Csoport",
+    "Hold": "Tart",
+    "Hold for next month": "Megtartani a következő hónapig",
+    "https://example.com": "https://example.com",
+    "Hold this amount:": "Ezt az összeget tartsa vissza:",
+    "(hidden)": "(rejtett)",
+    "(modified)": "(módosított)",
+    "(none)": "(semmi)",
+    "(Optional)": "(Nem kötelező)",
+    "(please select)": "(kérjük, válasszon)",
+    "<0>Balance:</0><1>{{amount}}</1>": "<0>Egyenleg:</0><1>{{amount}}</1>",
+    "Friday": "Péntek",
+    "Generate new key": "Új kulcs generálása",
+    "Help": "Segítség"
+}
