@@ -465,5 +465,6 @@
     "Confirm password": "Confirmer le mot de passe",
     "Confirm": "Confirmer",
     "<0>Reset budget cache</0> will clear all cached values for the budget and recalculate the entire budget. All values in the budget are cached for performance reasons, and if there is a bug in the cache you won’t see correct values. There is no danger in resetting the cache. Hopefully you never have to do this.": "<0>Réinitialiser le cache du budget</0> effacera toutes les valeurs mises en cache pour le budget et recalculera l’ensemble du budget. Toutes les valeurs du budget sont mises en cache pour des raisons de performance, et en cas de bug dans le cache, les valeurs affichées peuvent être incorrectes. Il n’y a aucun risque à réinitialiser le cache. Idéalement, vous n’aurez jamais besoin de le faire.",
-    "<0>Reset sync</0> is only available when syncing is": "<0>Réinitialiser la sync</0> est uniquement disponible lorsque la synchronisation est"
+    "<0>Reset sync</0> is only available when syncing is": "<0>Réinitialiser la sync</0> est uniquement disponible lorsque la synchronisation est",
+    "Are you sure?": "Êtes-vous sûr ?"
 }
