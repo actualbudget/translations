@@ -244,7 +244,7 @@
     "Closed accounts...": "Comptes clôturés...",
     "Close account": "Clôturer compte",
     "Close Account": "Clôture Compte",
-    "Amount:": "Montant :",
+    "Amount:": "Montant:",
     "Add": "Ajouter",
     "Add category": "Ajouter une catégorie",
     "Add new schedule": "Ajouter un nouvel échéancier",
@@ -253,5 +253,12 @@
     "all transactions": "toutes les opérations",
     "amount (inflow)": "montant (entrant)",
     "An internal error occurred. Try to log in again, or get <2>in touch</2> for support.": "Une erreur interne s'est produite. Essayez à nouveau de vous connecter, ou <2>contactez-nous</2> pour avoir de l'aide.",
-    "Actual uses <1>SharedArrayBuffer</1> to allow usage from multiple tabs at once and to ensure correct behavior when switching files. While it can run without access to<3>SharedArrayBuffer</3>, you may encounter data loss or notice multiple budget files being merged with each other.": "Actual utilise<1>SharedArrayBuffer</1> afin de permettre l'utilisation de plusieurs onglets à la fois et de s'assurer d'un bon comportement lors du changement de fichier. Même s'il peut fonctionner sans accéder à <3>SharedArrayBuffer</3>, vous pourriez subir des pertes de données ou remarquer que plusieurs fichiers de budget ont été fusionnés ensemble."
+    "Actual uses <1>SharedArrayBuffer</1> to allow usage from multiple tabs at once and to ensure correct behavior when switching files. While it can run without access to<3>SharedArrayBuffer</3>, you may encounter data loss or notice multiple budget files being merged with each other.": "Actual utilise<1>SharedArrayBuffer</1> afin de permettre l'utilisation de plusieurs onglets à la fois et de s'assurer d'un bon comportement lors du changement de fichier. Même s'il peut fonctionner sans accéder à <3>SharedArrayBuffer</3>, vous pourriez subir des pertes de données ou remarquer que plusieurs fichiers de budget ont été fusionnés ensemble.",
+    "Configure OAuth2 provider": "Configure fournisseur OAuth2",
+    "Collapse all": "Tout replier",
+    "Configure GoCardless integration": "Configure l'intégration GoCardless",
+    "Closing...": "Clôture...",
+    "Collapse split transactions": "Replie les opérations fractionnées",
+    "Compare": "Compare",
+    "Collapse month summary": "Replie résumé du mois"
 }
