@@ -102,7 +102,7 @@
     "{{count}} associated rules_one": "{{count}} règle associée",
     "{{count}} associated rules_many": "{{count}} règles associées",
     "{{count}} associated rules_other": "{{count}} règles associées",
-    "{{displayMonth}} budgets have all been set to zero.": "{{displayMonth}} Les budgets ont tous été fixés à zéro.",
+    "{{displayMonth}} budgets have all been set to zero.": "Les budgets de {{displayMonth}} ont tous été fixés à zéro.",
     "You can load a different backup or revert to the original version below.": "Vous pouvez charger une sauvegarde différente ou revenir à la version original ci-dessous.",
     "Your SimpleFIN Access Token is no longer valid. Please reset and generate a new token.": "Votre jeton d'accès à SimpleFin n'est plus valide. Merci de le réinitialiser et de générer un nouveau jeton.",
     "{{displayMonth}} budget templates have been overwritten.": "Les modèles de budget pour {{displayMonth}} ont été écrasés.",
