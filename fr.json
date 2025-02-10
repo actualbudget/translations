@@ -132,7 +132,7 @@
     "<0>Envelope budgeting</0> (recommended) digitally mimics physical envelope budgeting system by allocating funds into virtual envelopes for different expenses. It helps track spending and ensure you don‘t overspend in any category.": "<0>Budgétisation par enveloppe</0> (recommandée) imite numériquement le système de budgétisation par enveloppe physique en répartissant les fonds dans des enveloppes virtuelles pour différentes dépenses. Il permet de suivre les dépenses et de s'assurer que vous ne dépassez pas votre budget dans chaque catégorie.",
     "<0>Formatting</0> does not affect how budget data is stored, and can be changed at any time.": "<0>Formatage</0> n'affecte pas la manière dont les données de budget sont stockées, et peut être modifié à tout moment.",
     "Delete {{count}} users": "Supprimer {{count}} utilisateurs",
-    "<0>Language</0> support is not available. Please follow the instructions <3>here</3> to add missing translation files.": "Le support en <0>Language</0> n'est pas disponible. Veuillez suivre les instructions <3>ici</3> pour ajouter les fichiers de traduction manquants.",
+    "<0>Language</0> support is not available. Please follow the instructions <3>here</3> to add missing translation files.": "<0>La prise en charge des langues</0> n'est pas disponible. Veuillez suivre les instructions <3>ici</3> pour ajouter les fichiers de traduction manquants.",
     "2 weeks": "2 semaines",
     "Account list": "Liste des comptes",
     "Add group": "Ajouter un groupe",
@@ -437,5 +437,6 @@
     "Change upcoming length": "Modifier la durée des événements à venir",
     "Connect to an Actual server to set up <2>automatic syncing</2>.": "Connectez-vous à un serveur Actual pour configurer <2>automatic syncing</2>.",
     "copy": "copier",
-    "Deleting it will remove it and all of its backups permanently.": "Sa suppression entraînera la suppression définitive de toutes ses sauvegardes."
+    "Deleting it will remove it and all of its backups permanently.": "Sa suppression entraînera la suppression définitive de toutes ses sauvegardes.",
+    "<0>Link a <1>North American</1> bank account</0> to automatically download transactions.": "<0>Lier un compte bancaire <1>nord américain</1></0> pour télécharger automatiquement les transactions."
 }
