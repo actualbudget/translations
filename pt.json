@@ -39,5 +39,22 @@
     "Account menu": "Menu da conta",
     "A new version of Actual is available!": "A nova versão do Actual esta disponivel!",
     "6 months": "6 meses",
-    "1 day": "1 dia"
+    "1 day": "1 dia",
+    "<0>Balance:</0><1>{{amount}}</1>": "<0>Saldo:</0><1>{{amount}}</1>",
+    "<0>Budgeted:</0><1>{{amount}}</1>": "<0>Orçamentado:</0><1>{{amount}}</1>",
+    "<0>Custom Report:</0> <2>{{name}}</2>": "<0>Relatório Personalizado:</0> <2>{{name}}</2>",
+    "<0>Goal:</0><1>{{amount}}</1>": "<0> Objetivo:</0><1>{{amount}}</1>",
+    "Add account": "Adicionar conta",
+    "Add category": "Adicionar categoria",
+    "Add category group": "Adicionar grupo de categorias",
+    "Add New": "Adicionar Novo",
+    "Add new user": "Adicionar novo utilizador",
+    "Add new widget": "Adicionar novo widget",
+    "Add specific days": "Adicionar dias específicos",
+    "Add transaction": "Adicionar transação",
+    "Add condition": "Adicionar condição",
+    "Add group": "Adicionar grupo",
+    "Add action": "Adicionar ação",
+    "Your password or something else has changed with your bank and you need to login again.": "A sua palavra-passe ou outra coisa foi alterada no seu banco e tem de iniciar sessão novamente.",
+    "Admin": "Administrador"
 }
