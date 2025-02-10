@@ -198,5 +198,11 @@
     "Admin": "Administrador",
     "Add new schedule": "Crear nueva planificación",
     "$10 a week, up to a maximum of $80": "10 $ por semana, hasta un máximo de 80 $",
-    "$10 a week": "10 $ por semana"
+    "$10 a week": "10 $ por semana",
+    "Downloaded file is invalid, sorry! Visit https://actualbudget.org/contact/ for support.": "¡El archivo descargado es inválido, perdón! Visité https://actualbudget.org/contact/ para obtener soporte.",
+    "Downloading and applying update...": "Descargando y aplicando actualización...",
+    "Duplicate file “{{newName}}” created.": "Archivo duplicado \"{{newName}}\" creado.",
+    "Duplicate “{{fileName}}”": "Duplicar \"{{fileName}}\"",
+    "Downloading the file failed. Check your network connection.": "La descarga del archivo falló. Comprueba tu conexión de red.",
+    "Duplicate for all devices": "Duplicar para todos los dispositivos"
 }
