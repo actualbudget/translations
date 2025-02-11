@@ -167,7 +167,7 @@
     "Accounts": "Comptes",
     "Actions": "Actions",
     "Actual requires access to <1>SharedArrayBuffer</1> in order to function properly. If you’re seeing this error, either your browser does not support <3>SharedArrayBuffer</3>, or your server is not sending the appropriate headers, or you are not using HTTPS. See <6>our troubleshooting documentation</6> to learn more. <9></9>": "Actual a besoin de l'accès à <1>SharedArrayBuffer</1> pour fonctionner correctement. Si vous voyez cette erreur<3>SharedArrayBuffer</3>, soit votre navigateur ne prend pas en charge <3>SharedArrayBuffer</3>, soit votre serveur n'envoie pas les en-têtes appropriés, soit vous n'utilisez pas HTTPS. Regardez <6>notre documentation de dépannage</6> pour en savoir plus. <9></9>",
-    "Add a new transaction": "Ajouter une nouvelle opération",
+    "Add a new transaction": "Ajouter une nouvelle transaction",
     "Add account": "Ajouter un compte",
     "Add action": "Ajouter une action",
     "Add another split": "Ajouter une autre division",
@@ -540,5 +540,6 @@
     "GoCardless integration has not yet been configured.": "L'intégration de GoCardless n'a pas encore été configurée.",
     "GoCardless provides reliable, up-to-date information from hundreds of banks.": "GoCardless fournit des informations fiables et à jour de centaines de banques.",
     "Hide reconciled transactions": "Cacher les opérations réconciliées",
-    "Hold": "Conserver"
+    "Hold": "Conserver",
+    "Change how many days in advance of the scheduled date a scheduled transaction appears in the account ledger as upcoming.": "Modifie le nombre de jours avant la date prévue à laquelle une opération planifiée apparaît dans le grand solde du compte à venir."
 }
