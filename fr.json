@@ -318,7 +318,7 @@
     "Enabled": "Activé",
     "Hold this amount:": "Conserver ce montant :",
     "Filter name": "Nom du filtre",
-    "<0>Server self-signed certificate</0> <2><0>enables a secure connection</0></2>": "<0>Un certificat de serveur auto-signé</0> <2><0>permet une connexion sécurisée</0></2>",
+    "<0>Server self-signed certificate</0> <2><0>enables a secure connection</0></2>": "<0>Certificat auto-signé du serveur</0> <2><0>active une connexion sécurisée</0></2>",
     "Expenses:": "Dépenses :",
     "Friday": "Vendredi",
     "Disable learning": "Désactiver l'apprentissage",
