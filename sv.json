@@ -1,1 +1,17 @@
-{}
+{
+    "(give feedback)": "(ge feedback)",
+    "{{count}} transactions_one": "{{count}} överföring",
+    "{{count}} transactions_other": "{{count}} överföringar",
+    "(hidden)": "(dold)",
+    "(modified)": "(modifierad)",
+    "(none)": "(ingen)",
+    "(Optional)": "(Valfri)",
+    "{{count}} associated rules_one": "{{count}} kopplad regel",
+    "{{count}} associated rules_other": "{{count}} kopplade regler",
+    "{{displayMonth}} budget templates have been applied.": "{{displayMonth}} budgetmallar har tillämpats.",
+    "{{displayMonth}} budget templates have been overwritten.": "{{displayMonth}} budgetmallar har skrivits över.",
+    "{{displayMonth}} budgets have all been set to last month’s budgeted amounts.": "{{displayMonth}} budgetar har satts till förra månadens belopp.",
+    "{{displayMonth}} budgets have all been set to zero.": "{{displayMonth}} budgetar har nollställts.",
+    "{{selectedPayeeNames}}, and more": "{{selectedPayeeNames}}, med flera",
+    "(please select)": "(välj)"
+}
