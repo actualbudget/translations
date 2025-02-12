@@ -265,7 +265,7 @@
     "Duplicating: {{oldName}} to: {{newName}}": "Clonage : {{oldName}} vers : {{newName}}",
     "Enable encryption": "Activer le chiffrement",
     "End of the current month": "Fin du mois en cours",
-    "End-to-end Encryption is turned on.": "Le chiffrement de bout en bout est activé",
+    "End-to-end Encryption is turned on.": "Le chiffrement de bout en bout est activé.",
     "Expand all": "Tout développer",
     "Export data": "Exporter les données",
     "From": "De",
@@ -504,7 +504,7 @@
     "Learn more": "En savoir plus",
     "Left": "Restant",
     "Last week": "Semaine dernière",
-    "Failed to duplicate budget file": "Échec du clonage du fichier de budget",
+    "Failed to duplicate budget file": "Une erreur est survenue lors du clonage du fichier de budget",
     "Interval:": "Intervalle :",
     "is less than": "est plus petit que",
     "Last 6 months": "6 derniers mois",
@@ -578,5 +578,6 @@
     "Password": "Mot de passe",
     "Owner": "Propriétaire",
     "Owner:": "Propriétaire :",
-    "Mark as completed": "Marquer comme terminé"
+    "Mark as completed": "Marquer comme terminé",
+    "Files in the destination folder with the same name will be overwritten.": "Les fichiers portant le même nom dans le dossier de destination seront écrasés."
 }
