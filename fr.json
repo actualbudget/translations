@@ -454,7 +454,7 @@
     "Close file": "Fermer le fichier",
     "Change password": "Changer le mot de passe",
     "Client ID cannot be empty": "l'ID du Client ne peut être vide",
-    "Are you sure you want to edit this transaction?": "Etes-vous sûr de vouloir modifier cette transaction?",
+    "Are you sure you want to edit this transaction?": "Êtes-vous sûr de vouloir éditer cette transaction ?",
     "Assets:": "Avoirs:",
     "Balance:": "Solde :",
     "Closed: {{ accountName }}": "Clôturé : {{ accountName }}",
