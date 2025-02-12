@@ -217,7 +217,7 @@
     "Clear search term": "Effacez le terme recherché",
     "Closed accounts": "Comptes clôturés",
     "Apply": "Appliquer",
-    "Are you sure you want to close <2>{{accountName}}</2>? ": "Etes-vous sûr de vouloir quitter <2>{{accountName}}</2>? ",
+    "Are you sure you want to close <2>{{accountName}}</2>? ": "Êtes-vous sûr de vouloir quitter <2>{{accountName}}</2>  ? ",
     "Apply budget template": "Appliquer le modèle de budget",
     "Ascending": "Ascendant",
     "Add New": "Nouveau",
@@ -366,7 +366,7 @@
     "Cloud file ID is missing.": "Cloud file ID est manquant.",
     "Auth0 application settings": "Paramètres de l'application Auth0",
     "Auto login failed - No header sent": "Auto login échoué - aucun en-tête envoyé",
-    "Average per transaction": "Moyenne par opération",
+    "Average per transaction": "Moyenne par transaction",
     "Balance for {{categoryName}} category": "Solde pour catégorie {{categoryName}}",
     "Bank Sync Offline": "Synchro Banque Hors-ligne",
     "Bar Graph": "Graphique Barre",
@@ -579,5 +579,9 @@
     "Owner": "Propriétaire",
     "Owner:": "Propriétaire :",
     "Mark as completed": "Marquer comme terminé",
-    "Files in the destination folder with the same name will be overwritten.": "Les fichiers portant le même nom dans le dossier de destination seront écrasés."
+    "Files in the destination folder with the same name will be overwritten.": "Les fichiers portant le même nom dans le dossier de destination seront écrasés.",
+    "Failed to complete ownership transfer. Please try again.": "Échec du transfert de propriété. Veuillez réessayer.",
+    "Expand split transactions": "Développer les transactions fractionnées",
+    "All time divisor": "Diviser sans limite de période",
+    "Area Graph": "Graphique en aires"
 }
