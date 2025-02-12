@@ -495,7 +495,7 @@
     "Link accounts": "Lier des comptes",
     "Hide transactions": "Cacher les transactions",
     "Import": "Importer",
-    "Filter transactions": "Filtrer les transactions",
+    "Filter transactions": "Filtrer les opérations",
     "Import a file exported from Actual": "Importer un fichier exporté depuis Actual",
     "Import file": "Importer un fichier",
     "is before": "est avant",
@@ -581,9 +581,13 @@
     "Mark as completed": "Marquer comme terminé",
     "Files in the destination folder with the same name will be overwritten.": "Les fichiers portant le même nom dans le dossier de destination seront écrasés.",
     "Failed to complete ownership transfer. Please try again.": "Échec du transfert de propriété. Veuillez réessayer.",
-    "Expand split transactions": "Développer les transactions fractionnées",
+    "Expand split transactions": "Développer les opérations divisées",
     "All time divisor": "Diviser sans limite de période",
     "Area Graph": "Graphique en aires",
     "We had an unknown problem syncing the account.": "Nous avons rencontré un problème inconnu lors de la synchronisation de ce compte.",
-    "Automatically add transaction": "Ajouter automatiquement la transaction"
+    "Automatically add transaction": "Ajouter automatiquement la transaction",
+    "File has header row": "Le fichier a une ligne d'en-tête",
+    "Found Schedules": "Planifications trouvées",
+    "Find schedules": "Chercher les planifications",
+    "Fund upcoming scheduled transactions over time": "Financer les planifications à venir au cours du temps"
 }
