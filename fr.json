@@ -583,5 +583,6 @@
     "Failed to complete ownership transfer. Please try again.": "Échec du transfert de propriété. Veuillez réessayer.",
     "Expand split transactions": "Développer les transactions fractionnées",
     "All time divisor": "Diviser sans limite de période",
-    "Area Graph": "Graphique en aires"
+    "Area Graph": "Graphique en aires",
+    "We had an unknown problem syncing the account.": "Nous avons rencontré un problème inconnu lors de la synchronisation de ce compte."
 }
