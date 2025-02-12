@@ -608,5 +608,8 @@
     "Link bank account with GoCardless": "Lier un compte bancaire avec GoCardless",
     "Link bank account with SimpleFIN": "Lier un compte bancaire avec SimpleFIN",
     "Hide unchecked": "Masquer les non cochées",
-    "Invalid": "Invalide"
+    "Invalid": "Invalide",
+    "Fixed {{count}} splits that weren’t properly deleted._one": "Correction de {{count}} transaction fractionnée qui n'avait pas été supprimée correctement.",
+    "Fixed {{count}} splits that weren’t properly deleted._many": "Corrections de {{count}} transactions fractionnées qui n'avaient pas été supprimées correctement.",
+    "Fixed {{count}} splits that weren’t properly deleted._other": ""
 }
