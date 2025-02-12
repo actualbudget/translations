@@ -1141,7 +1141,7 @@
     "User Directory": "Benutzerverzeichnis",
     "Users with the Basic role can create new budgets and be invited to collaborate on budgets created by others.": "Benutzer mit der Basis-Rolle können neue Budgets erstellen und eingeladen werden, an Budgets von Benutzern teilzunehmen.",
     "View file list": "Dateiliste ansehen",
-    "You have to be admin to set secrets": "Du musst ein Admin sein, um Geheimnisse einzurichten",
+    "You have to be admin to set secrets": "Du musst ein Admin sein, um Secrets einzurichten",
     "Type the server password to disable OpenID": "Gib das Server-Passwort ein, um OpenID zu deaktivieren",
     "You can always manually post a transaction later for a due schedule by selecting the schedule and clicking “Post transaction today” in the action menu.": "Du kannst eine geplante Transaktion jederzeit manuell buchen, indem du den Terminplan auswählst und im Aktionsmenü auf „Transaktion heute erstellen“ klickst.",
     "We had problems syncing your changes. Please report this as a bug by [opening a GitHub issue]({{githubIssueLink}}).": "Wir hatten Probleme beim Synchronisieren deiner Änderungen. Bitte melde diesen Fehler, indem du [ein GitHub-Issue erstellst]({{githubIssueLink}}).",
