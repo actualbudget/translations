@@ -437,7 +437,7 @@
     "Change upcoming length": "Modifier la durée des événements à venir",
     "Connect to an Actual server to set up <2>automatic syncing</2>.": "Connectez-vous à un serveur Actual pour configurer <2>automatic syncing</2>.",
     "copy": "copier",
-    "Deleting it will remove it and all of its backups permanently.": "Sa suppression entraînera la suppression définitive de toutes ses sauvegardes.",
+    "Deleting it will remove it and all of its backups permanently.": "L'éffacement entraînera sa suppression définitive, ainsi que toutes ses sauvegardes.",
     "<0>Link a <1>North American</1> bank account</0> to automatically download transactions.": "<0>Lier un compte bancaire <1>nord américain</1></0> pour télécharger automatiquement les transactions.",
     "Client version: {{version}}": "Version client : {{version}}",
     "Close budget": "Clôturer le budget",
