@@ -248,5 +248,6 @@
     "Backups are taken every {{BACKUP_FREQUENCY_MINS}} minutes and stored in <4><0>Actual’s data directory</0></4>. Actual retains a maximum of {{MAX_BACKUPS}} backups at any time.": "Las copias de seguridad se realizan cada {{BACKUP_FREQUENCY_MINS}} minutos y se almacenan en el <4><0>directorio de datos de Actual</0></4>. Actual conserva un máximo de {{MAX_BACKUPS}} copias de seguridad en cualquier momento.",
     "Balance": "Balance",
     "An unknown error occurred while exporting. Please report this as a new issue on GitHub.": "Se produjo un error desconocido durante la exportación. Infórmelo como un nuevo problema en GitHub.",
-    "All time": "Todos los tiempos"
+    "All time": "Todos los tiempos",
+    "All time divisor": "Dividir por todo el tiempo"
 }
