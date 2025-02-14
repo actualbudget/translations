@@ -629,5 +629,8 @@
     "Local": "Local",
     "matches": "correspond",
     "New group name": "Nom du nouveau groupe",
-    "logged in as: <2>{{userName}}</2>": "connecté comme : <2>{{userName}}</2>"
+    "logged in as: <2>{{userName}}</2>": "connecté comme : <2>{{userName}}</2>",
+    "Fixed {{count}} transfers._one": "Corrections de {{count}} transfert.",
+    "Fixed {{count}} transfers._many": "Corrections de {{count}} transferts.",
+    "Fixed {{count}} transfers._other": ""
 }
