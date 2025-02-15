@@ -576,7 +576,7 @@
     "Actual uses <1>SharedArrayBuffer</1> to allow usage from multiple tabs at once and to ensure correct behavior when switching files. While it can run without access to<3>SharedArrayBuffer</3>, you may encounter data loss or notice multiple budget files being merged with each other.": "Actual verwendet <1>SharedArrayBuffer</1>, um die Nutzung von mehreren Tabs gleichzeitig zu ermöglichen und um ein korrektes Verhalten beim Wechsel von Dateien zu gewährleisten. Es kann zwar ohne den Zugriff auf <3>SharedArrayBuffer</3> verwendet werden, jedoch kann dies zu Datenverlust oder dem Verschmelzen mehrerer Budgetdateien führen.",
     "Change how many days in advance of the scheduled date a scheduled transaction appears in the account ledger as upcoming.": "Ändere, wie viele Tage vor dem geplanten Datum eine Terminbuchung im Kontobuch als anstehend erscheint.",
     "Configure OAuth2 provider": "OAuth2-Provider konfigurieren",
-    "Compare {{formattedStartDate}} to {{typeOrFormattedEndDate}}": "Vergleiche {{formattedStartDate}} bis {{typeOrFormattedEndDate}}",
+    "Compare {{formattedStartDate}} to {{typeOrFormattedEndDate}}": "Vergleiche {{formattedStartDate}} mit {{typeOrFormattedEndDate}}",
     "Could not search: {{errorReason}}": "Die Suche konnte nicht durchgeführt werden: {{errorReason}}",
     "Cover from a category:": "Deckung von einer Kategorie:",
     "Create reconciliation transaction": "Abstimmungstransaktion erstellen",
