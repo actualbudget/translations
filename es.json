@@ -252,5 +252,15 @@
     "All time divisor": "Dividir por todo el tiempo",
     "amount (inflow)": "cantidad (ingreso)",
     "Amount:": "Monto:",
-    "AMOUNT OPTIONS": "OPCIONES DE MONTOS"
+    "AMOUNT OPTIONS": "OPCIONES DE MONTOS",
+    "Category Learning": "Aprendizaje de Categorías",
+    "Budget": "Presupuesto",
+    "Basic": "Básico",
+    "Cannot save: No widget available.": "No se puede guardar: No hay ningún widget disponible.",
+    "Cash Flow": "Flujo de Caja",
+    "Cash flow graph": "Gráfico de flujo de caja",
+    "Can do everything that Basic users can. In addition, they have the ability to add new users to the directory and access budget files from all users.": "Pueden hacer todo lo que hacen los usuarios Básicos. Además, tienen la posibilidad de agregar nuevos usuarios al directorio y acceder a los archivos de presupuesto de todos los usuarios.",
+    "Bank Sync": "Sincronización Bancaria",
+    "Bar Graph": "Gráfico de Barras",
+    "Bank Sync Offline": "Sincronización Bancaria Sin Conexión"
 }
