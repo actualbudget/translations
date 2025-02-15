@@ -12,5 +12,7 @@
     "{{selectedPayeeNames}}, and more": "{{selectedPayeeNames}} i więcej",
     "(please select)": "(wybierz)",
     "(Optional)": "(Opcjonalne)",
-    "(none)": "(brak)"
+    "(none)": "(brak)",
+    "(modified)": "(zmodyfikowany)",
+    "(hidden)": "(ukryty)"
 }
