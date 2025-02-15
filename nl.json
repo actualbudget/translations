@@ -1097,5 +1097,13 @@
     "Reconciled Transaction": "Gereconcilieerde transactie",
     "All reconciled!": "Alles is gereconcilieerd!",
     "Saving your changes to this reconciled transaction may bring your reconciliation out of balance.": "Het opslaan van je wijzigingen in deze gereconcilieerde transactie kan je reconciliatie uit balans brengen.",
-    "Show reconciled transactions": "Toon gereconcilieerde transacties"
+    "Show reconciled transactions": "Toon gereconcilieerde transacties",
+    "To:": "Tot:",
+    "To link your bank account, you will be redirected to a new page where GoCardless will ask to connect to your bank. GoCardless will not be able to withdraw funds from your accounts.": "Om je bankrekening te koppelen, word je doorgestuurd naar een nieuwe pagina waar GoCardless zal vragen om verbinding te maken met je bank. GoCardless kan geen geld van je rekeningen halen.",
+    "To import data from YNAB4, locate where your YNAB4 data is stored. It is usually in your Documents folder under YNAB. Your data is a directory inside that with the<1>.ynab4</1> suffix.": "Om gegevens uit YNAB4 te importeren, zoek op waar je YNAB4-gegevens zijn opgeslagen. Dit is meestal in de map Documenten onder YNAB. Je gegevens staan daarin met het achtervoegsel <1>.ynab4</1>.",
+    "Transfer is required": "Overschrijving is verplicht",
+    "This only affects how schedules are displayed and not how budget data is stored. It can be changed at any time.": "Dit heeft alleen invloed op hoe schema's worden getoond en niet hoe budgetgegevens worden opgeslagen. Dit kan op elk moment worden aangepast.",
+    "This report is configured to use a non-existing filter value (i.e. category/account/payee).": "Dit rapport is geconfigureerd met een niet-bestaande filterwaarde (bijv. categorie/rekening/begunstigde).",
+    "to": "met",
+    "This schedule has custom conditions and actions": "Dit schema heeft aangepaste voorwaarden en acties"
 }
