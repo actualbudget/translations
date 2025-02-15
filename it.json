@@ -15,5 +15,6 @@
     "{{displayMonth}} end-of-month cleanup templates have been applied.": "Sono stati applicati {{displayMonth}} modelli di pulizia di fine mese.",
     "{{displayMonth}} budget templates have been overwritten.": "{{displayMonth}} modelli di bilancio sovrascritti.",
     "(give feedback)": "(fornire un feedback)",
-    "{{displayMonth}} budgets have all been set to zero.": "Tutti i budget di {{displayMonth}} sono stati impostati a zero."
+    "{{displayMonth}} budgets have all been set to zero.": "Tutti i budget di {{displayMonth}} sono stati impostati a zero.",
+    "{{selectedPayeeNames}}, and more": "{{selectedPayeeNames}}, e altro ancora"
 }
