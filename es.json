@@ -250,5 +250,7 @@
     "An unknown error occurred while exporting. Please report this as a new issue on GitHub.": "Se produjo un error desconocido durante la exportación. Infórmelo como un nuevo problema en GitHub.",
     "All time": "Todos los tiempos",
     "All time divisor": "Dividir por todo el tiempo",
-    "amount (inflow)": "cantidad (ingreso)"
+    "amount (inflow)": "cantidad (ingreso)",
+    "Amount:": "Monto:",
+    "AMOUNT OPTIONS": "OPCIONES DE MONTOS"
 }
