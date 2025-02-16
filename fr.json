@@ -635,5 +635,6 @@
     "Fixed {{count}} transfers._other": "",
     "GitHub does not support discovery. You need to configure it in the server.": "GitHub ne prend pas en charge la découverte. Vous devez le configurer dans le serveur.",
     "Hide “cleared” checkboxes": "Masquer les cases à cocher \"réconcilié\"",
-    "Failed loading available banks: GoCardless access credentials might be misconfigured. Please <2>set them up</2> again.": "Échec du chargement des banques disponibles : Les identifiants d'accès à GoCardless pourraient être mal configurés. Veuillez les <2>réinitialiser</2>."
+    "Failed loading available banks: GoCardless access credentials might be misconfigured. Please <2>set them up</2> again.": "Échec du chargement des banques disponibles : Les identifiants d'accès à GoCardless pourraient être mal configurés. Veuillez les <2>réinitialiser</2>.",
+    "If you lost your password, you likely still have access to your server to manually reset it.": "Si vous avez perdu votre mot de passe, vous avez sûrement encore accès à votre serveur pour le réinitialiser manuellement"
 }
