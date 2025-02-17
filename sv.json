@@ -13,5 +13,6 @@
     "{{displayMonth}} budgets have all been set to last month’s budgeted amounts.": "{{displayMonth}} budgetar har satts till förra månadens belopp.",
     "{{displayMonth}} budgets have all been set to zero.": "{{displayMonth}} budgetar har nollställts.",
     "{{selectedPayeeNames}}, and more": "{{selectedPayeeNames}}, med flera",
-    "(please select)": "(välj)"
+    "(please select)": "(välj)",
+    "{{displayMonth}} end-of-month cleanup templates have been applied.": "{{displayMonth}} månadsskiftets rensningsmallar har tillämpats."
 }
