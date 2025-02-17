@@ -308,5 +308,6 @@
     "Client secret": "Secreto del cliente",
     "Client ID": "ID del cliente",
     "Client secret cannot be empty": "El secreto del cliente no puede estar vacío",
-    "disabled": "deshabilitado"
+    "disabled": "deshabilitado",
+    "Change upcoming length": "Cambiar intervalo de transacciones futuras"
 }
