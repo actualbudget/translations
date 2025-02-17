@@ -632,7 +632,7 @@
     "logged in as: <2>{{userName}}</2>": "connecté comme : <2>{{userName}}</2>",
     "Fixed {{count}} transfers._one": "Correction de {{count}} transfert.",
     "Fixed {{count}} transfers._many": "Correction de {{count}} transferts.",
-    "Fixed {{count}} transfers._other": "",
+    "Fixed {{count}} transfers._other": "Correction de {{count}} transferts.",
     "GitHub does not support discovery. You need to configure it in the server.": "GitHub ne prend pas en charge la découverte. Vous devez le configurer dans le serveur.",
     "Hide “cleared” checkboxes": "Masquer les cases à cocher \"réconcilié\"",
     "Failed loading available banks: GoCardless access credentials might be misconfigured. Please <2>set them up</2> again.": "Échec du chargement des banques disponibles : Les identifiants d'accès à GoCardless pourraient être mal configurés. Veuillez les <2>réinitialiser</2>.",
