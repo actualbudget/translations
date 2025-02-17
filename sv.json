@@ -14,5 +14,8 @@
     "{{displayMonth}} budgets have all been set to zero.": "{{displayMonth}} budgetar har nollställts.",
     "{{selectedPayeeNames}}, and more": "{{selectedPayeeNames}}, med flera",
     "(please select)": "(välj)",
-    "{{displayMonth}} end-of-month cleanup templates have been applied.": "{{displayMonth}} månadsskiftets rensningsmallar har tillämpats."
+    "{{displayMonth}} end-of-month cleanup templates have been applied.": "{{displayMonth}} månadsskiftets rensningsmallar har tillämpats.",
+    "<0>Actual’s data directory</0> <2><0>where your files are stored</0></2>": "<0>Actuals datamapp</0> <2><0>där dina filer lagras</0></2>",
+    "<0>Actual</0> is a super fast privacy-focused app for managing your finances.": "<0>Actual</0> är en supersnabb app  som hanterar din ekonomi, med ett fokus på personlig integritet.",
+    "<0>Authentication method</0> modifies how users log in to the system.": "<0>Autentiseringsmetod</0> ändrar hur användare loggar in i systemet."
 }
