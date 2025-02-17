@@ -743,5 +743,6 @@
     "Sort:": "Trier :",
     "Bank": "Banque",
     "Account settings": "Paramètres du compte",
-    "Example": "Exemple"
+    "Example": "Exemple",
+    "Fund upcoming scheduled transaction only on needed month": "Financer les planifications à venir seulement le mois nécessaire"
 }
