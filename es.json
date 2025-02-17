@@ -309,5 +309,18 @@
     "Client ID": "ID del cliente",
     "Client secret cannot be empty": "El secreto del cliente no puede estar vacío",
     "disabled": "deshabilitado",
-    "Change upcoming length": "Cambiar intervalo de transacciones futuras"
+    "Change upcoming length": "Cambiar intervalo de transacciones futuras",
+    "Days": "Días",
+    "does not contain": "no contiene",
+    "Do nothing": "No hacer nada",
+    "Documentation": "Documentación",
+    "Delimiter:": "Delimitador:",
+    "Display Name": "Nombre para mostrar",
+    "Display": "Mostrar",
+    "Difference:": "Diferencia:",
+    "Disabling OpenID will deactivate multi-user mode.": "Deshabilitar OpenID desactivará el modo multiusuario.",
+    "Delete transaction": "Eliminar transacción",
+    "Descending": "Descendiente",
+    "Description": "Descripción",
+    "Disabling Category Learning will not delete any existing rules but will prevent new rules from being created automatically on a global level.": "Deshabilitar el aprendizaje de categorías no eliminará ninguna regla existente, pero evitará que nuevas reglas sean creadas automáticamente a nivel global."
 }
