@@ -792,5 +792,6 @@
     "not one of": "pas l'un des",
     "No transactions found": "Pas de transactions trouvées",
     "OpenID authentication method": "Méthode d'authentification OpenID",
-    "one of": "un des"
+    "one of": "un des",
+    "Field mapping": "Liaison du champ"
 }
