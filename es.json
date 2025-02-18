@@ -333,5 +333,7 @@
     "Duplicate locally": "Duplicar localmente",
     "Edit": "Editar",
     "Cleared total:": "Total compensado:",
-    "Duplicating: {{oldName}} to: {{newName}}": "Duplicando: {{oldName}} a: {{newName}}"
+    "Duplicating: {{oldName}} to: {{newName}}": "Duplicando: {{oldName}} a: {{newName}}",
+    "Center": "Centrar",
+    "Checking GoCardless configuration..": "Comprobando la configuración de GoCardless.."
 }
