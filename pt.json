@@ -56,5 +56,9 @@
     "Add group": "Adicionar grupo",
     "Add action": "Adicionar ação",
     "Your password or something else has changed with your bank and you need to login again.": "A sua palavra-passe ou outra coisa foi alterada no seu banco e tem de iniciar sessão novamente.",
-    "Admin": "Administrador"
+    "Admin": "Administrador",
+    "Category": "Categoria",
+    "Budget": "Orçamento",
+    "Closing...": "A fechar...",
+    "and": "e"
 }
