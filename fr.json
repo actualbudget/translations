@@ -763,7 +763,7 @@
     "No schedules": "Pas d'échéanciers",
     "No schedules found": "Pas d'échéanciers trouvés",
     "No recurring date": "Pas de date récurrente",
-    "No rules": "Pas de règles",
+    "No rules": "Aucune règle",
     "Login expired": "Connexion expirée",
     "No users": "Pas d'utilisateurs",
     "No users available": "Pas d'utilisateurs disponibles",
@@ -788,5 +788,9 @@
     "Please select a user.": "Veuillez sélectionner un utilisateur.",
     "Payments": "Paiements",
     "OpenID Connect on the Microsoft identity platform": "OpenID Connect sur la plateforme d'identité Microsoft",
-    "Open budget menu for {{categoryName}} category": "Ouvrir le menu du budget pour la catégorie {{categoryName}}"
+    "Open budget menu for {{categoryName}} category": "Ouvrir le menu du budget pour la catégorie {{categoryName}}",
+    "not one of": "pas l'un des",
+    "No transactions found": "Pas de transactions trouvées",
+    "OpenID authentication method": "Méthode d'authentification OpenID",
+    "one of": "un des"
 }
