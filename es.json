@@ -433,5 +433,10 @@
     "Filter transactions": "Filtrar transacciones",
     "Filtered balance:": "Balance filtrado:",
     "If left empty, it will be updated from your OpenID provider on the user's login, if available there.": "Si queda vacío, se actualizará desde su proveedor de OpenID en el inicio de sesión del usuario, si está disponible allí.",
-    "Expand month summary": "Expandir resumen del mes"
+    "Expand month summary": "Expandir resumen del mes",
+    "Category learning settings": "Ajustes de aprendizaje de categorias",
+    "Account settings": "Ajustes de cuenta",
+    "Actual field": "Campo actual",
+    "Bank field": "Campo de banco",
+    "Example": "Ejemplo"
 }
