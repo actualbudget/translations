@@ -783,5 +783,10 @@
     "No server": "Pas de serveur",
     "Note that the URL depends on your application domain and region.": "Notez que l'URL dépend de votre domaine d'application et de votre région.",
     "Actual field": "Champ actuel",
-    "Bank field": "Champ vide"
+    "Bank field": "Champ vide",
+    "Payment": "Paiement",
+    "Please select a user.": "Veuillez sélectionner un utilisateur.",
+    "Payments": "Paiements",
+    "OpenID Connect on the Microsoft identity platform": "OpenID Connect sur la plateforme d'identité Microsoft",
+    "Open budget menu for {{categoryName}} category": "Ouvrir le menu du budget pour la catégorie {{categoryName}}"
 }
