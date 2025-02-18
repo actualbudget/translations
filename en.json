@@ -826,6 +826,7 @@
   "Select transactions to link on save": "Select transactions to link on save",
   "Select zip file...": "Select zip file...",
   "Selected balance:": "Selected balance:",
+  "Selected role does not exist, possibly a bug? Visit https://actualbudget.org/contact/ for support.": "Selected role does not exist, possibly a bug? Visit https://actualbudget.org/contact/ for support.",
   "Selected role does not exists, possibly a bug? Visit https://actualbudget.org/contact/ for support.": "Selected role does not exists, possibly a bug? Visit https://actualbudget.org/contact/ for support.",
   "Selected transactions": "Selected transactions",
   "Server does not look like an Actual server. Is it set up correctly?": "Server does not look like an Actual server. Is it set up correctly?",
