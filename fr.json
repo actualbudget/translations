@@ -781,5 +781,7 @@
     "No budget files": "Pas de fichiers de budget",
     "No notes": "Pas de notes",
     "No server": "Pas de serveur",
-    "Note that the URL depends on your application domain and region.": "Notez que l'URL dépend de votre domaine d'application et de votre région."
+    "Note that the URL depends on your application domain and region.": "Notez que l'URL dépend de votre domaine d'application et de votre région.",
+    "Actual field": "Champ actuel",
+    "Bank field": "Champ vide"
 }
