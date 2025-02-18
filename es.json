@@ -438,5 +438,14 @@
     "Account settings": "Ajustes de cuenta",
     "Actual field": "Campo actual",
     "Bank field": "Campo de banco",
-    "Example": "Ejemplo"
+    "Example": "Ejemplo",
+    "Deposits": "Ingresos",
+    "Donut Graph": "Gráfico de Anillo",
+    "Confirm Delete": "Confirmar Eliminación",
+    "Fatal error occurred: unable to open import file dialog.": "Se produjo un error crítico: no se pudo abrir la ventana de importación de archivos.",
+    "Disable templating": "Deshabilitar plantillas",
+    "Disable OpenID": "Deshabilitar OpenID",
+    "Break down less-frequent expenses into monthly expenses": "Divide los gastos menos frecuentes en gastos mensuales",
+    "Disable category learning": "Deshabilitar el aprendizaje de categorías",
+    "Disable learning": "Deshabilitar el aprendizaje"
 }
