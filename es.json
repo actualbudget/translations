@@ -322,5 +322,11 @@
     "Delete transaction": "Eliminar transacción",
     "Descending": "Descendiente",
     "Description": "Descripción",
-    "Disabling Category Learning will not delete any existing rules but will prevent new rules from being created automatically on a global level.": "Deshabilitar el aprendizaje de categorías no eliminará ninguna regla existente, pero evitará que nuevas reglas sean creadas automáticamente a nivel global."
+    "Disabling Category Learning will not delete any existing rules but will prevent new rules from being created automatically on a global level.": "Deshabilitar el aprendizaje de categorías no eliminará ninguna regla existente, pero evitará que nuevas reglas sean creadas automáticamente a nivel global.",
+    "Category “{{name}}” already exists in group (it may be hidden)": "La categoría «{{name}}» ya existe en el grupo (puede estar oculta)",
+    "Category learning disabled": "Aprendizaje de categorías deshabilitado",
+    "Click the button below to reload and apply the update.": "Haz clic en el botón de abajo para recargar y aplicar la actualización.",
+    "Compare:": "Compara:",
+    "Be aware that other devices may have already created these transactions. If you have multiple devices, make sure you only do this on one device or you will have duplicate transactions.": "Ten en cuenta que es posible que otros dispositivos ya hayan creado estas transacciones. Si tienes varios dispositivos, asegúrate de realizar esta acción solo en uno de ellos o tendrás transacciones duplicadas.",
+    "Bank": "Banco"
 }
