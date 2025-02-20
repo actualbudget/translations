@@ -793,5 +793,13 @@
     "No transactions found": "Pas de transactions trouvées",
     "OpenID authentication method": "Méthode d'authentification OpenID",
     "one of": "un des",
-    "Field mapping": "Liaison du champ"
+    "Field mapping": "Liaison du champ",
+    "Multi-month Templates": "Modèle sur plusieurs mois",
+    "Net Payment": "Montant net",
+    "It is required to provide both the secret id and secret key.": "Il est nécessaire de fournir à la fois l'id secret et la clé secrète.",
+    "If you use a backup, you will have to set up all your devices to sync from the new budget.": "Si vous utilisez une sauvegarde, vous devrez configurer tous vos appareils pour synchroniser le nouveau budget.",
+    "If you’ve already downloaded your data on other devices, you will need to reset them. Actual will automatically take you through this process.": "Si vous avez déjà téléchargé vos données sur d’autres appareils, vous devrez les réinitialiser. Actual vous conduira automatiquement à travers ce processus.",
+    "Key generation is randomized. The same password will create different keys, so this will change your key regardless of the password being different.": "La génération de clé est aléatoire. Le même mot de passe créera des clés différentes, ce qui changera votre clé indépendamment du mot de passe.",
+    "Net": "Montant net",
+    "Merging will remove the payee and transfer any existing rules to the new payee.": "Fusionner supprimera le bénéficiaire et transférera toutes règles existantes au nouveau bénéficiaire."
 }
