@@ -782,7 +782,6 @@
     "Yes": "Ja",
     "<0>Balance:</0><1>{{amount}}</1>": "<0>Saldo:</0><1>{{amount}}</1>",
     "<0>Budgeted:</0><1>{{amount}}</1>": "<0>Begroot:</0><1>{{amount}}</1>",
-    "<0>Custom Report:</0> <2>{{name}}</2>": "<0>Aangepast Rapport:</0> <2>{{name}}</2>",
     "<0>Goal:</0><1>{{amount}}</1>": "<0>Doel:</0><1>{{amount}}</1>",
     "<allocatedAmount /> <italic>of <totalAmount /></italic>": "<allocatedAmount /> <italic>van <totalAmount /></italic>",
     "Account list": "Rekeninglijst",

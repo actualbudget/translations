@@ -1083,7 +1083,6 @@
     "We couldn’t apply that change to the database. Please report this as a bug by [opening a GitHub issue]({{githubIssueLink}}).": "We couldn’t apply that change to the database. Please report this as a bug by [opening a GitHub issue]({{githubIssueLink}}).",
     "We had problems syncing your changes. Please report this as a bug by [opening a GitHub issue]({{githubIssueLink}}).": "We had problems syncing your changes. Please report this as a bug by [opening a GitHub issue]({{githubIssueLink}}).",
     "<0>Category Learning</0> will automatically determine the best category for a transaction and create a rule that sets the category for the payee. <3>Learn more</3>": "<0>Category Learning</0> will automatically determine the best category for a transaction and create a rule that sets the category for the payee. <3>Learn more</3>",
-    "<0>Custom Report:</0> <2>{{name}}</2>": "<0>Custom Report:</0> <2>{{name}}</2>",
     "<0>Goal Type:</0><1>{{type}}</1>": "<0>Goal Type:</0><1>{{type}}</1>",
     "<0>Goal:</0><1>{{amount}}</1>": "<0>Goal:</0><1>{{amount}}</1>",
     "Custom length": "Custom length",

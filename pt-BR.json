@@ -1103,7 +1103,6 @@
     "Enable category learning": "Ativar aprendizado de categoria",
     "Enable learning": "Ativar aprendizado",
     "<0>Balance:</0><1>{{amount}}</1>": "<0>Saldo:</0><1>{{amount}}</1>",
-    "<0>Custom Report:</0> <2>{{name}}</2>": "<0>Relatório Personalizado:</0> <2>{{name}}</2>",
     "<allocatedAmount /> <italic>of <totalAmount /></italic>": "<allocatedAmount /> <italic>de <totalAmount /></italic>",
     "Account list": "Lista de contas",
     "Amount:": "Valor:",

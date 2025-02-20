@@ -42,7 +42,6 @@
     "1 day": "1 dia",
     "<0>Balance:</0><1>{{amount}}</1>": "<0>Saldo:</0><1>{{amount}}</1>",
     "<0>Budgeted:</0><1>{{amount}}</1>": "<0>Orçamentado:</0><1>{{amount}}</1>",
-    "<0>Custom Report:</0> <2>{{name}}</2>": "<0>Relatório Personalizado:</0> <2>{{name}}</2>",
     "<0>Goal:</0><1>{{amount}}</1>": "<0> Objetivo:</0><1>{{amount}}</1>",
     "Add account": "Adicionar conta",
     "Add category": "Adicionar categoria",

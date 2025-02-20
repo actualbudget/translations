@@ -114,7 +114,6 @@
     "<0>Actual</0> is a super fast privacy-focused app for managing your finances.": "<0>Actual</0> est une application super rapide, axée sur la confidentialité, qui vous permet de gérer vos finances.",
     "<0>Category Learning</0> will automatically determine the best category for a transaction and create a rule that sets the category for the payee. <3>Learn more</3>": "<0>L'apprentissage de la catégorie</0> détermine automatiquement la meilleure catégorie pour une transaction et crée une règle qui définit la catégorie pour le bénéficiaire. <3>En savoir plus</3>",
     "<0>Budgeted:</0><1>{{amount}}</1>": "<0>Budgétisé :</0><1>{{amount}}</1>",
-    "<0>Custom Report:</0> <2>{{name}}</2>": "<0>Rapport personnalisé:</0> <2>{{name}}</2>",
     "<0>Budget ID:</0> {{budgetId}}": "<0>Identifiant budget:</0> {{budgetId}}",
     "<0>Authentication method</0> modifies how users log in to the system.": "<0>Méthode d'authentification</0> modifie la façon dont les utilisateurs se connectent au système.",
     "<0>Balance:</0><1>{{amount}}</1>": "<0>Balance:</0><1>{{amount}}</1>",

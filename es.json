@@ -205,7 +205,6 @@
     "Duplicate “{{fileName}}”": "Duplicar \"{{fileName}}\"",
     "Downloading the file failed. Check your network connection.": "La descarga del archivo falló. Comprueba tu conexión de red.",
     "Duplicate for all devices": "Duplicar para todos los dispositivos",
-    "<0>Custom Report:</0> <2>{{name}}</2>": "<0>Informe Personalizado:</0> <2>{{name}}</2>",
     "Apply actions": "Aplicar acciones",
     "Apply budget template": "Aplicar plantilla de presupuesto",
     "Apply budget templates": "Aplicar plantillas de presupuesto",
