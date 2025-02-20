@@ -801,5 +801,7 @@
     "If you’ve already downloaded your data on other devices, you will need to reset them. Actual will automatically take you through this process.": "Si vous avez déjà téléchargé vos données sur d’autres appareils, vous devrez les réinitialiser. Actual vous conduira automatiquement à travers ce processus.",
     "Key generation is randomized. The same password will create different keys, so this will change your key regardless of the password being different.": "La génération de clé est aléatoire. Le même mot de passe créera des clés différentes, ce qui changera votre clé indépendamment du mot de passe.",
     "Net": "Montant net",
-    "Merging will remove the payee and transfer any existing rules to the new payee.": "Fusionner supprimera le bénéficiaire et transférera toutes règles existantes au nouveau bénéficiaire."
+    "Merging will remove the payee and transfer any existing rules to the new payee.": "Fusionner supprimera le bénéficiaire et transférera toutes règles existantes au nouveau bénéficiaire.",
+    "No split transactions found needing repair.": "Aucune transaction fractionnée nécessitant une réparation n'a été trouvée.",
+    "Your files won’t be moved. You can manually move them to the folder.": "Vos fichiers ne seront pas déplacés, Vous pouvez les déplacer manuellement vers le dossier."
 }
