@@ -616,7 +616,7 @@
     "Merge with existing transactions": "Fusionner avec des opérations existantes",
     "If you expected a schedule here and don’t see it, it might be because the payees of the transactions don’t match. Make sure you rename payees on all transactions for a schedule to be the same payee.": "Si vous attendiez un échéancier ici et que vous ne le voyez, pas, ce pourrait être parce que les bénéficiaires des transactions ne correspondent pas. Assurez-vous que ce soit le même bénéficiaire sur toutes les transactions d'une planification.",
     "Link or view schedule for selected transactions": "Lier ou voir l'échéancier pour les opérations sélectionnées",
-    "Link Accounts": "Lier des comptes",
+    "Link Accounts": "Lier des Comptes",
     "If checked, the schedule will automatically create transactions for you in the specified account": "Si coché, l'échéancier créera automatiquement les opérations pour vous dans le compte spécifié",
     "logged in as: <2><0>{{userName}}</0></2>": "connecté comme : <2><0>{{userName}}</0></2>",
     "Loading more transactions...": "Chargement d'opérations supplémentaires…",
