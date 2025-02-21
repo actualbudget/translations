@@ -1200,5 +1200,14 @@
     "End of the current month": "Fim do mês atual",
     "Bank": "Banco",
     "Account settings": "Configurações da conta",
-    "Interval": "Intervalo"
+    "Interval": "Intervalo",
+    "Long": "Longo",
+    "Select account": "Selecionar conta",
+    "Show uncategorized": "Mostrar não categorizados",
+    "Show uncategorized transactions": "Mostrar transações não categorizadas",
+    "Transaction": "Transação",
+    "Bank field": "Campo bancário",
+    "To use the bank syncing features, you must first add an account.": "Para usar os recursos de sincronização bancária, você deve primeiro adicionar uma conta.",
+    "Unlinked": "Desvinculado",
+    "Actual field": "Campo atual"
 }
