@@ -869,5 +869,7 @@
     "Update": "Mettre à jour",
     "Username": "Nom d'utilisateur",
     "View current month": "Voir le mois en cours",
-    "to": "à"
+    "to": "à",
+    "(+{{numHiddenPayees}} more)": "(+{{numHiddenPayees}} plus)",
+    "Net worth shows the balance of all accounts over time, including all of your investments. Your “net worth” is considered to be the amount you’d have if you sold all your assets and paid off as much debt as possible. If you hover over the graph, you can also see the amount of assets and debt individually.": "La valeur nette montre le solde de tous les comptes dans le temps, y compris tous vos investissements. Votre \"valeur nette\" est considérée comme le montant que vous auriez si vous vendiez tous vos actifs et remboursiez autant de dettes que possible. Si vous placez votre souris sur le graphique, vous pouvez également voir séparément le montant des actifs et des dettes."
 }
