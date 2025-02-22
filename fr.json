@@ -876,5 +876,7 @@
     "Import pending transactions": "Importer les transactions en cours",
     "In our user directory, each user is assigned a specific role that determines their permissions and capabilities within the system.": "Dans notre répertoire utilisateur, chaque utilisateur est assigné à un rôle spécifique, qui détermine ses autorisations et ses capacités dans le système.",
     "No users available to give access": "Aucun utilisateur disponible pour donner accès",
-    "Open balance menu for {{categoryName}} category": "Ouvrir le menu de solde pour la catégorie {{categoryName}}"
+    "Open balance menu for {{categoryName}} category": "Ouvrir le menu de solde pour la catégorie {{categoryName}}",
+    "Import transaction notes": "Importer les notes de transaction",
+    "Password successfully changed": "Mot de passe modifié avec succès"
 }
