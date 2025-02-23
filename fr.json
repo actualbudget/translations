@@ -881,5 +881,14 @@
     "Password successfully changed": "Mot de passe modifié avec succès",
     "Integrating Google Sign-In into your web app": "Intégrer la connexion Google dans votre application web",
     "Item is no longer authorized. You need to login again.": "L'article n'est plus autorisé. Vous devez vous connecter à nouveau.",
-    "I understand the risks, run Actual in the unsupported fallback mode": "Je comprends les risques, exécuter Actual en mode de secours non pris en charge"
+    "I understand the risks, run Actual in the unsupported fallback mode": "Je comprends les risques, exécuter Actual en mode de secours non pris en charge",
+    "Budgeted MTD": "Budget mensuel cumulé",
+    "Covered {{toCategoryName}} overspending from {{fromCategoryName}}.": "Couverture du dépassement de budget de {{toCategoryName}} à partir de {{fromCategoryName}}.",
+    "Custom Report:": "Rapport personnalisé:",
+    "For next month": "Pour le mois prochain",
+    "Hide": "Masquer",
+    "Fixed {{count}} splits with the wrong cleared flag._one": "Correction de {{count}} répartition avec un indicateur de validation incorrect.",
+    "Fixed {{count}} splits with the wrong cleared flag._many": "Correction de {{count}} répartitions avec un indicateur de validation incorrect.",
+    "Fixed {{count}} splits with the wrong cleared flag._other": "Correction de {{count}} répartitions avec un indicateur de validation incorrect.",
+    "<0>Export</0> your data as a zip file containing <3>db.sqlite</3> and <5>metadata.json</5> files. It can be imported into another Actual instance by closing an open file (if any), then clicking the “Import file” button, then choosing “Actual.”": "<0>Exporter</0> vos données sous forme d'un fichier zip contenant les fichiers <3>db.sqlite</3> et <5>metadata.json</5>. Il peut être importé dans une autre instance d'Actual en fermant un fichier ouvert (le cas échéant), puis en cliquant sur le bouton « Importer un fichier », puis en choisissant « Actual »."
 }
