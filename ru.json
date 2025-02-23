@@ -28,5 +28,6 @@
     "{{displayMonth}} budget templates have been applied.": "Шаблон бюджета на {{displayMonth}} был применён.",
     "<0><0>How are “Average” and “Spent Average MTD” calculated?</0></0><1>They are both the average cumulative spending by day for the three months before the selected “compare” month.</1>": "<0><0>Как рассчитываются «Среднее» и «Потраченное среднее MTD»? </0></0><1>Они оба представляют собой средние суммарные расходы по дням за три месяца, предшествующих выбранному «для сравнения» месяцу.</1>",
     "(please select)": "(выберите пожалуйста)",
-    "{{displayMonth}} budget templates have been overwritten.": "Шаблон бюджета на {{displayMonth}} был изменен."
+    "{{displayMonth}} budget templates have been overwritten.": "Шаблон бюджета на {{displayMonth}} был изменен.",
+    "(give feedback)": "(обратная связь)"
 }
