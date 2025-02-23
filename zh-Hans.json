@@ -1,1 +1,16 @@
-{}
+{
+    "(give feedback)": "（反馈）",
+    "(hidden)": "（隐藏）",
+    "(modified)": "（已编辑）",
+    "(none)": "（无）",
+    "(please select)": "（请选择）",
+    "{{count}} associated rules_other": "{{count}} 条相关规则",
+    "{{count}} transactions_other": "{{count}}条交易",
+    "{{displayMonth}} budgets have all been set to zero.": "{{displayMonth}}的预算已经全部被设置为0。",
+    "{{displayMonth}} end-of-month cleanup templates have been applied.": "{{displayMonth}}的月末清理模板已经被应用。",
+    "{{selectedPayeeNames}}, and more": "{{selectedPayeeNames}} 等",
+    "{{displayMonth}} budget templates have been applied.": "已经应用了{{displayMonth}}预算模板。",
+    "{{displayMonth}} budget templates have been overwritten.": "{{displayMonth}}预算模板已经被覆写。",
+    "(Optional)": "（可选的）",
+    "{{displayMonth}} budgets have all been set to last month’s budgeted amounts.": "{{displayMonth}}的预算已经被设置为上月的预算金额。"
+}
