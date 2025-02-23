@@ -878,5 +878,7 @@
     "No users available to give access": "Aucun utilisateur disponible pour donner accès",
     "Open balance menu for {{categoryName}} category": "Ouvrir le menu de solde pour la catégorie {{categoryName}}",
     "Import transaction notes": "Importer les notes de transaction",
-    "Password successfully changed": "Mot de passe modifié avec succès"
+    "Password successfully changed": "Mot de passe modifié avec succès",
+    "Integrating Google Sign-In into your web app": "Intégrer la connexion Google dans votre application web",
+    "Item is no longer authorized. You need to login again.": "L'article n'est plus autorisé. Vous devez vous connecter à nouveau."
 }
