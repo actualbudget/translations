@@ -932,5 +932,6 @@
     "Include current period": "Inclure la période en cours",
     "See <2>Goal Templates</2> for more information.": "Consultez les <2>Modèles d'objectifs</2> pour plus d'informations.",
     "Reset budget cache": "Réinitialiser les données du budget",
-    "Note that the URL depends on your authentik domain and provider slug name.": "Veuillez noter que l'URL est spécifique à votre domaine Authentik et au nom unique (slug) de votre fournisseur."
+    "Note that the URL depends on your authentik domain and provider slug name.": "Veuillez noter que l'URL est spécifique à votre domaine Authentik et au nom unique (slug) de votre fournisseur.",
+    "On budget": "Budgétisé"
 }
