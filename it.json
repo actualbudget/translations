@@ -16,7 +16,7 @@
     "{{displayMonth}} budget templates have been overwritten.": "{{displayMonth}} modelli di bilancio sovrascritti.",
     "(give feedback)": "(fornire un feedback)",
     "{{displayMonth}} budgets have all been set to zero.": "Tutti i budget di {{displayMonth}} sono stati impostati a zero.",
-    "{{selectedPayeeNames}}, and more": "{{selectedPayeeNames}}, e altro ancora",
+    "{{selectedPayeeNames}}, and more": "{{selectedPayeeNames}} e altri",
     "<0><0>How are “Average” and “Spent Average MTD” calculated?</0></0><1>They are both the average cumulative spending by day for the three months before the selected “compare” month.</1>": "<0><0>Come vengono calcolati “Media” e \"Spesa Media Mensile Ad Oggi”?</0></0><1>Entrambi rappresentano la spesa cumulativa media giornaliera per i tre mesi precedenti il mese di confronto selezionato.</1>",
     "<0>Actual’s data directory</0> <2><0>where your files are stored</0></2>": "<0>Cartella dei dati di Actual</0> <2><0>dove sono salvati i tuoi files</0></2>",
     "<0><0>How is cash flow calculated?</0></0><1>Cash flow shows the balance of your budgeted accounts over time, and the amount of expenses/income each day or month. Your budgeted accounts are considered to be “cash on hand,” so this gives you a picture of how available money fluctuates.</1>": "<0><0>Come  è calcolato il flusso di cassa?</0></0><1>Il flusso di cassa mostra il saldo dei tuoi conti di bilancio nel tempo e l'importo delle spese/entrate ogni giorno o mese. I tuoi conti di bilancio sono considerati \"denaro contante\", quindi questo ti dà un'idea di come fluttua il denaro disponibile.</1>",
