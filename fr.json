@@ -341,7 +341,7 @@
     "Average spent": "Moyenne dépensée",
     "Checking GoCardless configuration..": "Vérification de la configuration de GoCardless..",
     "Center": "Centre",
-    "Client ID": "ID Client",
+    "Client ID": "ID du Client",
     "Backups are taken every {{BACKUP_FREQUENCY_MINS}} minutes and stored in <4><0>Actual’s data directory</0></4>. Actual retains a maximum of {{MAX_BACKUPS}} backups at any time.": "Les sauvegardes sont effectuées toutes les {{BACKUP_FREQUENCY_MINS}} minutes et stockées dans le <4><0>répertoire de données d'Actual</0></4>. Actual conserve un maximum de {{MAX_BACKUPS}} sauvegardes.",
     "Can do everything that Basic users can. In addition, they have the ability to add new users to the directory and access budget files from all users.": "Ils peuvent faire tout ce que les utilisateurs de base peuvent faire. De plus, ils ont la possibilité d'ajouter de nouveaux utilisateurs au répertoire et d'accéder aux fichiers budget de tous les utilisateurs.",
     "Category is required": "Catégorie requise",
