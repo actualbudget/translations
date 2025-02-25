@@ -264,7 +264,7 @@
     "Bank Sync Offline": "Sincronización Bancaria Sin Conexión",
     "Custom Report: {{name}}": "Informe Personalizado: {{name}}",
     "Change location": "Cambiar ubicación",
-    "Close budget": "Cerrar Presupuesto",
+    "Close budget": "Cerrar presupuesto",
     "Change directory": "Cambiar de directorio",
     "Cloud file ID is missing.": "Falta el ID del archivo en la nube.",
     "Close the current budget and open another": "Cerrar el presupuesto actual y abrir otro",
@@ -348,7 +348,7 @@
     "Enable templating": "Habilitar plantillas",
     "Failed loading available banks: GoCardless access credentials might be misconfigured. Please <2>set them up</2> again.": "Fallo al cargar los bancos disponibles: Las credenciales de acceso de GoCardless pueden estar incorrectamente configuradas. Por favor, <2>configúralas</2> nuevamente.",
     "First day of the week": "Primer día de la semana",
-    "Failed to duplicate budget file.": "Fallo al duplicar el archivo de presupuesto",
+    "Failed to duplicate budget file.": "Fallo al duplicar el archivo de presupuesto.",
     "Failed to save dashboard widget.": "Fallo al guardar el widget del panel.",
     "GoCardless menu": "Menú de GoCardless",
     "Configure OAuth2 provider": "Configure el proveedor OAuth2",
@@ -446,5 +446,14 @@
     "Disable OpenID": "Deshabilitar OpenID",
     "Break down less-frequent expenses into monthly expenses": "Divide los gastos menos frecuentes en gastos mensuales",
     "Disable category learning": "Deshabilitar el aprendizaje de categorías",
-    "Disable learning": "Deshabilitar el aprendizaje"
+    "Disable learning": "Deshabilitar el aprendizaje",
+    "Determine which users can view and manage your budgets": "Determinar qué usuarios pueden ver y gestionar sus presupuestos",
+    "(+{{numHiddenPayees}} more)": "(+{{numHiddenPayees}} más)",
+    "(No payee)": "(Sin beneficiario)",
+    "<0><0>Custom Report:</0></0> <2>{{name}}</2>": "<0><0>Reporte Personalizado:</0></0> <2>{{name}}</2>",
+    "Available funds": "Fondos disponibles",
+    "Covered {{toCategoryName}} overspending from {{fromCategoryName}}.": "Sobre gasto de {{toCategoryName}} cubierto desde {{fromCategoryName}}.",
+    "Custom Report:": "Reporte Personalizado:",
+    "Deposit": "Depósito",
+    "<0>Export</0> your data as a zip file containing <3>db.sqlite</3> and <5>metadata.json</5> files. It can be imported into another Actual instance by closing an open file (if any), then clicking the “Import file” button, then choosing “Actual.”": "<0>Exporta</0> tus datos como un archivo zip que contiene los archivos <3>db.sqlite</3> y <5>metadata.json</5>. Puede ser importado en otra instancia de Actual cerrando el archivo abierto (si hay alguno), haciendo clic en el botón \"Importar archivo\" y seleccionando \"Actual\"."
 }
