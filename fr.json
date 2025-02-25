@@ -934,5 +934,22 @@
     "Reset budget cache": "Réinitialiser les données du budget",
     "Note that the URL depends on your authentik domain and provider slug name.": "Veuillez noter que l'URL est spécifique à votre domaine Authentik et au nom unique (slug) de votre fournisseur.",
     "On budget": "Budgétisé",
-    "Modal dialog": "Boîte de dialogue modale"
+    "Modal dialog": "Boîte de dialogue modale",
+    "Move up when editing": "Déplacer vers le haut lors de l'édition",
+    "Move to the next transaction down and scroll": "Passer à la transaction suivante (en bas), en faisant défiler",
+    "SimpleFIN menu": "Menu SimpleFIN",
+    "Move down when editing": "Déplacer vers le bas lors de l'édition",
+    "Move to the next transaction up and scroll": "Passer à la transaction précédente (en haut), en faisant défiler",
+    "Sign out": "Se déconnecter",
+    "Sidebar menu": "Menu latéral",
+    "Show uncategorized": "Afficher les éléments non catégorisés",
+    "Move right when editing": "Déplacer vers la droite lors de l'édition",
+    "Show unchecked": "Afficher les éléments non cochés",
+    "Sign in": "Connexion",
+    "Sign in to this Actual instance": "Se connecter à cette session Actual",
+    "Sign in with OpenID": "Se connecter avec OpenID",
+    "Move left when editing": "Déplacer vers la gauche lors de l'édition",
+    "Modal logo": "Logo de la boîte de dialogue",
+    "Move to the next transaction down": "Passer à la transaction suivante (en bas)",
+    "Move to the next transaction up": "Passer à la transaction précédente (en haut)"
 }
