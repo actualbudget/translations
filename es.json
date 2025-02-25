@@ -112,7 +112,7 @@
     "Delete {{count}} users": "Eliminar {{count}} usuarios",
     "Calendar": "Calendario",
     "Calendar card": "Tarjeta de calendario",
-    "<0>Balance:</0><1>{{amount}}</1>": "<0>Balance:</0><1>{{amount}}</1>",
+    "<0>Balance:</0><1>{{amount}}</1>": "<0>Saldo:</0><1>{{amount}}</1>",
     "<0>Language</0> support is not available. Please follow the instructions <3>here</3> to add missing translation files.": "No se dispone de soporte para <0>Traducciones</0>. Por favor, siga las instrucciones <3>aqui</3> para añadir archivos de traducción faltantes.",
     "<0>Move schedule </0><1></1><2> {{beforeOrAfter}} weekend</2>": "<0>Mover planificación</0><1></1><2> {{beforeOrAfter}} del fin de semana</2>",
     "<0>Server self-signed certificate</0> <2><0>enables a secure connection</0></2>": "<0>Certificado auto-firmado del servidor</0> <2><0>permite una conexión segura</0></2>",
@@ -455,5 +455,7 @@
     "Covered {{toCategoryName}} overspending from {{fromCategoryName}}.": "Sobre gasto de {{toCategoryName}} cubierto desde {{fromCategoryName}}.",
     "Custom Report:": "Reporte Personalizado:",
     "Deposit": "Depósito",
-    "<0>Export</0> your data as a zip file containing <3>db.sqlite</3> and <5>metadata.json</5> files. It can be imported into another Actual instance by closing an open file (if any), then clicking the “Import file” button, then choosing “Actual.”": "<0>Exporta</0> tus datos como un archivo zip que contiene los archivos <3>db.sqlite</3> y <5>metadata.json</5>. Puede ser importado en otra instancia de Actual cerrando el archivo abierto (si hay alguno), haciendo clic en el botón \"Importar archivo\" y seleccionando \"Actual\"."
+    "<0>Export</0> your data as a zip file containing <3>db.sqlite</3> and <5>metadata.json</5> files. It can be imported into another Actual instance by closing an open file (if any), then clicking the “Import file” button, then choosing “Actual.”": "<0>Exporta</0> tus datos como un archivo zip que contiene los archivos <3>db.sqlite</3> y <5>metadata.json</5>. Puede ser importado en otra instancia de Actual cerrando el archivo abierto (si hay alguno), haciendo clic en el botón \"Importar archivo\" y seleccionando \"Actual\".",
+    "Change this username with caution; it is the server owner.": "Cambie este nombre de usuario con precaución; es el propietario del servidor.",
+    "Empty": "Vacío"
 }
