@@ -502,5 +502,7 @@
     "Hide balance": "Ocultar saldo",
     "Hide running balance": "Ocultar saldo actual",
     "Hold this amount:": "Mantener esta cantidad:",
-    "If checked, the schedule will automatically create transactions for you in the specified account": "Si está seleccionado, la planificación creará automáticamente transacciones para ti en la cuenta especificada"
+    "If checked, the schedule will automatically create transactions for you in the specified account": "Si está seleccionado, la planificación creará automáticamente transacciones para ti en la cuenta especificada",
+    "Field mapping": "Mapeo de campo",
+    "Import pending transactions": "Importar transacciones pendientes"
 }
