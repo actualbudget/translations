@@ -17,5 +17,12 @@
     "(hidden)": "(ukryty)",
     "Add account": "Dodaj konto",
     "Add new widget": "Dodaj nowy widżet",
-    "{{displayMonth}} budget templates have been applied.": "Szablony budżetu za miesiąc {{displayMonth}} zostały zastosowane."
+    "{{displayMonth}} budget templates have been applied.": "Szablony budżetu za miesiąc {{displayMonth}} zostały zastosowane.",
+    "(+{{numHiddenPayees}} more)": "(+{{numHiddenPayees}} więcej)",
+    "<0><0>Custom Report:</0></0> <2>{{name}}</2>": "<0><0>Niestandardowy raport:</0></0> <2>{{name}}</2>",
+    "{{displayMonth}} end-of-month cleanup templates have been applied.": "{{displayMonth}} – zastosowano szablony porządkowania na koniec miesiąca.",
+    "{{displayMonth}} budget templates have been overwritten.": "{{displayMonth}} – szablony budżetu zostały zastąpione.",
+    "{{displayMonth}} budgets have all been set to last month’s budgeted amounts.": "{{displayMonth}} – kwoty zaplanowane w budżecie zostały ustawione tak samo, jak w zeszłym miesiącu.",
+    "(No payee)": "(Brak płatnika)",
+    "{{displayMonth}} budgets have all been set to zero.": "{{displayMonth}} – kwoty zaplanowane w budżecie zostały ustawione na zero."
 }
