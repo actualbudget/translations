@@ -981,5 +981,8 @@
     "This is a cloud-based file but its state is unknown because you are offline.": "Il s'agit d'un fichier basé sur le cloud, mais son état est inconnu car vous êtes hors ligne.",
     "This report is configured to use a non-existing filter value (i.e. category/account/payee).": "Ce rapport est configuré pour utiliser une valeur de filtre inexistante (par exemple, catégorie/compte/bénéficiaire).",
     "This month": "Ce mois-ci",
-    "Reopen account": "Réouvrir le compte"
+    "Reopen account": "Réouvrir le compte",
+    "Your password or something else has changed with your bank and you need to login again.": "Votre mot de passe ou quelque chose d'autre a changé avec votre banque et vous devez vous connecter à nouveau.",
+    "Line Graph": "Graphique en courbe",
+    "No open accounts could be found. Did you close the account? If so, unlink the account.": "Aucun compte ouvert n'a pu être trouvé. Avez-vous fermé le compte ? Si oui, dissocier le compte."
 }
