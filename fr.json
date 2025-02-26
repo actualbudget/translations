@@ -980,5 +980,6 @@
     "This is a <1>hosted file</1> which means it is stored on your server to make it available for download on any device. You can delete it from the server, which will also remove it from all of your devices.": "Il s'agit d'un <1>fichier hébergé</1>, ce qui signifie qu'il est stocké sur votre serveur afin d'être disponible au téléchargement sur n'importe quel appareil. Vous pouvez le supprimer du serveur, ce qui le supprimera également de tous vos appareils.",
     "This is a cloud-based file but its state is unknown because you are offline.": "Il s'agit d'un fichier basé sur le cloud, mais son état est inconnu car vous êtes hors ligne.",
     "This report is configured to use a non-existing filter value (i.e. category/account/payee).": "Ce rapport est configuré pour utiliser une valeur de filtre inexistante (par exemple, catégorie/compte/bénéficiaire).",
-    "This month": "Ce mois-ci"
+    "This month": "Ce mois-ci",
+    "Reopen account": "Réouvrir le compte"
 }
