@@ -493,5 +493,14 @@
     "Found {{count}} split transactions with mismatched amounts on the below dates. Please review them manually:_one": "Se encontró una transacción dividida con montos no coincidentes en la siguiente fecha. Por favor, revísala manualmente.",
     "Found {{count}} split transactions with mismatched amounts on the below dates. Please review them manually:_many": "Se encontraron {{count}} transacciones divididas con montos no coincidentes en las siguientes fechas. Por favor, revisarlas manualmente.",
     "Found {{count}} split transactions with mismatched amounts on the below dates. Please review them manually:_other": "Se encontraron {{count}} transacciones divididas con montos no coincidentes en las siguientes fechas. Por favor, revisarlas manualmente.",
-    "imported payee": "beneficiario importado"
+    "imported payee": "beneficiario importado",
+    "Fund upcoming scheduled transactions over time": "Financiar las próximas transacciones programadas a lo largo del tiempo",
+    "Fund upcoming scheduled transaction only on needed month": "Financia la próxima transacción programada solo en el mes en que sea necesario",
+    "Flip amount": "Invertir cantidad",
+    "has tag(s)": "tiene etiqueta(s)",
+    "Hide “cleared” checkboxes": "Ocultar casillas de \"compensado\"",
+    "Hide balance": "Ocultar saldo",
+    "Hide running balance": "Ocultar saldo actual",
+    "Hold this amount:": "Mantener esta cantidad:",
+    "If checked, the schedule will automatically create transactions for you in the specified account": "Si está seleccionado, la planificación creará automáticamente transacciones para ti en la cuenta especificada"
 }
