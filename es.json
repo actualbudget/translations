@@ -660,5 +660,8 @@
     "Monthly": "Mensualmente",
     "Interval:": "Intervalo:",
     "Enter the current balance of your bank account that you want to reconcile with:": "Ingrese el saldo actual de su cuenta bancaria que desea conciliar con:",
-    "End-to-end Encryption is turned on.": "El cifrado de extremo a extremo está activado."
+    "End-to-end Encryption is turned on.": "El cifrado de extremo a extremo está activado.",
+    "Last sync": "Última sincronización",
+    "Multi-user will not work after disabling": "El modo multiusuario no funcionará después de desactivarlo",
+    "No transactions found with mappable fields, accounts must have been synced at least once for this function to be available.": "No se encontraron transacciones con campos asignables. Las cuentas deben haberse sincronizado al menos una vez para que esta función esté disponible."
 }
