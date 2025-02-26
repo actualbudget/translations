@@ -476,7 +476,7 @@
     "If you expected a schedule here and don’t see it, it might be because the payees of the transactions don’t match. Make sure you rename payees on all transactions for a schedule to be the same payee.": "Si usted esperaba una planificación aquí y no lo ve, podría ser porque los beneficiarios de las transacciones no coinciden. Asegúrese de renombrar a los beneficiarios en todas las transacciones de una planificación para que sea el mismo beneficiario.",
     "If you lost your password, you likely still have access to your server to manually reset it.": "Si perdió su contraseña, es probable que todavía tenga acceso a su servidor para restablecerla manualmente.",
     "Imported payee": "Beneficiario importado",
-    "Encrypting the file failed. You have the correct key so this is an internal bug. To fix this, generate a new key in the next step.": "Falló la encriptación del archivo. Tienes la llave correcta, por lo que esto es un error interno. Para solucionarlo, genera una nueva llave en el siguiente paso.",
+    "Encrypting the file failed. You have the correct key so this is an internal bug. To fix this, generate a new key in the next step.": "No se pudo cifrar el archivo. Tiene la clave correcta, por lo que se trata de un error interno. Para solucionarlo, genere una nueva clave en el siguiente paso.",
     "Fixed {{count}} splits with a blank payee._one": "Se arreglo una division con beneficiario vacío.",
     "Fixed {{count}} splits with a blank payee._many": "Se arreglaron {{count}} divisiones con beneficiario vacío.",
     "Fixed {{count}} splits with a blank payee._other": "Se arreglaron {{count}} divisiones con beneficiario vacío.",
@@ -489,7 +489,7 @@
     "Fixed {{count}} splits that weren’t properly deleted._one": "Se arreglaron una division que no fue eliminada apropiadamente.",
     "Fixed {{count}} splits that weren’t properly deleted._many": "Se arreglaron {{count}} divisiones que no fueron eliminadas apropiadamente.",
     "Fixed {{count}} splits that weren’t properly deleted._other": "Se arreglaron {{count}} divisiones que no fueron eliminadas apropiadamente.",
-    "Encrypting your file failed because you are missing your encryption key. Create your key in the next step.": "Falló la encriptación del archivo porque falta tu llave de encriptación. Crea tu llave en el siguiente paso.",
+    "Encrypting your file failed because you are missing your encryption key. Create your key in the next step.": "No se pudo cifrar el archivo porque falta la clave de cifrado. Cree la clave en el siguiente paso.",
     "Found {{count}} split transactions with mismatched amounts on the below dates. Please review them manually:_one": "Se encontró una transacción dividida con montos no coincidentes en la siguiente fecha. Por favor, revísala manualmente.",
     "Found {{count}} split transactions with mismatched amounts on the below dates. Please review them manually:_many": "Se encontraron {{count}} transacciones divididas con montos no coincidentes en las siguientes fechas. Por favor, revisarlas manualmente.",
     "Found {{count}} split transactions with mismatched amounts on the below dates. Please review them manually:_other": "Se encontraron {{count}} transacciones divididas con montos no coincidentes en las siguientes fechas. Por favor, revisarlas manualmente.",
@@ -658,5 +658,7 @@
     "Merge": "Unir",
     "Modal dialog": "Cuadro de diálogo",
     "Monthly": "Mensualmente",
-    "Interval:": "Intervalo:"
+    "Interval:": "Intervalo:",
+    "Enter the current balance of your bank account that you want to reconcile with:": "Ingrese el saldo actual de su cuenta bancaria que desea conciliar con:",
+    "End-to-end Encryption is turned on.": "El cifrado de extremo a extremo está activado."
 }
