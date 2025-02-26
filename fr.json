@@ -951,5 +951,6 @@
     "Move left when editing": "Déplacer vers la gauche lors de l'édition",
     "Modal logo": "Logo de la boîte de dialogue",
     "Move to the next transaction down": "Passer à la transaction suivante (en bas)",
-    "Move to the next transaction up": "Passer à la transaction précédente (en haut)"
+    "Move to the next transaction up": "Passer à la transaction précédente (en haut)",
+    "Long_noun": "Nom_long"
 }
