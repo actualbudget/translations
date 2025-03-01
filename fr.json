@@ -988,5 +988,18 @@
     "You don`t have permissions over this file.": "Vous n'avez pas d'autorisations sur ce fichier.",
     "You have to be admin to set secrets": "Vous devez être administrateur pour définir des secrets",
     "Your data is encrypted with a key that only you have before sending it it out to the cloud. Local data remains unencrypted so if you forget your password you can re-encrypt it.": "Vos données sont chiffrées avec une clé que vous seul disposez avant de les envoyer au cloud. Les données locales restent non cryptées, donc si vous oubliez votre mot de passe, vous pouvez les chiffrer à nouveau.",
-    "Payees (Soon)": "Débiteur (prochainement)"
+    "Payees (Soon)": "Débiteur (prochainement)",
+    "Right": "Droite",
+    "Select category...": "Sélectionnez une catégorie...",
+    "Select account...": "Sélectionnez un compte...",
+    "Select file...": "Sélectionnez un fichier...",
+    "Select language": "Sélectionnez une langue",
+    "<0>Link a <1>North American</1> bank account</0> to automatically download transactions. SimpleFIN provides reliable, up-to-date information from hundreds of banks.": "<0>Connectez un compte bancaire <1>nord-américain</1></0> pour télécharger automatiquement vos transactions. SimpleFIN fournit des informations fiables et actualisées provenant de centaines de banques.",
+    "Overspent in {{prevMonthName}}": "Dépassement du budget en {{prevMonthName}}",
+    "Select account": "Sélectionnez un compte",
+    "Please get <2>in touch</2> for support": "Veuillez <2>nous contacter</2> pour obtenir de l'aide",
+    "Select an app to import from, and we’ll guide you through the process.": "Choisissez l'application depuis laquelle importer vos données, et nous vous accompagnerons pas à pas.",
+    "Note that the URL depends on your Keycloak domain and realm.": "Veuillez noter que l'URL est spécifique à votre domaine Keycloak et à votre realm (espace d'administration).",
+    "Pin sidebar": "Épingler la barre latérale",
+    "Post transactions": "Publier les transactions"
 }
