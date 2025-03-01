@@ -815,7 +815,7 @@
     "Year": "Année",
     "Post": "Publier",
     "Transactions will no longer be synchronized with this account and must be manually entered.": "Les opérations ne seront plus synchronisées avec ce compte et devront être entrées manuellement.",
-    "(No payee)": "(Pas de bénéficiaire)",
+    "(No payee)": "(Aucun bénéficiaire)",
     "<0><0>Custom Report:</0></0> <2>{{name}}</2>": "<0><0>Rapport personnalisé :</0></0> <2>{{name}}</2>",
     "transactions": "opérations",
     "You can always manually post a transaction later for a due schedule by selecting the schedule and clicking “Post transaction today” in the action menu.": "Vous pouvez toujours publier une opération plus tard manuellement pour un échéancier dû en le sélectionnant et en cliquant sur \"Publier l'opération aujourd'hui\" dans le menu d'actions.",
