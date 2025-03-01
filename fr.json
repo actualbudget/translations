@@ -1001,5 +1001,6 @@
     "Select an app to import from, and we’ll guide you through the process.": "Choisissez l'application depuis laquelle importer vos données, et nous vous accompagnerons pas à pas.",
     "Note that the URL depends on your Keycloak domain and realm.": "Veuillez noter que l'URL est spécifique à votre domaine Keycloak et à votre realm (espace d'administration).",
     "Pin sidebar": "Épingler la barre latérale",
-    "Post transactions": "Publier les transactions"
+    "Post transactions": "Publier les transactions",
+    "<0>Link a <1>European</1> bank account</0> to automatically download transactions. GoCardless provides reliable, up-to-date information from hundreds of banks.": "<0>Liez un compte bancaire <1>Européen</1> </0> pour télécharger les transactions automatiquement. GoCardless fournit des informations fiables et à jour provenant de centaines de banques."
 }
