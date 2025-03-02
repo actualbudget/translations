@@ -59,5 +59,10 @@
     "Category": "Categoria",
     "Budget": "Orçamento",
     "Closing...": "A fechar...",
-    "and": "e"
+    "and": "e",
+    "<0><0>How are “Average” and “Spent Average MTD” calculated?</0></0><1>They are both the average cumulative spending by day for the three months before the selected “compare” month.</1>": "<0><0>Como são calculados a “Média” e a “Média dos gastos MTD”?</0></0><1>Ambos são os gastos médios acumulados por dia para os três meses anteriores ao mês de “comparação” seleccionado.</1>",
+    "<0>Actual</0> is a super fast privacy-focused app for managing your finances.": "<0>Actual</0> é uma aplicação super rápida e focada na privacidade para gerir as suas finanças.",
+    "<0>Authentication method</0> modifies how users log in to the system.": "<0>Método de autenticação</0> modifica a forma como os utilizadores efetuam o login no sistema.",
+    "<0>Budget ID:</0> {{budgetId}}": "<0>ID do orçamento:</0> {{budgetId}}",
+    "<0>Actual’s data directory</0> <2><0>where your files are stored</0></2>": "<0>Diretório de dados do Actual</0> <2><0>onde seus arquivos são guardados</0></2>"
 }
