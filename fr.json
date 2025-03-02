@@ -1132,5 +1132,17 @@
     "Uploading the file failed. Check your network connection.": "L'envoi du fichier a échoué. Vérifiez votre connexion réseau.",
     "There was a problem loading one of the chunks of the application. Please reload the page and try again. If the issue persists - there might be an issue with either your internet connection and/or the server where the app is hosted.": "Un problème est survenu lors du chargement d'une partie de l'application. Veuillez recharger la page et réessayer. Si le problème persiste, cela peut être dû à votre connexion Internet et/ou au serveur hébergeant l'application.",
     "Toggle the privacy filter": "Activer/désactiver le filtre de confidentialité",
-    "prepend to notes": "Préfixer les notes"
+    "prepend to notes": "Préfixer les notes",
+    "To:": "À :",
+    "Select a user from the directory to designate as the new budget owner.": "Sélectionner un utilisateur dans l'annuaire pour le désigner comme nouveau responsable budgétaire.",
+    "Switch to tracking budgeting": "Passer au suivi budgétaire",
+    "Toggle cleared for selected transactions": "Basculer l'état des transactions selectionés",
+    "Toggle hidden categories": "Basculer l'affichage des catégories masquées",
+    "Toggle selection of current transaction": "Basculer la sélection de la transaction courante",
+    "Show off budget": "Visualiser le budget",
+    "Spent {{monthYearFormatted}}:": "Dépenses au {{monthYearFormatted}} :",
+    "Show Labels": "Afficher les libellés",
+    "The payees <1>{payeeNamesList}</1> have schedules that are due today._one": "Le bénéficiaires {payeeNamesList} a des échéances prévues pour aujourd'hui.",
+    "The payees <1>{payeeNamesList}</1> have schedules that are due today._many": "Les bénéficiaires {payeeNamesList} ont des échéances prévues pour aujourd'hui.",
+    "The payees <1>{payeeNamesList}</1> have schedules that are due today._other": ""
 }
