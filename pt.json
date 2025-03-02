@@ -16,7 +16,7 @@
     "{{displayMonth}} end-of-month cleanup templates have been applied.": "Foram aplicados os modelos de limpeza de final de mês para {{displayMonth}}.",
     "{{selectedPayeeNames}}, and more": "{{selectedPayeeNames}}, e mais",
     "(hidden)": "(oculto)",
-    "{{displayMonth}} budgets have all been set to last month’s budgeted amounts.": "Todos os orçamentos de {{displayMonth}} foram definidos com os valores orçamentados no mês passado.",
+    "{{displayMonth}} budgets have all been set to last month’s budgeted amounts.": "Todos os orçamentos de {{displayMonth}} foram definidos com os valores orçados no mês passado.",
     "1 year": "1 ano",
     "2 weeks": "2 semanas",
     "28+": "28+",
