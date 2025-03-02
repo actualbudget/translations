@@ -1200,5 +1200,7 @@
     "Include current period": "Aktuelle Periode berücksichtigen",
     "Include current Year in live range": "Aktuelles Jahr im Live-Bereich berücksichtigen",
     "Include current period in live range": "Aktuelle Periode im Live-Bereich berücksichtigen",
-    "Include current Year": "Aktuelles Jahr berücksichtigen"
+    "Include current Year": "Aktuelles Jahr berücksichtigen",
+    "<0>Link a <1>European</1> bank account</0> to automatically download transactions. GoCardless provides reliable, up-to-date information from hundreds of banks.": "<0>Verknüpfe ein <1>europäisches</1> Bankkonto</0>, um Transaktionen automatisch herunterzuladen. GoCardless bietet zuverlässige, aktuelle Informationen von Hunderten von Banken.",
+    "<0>Link a <1>North American</1> bank account</0> to automatically download transactions. SimpleFIN provides reliable, up-to-date information from hundreds of banks.": "<0>Verknüpfe ein <1>nordamerikanisches</1> Bankkonto</0>, um Transaktionen automatisch herunterzuladen. SimpleFIN bietet zuverlässige, aktuelle Informationen von Hunderten von Banken."
 }
