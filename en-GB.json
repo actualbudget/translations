@@ -1138,5 +1138,7 @@
     "Long_noun": "Long",
     "View {{name}} transactions": "View {{name}} transactions",
     "Interval": "Interval",
-    "Group": "Group"
+    "Group": "Group",
+    "Show uncategorized transactions": "Show uncategorised transactions",
+    "Show uncategorized": "Show uncategorised"
 }
