@@ -1139,7 +1139,6 @@
     "Type the server password to disable OpenID": "Gib das Server-Passwort ein, um OpenID zu deaktivieren",
     "You can always manually post a transaction later for a due schedule by selecting the schedule and clicking “Post transaction today” in the action menu.": "Du kannst eine geplante Transaktion jederzeit manuell buchen, indem du den Terminplan auswählst und im Aktionsmenü auf „Transaktion heute erstellen“ klickst.",
     "We had problems syncing your changes. Please report this as a bug by [opening a GitHub issue]({{githubIssueLink}}).": "Wir hatten Probleme beim Synchronisieren deiner Änderungen. Bitte melde diesen Fehler, indem du [ein GitHub-Issue erstellst]({{githubIssueLink}}).",
-    "Update condtions": "Bedingungen aktualisieren",
     "View notes": "Notizen ansehen",
     "Unable to decrypt file with this password. Please try again.": "Datei konnte mit diesem Passwort nicht entschlüsselt werden. Bitte versuche es erneut.",
     "We don’t have a key that encrypts or decrypts this file. Enter the password for this file to create the key for encryption.": "Wir haben keinen Schlüssel, um diese Datei zu verschlüsseln oder zu entschlüsseln. Gib das Passwort für diese Datei ein, um den Schlüssel für die Verschlüsselung zu erstellen.",
