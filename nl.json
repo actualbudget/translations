@@ -1098,5 +1098,17 @@
     "This only affects how schedules are displayed and not how budget data is stored. It can be changed at any time.": "Dit heeft alleen invloed op hoe schema's worden getoond en niet hoe budgetgegevens worden opgeslagen. Dit kan op elk moment worden aangepast.",
     "This report is configured to use a non-existing filter value (i.e. category/account/payee).": "Dit rapport is geconfigureerd met een niet-bestaande filterwaarde (bijv. categorie/rekening/begunstigde).",
     "to": "met",
-    "This schedule has custom conditions and actions": "Dit schema heeft aangepaste voorwaarden en acties"
+    "This schedule has custom conditions and actions": "Dit schema heeft aangepaste voorwaarden en acties",
+    "To use the bank syncing features, you must first add an account.": "Om de banksynchronisatie functionaliteiten te gebruiken, moet je eerst een rekening toevoegen.",
+    "This will generate a new key for encrypting your data. <2>This requires a sync reset</2> and all other devices will have to revert to this version of your data. Actual will take you through that process on those devices.": "Dit genereert een nieuwe sleutel voor het versleutelen van je gegevens. <2>Dit vereist een sync reset</2> en alle andere apparaten moeten worden teruggezet naar deze versie van je gegevens. Actual zal je door dit proces leiden op deze apparaten.",
+    "This will change the password for this server instance. All existing sessions will stay logged in.": "Dit zal het wachtwoord voor deze serverinstantie veranderen. Alle bestaande sessies blijven ingelogd.",
+    "To enable end-to-end encryption, you need to create a key. We will generate a key based on a password and use it to encrypt from now on. <2>This requires a sync reset</2> and all other devices will have to revert to this version of your data. ": "Om end-to-end versleuteling in te schakelen, moet je een sleutel aanmaken. We zullen een sleutel genereren op basis van een wachtwoord en deze vanaf nu gebruiken om te versleutelen. <2>Dit vereist een sync reset</2> en alle andere apparaten zullen moeten terugkeren naar deze versie van je gegevens. ",
+    "Transfer To/From": "Overschrijven Naar/Van",
+    "No transactions found with mappable fields, accounts must have been synced at least once for this function to be available.": "Geen transacties gevonden met overzetbare velden, rekeningen moeten ten minste één keer gesynchroniseerd zijn voordat deze functie beschikbaar is.",
+    "Type the server password to disable OpenID": "Typ het serverwachtwoord in om OpenID uit te schakelen",
+    "Bank": "Bank",
+    "Example": "Voorbeeld",
+    "Import pending transactions": "Importeer onverwerkte transacties",
+    "Import transaction notes": "Importeer transactieopmerkingen",
+    "Last sync": "Laatste synchronisatie"
 }
