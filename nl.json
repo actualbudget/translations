@@ -1110,5 +1110,7 @@
     "Example": "Voorbeeld",
     "Import pending transactions": "Importeer onverwerkte transacties",
     "Import transaction notes": "Importeer transactieopmerkingen",
-    "Last sync": "Laatste synchronisatie"
+    "Last sync": "Laatste synchronisatie",
+    "This role is ideal for users who primarily need to manage their own budgets and participate in shared budget activities.": "Deze rol is ideaal voor gebruikers die voornamelijk hun eigen budget beheren en deelnemen aan gedeelde budget activiteiten.",
+    "Transfers:": "Overschrijvingen:"
 }
