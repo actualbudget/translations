@@ -1112,5 +1112,7 @@
     "Import transaction notes": "Importeer transactieopmerkingen",
     "Last sync": "Laatste synchronisatie",
     "This role is ideal for users who primarily need to manage their own budgets and participate in shared budget activities.": "Deze rol is ideaal voor gebruikers die voornamelijk hun eigen budget beheren en deelnemen aan gedeelde budget activiteiten.",
-    "Transfers:": "Overschrijvingen:"
+    "Transfers:": "Overschrijvingen:",
+    "(No payee)": "(Geen begunstigde)",
+    "<0><0>Custom Report:</0></0> <2>{{name}}</2>": "<0><0>Aangepast Rapport:</0></0> <2>{{name}}</2>"
 }
