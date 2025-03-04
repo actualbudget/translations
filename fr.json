@@ -179,7 +179,7 @@
     "All reconciled!": "Tout est rapproché !",
     "amount": "montant",
     "An error occurred while linking your account, sorry!": "Désolé, une erreur est survenue lors de la liaison de votre compte !",
-    "An internal error occurred, sorry! Visit https://actualbudget.org/contact/ for support. (ref: {{reason}})": "Désolé, une erreur interne s’est produite. Visitez https://actualbudget.org/contact/ pour obtenir de l’aide. (ref: {{reason}})",
+    "An internal error occurred, sorry! Visit https://actualbudget.org/contact/ for support. (ref: {{reason}})": "Désolé, une erreur interne s’est produite. Visitez https://actualbudget.org/contact/ pour obtenir de l’aide. (ref:{{reason}})",
     "and": "et",
     "Delete selected transactions": "Supprimer les opérations sélectionnées",
     "Deposit": "Dépôt",
