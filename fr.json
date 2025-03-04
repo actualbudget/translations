@@ -1175,5 +1175,9 @@
     "This file is encrypted": "Ce fichier est chiffré",
     "Set payee for selected transactions": "Définir le bénéficiaire pour les transactions sélectionnées",
     "Show Error": "Afficher l'erreur",
-    "This file is encrypted and you do not have the key for it.": "Ce fichier est chiffré et vous ne disposez pas de la clé de déchiffrement."
+    "This file is encrypted and you do not have the key for it.": "Ce fichier est chiffré et vous ne disposez pas de la clé de déchiffrement.",
+    "The old unsupported desktop app": "L'ancienne application de bureau non prise en charge",
+    "To use the bank syncing features, you must first add an account.": "Veuillez d'abord ajouter un compte avant de pouvoir utiliser les fonctionnalités de synchronisation bancaire.",
+    "Show off budget accounts": "Afficher les comptes hors budget",
+    "This role is ideal for users who primarily need to manage their own budgets and participate in shared budget activities.": "Ce rôle convient parfaitement aux utilisateurs qui doivent principalement gérer leurs propres budgets et participer aux activités budgétaires collaboratives."
 }
