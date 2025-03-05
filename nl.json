@@ -1114,5 +1114,15 @@
     "This role is ideal for users who primarily need to manage their own budgets and participate in shared budget activities.": "Deze rol is ideaal voor gebruikers die voornamelijk hun eigen budget beheren en deelnemen aan gedeelde budget activiteiten.",
     "Transfers:": "Overschrijvingen:",
     "(No payee)": "(Geen begunstigde)",
-    "<0><0>Custom Report:</0></0> <2>{{name}}</2>": "<0><0>Aangepast Rapport:</0></0> <2>{{name}}</2>"
+    "<0><0>Custom Report:</0></0> <2>{{name}}</2>": "<0><0>Aangepast Rapport:</0></0> <2>{{name}}</2>",
+    "Your data is out of sync": "Je gegevens zijn niet meer synchroon",
+    "Your data is still out of sync": "Je gegevens zijn nog steeds niet synchroon",
+    "You can also delete just the local copy. This will remove all local data and the file will be listed as available for download.": "Je kunt ook alleen de lokale kopie verwijderen. Hierdoor worden alle lokale gegevens verwijderd en wordt het bestand getoond als beschikbaar om te downloaden.",
+    "Unknown error with budget name": "Onbekende fout met budget naam",
+    "You need to register it to take advantage of syncing which allows you to use it across devices and never worry about losing your data.": "Je moet het registreren om gebruik te kunnen maken van synchronisatie, waardoor je het op verschillende apparaten kunt gebruiken en je nooit zorgen hoeft te maken dat je gegevens kwijtraakt.",
+    "You need to revert it to continue syncing. Any unsynced data will be lost. If you like, you can instead [upload this file](#upload) to be the latest version.": "Je moet het ongedaan maken om door te gaan met synchroniseren. Alle niet gesynchroniseerde gegevens zullen verloren gaan. Als je wilt, kun je in plaats daarvan [dit bestand uploaden](#upload) om de nieuwste versie te gebruiken.",
+    "Your files won’t be moved. You can manually move them to the folder.": "Je bestanden worden niet verplaatst. Je kunt ze handmatig naar de map verplaatsen.",
+    "Your budget is hosted on a server, making it accessible for download on your devices.<1></1>Would you like to duplicate this budget for all your devices or keep it stored locally on this device?": "Je budget wordt gehost op een server, zodat je het kunt downloaden op je apparaten.<1></1>Wil je dit budget dupliceren voor al je apparaten of wil je het lokaal op dit apparaat opslaan?",
+    "Using server: <1>{url}</1>": "Gebruikt server: <1>{url}</1>",
+    "Your encryption key need to be reset": "Je encryptiesleutel moet worden gereset"
 }
