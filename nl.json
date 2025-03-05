@@ -1105,7 +1105,7 @@
     "To enable end-to-end encryption, you need to create a key. We will generate a key based on a password and use it to encrypt from now on. <2>This requires a sync reset</2> and all other devices will have to revert to this version of your data. ": "Om end-to-end versleuteling in te schakelen, moet je een sleutel aanmaken. We zullen een sleutel genereren op basis van een wachtwoord en deze vanaf nu gebruiken om te versleutelen. <2>Dit vereist een sync reset</2> en alle andere apparaten zullen moeten terugkeren naar deze versie van je gegevens. ",
     "Transfer To/From": "Overschrijven Naar/Van",
     "No transactions found with mappable fields, accounts must have been synced at least once for this function to be available.": "Geen transacties gevonden met overzetbare velden, rekeningen moeten ten minste één keer gesynchroniseerd zijn voordat deze functie beschikbaar is.",
-    "Type the server password to disable OpenID": "Typ het serverwachtwoord in om OpenID uit te schakelen",
+    "Type the server password to disable OpenID": "Typ het server wachtwoord in om OpenID uit te schakelen",
     "Bank": "Bank",
     "Example": "Voorbeeld",
     "Import pending transactions": "Importeer onverwerkte transacties",
@@ -1124,5 +1124,8 @@
     "Your files won’t be moved. You can manually move them to the folder.": "Je bestanden worden niet verplaatst. Je kunt ze handmatig naar de map verplaatsen.",
     "Your budget is hosted on a server, making it accessible for download on your devices.<1></1>Would you like to duplicate this budget for all your devices or keep it stored locally on this device?": "Je budget wordt gehost op een server, zodat je het kunt downloaden op je apparaten.<1></1>Wil je dit budget dupliceren voor al je apparaten of wil je het lokaal op dit apparaat opslaan?",
     "Using server: <1>{url}</1>": "Gebruikt server: <1>{url}</1>",
-    "Your encryption key need to be reset": "Je encryptiesleutel moet worden gereset"
+    "Your encryption key need to be reset": "Je encryptiesleutel moet worden gereset",
+    "Use any OpenId provider of your preference. <2>If your provider does not support discovery, configure it manually from server</2>": "Gebruik elke OpenId aanbieder naar keuze. <2>Als je aanbieder ontdekking niet ondersteunt, configureer het dan handmatig op de server</2>",
+    "Your browser doesn’t support IndexedDB in this environment, a feature that Actual requires to run. This might happen if you are in private browsing mode. Please try a different browser or turn off private browsing.": "Je browser ondersteunt IndexedDB niet in deze omgeving. Actual heeft IndexDB nodig om te kunnen functioneren. Dit kan gebeuren als je privé browsen gebruikt. Probeer een andere browser of schakel privé browsen uit.",
+    "You can always manually post a transaction later for a due schedule by selecting the schedule and clicking “Post transaction today” in the action menu.": "Je kunt altijd later handmatig een transactie maken voor een aankomend schema door het schema te selecteren en op “Maak transactie vandaag” te klikken in het actiemenu."
 }
