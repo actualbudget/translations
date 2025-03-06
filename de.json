@@ -1231,5 +1231,6 @@
     "Successfully linked {{count}} transactions to {{schedule}}._one": "Eine Transaktion erfolgreich mit {{schedule}} verknüpft.",
     "Successfully linked {{count}} transactions to {{schedule}}._other": "{{count}} Transaktionen erfolgreich mit {{schedule}} verknüpft.",
     "Successfully unlinked {{count}} transactions from their respective schedules._one": "Eine Transaktion erfolgreich von ihrem Terminplan getrennt.",
-    "Successfully unlinked {{count}} transactions from their respective schedules._other": "{{count}} Transaktionen erfolgreich von ihren jeweiligen Terminplänen getrennt."
+    "Successfully unlinked {{count}} transactions from their respective schedules._other": "{{count}} Transaktionen erfolgreich von ihren jeweiligen Terminplänen getrennt.",
+    "Edit fields": "Felder anpassen"
 }
