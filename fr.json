@@ -1191,7 +1191,7 @@
     "Unable to encrypt your data because you are missing the key. Create the latest key in the next step.": "Impossible de chiffrer vos données car la clé est manquante. Créez la clé la plus récente à l'étape suivante.",
     "You can import data from another Actual account or instance. First export your data from a different account, and it will give you a compressed file. This file is a simple zip file that contains the <1>db.sqlite</1> and <4>metadata.json</4> files.": "Vous pouvez importer des données depuis un autre compte ou instance Actual. Exportez d'abord vos données depuis l'autre compte, ce qui créera un fichier compressé. Ce fichier est un simple fichier zip contenant les fichiers <1>db.sqlite</1> et <4>metadata.json</4>.",
     "Underfunded ({{amount}})": "Déficitaire ({{amount}})",
-    "Toggle all transactions between current and most recently selected transaction": "Inverser la sélection de toutes les opérations entre l'opération actuelle et l'opération sélectionnée la plus récente",
+    "Toggle all transactions between current and most recently selected transaction": "Inverser la sélection de toutes les transactions entre la transaction actuelle et la transaction sélectionnée la plus récente.",
     "Up to $150 each month, and remove extra funds over $150": "Jusqu'à 150 $ chaque mois, et retirer les fonds supplémentaires au-delà de 150 $",
     "Users with the Basic role can create new budgets and be invited to collaborate on budgets created by others.": "Les utilisateurs avec le rôle Basique peuvent créer de nouveaux budgets et être invités à collaborer sur des budgets créés par d’autres.",
     "Year to date": "Année en cours",
