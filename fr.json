@@ -812,7 +812,7 @@
     "Unselect All": "Tout désélectionner",
     "Upcoming dates": "Prochaines dates",
     "Year": "Année",
-    "Post": "Publier",
+    "Post": "Après",
     "Transactions will no longer be synchronized with this account and must be manually entered.": "Les opérations ne seront plus synchronisées avec ce compte et devront être entrées manuellement.",
     "(No payee)": "(Aucun bénéficiaire)",
     "<0><0>Custom Report:</0></0> <2>{{name}}</2>": "<0><0>Rapport personnalisé :</0></0> <2>{{name}}</2>",
