@@ -768,7 +768,7 @@
     "Notes: {{name}}": "Notes : {{name}}",
     "OpenID is required to enable multi-user mode.": "OpenID est nécessaire pour activer le mode multi-utilisateurs.",
     "OpenID was enabled but cleanup failed. Please refresh the application.": "OpenID a été activé mais le nettoyage a échoué. Veuillez actualiser l'application.",
-    "Overbudgeted": "Surbudgétisé",
+    "Overbudgeted": "Hors budget",
     "Overspent:": "Dépassement de budget :",
     "Overspent": "Dépassement de budget",
     "If left empty, it will be updated from your OpenID provider on the user's login, if available there.": "S'il est laissé vide, il sera mis à jour depuis votre fournisseur OpenID lors de la connexion de l'utilisateur, si disponible.",
