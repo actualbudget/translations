@@ -1213,5 +1213,6 @@
     "Every {{interval}} days": "Tous les {{interval}} jours",
     "account": "compte",
     "category": "catégorie",
-    "date": "date"
+    "date": "date",
+    "Client ID:": "ID Client :"
 }
