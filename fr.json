@@ -1206,5 +1206,12 @@
     "Unpin sidebar": "Désépingler la barre latérale",
     "(after weekend)": "(après le week-end)",
     "(before weekend)": "(avant le week-end)",
-    "Edit fields": "Éditer les champs"
+    "Edit fields": "Éditer les champs",
+    "{{endOccurrences}} times": "{{endOccurrences}} fois",
+    "after": "après",
+    "before": "avant",
+    "Every {{interval}} days": "Tous les {{interval}} jours",
+    "account": "compte",
+    "category": "catégorie",
+    "date": "date"
 }
