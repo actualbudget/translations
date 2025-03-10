@@ -724,7 +724,6 @@
     "Replace": "Remplace",
     "Schedule": "Échéancier",
     "Sum": "Somme",
-    "It looks like you're using an outdated version of the Actual client. Your budget data has been updated by another client, but this client is still on the old verison. For the best experience, please update Actual to the latest version.": "Il semble que vous utilisez une version dépassée du client d'Actual. Vos données de budget ont été mises à jour par un autre client, mais ce client est toujours sur une ancienne version. Pour une meilleure expérience, merci de mettre à jour Actual vers la dernière version.",
     "In order to enable bank-sync via SimpleFIN (only for North American banks), you will need to create a token. This can be done by creating an account with <2>SimpleFIN</2>.": "Afin de permettre la synchronisation de la banque via SimpleFIN (seulement pour les banques nord-américaines), vous devez créer des identifiants d'accès. Cela peut être fait en créant un compte avec <2>SimpleFIN</2>.",
     "Schedule: {{name}}": "Échéancier : {{name}}",
     "payee (name)": "bénéficiaire (nom)",

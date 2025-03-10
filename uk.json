@@ -866,7 +866,6 @@
     "If you expected a schedule here and don’t see it, it might be because the payees of the transactions don’t match. Make sure you rename payees on all transactions for a schedule to be the same payee.": "Якщо ви очікували розкладу тут, але не бачите його, можливо, одержувачі трансакцій не збігаються. Переконайтеся, що ви перейменували одержувачів у всіх транзакціях, щоб у розкладі був той самий одержувач.",
     "In the future, you can add accounts from the sidebar.": "У майбутньому ви зможете додавати облікові записи з бічної панелі.",
     "Loading banks...": "Завантаження банків...",
-    "It looks like you're using an outdated version of the Actual client. Your budget data has been updated by another client, but this client is still on the old verison. For the best experience, please update Actual to the latest version.": "Схоже, ви використовуєте застарілу версію фактичного клієнта. Дані вашого бюджету оновив інший клієнт, але цей клієнт усе ще використовує стару версію. Для найкращої роботи оновіть Actual до останньої версії.",
     "Loading more transactions...": "Завантаження інших транзакцій...",
     "Loading report...": "Завантаження звіту...",
     "Loading transactions...": "Завантаження транзакцій...",

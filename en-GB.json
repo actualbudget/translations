@@ -397,7 +397,6 @@
     "is true": "is true",
     "It is required to provide a token.": "It is required to provide a token.",
     "It is recommended for the encryption password to be different than the log-in password in order to better protect your data.": "It is recommended for the encryption password to be different than the log-in password in order to better protect your data.",
-    "It looks like you're using an outdated version of the Actual client. Your budget data has been updated by another client, but this client is still on the old verison. For the best experience, please update Actual to the latest version.": "It looks like you're using an outdated version of the Actual client. Your budget data has been updated by another client, but this client is still on the old verison. For the best experience, please update Actual to the latest version.",
     "Item is no longer authorized. You need to login again.": "Item is no longer authorised. You need to login again.",
     "Key generation is randomized. The same password will create different keys, so this will change your key regardless of the password being different.": "Key generation is randomised. The same password will create different keys, so this will change your key regardless of the password being different.",
     "Keyboard shortcuts": "Keyboard shortcuts",

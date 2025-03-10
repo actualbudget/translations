@@ -875,7 +875,6 @@
     "logged in as: <2>{{userName}}</2>": "conectado como: <2>{{userName}}</2>",
     "No split transactions found needing repair.": "Nenhuma transação dividida encontrada que precise de reparo.",
     "Item is no longer authorized. You need to login again.": "O item não está mais autorizado. Você precisa fazer login novamente.",
-    "It looks like you're using an outdated version of the Actual client. Your budget data has been updated by another client, but this client is still on the old verison. For the best experience, please update Actual to the latest version.": "Parece que você está usando uma versão desatualizada do cliente Actual. Seus dados de orçamento foram atualizados por outro cliente, mas este ainda está na versão antiga. Para uma melhor experiência, atualize o Actual para a versão mais recente.",
     "Post transaction today": "Registrar transação hoje",
     "Passwords do not match": "As senhas não correspondem",
     "Revert to original version": "Reverter para a versão original",

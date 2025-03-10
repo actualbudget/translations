@@ -870,7 +870,6 @@
     "Dashboard has been successfully imported. Don’t like what you see? You can always press [ctrl+z](#undo) to undo.": "Dashboard is succesvol geïmporteerd. Niet tevreden met wat je ziet? Je kunt altijd op [ctrl+z](#undo) drukken om het ongedaan te maken.",
     "Edit this widget to change the **markdown** content.": "Pas deze widget aan om de **markdown** inhoud te wijzigen.",
     "Existing sessions will be logged out and you will log in to this server. We will validate that Actual is running at this URL.": "Bestaande sessies worden uitgelogd en dan log je in op deze server. We zullen controleren of Actual draait op deze URL.",
-    "It looks like you're using an outdated version of the Actual client. Your budget data has been updated by another client, but this client is still on the old verison. For the best experience, please update Actual to the latest version.": "Het lijkt erop dat je een verouderde versie van de Actual client gebruikt. Je budgetgegevens zijn bijgewerkt door een andere client, maar deze client gebruikt nog de oude versie. Voor de beste ervaring moet je Actual bijwerken naar de nieuwste versie.",
     "Line Graph": "Lijngrafiek",
     "Net Worth": "Netto Vermogen",
     "Net worth graph": "Netto vermogen grafiek",
