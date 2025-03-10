@@ -326,7 +326,7 @@
     "Calendar": "Calendrier",
     "Calendar card": "Carte Calendrier",
     "Category “{{name}}” already exists in group (it may be hidden)": "La catégorie « {{name}} » existe déjà dans le groupe (elle peut être masquée)",
-    "Category group name": "Nom du groupe catégorie",
+    "Category group name": "Nom du groupe de catégories",
     "Category learning settings": "Paramètres d'apprentissage des catégories",
     "Clear transactions on import": "Rapprochement des transactions à l'importation",
     "Create payee “{{payeeName}}”": "Créer le bénéficiaire \"{{payeeName}}\"",
