@@ -1202,5 +1202,8 @@
     "Bank field": "Campo bancário",
     "To use the bank syncing features, you must first add an account.": "Para usar os recursos de sincronização bancária, você deve primeiro adicionar uma conta.",
     "Unlinked": "Desvinculado",
-    "Actual field": "Campo atual"
+    "Actual field": "Campo atual",
+    "(after weekend)": "(após o fim de semana)",
+    "(before weekend)": "(antes do fim de semana)",
+    "account": "conta"
 }
