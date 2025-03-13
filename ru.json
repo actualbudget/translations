@@ -28,5 +28,7 @@
     "<0><0>How are “Average” and “Spent Average MTD” calculated?</0></0><1>They are both the average cumulative spending by day for the three months before the selected “compare” month.</1>": "<0><0>Как рассчитываются «Среднее» и «Потраченное среднее MTD»? </0></0><1>Они оба представляют собой средние суммарные расходы по дням за три месяца, предшествующих выбранному «для сравнения» месяцу.</1>",
     "(please select)": "(выберите пожалуйста)",
     "{{displayMonth}} budget templates have been overwritten.": "Шаблон бюджета на {{displayMonth}} был изменен.",
-    "(give feedback)": "(обратная связь)"
+    "(give feedback)": "(обратная связь)",
+    "<0>Formatting</0> does not affect how budget data is stored, and can be changed at any time.": "<0>Форматирование</0> не влияет на то, как хранятся бюджетные данные, и может быть изменено в любое время.",
+    "Actual is a super fast privacy-focused app for managing your finances. To secure your data, you’ll need to set a password for your server.": "Actual - это супер быстрое приложение, ориентированное на конфиденциальность для управления вашими финансами. Чтобы обезопасить ваши данные, вам необходимо установить пароль для вашего сервера."
 }
