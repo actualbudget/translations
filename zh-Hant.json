@@ -87,5 +87,11 @@
     "A file with id “{{id}}” already exists with the name “{{name}}”. This file will be replaced. This probably happened because files were manually moved around outside of Actual.": "檔案 ID 「{{id}}」已經存在，名字爲「{{name}}」。此檔案將被取代。這也許因爲這些檔案在Actual外曾被更動。",
     "Consider opening <2>our tour</2> in a new tab for some guidance on what to do when you’ve set your password.": "在設定密碼後，請 <2>按此</2> 以在新頁中開啓軟件介紹。",
     "Actual is a personal finance tool that focuses on beautiful design and a slick user experience. <2>Editing your data should be as fast as possible.</2> On top of that, we want to provide powerful tools to allow you to do whatever you want with your data.": "Actual 乃是一款個人財務工具，專注提供高質素界面以及優秀用戶體驗。 <2> 編輯你的資料應該是越便利越好。</2>除此之外，此軟件也提供強大的功能讓你可以安穩處理你的財務資料。",
-    "This happens rarely (if ever again). The internal syncing format has changed and you need to reset sync. This will upload data from this device and revert all other devices. [Learn more about what this means](https://actualbudget.org/docs/getting-started/sync/#what-does-resetting-sync-mean).\n\nOld encryption keys are not migrated. If using encryption, [reset encryption here](#makeKey).": "這種情況很少發生（如果再發生的話）。內部同步格式已經改變，您需要重置同步。這將從此裝置上上傳資料並恢復所有其他裝置的狀態。 [了解更多有關此操作的資訊](https://actualbudget.org/docs/getting-started/sync/#what-does-resetting-sync-mean)。\n\n舊的加密金鑰不會被遷移。如果您使用加密，請在此處 [重置加密](#makeKey)。"
+    "This happens rarely (if ever again). The internal syncing format has changed and you need to reset sync. This will upload data from this device and revert all other devices. [Learn more about what this means](https://actualbudget.org/docs/getting-started/sync/#what-does-resetting-sync-mean).\n\nOld encryption keys are not migrated. If using encryption, [reset encryption here](#makeKey).": "這種情況很少發生（如果再發生的話）。內部同步格式已經改變，您需要重置同步。這將從此裝置上上傳資料並恢復所有其他裝置的狀態。 [了解更多有關此操作的資訊](https://actualbudget.org/docs/getting-started/sync/#what-does-resetting-sync-mean)。\n\n舊的加密金鑰不會被遷移。如果您使用加密，請在此處 [重置加密](#makeKey)。",
+    "(hidden)": "（隱藏）",
+    "(Optional)": "（可選）",
+    "(please select)": "（請選擇）",
+    "{{displayMonth}} budget templates have been applied.": "已套用 {{displayMonth}} 預算範本",
+    "{{displayMonth}} budgets have all been set to zero.": "{{displayMonth}} 預算範本已被清零",
+    "{{displayMonth}} budget templates have been overwritten.": "已覆寫 {{displayMonth}} 預算範本"
 }
