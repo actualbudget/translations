@@ -1208,7 +1208,7 @@
     "account": "conta",
     "Fixed {{count}} non-split transactions with split errors._one": "Corrigida {{count}} transação não dividida com erro de divisão.",
     "Fixed {{count}} non-split transactions with split errors._many": "Corrigidas {{count}} transações não divididas com erros de divisão.",
-    "Fixed {{count}} non-split transactions with split errors._other": "",
+    "Fixed {{count}} non-split transactions with split errors._other": "Corrigidas {{count}} transações não divididas com erros de divisão.",
     "Client ID:": "ID do Cliente:",
     "Error when trying to contact Pluggy.ai": "Erro ao tentar contatar o Pluggy.ai",
     "In order to enable bank-sync via Pluggy.ai (only for Brazilian banks) you will need to create access credentials. This can be done by creating an account with <2>Pluggy.ai</2>.": "Para habilitar a sincronização bancária via Pluggy.ai (apenas para bancos brasileiros), você precisará criar credenciais de acesso. Isso pode ser feito criando uma conta no <2>Pluggy.ai</2>.",
