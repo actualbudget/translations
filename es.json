@@ -672,5 +672,8 @@
     "Existing filters will be cleared": "Los filtros existentes serán limpiados",
     "Invalid": "Inválido",
     "is after or equals": "es posterior o igual",
-    "<0>Link a <1>European</1> bank account</0> to automatically download transactions. GoCardless provides reliable, up-to-date information from hundreds of banks.": "<0>Enlaza una cuenta bancaria <1>europea</1></0> para descargar transacciones automáticamente. GoCardless proporciona información fiable y actualizada de cientos de bancos."
+    "<0>Link a <1>European</1> bank account</0> to automatically download transactions. GoCardless provides reliable, up-to-date information from hundreds of banks.": "<0>Enlaza una cuenta bancaria <1>europea</1></0> para descargar transacciones automáticamente. GoCardless proporciona información fiable y actualizada de cientos de bancos.",
+    "(after weekend)": "(después del fin de semana)",
+    "(before weekend)": "(antes del fin de semana)",
+    "{{endOccurrences}} times": "{{endOccurrences}} veces"
 }
