@@ -735,5 +735,15 @@
     "number of transactions": "número de transacciones",
     "Numbers": "Números",
     "Payments": "Pagos",
-    "Please enter a value for the username; the field cannot be empty.": "Por favor introduzca un valor para el nombre de usuario; el campo no puede estar vacío."
+    "Please enter a value for the username; the field cannot be empty.": "Por favor introduzca un valor para el nombre de usuario; el campo no puede estar vacío.",
+    "Menu": "Menú",
+    "is before or equals": "es anterior o igual",
+    "is after": "es posterior",
+    "Merge with existing transactions": "Unir con transacciones existentes",
+    "Loading reports...": "Cargando informes...",
+    "Making demo...": "Realizando demostración…",
+    "is before": "es antes",
+    "Deleting reconciled transactions may bring your reconciliation out of balance.": "Eliminar transacciones conciliadas puede desequilibrar su conciliación.",
+    "Item is no longer authorized. You need to login again.": "El ítem ya no está autorizado. Debe iniciar sesión nuevamente.",
+    "Import transaction notes": "Importar notas de transacción"
 }
