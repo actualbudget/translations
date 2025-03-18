@@ -33,5 +33,9 @@
     "Actual is a super fast privacy-focused app for managing your finances. To secure your data, you’ll need to set a password for your server.": "Actual - это супер быстрое приложение, ориентированное на конфиденциальность для управления вашими финансами. Чтобы обезопасить ваши данные, вам необходимо установить пароль для вашего сервера.",
     "<0>Move schedule </0><1></1><2> {{beforeOrAfter}} weekend</2>": "<0>Переместить расписание </0><1></1><2> {{beforeOrAfter}} выходных</2>",
     "<0>No server configured</0>": "<0>Сервер не настроен</0>",
-    "<0>Goal:</0><1>{{amount}}</1>": "<0>Цель:</0><1>{{amount}}</1>"
+    "<0>Goal:</0><1>{{amount}}</1>": "<0>Цель:</0><1>{{amount}}</1>",
+    "$10 a week": "$10 в неделю",
+    "$10 a week, up to a maximum of $80": "$10 неделю, до максимума $80",
+    "<0>Themes</0> change the user interface colors.": "<0>Темы</0> изменение цветов пользовательского интерфейса.",
+    "$50 each month": "$50 каждый месяц"
 }
