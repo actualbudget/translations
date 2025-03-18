@@ -745,5 +745,13 @@
     "is before": "es antes",
     "Deleting reconciled transactions may bring your reconciliation out of balance.": "Eliminar transacciones conciliadas puede desequilibrar su conciliación.",
     "Item is no longer authorized. You need to login again.": "El ítem ya no está autorizado. Debe iniciar sesión nuevamente.",
-    "Import transaction notes": "Importar notas de transacción"
+    "Import transaction notes": "Importar notas de transacción",
+    "Edit fields": "Editar campos",
+    "Error when trying to contact Pluggy.ai": "Error al intentar contactar con Pluggy.ai",
+    "It is required to provide both the client id, client secret and at least one item id.": "Es obligatorio proporcionar tanto el ID de cliente, el secreto de cliente y al menos un ID de elemento.",
+    "Fixed {{count}} non-split transactions with split errors._one": "Se ha corregido {{count}} transacción no divididas con errores de división.",
+    "Fixed {{count}} non-split transactions with split errors._many": "Se han corregido {{count}} transacciones no divididas con errores de división.",
+    "Fixed {{count}} non-split transactions with split errors._other": "",
+    "In order to enable bank-sync via Pluggy.ai (only for Brazilian banks) you will need to create access credentials. This can be done by creating an account with <2>Pluggy.ai</2>.": "Para habilitar la sincronización bancaria a través de Pluggy.ai (solo para bancos brasileños), necesitarás crear credenciales de acceso. Esto se puede hacer creando una cuenta en <2>Pluggy.ai</2>.",
+    "Even though encryption is enabled, the exported zip file will not have any encryption.": "Aunque el cifrado está habilitado, el archivo ZIP exportado no tendrá ningún cifrado."
 }
