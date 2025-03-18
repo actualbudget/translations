@@ -1251,5 +1251,6 @@
     "Successfully deleted {{count}} transactions._many": "{{count}} transactions supprimées avec succès.",
     "Successfully deleted {{count}} transactions._other": "{{count}} transactions supprimées avec succès.",
     "saved": "sauvegardé",
-    "Amount left: {{amount}}": "Montant restant : {{amount}}"
+    "Amount left: {{amount}}": "Montant restant : {{amount}}",
+    "<0>Link a <1>Brazilian</1> bank account</0> to automatically download transactions. Pluggy.ai provides reliable, up-to-date information from hundreds of banks.": "<0>Lier un compte bancaire <1>brésilien</1></0> pour télécharger automatiquement les transactions. Pluggy.ai fournit des informations fiables et actualisées provenant de centaines de banques."
 }
