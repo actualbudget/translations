@@ -30,5 +30,8 @@
     "{{displayMonth}} budget templates have been overwritten.": "Шаблон бюджета на {{displayMonth}} был изменен.",
     "(give feedback)": "(обратная связь)",
     "<0>Formatting</0> does not affect how budget data is stored, and can be changed at any time.": "<0>Форматирование</0> не влияет на то, как хранятся бюджетные данные, и может быть изменено в любое время.",
-    "Actual is a super fast privacy-focused app for managing your finances. To secure your data, you’ll need to set a password for your server.": "Actual - это супер быстрое приложение, ориентированное на конфиденциальность для управления вашими финансами. Чтобы обезопасить ваши данные, вам необходимо установить пароль для вашего сервера."
+    "Actual is a super fast privacy-focused app for managing your finances. To secure your data, you’ll need to set a password for your server.": "Actual - это супер быстрое приложение, ориентированное на конфиденциальность для управления вашими финансами. Чтобы обезопасить ваши данные, вам необходимо установить пароль для вашего сервера.",
+    "<0>Move schedule </0><1></1><2> {{beforeOrAfter}} weekend</2>": "<0>Переместить расписание </0><1></1><2> {{beforeOrAfter}} выходных</2>",
+    "<0>No server configured</0>": "<0>Сервер не настроен</0>",
+    "<0>Goal:</0><1>{{amount}}</1>": "<0>Цель:</0><1>{{amount}}</1>"
 }
