@@ -1272,5 +1272,9 @@
     "Every month on the {{dateFormatted}}": "Jeden Monat am {{dateFormatted}}",
     "for": "für",
     "ocurrences": "Vorkommen",
-    "until {{dateFormatted}}": "bis {{dateFormatted}}"
+    "until {{dateFormatted}}": "bis {{dateFormatted}}",
+    "Add new split - {{amount}} left": "Neue Teilung hinzufügen - {{amount}} übrig",
+    "Income categories": "Einnahmenkategorien",
+    "Amount left: {{amount}}": "Verbleibender Betrag: {{amount}}",
+    "Save changes": "Änderungen speichern"
 }
