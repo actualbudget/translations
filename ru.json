@@ -37,5 +37,6 @@
     "$10 a week": "$10 в неделю",
     "$10 a week, up to a maximum of $80": "$10 неделю, до максимума $80",
     "<0>Themes</0> change the user interface colors.": "<0>Темы</0> изменение цветов пользовательского интерфейса.",
-    "$50 each month": "$50 каждый месяц"
+    "$50 each month": "$50 каждый месяц",
+    "<0>Reset budget cache</0> will clear all cached values for the budget and recalculate the entire budget. All values in the budget are cached for performance reasons, and if there is a bug in the cache you won’t see correct values. There is no danger in resetting the cache. Hopefully you never have to do this.": "<0>Сбросить кэш бюджета</0> очистит все кэшированные значения для бюджета и пересчитает весь бюджет. Все значения в бюджете кэшируются по соображениям производительности, и если в кэше есть ошибка, вы не увидите правильных значений. Сброс кэша не представляет опасности. Надеюсь, вам никогда не придется этого делать."
 }
