@@ -188,6 +188,7 @@
   "Break down less-frequent expenses into monthly expenses": "Break down less-frequent expenses into monthly expenses",
   "Budget": "Budget",
   "Budget “{{id}}” not found. Check the ID of your budget in the Advanced section of the settings page.": "Budget “{{id}}” not found. Check the ID of your budget in the Advanced section of the settings page.",
+  "Budget files": "Budget files",
   "Budget name": "Budget name",
   "Budget page menu": "Budget page menu",
   "Budget set to {{numberOfMonths}}-month average.": "Budget set to {{numberOfMonths}}-month average.",
