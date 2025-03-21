@@ -1286,5 +1286,20 @@
     "Add new split - {{amount}} left": "Adicionar nova divisão - {{amount}} restante",
     "Amount left: {{amount}}": "Valor restante: {{amount}}",
     "Income categories": "Categorias de receita",
-    "Save changes": "Salvar alterações"
+    "Save changes": "Salvar alterações",
+    "Reimport deleted transactions": "Reimportar transações excluídas",
+    "missed": "perdido",
+    "Day": "Dia",
+    "By default imported transactions that you delete will be re-imported with the next bank sync operation. To disable this behaviour - untick this box.": "Por padrão, as transações importadas que você excluir serão reimportadas na próxima sincronização bancária. Para desativar esse comportamento, desmarque esta caixa.",
+    "Last": "Último",
+    "nothing": "nada",
+    "scheduled": "agendado",
+    "(deleted)": "(excluído)",
+    "(nothing)": "(nada)",
+    "due": "vencido",
+    "Filter": "Filtro",
+    "paid": "pago",
+    "completed": "concluído",
+    "Institution to Sync": "Instituição para sincronizar",
+    "upcoming": "próximo"
 }
