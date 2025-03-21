@@ -1258,7 +1258,7 @@
     "Successfully linked {{count}} transactions to {{schedule}}._many": "{{count}} transações vinculadas com sucesso ao {{schedule}}.",
     "Successfully linked {{count}} transactions to {{schedule}}._other": "{{count}} transações vinculadas com sucesso ao {{schedule}}.",
     "Edit fields": "Editar campos",
-    "Every month on the {{dateFormatted}}": "Todo mês no {dateFormatted}} dia",
+    "Every month on the {{dateFormatted}}": "Todo mês no {{dateFormatted}} dia",
     "Successfully duplicated {{count}} transactions._one": "{{count}} transação duplicada com sucesso.",
     "Successfully duplicated {{count}} transactions._many": "{{count}} transações duplicadas com sucesso.",
     "Successfully duplicated {{count}} transactions._other": "{{count}} transações duplicadas com sucesso.",
