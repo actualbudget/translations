@@ -98,7 +98,7 @@
     "(hidden)": "(ausgeblendet)",
     "Checking GoCardless configuration..": "Überprüfe GoCardless Konfiguration..",
     "(Optional)": "(Optional)",
-    "(none)": "(nichts)",
+    "(none)": "(keine)",
     "(please select)": "(bitte auswählen)",
     "{{count}} associated rules_one": "{{count}} verknüpfte Regel",
     "{{count}} associated rules_other": "{{count}} verknüpfte Regeln",
@@ -1288,5 +1288,6 @@
     "completed": "vollständig",
     "scheduled": "geplant",
     "upcoming": "bevorstehend",
-    "missed": "verpasst"
+    "missed": "verpasst",
+    "Budget files": "Budget-Dateien"
 }
