@@ -1010,5 +1010,7 @@
     "The payees <1>{payeeNamesList}</1> have schedules that are due today._many": "Одержувачі платежу <1>{payeeNamesList}</1> мають графіки, які потрібні сплатити сьогодні.",
     "Usually we automatically post transactions for these, but you are offline or syncing failed. In order to avoid duplicate transactions, we let you choose whether or not to create transactions for these schedules.": "Зазвичай ми автоматично публікуємо транзакції для них, але ви перебуваєте в режимі офлайн або не вдалося синхронізувати. Щоб уникнути повторюваних транзакцій, ми дозволяємо вам вибирати, створювати чи ні транзакції для цих розкладів.",
     "When you’ve located your data, <2>compress it into a zip file</2>. On macOS, right-click the folder and select “Compress”. On Windows, right-click and select “Send to &rarr; Compressed (zipped) folder”. Upload the zipped folder for importing.": "Коли ви знайдете свої дані, <2>стисніть їх у файл zip</2>. У macOS клацніть папку правою кнопкою миші та виберіть «Стиснути». У Windows клацніть правою кнопкою миші та виберіть «Надіслати в → Стиснута (заархівована) папка». Завантажте заархівовану папку для імпорту.",
-    "Your password or something else has changed with your bank and you need to login again.": "Ваш пароль або щось інше змінилося у вашому банку, і вам потрібно ввійти знову."
+    "Your password or something else has changed with your bank and you need to login again.": "Ваш пароль або щось інше змінилося у вашому банку, і вам потрібно ввійти знову.",
+    "<0>Balance:</0><1>{{amount}}</1>": "<0>Баланс:</0><1>{{amount}}</1>",
+    "<0>Budgeted:</0><1>{{amount}}</1>": "<0>Заплановано в бюджеті:</0><1>{{amount}}</1>"
 }
