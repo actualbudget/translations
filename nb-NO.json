@@ -1,5 +1,5 @@
 {
-    "(hidden)": "(gjemt)",
+    "(hidden)": "(skjult)",
     "(modified)": "(endret)",
     "{{count}} transactions_one": "{{count}} transaksjon",
     "{{count}} transactions_other": "{{count}} transaksjoner",
@@ -9,5 +9,6 @@
     "{{displayMonth}} end-of-month cleanup templates have been applied.": "Oppryddingsmaler for månedslutt i {{displayMonth}} er brukt.",
     "{{displayMonth}} budget templates have been applied.": "Budsjettmal for {{displayMonth}} er tatt i bruk.",
     "{{displayMonth}} budgets have all been set to last month’s budgeted amounts.": "{{displayMonth}}budsjettene er alle satt til forrige måneds budsjetterte beløp.",
-    "(please select)": "(vennligst velg)"
+    "(please select)": "(vennligst velg)",
+    "(give feedback)": "(gi tilbakemelding)"
 }
