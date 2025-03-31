@@ -81,5 +81,7 @@
     "copy": "copiar",
     "Create": "Criar",
     "Debts:": "Dívidas:",
-    "Add": "Adicionar"
+    "Add": "Adicionar",
+    "(No payee)": "(Sem beneficiário)",
+    "<0><0>Custom Report:</0></0> <2>{{name}}</2>": "<0><0>Relatório Customizado:</0></0> <2>{{name}}</2>"
 }
