@@ -196,7 +196,7 @@
     "Disabling Category Learning will not delete any existing rules but will prevent new rules from being created automatically on a global level.": "La désactivation de l’apprentissage des catégories ne supprimera aucune règle existante, mais empêchera la création automatique de nouvelles règles au niveau global.",
     "<0>End-to-end encryption</0> is not enabled. Any data on the server is still protected by the server password, but it’s not end-to-end encrypted which means the server owners have the ability to read it. If you want, you can use an additional password to encrypt your data on the server.": "<0>Le Chiffrement de bout en bout</0> n'est pas activé. Toutes les données du serveur sont toujours protégées par le mot de passe du serveur, mais elles ne sont pas chiffrés de bout en bout, ce qui signifie que les propriétaires du serveur ont la possibilité de les lire. Si vous le souhaitez, vous pouvez utiliser un mot de passe supplémentaire pour chiffrer vos données sur le serveur.",
     "1 year": "1 année",
-    "$50 each month": "$50 par mois",
+    "$50 each month": "$50 chaque mois",
     "Access Revocation Incomplete": "Révocation d'accès incomplète",
     "28+": "28+",
     "Access": "Accès",
