@@ -62,7 +62,7 @@
     "and": "e",
     "<0><0>How are “Average” and “Spent Average MTD” calculated?</0></0><1>They are both the average cumulative spending by day for the three months before the selected “compare” month.</1>": "<0><0>Como são calculados a “Média” e a “Média dos gastos MTD”?</0></0><1>Ambos são os gastos médios acumulados por dia para os três meses anteriores ao mês de “comparação” seleccionado.</1>",
     "<0>Actual</0> is a super fast privacy-focused app for managing your finances.": "<0>Actual</0> é um aplicativo super rápido focado em privacidade para gerir suas finanças.",
-    "<0>Authentication method</0> modifies how users log in to the system.": "<0>Método de autenticação</0> modifica a forma como os utilizadores efetuam o login no sistema.",
+    "<0>Authentication method</0> modifies how users log in to the system.": "<0>O método de autenticação</0> modifica como os utilizadores entram no sistema.",
     "<0>Budget ID:</0> {{budgetId}}": "<0>ID do orçamento:</0> {{budgetId}}",
     "<0>Actual’s data directory</0> <2><0>where your files are stored</0></2>": "<0>Diretorio de dados do Actual</0> <2><0>onde os seus ficheiros são armazenados</0></2>",
     "Center": "Centro",
@@ -83,5 +83,7 @@
     "Debts:": "Dívidas:",
     "Add": "Adicionar",
     "(No payee)": "(Sem beneficiário)",
-    "<0><0>Custom Report:</0></0> <2>{{name}}</2>": "<0><0>Relatório Customizado:</0></0> <2>{{name}}</2>"
+    "<0><0>Custom Report:</0></0> <2>{{name}}</2>": "<0><0>Relatório Customizado:</0></0> <2>{{name}}</2>",
+    "<0>End-to-end encryption</0> is not available when making an unencrypted connection to a remote server. You’ll need to enable HTTPS on your server to use end-to-end encryption. This problem may also occur if your browser is too old to work with Actual.": "<0>A encriptação de ponta a ponta</0> não está disponível quando se estabelece uma ligação não encriptada com um servidor remoto. Terá de ativar o HTTPS no seu servidor para usar criptografia de ponta a ponta. Este problema também pode ocorrer se o seu browser for demasiado antigo para funcionar com o Actual.",
+    "<0>End-to-end encryption</0> is not available when running without a server. Budget files are always kept unencrypted locally, and encryption is only applied when sending data to a server.": "<0>A encriptação de ponta a ponta</0> não está disponível quando é executado sem servidor. Os ficheiros de orçamento são sempre mantidos localmente sem encriptação, e a encriptação só é aplicada ao enviar dados para um servidor."
 }
