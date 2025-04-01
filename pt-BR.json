@@ -1300,5 +1300,9 @@
     "paid": "pago",
     "completed": "concluído",
     "Institution to Sync": "Instituição para sincronizar",
-    "upcoming": "próximo"
+    "upcoming": "próximo",
+    "Categorize": "Categorizar",
+    "You have {{count}} uncategorized transactions_one": "Você tem {{count}} transação sem categoria",
+    "You have {{count}} uncategorized transactions_many": "Você tem {{count}} transações sem categoria",
+    "You have {{count}} uncategorized transactions_other": ""
 }
