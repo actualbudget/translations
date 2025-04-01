@@ -43,5 +43,7 @@
     "(before weekend)": "(før weekend)",
     "{{endOccurrences}} times": "{{endOccurrences}} gange",
     "(deleted)": "(slettet)",
-    "(nothing)": "(ingenting)"
+    "(nothing)": "(ingenting)",
+    "<0><0>Custom Report:</0></0> <2>{{name}}</2>": "<0><0>Tilpasset rapport:</0></0> <2>{{name}}</2>",
+    "<0><0>How are “Average” and “Spent Average MTD” calculated?</0></0><1>They are both the average cumulative spending by day for the three months before the selected “compare” month.</1>": "<0><0>Hvordan beregnes \"Gennemsnitlig\" og \"Forbrugt gennemsnit MTD\"?</0></0><1>De er begge det gennemsnitlige kumulative forbrug dag for dag, for de foregående tre måneder før den valgte \"sammenligningsmåned\".</1>"
 }
