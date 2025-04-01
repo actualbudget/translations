@@ -36,5 +36,12 @@
     "Assets:": "Aktiver:",
     "Basic": "Basal",
     "Budgeted:": "Budgetteret:",
-    "Category": "Kategori"
+    "Category": "Kategori",
+    "(+{{numHiddenPayees}} more)": "(+{{numHiddenPayee}} flere)",
+    "(No payee)": "(Ingen modtager)",
+    "(after weekend)": "(efter weekend)",
+    "(before weekend)": "(før weekend)",
+    "{{endOccurrences}} times": "{{endOccurrences}} gange",
+    "(deleted)": "(slettet)",
+    "(nothing)": "(ingenting)"
 }
