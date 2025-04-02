@@ -8,7 +8,7 @@
     "{{count}} transactions_one": "{{count}} transaktion",
     "{{count}} transactions_other": "{{count}} transaktioner",
     "(give feedback)": "(giv feedback)",
-    "(none)": "(ingen)",
+    "(none)": "(intet)",
     "{{displayMonth}} budget templates have been applied.": "{{displayMonth}} budgetskabeloner er blevet anvendt.",
     "{{displayMonth}} budget templates have been overwritten.": "{{displayMonth}} budgetskabeloner er blevet overskrevet.",
     "{{displayMonth}} budgets have all been set to last month’s budgeted amounts.": "{{displayMonth}} budgetter er alle blevet sat til sidste måneds budgetterede beløb.",
