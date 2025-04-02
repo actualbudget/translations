@@ -37,7 +37,7 @@
     "Basic": "Basal",
     "Budgeted:": "Budgetteret:",
     "Category": "Kategori",
-    "(+{{numHiddenPayees}} more)": "(+{{numHiddenPayee}} flere)",
+    "(+{{numHiddenPayees}} more)": "(+{{numHiddenPayees}} flere)",
     "(No payee)": "(Ingen modtager)",
     "(after weekend)": "(efter weekend)",
     "(before weekend)": "(før weekend)",
@@ -45,5 +45,6 @@
     "(deleted)": "(slettet)",
     "(nothing)": "(ingenting)",
     "<0><0>Custom Report:</0></0> <2>{{name}}</2>": "<0><0>Tilpasset rapport:</0></0> <2>{{name}}</2>",
-    "<0><0>How are “Average” and “Spent Average MTD” calculated?</0></0><1>They are both the average cumulative spending by day for the three months before the selected “compare” month.</1>": "<0><0>Hvordan beregnes \"Gennemsnitlig\" og \"Forbrugt gennemsnit MTD\"?</0></0><1>De er begge det gennemsnitlige kumulative forbrug dag for dag, for de foregående tre måneder før den valgte \"sammenligningsmåned\".</1>"
+    "<0><0>How are “Average” and “Spent Average MTD” calculated?</0></0><1>They are both the average cumulative spending by day for the three months before the selected “compare” month.</1>": "<0><0>Hvordan beregnes \"Gennemsnitlig\" og \"Forbrugt gennemsnit MTD\"?</0></0><1>De er begge det gennemsnitlige kumulative forbrug dag for dag, for de foregående tre måneder før den valgte \"sammenligningsmåned\".</1>",
+    "<0><0>How is cash flow calculated?</0></0><1>Cash flow shows the balance of your budgeted accounts over time, and the amount of expenses/income each day or month. Your budgeted accounts are considered to be “cash on hand,” so this gives you a picture of how available money fluctuates.</1>": "<0><0>Hvordan er \"cash flow\" beregnet?</0></0><1>Cash flow viser hvor mange penge du har på dine konti hen over tid, og totalen af indtægter og udgifter hver dag eller måned. Saldoen på dine konti er hvad du har af \"penge på hånden\", så du kan få et overblik over hvordan dine penge fluktuerer.</1>"
 }
