@@ -199,7 +199,7 @@
     "$50 each month": "$50 chaque mois",
     "Access Revocation Incomplete": "Révocation d'accès incomplète",
     "28+": "28+",
-    "Access": "Accès",
+    "Access": "Accéder",
     "<allocatedAmount /> <italic>of <totalAmount /></italic>": "<allocatedAmount /> <italic>sur<totalAmount /></italic>",
     "An unknown error occurred while exporting. Please report this as a new issue on GitHub.": "Une erreur inconnue s'est produite lors de l'exportation. Veuillez signaler ce problème sur GitHub.",
     "Budget “{{id}}” not found. Check the ID of your budget in the Advanced section of the settings page.": "Budget « {{id}} » introuvable. Vérifiez l'ID de votre budget dans la section Avancé de la page des paramètres.",
