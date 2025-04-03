@@ -397,7 +397,7 @@
     "Category Learning": "Apprentissage des catégories",
     "Category learning disabled": "Apprentissage des catégories désactivé",
     "Change directory": "Changer le répertoire",
-    "Cleared total:": "Total rapproché:",
+    "Cleared total:": "Total rapproché :",
     "Could not search: {{errorReason}}": "Impossible d'effectuer la recherche : {{errorReason}}",
     "Cover from a category": "Couvrir à partir d'une catégorie",
     "Cover from a category:": "Couvrir à partir d'une catégorie :",
@@ -441,7 +441,7 @@
     "Choose your bank:": "Choisissez votre banque :",
     "Choose your country:": "Choisissez votre pays :",
     "Append": "Ajouter",
-    "append to notes": "suffixer les notes",
+    "append to notes": "ajouter aux notes",
     "Close the current budget and open another": "Clôturer le budget actuel et en ouvrir un autre",
     "Change": "Modifier",
     "Change server password": "Changer le mot de passe du serveur",
@@ -1251,7 +1251,7 @@
     "Successfully deleted {{count}} transactions._other": "{{count}} transactions supprimées avec succès.",
     "saved": "sauvegardé",
     "Amount left: {{amount}}": "Montant restant : {{amount}}",
-    "<0>Link a <1>Brazilian</1> bank account</0> to automatically download transactions. Pluggy.ai provides reliable, up-to-date information from hundreds of banks.": "<0>Lier un compte bancaire <1>brésilien</1></0> pour télécharger automatiquement les transactions. Pluggy.ai fournit des informations fiables et actualisées provenant de centaines de banques.",
+    "<0>Link a <1>Brazilian</1> bank account</0> to automatically download transactions. Pluggy.ai provides reliable, up-to-date information from hundreds of banks.": "<0>Lier un <1>compte bancaire</1> brésilien</0> pour télécharger automatiquement les transactions. Pluggy.ai fournit des informations fiables et à jour provenant de centaines de banques.",
     "It is required to provide both the client id, client secret and at least one item id.": "Il est nécessaire de fournir à la fois l'identifiant client, le secret client et au moins un identifiant d'élément.",
     "Item Ids (comma separated):": "Identifiants des éléments (séparés par des virgules) :",
     "Income categories": "Catégories de revenus",
@@ -1309,5 +1309,6 @@
     "By default imported transactions that you delete will be re-imported with the next bank sync operation. To disable this behaviour - untick this box.": "Par défaut, les transactions importées que vous supprimez seront réimportées lors de la prochaine opération de synchronisation bancaire. Pour désactiver ce comportement, décochez cette case.",
     "Filter": "Filtrer",
     "scheduled": "programmé",
-    "The request timed out. Please try again later.": "La demande a expiré. Veuillez réessayer ultérieurement."
+    "The request timed out. Please try again later.": "La demande a expiré. Veuillez réessayer ultérieurement.",
+    "Error when trying to contact Pluggy.ai": "Erreur lors de la tentative de connection à Pluggy.ai"
 }
