@@ -54,5 +54,6 @@
     "<0>Important:</0> if you forget this password <3>and</3> you don’t have any local copies of your data, you will lose access to all your data. The data cannot be decrypted without the password.": "<0>Importante:</0> se dimentichi questa password <3>e</3> non hai copie locali dei tuoi dati, perderai l'accesso a tutti i tuoi dati. I dati non possono essere decrittografati senza la password.",
     "<0>No server configured</0>": "<0>Nessun server configurato</0>",
     "<0>Move schedule </0><1></1><2> {{beforeOrAfter}} weekend</2>": "<0>Muovi la pianificazione</0><1></1><2>{{beforeOrAfter}} il fine settimana</2>",
-    "<0>Read here</0> for instructions on how to migrate your data from YNAB. You need to export your data as JSON, and that page explains how to do that.": "<0>Leggi qui</0> per le istruzioni su come migrare i tuoi dati da YNAB. Dovrai esportare i tuoi dati come JSON, e quella pagina spiega come fare."
+    "<0>Read here</0> for instructions on how to migrate your data from YNAB. You need to export your data as JSON, and that page explains how to do that.": "<0>Leggi qui</0> per le istruzioni su come migrare i tuoi dati da YNAB. Dovrai esportare i tuoi dati come JSON, e quella pagina spiega come fare.",
+    "(deleted)": "(eliminato)"
 }
