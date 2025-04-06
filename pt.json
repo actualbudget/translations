@@ -105,5 +105,9 @@
     "<0>Envelope budgeting</0> (recommended) digitally mimics physical envelope budgeting system by allocating funds into virtual envelopes for different expenses. It helps track spending and ensure you don‘t overspend in any category.": "<0>Orçamentação por envelope</0> (recomendado) imita digitalmente o sistema de orçamento de envelope físico, alocando fundos em envelopes virtuais para diferentes despesas. Ele ajuda a acompanhar os gastos e garantir que você não tem gastos excessivos em qualquer categoria.",
     "<0>End-to-end encryption</0> is not enabled. Any data on the server is still protected by the server password, but it’s not end-to-end encrypted which means the server owners have the ability to read it. If you want, you can use an additional password to encrypt your data on the server.": "<0>Criptografia ponta-a-ponta</0> não está ativada. Qualquer dado no servidor ainda é protegido pela senha do servidor, mas não é encriptado de ponta-a-ponta, o que significa que os proprietários do servidor têm a capacidade de lê-lo. Se quiser pode usar uma senha adicional para encriptar os seus dados no servidor.",
     "<0>Experimental features.</0> These features are not fully tested and may not work as expected. THEY MAY CAUSE IRRECOVERABLE DATA LOSS. They may do nothing at all. Only enable them if you know what you are doing.": "<0>Funções experimentais.</0> Estas funcionalidades não estão totalmente testadas e podem não funcionar como esperado. PODE CAUSAR PERDA DE DADOS IRRECUPERÁVEL. Pode não fazer nada. Só os ative se souber o que está a fazer.",
-    "Complete": "Completo"
+    "Complete": "Completo",
+    "Add recurrence": "Adicionar recorrência",
+    "Add new schedule": "Adicionar novo agendamento",
+    "Account settings": "Configurações de Conta",
+    "Add a new transaction": "Adicionar uma nova transação"
 }
