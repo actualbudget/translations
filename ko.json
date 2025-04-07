@@ -1,1 +1,9 @@
-{}
+{
+    "(after weekend)": "(다음 주)",
+    "(before weekend)": "(이전 주)",
+    "(please select)": "(선택해 주세요)",
+    "{{count}} associated rules_other": "{{count}}개 관련 규칙",
+    "(hidden)": "(숨김)",
+    "(none)": "(없음)",
+    "(give feedback)": "(피드백 주기)"
+}
