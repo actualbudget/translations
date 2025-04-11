@@ -52,5 +52,6 @@
     "6 months": "6 månader",
     "<0>Language</0> is the display language of all text. Please note that no warranty is provided for the accuracy or completeness of non-English translations. If you encounter a translation error, feel free to make a suggestion on <3>Weblate</3>.": "<0>Språk</0> är språket som all text visas i. Ingen garanti lämnas för att översättningar till andra språk än engelska är korrekta eller fullständiga. Lämna gärna förslag på förbättringar genom <3>Weblate</3>.",
     "Actual is a super fast privacy-focused app for managing your finances. To secure your data, you’ll need to set a password for your server.": "Actual är ett supersnabbt program för din ekonomi med fokus på personlig integritet. För att lagra din data säkert behöver du ställa in ett lösenord för din server.",
-    "<0>Budgeted:</0><1>{{amount}}</1>": "<0>Budgeterat:</0><1>{{amount}}</1>"
+    "<0>Budgeted:</0><1>{{amount}}</1>": "<0>Budgeterat:</0><1>{{amount}}</1>",
+    "<0><0>How is cash flow calculated?</0></0><1>Cash flow shows the balance of your budgeted accounts over time, and the amount of expenses/income each day or month. Your budgeted accounts are considered to be “cash on hand,” so this gives you a picture of how available money fluctuates.</1>": "<0><0>Hur beräknas kassaflödet?</0></0><1>Kassaflödet visar saldot på dina budgeterade konton över tid och beloppet för utgifter/intäkter varje dag eller månad. Dina budgeterade konton anses vara \"kontanter till hands\", så detta ger dig en bild av hur tillgängliga pengar varierar.</1>"
 }
