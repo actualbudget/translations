@@ -753,5 +753,6 @@
     "In order to enable bank-sync via Pluggy.ai (only for Brazilian banks) you will need to create access credentials. This can be done by creating an account with <2>Pluggy.ai</2>.": "Para habilitar la sincronización bancaria a través de Pluggy.ai (solo para bancos brasileños), necesitarás crear credenciales de acceso. Esto se puede hacer creando una cuenta en <2>Pluggy.ai</2>.",
     "Even though encryption is enabled, the exported zip file will not have any encryption.": "Aunque el cifrado está habilitado, el archivo ZIP exportado no tendrá ningún cifrado.",
     "<0>Link a <1>North American</1> bank account</0> to automatically download transactions. SimpleFIN provides reliable, up-to-date information from hundreds of banks.": "<0>Enlaza una cuenta bancaria <1>norteamericana</1></0> para descargar transacciones automáticamente. SimpleFIN proporciona información fiable y actualizada de cientos de bancos.",
-    "Add new split - {{amount}} left": "Crear división nueva - {{amount}} restante"
+    "Add new split - {{amount}} left": "Crear división nueva - {{amount}} restante",
+    "Amount left: {{amount}}": "Cantidad restante: {{amount}}"
 }
