@@ -1288,7 +1288,7 @@
     "missed": "verpasst",
     "Budget files": "Budget-Dateien",
     "Categorize": "Kategorisieren",
-    "Cover": "Deckblatt",
+    "Cover": "Decken",
     "Reimport deleted transactions": "Reimport gelöschter Transaktionen",
     "You have {{count}} overspent categories_one": "Du hast eine überzogene Kategorie",
     "You have {{count}} overspent categories_other": "Du hast {{count}} überzogene Kategorien",
@@ -1297,5 +1297,14 @@
     "By default imported transactions that you delete will be re-imported with the next bank sync operation. To disable this behaviour - untick this box.": "Standardmäßig werden gelöschte importierte Transaktionen bei der nächsten Banksynchronisierung erneut importiert. Um dieses Verhalten zu deaktivieren, deaktiviere diese Checkbox.",
     "You have budgeted more than your available funds": "Du hast mehr als deine verfügbaren Mittel budgetiert",
     "Banners": "Banner",
-    "Institution to Sync": "Bankinstitut zur Synchronisierung"
+    "Institution to Sync": "Bankinstitut zur Synchronisierung",
+    "An error occurred while linking your account, sorry! The potential issue could be: {{ message }}": "Beim Verknüpfen deines Kontos ist ein Fehler aufgetreten, Entschuldigung! Das mögliche Problem könnte sein: {{ message }}",
+    "Download Snapshot": "Schnappschuss herunterladen",
+    "Closed": "Geschlossen",
+    "Overbudgeted:": "Überbudgetiert:",
+    "Start using OpenID": "OpenID verwenden",
+    "transfer": "transferieren",
+    "Import notes from file": "Notizen aus Datei importieren",
+    "Enter server password": "Serverpasswort eingeben",
+    "To Budget:": "Zum Budget:"
 }
