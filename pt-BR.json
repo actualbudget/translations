@@ -1303,6 +1303,6 @@
     "You have {{count}} uncategorized transactions_one": "Você tem {{count}} transação sem categoria",
     "You have {{count}} uncategorized transactions_many": "Você tem {{count}} transações sem categoria",
     "You have {{count}} uncategorized transactions_other": "",
-    "Budget files": "Arquivos de orçamento",
+    "Budget files": "Arquivos de Orçamento",
     "You have budgeted more than your available funds": "Você orçou mais do que o seu dinheiro disponível"
 }
