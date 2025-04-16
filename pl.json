@@ -157,5 +157,8 @@
     "Add group": "Dodaj grupę",
     "<allocatedAmount /> <italic>of <totalAmount /></italic>": "<allocatedAmount /> <italic>z <totalAmount /></italic>",
     "all transactions": "wszystkie transakcje",
-    "$10 a week": "$10 tygodniowo"
+    "$10 a week": "$10 tygodniowo",
+    "<0>No server configured</0>": "<0>Brak skonfigurowanego serwera</0>",
+    "A file with id “{{id}}” already exists with the name “{{name}}”. This file will be replaced. This probably happened because files were manually moved around outside of Actual.": "Plik o id \"{{id}}\" już istnieje pod nazwą \"{{name}}\". Plik ten zostanie zastąpiony. Stało się to prawdopodobnie dlatego, że pliki były ręcznie przenoszone z pominięciem Actual.",
+    "<0>Server self-signed certificate</0> <2><0>enables a secure connection</0></2>": "<0>Certyfikat serwera z podpisem własnym</0> <2><0>umożliwia nawiązanie bezpiecznego połączenia</0></2>"
 }
