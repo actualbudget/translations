@@ -136,5 +136,15 @@
     "Copy last month’s budget": "Skopiuj budżet z zeszłego miesiąca",
     "Could not search: {{errorReason}}": "Nie można wyszukać: {{errorReason}}.",
     "Cover from a category:": "Pokryj z kategorii:",
-    "copy": "kopiuj"
+    "copy": "kopiuj",
+    "After disabling OpenID all sessions will be closed": "Po wyłączeniu OpenID wszystkie sesje zostaną zamknięte",
+    "Add transaction": "Dodaj transakcję",
+    "Amount:": "Kwota:",
+    "Advanced Settings": "Ustawienia zaawansowane",
+    "Admin": "Admin",
+    "Advanced options": "Opcje zaawansowane",
+    "All Accounts": "Wszystkie konta",
+    "Add new user": "Dodaj nowego użytkownika",
+    "After enabling OpenID all sessions will be closed": "Po włączeniu OpenID wszystkie sesje zostaną zamknięte",
+    "All accounts": "Wszystkie konta"
 }
