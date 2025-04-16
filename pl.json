@@ -146,5 +146,16 @@
     "All Accounts": "Wszystkie konta",
     "Add new user": "Dodaj nowego użytkownika",
     "After enabling OpenID all sessions will be closed": "Po włączeniu OpenID wszystkie sesje zostaną zamknięte",
-    "All accounts": "Wszystkie konta"
+    "All accounts": "Wszystkie konta",
+    "Add specific days": "Dodaj określone dni",
+    "Add new schedule": "Dodaj nowy harmonogram",
+    "$10 a week, up to a maximum of $80": "$10 tygodniowo, nie więcej niż $80",
+    "$50 each month": "$50 miesięcznie",
+    "Add": "Dodaj",
+    "Add category": "Dodaj kategorię",
+    "Add condition": "Dodaj warunek",
+    "Add group": "Dodaj grupę",
+    "<allocatedAmount /> <italic>of <totalAmount /></italic>": "<allocatedAmount /> <italic>z <totalAmount /></italic>",
+    "all transactions": "wszystkie transakcje",
+    "$10 a week": "$10 tygodniowo"
 }
