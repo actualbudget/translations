@@ -510,5 +510,16 @@
     "amount (inflow)": "kwota (wpływ)",
     "An internal error occurred, sorry! Visit https://actualbudget.org/contact/ for support. (ref: {{reason}})": "Wystąpił błąd wewnętrzny, przepraszamy! Odwiedź stronę https://actualbudget.org/contact/, aby uzyskać pomoc. (ref: {{reason}})",
     "amount": "kwota",
-    "Amount (outflow)": "Kwota (wydatek)"
+    "Amount (outflow)": "Kwota (wydatek)",
+    "Are you sure?": "Czy jesteś pewien?",
+    "Budgeted:": "Zabudżetowane:",
+    "Can do everything that Basic users can. In addition, they have the ability to add new users to the directory and access budget files from all users.": "Ma wszystkie uprawnienia użytkownika Podstawowego. Ponadto, ma możliwość dodawania nowych użytkowników do katalogu oraz ma dostęp do plików budżetu wszystkich użytkowników.",
+    "Budgeted amount for {{categoryName}} category": "Zabudżetowana kwota dla kategori {{categoryName}}",
+    "Budgeted MTD": "Zabudżetowane od początku miesiąca do dziś",
+    "Actual is a personal finance tool that focuses on beautiful design and a slick user experience. <2>Editing your data should be as fast as possible.</2> On top of that, we want to provide powerful tools to allow you to do whatever you want with your data.": "Actual to narzędzie do finansów osobistych, które kładzie nacisk na atrakcyjny wygląd i wygodę użytkowania. <2>Edycja danych powinna być tak szybka, jak to tylko możliwe.</2> Ponadto chcemy zapewnić rozbudowane narzędzia, które pozwolą Ci zrobić wszystko co chcesz ze swoimi danymi.",
+    "<0>Link a <1>European</1> bank account</0> to automatically download transactions. GoCardless provides reliable, up-to-date information from hundreds of banks.": "<0>Połącz <1>europejskie</1> konto bankowe</0> by automatycznie wczytywać operacje. GoCardless dostarcza rzetelne i aktualne informacje z setek banków.",
+    "<0>Link a <1>North American</1> bank account</0> to automatically download transactions. SimpleFIN provides reliable, up-to-date information from hundreds of banks.": "<0>Połącz <1>północnoamerykańskie</1> konto bankowe</0> by automatycznie wczytywać operacje. SimpleFIN dostarcza rzetelne i aktualne informacje z setek banków.",
+    "Actual field": "Pole Actual",
+    "Basic": "Podstawowy",
+    "A valid amount is required": "Wymagana jest poprawna kwota"
 }
