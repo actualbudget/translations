@@ -1040,6 +1040,7 @@
   "Successfully linked {{count}} transactions to {{schedule}}._other": "Successfully linked {{count}} transactions to {{schedule}}.",
   "Successfully marked {{count}} transactions as transfer._one": "Successfully marked {{count}} transactions as transfer.",
   "Successfully marked {{count}} transactions as transfer._other": "Successfully marked {{count}} transactions as transfer.",
+  "Successfully merged transactions": "Successfully merged transactions",
   "Successfully unlinked {{count}} transactions from their respective schedules._one": "Successfully unlinked {{count}} transactions from their respective schedules.",
   "Successfully unlinked {{count}} transactions from their respective schedules._other": "Successfully unlinked {{count}} transactions from their respective schedules.",
   "Suggested Payees": "Suggested Payees",
