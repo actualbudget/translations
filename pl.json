@@ -499,5 +499,16 @@
     "before": "przed",
     "Edit field": "Edytuj pole",
     "Enter server password": "Wpisz hasło serwera",
-    "<0><0>How are “Average” and “Spent Average MTD” calculated?</0></0><1>They are both the average cumulative spending by day for the three months before the selected “compare” month.</1>": "<0><0>Jak obliczane są „Średnia” i „Średnia wydatków MTD”?</0></0><1>Obie wartości przedstawiają średnie skumulowane wydatki dzienne z trzech miesięcy poprzedzających wybrany miesiąc porównawczy.</1>"
+    "<0><0>How are “Average” and “Spent Average MTD” calculated?</0></0><1>They are both the average cumulative spending by day for the three months before the selected “compare” month.</1>": "<0><0>Jak obliczane są „Średnia” i „Średnia wydatków MTD”?</0></0><1>Obie wartości przedstawiają średnie skumulowane wydatki dzienne z trzech miesięcy poprzedzających wybrany miesiąc porównawczy.</1>",
+    "Amount (inflow)": "Kwota (wpływ)",
+    "amount (outflow)": "kwota (wydatek)",
+    "An error occurred while saving. Please visit https://actualbudget.org/contact/ for support.": "Wystąpił błąd podczas zapisywania. Odwiedź stronę https://actualbudget.org/contact/, aby uzyskać pomoc.",
+    "allocate": "przydziel",
+    "Add action": "Dodaj akcję",
+    "Average spent": "Średnio wydane",
+    "Amount": "Kwota",
+    "amount (inflow)": "kwota (wpływ)",
+    "An internal error occurred, sorry! Visit https://actualbudget.org/contact/ for support. (ref: {{reason}})": "Wystąpił błąd wewnętrzny, przepraszamy! Odwiedź stronę https://actualbudget.org/contact/, aby uzyskać pomoc. (ref: {{reason}})",
+    "amount": "kwota",
+    "Amount (outflow)": "Kwota (wydatek)"
 }
