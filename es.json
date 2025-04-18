@@ -766,5 +766,6 @@
     "indefinitely": "indefinidamente",
     "Invalid rule": "Regla no válida",
     "Every {{interval}} months on the {{range}}": "Cada {{interval}} meses entre {{range}}",
-    "Every {{interval}} years on {{dateFormatted}}": "Cada {{interval}} años el {{dateFormatted}}"
+    "Every {{interval}} years on {{dateFormatted}}": "Cada {{interval}} años el {{dateFormatted}}",
+    "It is required to provide both the secret id and secret key.": "Es necesario proporcionar tanto el ID secreto como la clave secreta."
 }
