@@ -12,7 +12,7 @@
     "<0>Balance:</0><1>{{amount}}</1>": "<0>Баланс:</0><1>{{amount}}</1>",
     "<0>Create a local account</0> if you want to add transactions manually. You can also <3>import QIF/OFX/QFX files into a local account</3>.": "<0>Создать локальную учётную запись</0> если вы хотите добавить транзакции вручную. Вы также можете <3> импортировать файлы QIF/OFX/QFX в локальную учётную запись</3>.",
     "(Optional)": "(Опционально)",
-    "(none)": "(ничего)",
+    "(none)": "(ни один)",
     "{{selectedPayeeNames}}, and more": "{{selectedPayeeNames}}, и другие",
     "<0>End-to-end encryption</0> is not available when running without a server. Budget files are always kept unencrypted locally, and encryption is only applied when sending data to a server.": "<0>End-to-end шифрование</0> не доступно при работе без сервера. Файлы всегда не шифруются локально, и шифрование применяется только при отправке данных на сервер.",
     "<0>Category Learning</0> will automatically determine the best category for a transaction and create a rule that sets the category for the payee. <3>Learn more</3>": "<0>Изучение Категорий</0> автоматически определит лучшую категорию для транзакции и создаст правило, которое устанавливает категорию для плательщика. <3>Узнать больше</3>",
@@ -28,7 +28,7 @@
     "<0><0>How are “Average” and “Spent Average MTD” calculated?</0></0><1>They are both the average cumulative spending by day for the three months before the selected “compare” month.</1>": "<0><0>Как рассчитываются «Среднее» и «Потраченное среднее MTD»? </0></0><1>Они оба представляют собой средние суммарные расходы по дням за три месяца, предшествующих выбранному «для сравнения» месяцу.</1>",
     "(please select)": "(выберите пожалуйста)",
     "{{displayMonth}} budget templates have been overwritten.": "Шаблон бюджета на {{displayMonth}} был изменен.",
-    "(give feedback)": "(оставить отзыв)",
+    "(give feedback)": "(отправить отзыв)",
     "<0>Formatting</0> does not affect how budget data is stored, and can be changed at any time.": "<0>Форматирование</0> не влияет на то, как хранятся бюджетные данные, и может быть изменено в любое время.",
     "Actual is a super fast privacy-focused app for managing your finances. To secure your data, you’ll need to set a password for your server.": "Actual - это супер быстрое приложение, ориентированное на конфиденциальность для управления вашими финансами. Чтобы обезопасить ваши данные, вам необходимо установить пароль для вашего сервера.",
     "<0>Move schedule </0><1></1><2> {{beforeOrAfter}} weekend</2>": "<0>Переместить расписание </0><1></1><2> {{beforeOrAfter}} выходных</2>",
@@ -115,5 +115,9 @@
     "1 year": "1 год",
     "2 weeks": "2 недели",
     "<0>Sync ID:</0> {{syncId}}": "<0>Идентификатор синхронизации:</0> {{syncId}}",
-    "(before weekend)": "(перед выходными)"
+    "(before weekend)": "(перед выходными)",
+    "Add a new transaction": "Добавить новую транзакцию",
+    "Add transaction": "Добавить транзакцию",
+    "Add New": "Добавить Новый",
+    "all transactions": "все транзакции"
 }
