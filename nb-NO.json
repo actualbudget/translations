@@ -10,5 +10,11 @@
     "{{displayMonth}} budget templates have been applied.": "Budsjettmal for {{displayMonth}} er tatt i bruk.",
     "{{displayMonth}} budgets have all been set to last month’s budgeted amounts.": "{{displayMonth}}budsjettene er alle satt til forrige måneds budsjetterte beløp.",
     "(please select)": "(vennligst velg)",
-    "(give feedback)": "(gi tilbakemelding)"
+    "(give feedback)": "(gi tilbakemelding)",
+    "(after weekend)": "(etter helgen)",
+    "(before weekend)": "(før helgen)",
+    "(none)": "(ingen)",
+    "(deleted)": "(slettet)",
+    "(nothing)": "(ingenting)",
+    "(Optional)": "(valgfri)"
 }
