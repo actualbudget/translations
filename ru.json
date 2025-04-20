@@ -115,7 +115,7 @@
     "1 year": "1 год",
     "2 weeks": "2 недели",
     "<0>Sync ID:</0> {{syncId}}": "<0>Идентификатор синхронизации:</0> {{syncId}}",
-    "(before weekend)": "(перед выходными)",
+    "(before weekend)": "(до выходных)\n(перед выходными)",
     "Add a new transaction": "Добавить новую транзакцию",
     "Add transaction": "Добавить транзакцию",
     "Add New": "Добавить Новый",
@@ -134,5 +134,6 @@
     "Add new split - {{amount}} left": "Добавить новое разделение - {{amount}} осталось",
     "Add new schedule": "Добавить новое расписание",
     "<0>Link a <1>Brazilian</1> bank account</0> to automatically download transactions. Pluggy.ai provides reliable, up-to-date information from hundreds of banks.": "<0>Привяжите <1>Бразильский</1> банковский аккаунт</0> для автоматической подгрузки банковских операций. Pluggy.ai предоставляет надежную и актуальную информацию для сотен банков.",
-    "<allocatedAmount /> <italic>of <totalAmount /></italic>": "<allocatedAmount /> <italic>из <totalAmount /></italic>"
+    "<allocatedAmount /> <italic>of <totalAmount /></italic>": "<allocatedAmount /> <italic>из <totalAmount /></italic>",
+    "<0>Link a <1>North American</1> bank account</0> to automatically download transactions. SimpleFIN provides reliable, up-to-date information from hundreds of banks.": "<0>Подключите банковский счет <1>Северной Америки</1></0> для автоматической загрузки транзакций. SimpleFIN предоставляет надежную и актуальную информацию от сотен банков."
 }
