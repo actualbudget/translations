@@ -1,1 +1,17 @@
-{}
+{
+    "(+{{numHiddenPayees}} more)": "(+{{numHiddenPayees}} tane daha)",
+    "(modified)": "(düzenlendi)",
+    "(none)": "(yok)",
+    "(No payee)": "(Alan/Veren yok)",
+    "(Optional)": "(Tercihen)",
+    "(please select)": "(lütfen seçin)",
+    "{{count}} associated rules_one": "{{count}} adet bağlantılı kural",
+    "{{count}} associated rules_other": "{{count}} adet bağlantılı kural",
+    "(after weekend)": "(hafta sonundan sonra)",
+    "(before weekend)": "(hafta sonundan önce)",
+    "(give feedback)": "(görüş bildir)",
+    "(deleted)": "(silindi)",
+    "(hidden)": "(gizli)",
+    "(nothing)": "(hiçbiri)",
+    "{{accountName}} bank sync settings": "{{accountName}} banka eşitleme ayarları"
+}
