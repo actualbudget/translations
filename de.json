@@ -202,7 +202,7 @@
     "Default": "Standard",
     "Save": "Speichern",
     "Actions": "Aktionen",
-    "Compare:": "Vergleichen:",
+    "Compare:": "Vergleiche:",
     "Confirm": "Bestätigen",
     "Daily": "Täglich",
     "Debt:": "Schuld:",
@@ -306,7 +306,7 @@
     "Theme": "Thema",
     "Thursday": "Donnerstag",
     "Uncleared": "Vorgemerkt",
-    "To:": "Bis:",
+    "To:": "Mit:",
     "Bank sync": "Banksynchronisierung",
     "Date filters": "Datumsfilter",
     "Monthly Templates": "Monatliche Vorlagen",
@@ -1310,5 +1310,8 @@
     "In order to enable bank sync via Pluggy.ai (only for Brazilian banks) you will need to create access credentials. This can be done by creating an account with <2>Pluggy.ai</2>.": "Um die Banksynchronisierung über Pluggy.ai zu aktivieren (nur für brasilianische Banken), musst du Zugangsdaten erstellen. Das kannst du tun, indem du ein Konto bei <2>Pluggy.ai</2> erstellst.",
     "Remove bank sync": "Banksynchronisierung entfernen",
     "{{accountName}} bank sync settings": "{{accountName}} Banksynchronisierungseinstellungen",
-    "Are you sure you want to unlink <1>{accountName}</1>?": "Willst du die Verknüpfung von <1>{accountName}</1> wirklich lösen?"
+    "Are you sure you want to unlink <1>{accountName}</1>?": "Willst du die Verknüpfung von <1>{accountName}</1> wirklich lösen?",
+    "Collapse": "Einklappen",
+    "Expand": "Ausklappen",
+    "Fully Expand": "Vollständig ausklappen"
 }
