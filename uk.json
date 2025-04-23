@@ -444,7 +444,7 @@
     "Unsplit {{count}} transactions_many": "Розділити {{count}} транзакції",
     "Where’s the server?": "Де сервер?",
     "Don’t use a server": "Не використовуйте сервер",
-    "Downloading...": "Завантаження...",
+    "Downloading...": "Завантаження…",
     "Reset sync": "Скинути синхронізацію",
     "Payee": "одержувач",
     "Existing sessions will be logged out and you will log in to this server. We will validate that Actual is running at this URL.": "Існуючі сеанси буде виведено з системи, і ви увійдете на цей сервер. Ми перевіримо, що Actual працює за цією URL-адресою.",
