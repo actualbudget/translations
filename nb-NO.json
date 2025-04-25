@@ -16,7 +16,7 @@
     "(none)": "(ingen)",
     "(deleted)": "(slettet)",
     "(nothing)": "(ingenting)",
-    "(Optional)": "(valgfri)",
+    "(Optional)": "(Valgfri)",
     "<0>Actual</0> is a super fast privacy-focused app for managing your finances.": "<0>Actual</0> er en superrask app for å administrere økonomien din med fokus på personvern.",
     "<0>Create a local account</0> if you want to add transactions manually. You can also <3>import QIF/OFX/QFX files into a local account</3>.": "<0>Opprett en lokal konto</0> dersom du vil registrere transaksjoner manuelt. Du kan også <3>importere QIF/OFX/QFX-filer inn i en lokal konto</3>.",
     "<0>End-to-end encryption</0> is not available when making an unencrypted connection to a remote server. You’ll need to enable HTTPS on your server to use end-to-end encryption. This problem may also occur if your browser is too old to work with Actual.": "<0>Ende-til-ende-kryptering</0> er ikke tilgjengelig når du oppretter en ukryptert tilkobling til en ekstern server. Du må aktivere HTTPS på serveren din for å bruke ende-til-ende-kryptering. Dette problemet kan også oppstå hvis nettleseren din er for gammel til å fungere med Actual.",
