@@ -1,1 +1,16 @@
-{}
+{
+    "(hidden)": "(skryté)",
+    "(please select)": "(prosím vyberte)",
+    "(+{{numHiddenPayees}} more)": "(+{{numHiddenPayees}} více)",
+    "{{count}} transactions_one": "{{count}} transakce",
+    "{{count}} transactions_few": "{{count}} transakce",
+    "{{count}} transactions_other": "{{count}} transakcí",
+    "(after weekend)": "(po víkendu)",
+    "(before weekend)": "(před víkendem)",
+    "(none)": "(žádné)",
+    "(modified)": "(upraveno)",
+    "(deleted)": "(odstraněno)",
+    "(nothing)": "(nic)",
+    "(Optional)": "(Volitelné)",
+    "(No payee)": "(Žádná protistrana)"
+}
