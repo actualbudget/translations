@@ -7,7 +7,7 @@
     "{{count}} associated rules_few": "{{count}} powiązane reguły",
     "{{count}} associated rules_many": "{{count}} powiązanych reguł",
     "<0>Balance:</0><1>{{amount}}</1>": "<0>Bilans:</0><1>{{amount}}</1>",
-    "(give feedback)": "(podziel się opinią)",
+    "(give feedback)": "(przekaż opinię)",
     "<0>Budget ID:</0> {{budgetId}}": "<0>ID budżetu:</0> {{budgetId}}",
     "{{selectedPayeeNames}}, and more": "{{selectedPayeeNames}} i więcej",
     "(please select)": "(wybierz)",
