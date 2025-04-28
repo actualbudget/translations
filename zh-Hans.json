@@ -12,5 +12,6 @@
     "{{displayMonth}} budget templates have been applied.": "已经应用了{{displayMonth}}预算模板。",
     "{{displayMonth}} budget templates have been overwritten.": "{{displayMonth}}预算模板已经被覆写。",
     "(Optional)": "（可选的）",
-    "{{displayMonth}} budgets have all been set to last month’s budgeted amounts.": "{{displayMonth}}的预算已经被设置为上月的预算金额。"
+    "{{displayMonth}} budgets have all been set to last month’s budgeted amounts.": "{{displayMonth}}的预算已经被设置为上月的预算金额。",
+    "(No payee)": "（无收款人）"
 }
