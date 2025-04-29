@@ -122,5 +122,22 @@
     "<0>Link a <1>European</1> bank account</0> to automatically download transactions. GoCardless provides reliable, up-to-date information from hundreds of banks.": "<0>Link a <1>European</1> bank account</0> para baixar automaticamente transações. GoCardless fornece informações confiáveis e atualizadas de centenas de bancos.",
     "<0>IDs</0> are the names Actual uses to identify your budget internally. There are several different IDs associated with your budget. The Budget ID is used to identify your budget file. The Sync ID is used to access the budget on the server.": "<0>IDs</0> são os nomes que Actual usa para identificar seu orçamento internamente. Existem vários IDs diferentes associados ao seu orçamento. O ID do orçamento é usado para identificar seu arquivo de orçamento. O Sync ID é usado para aceder ao orçamento no servidor.",
     "<0>Move schedule </0><1></1><2> {{beforeOrAfter}} weekend</2>": "<0>Move agendamento</0><1></1><2> {{beforeOrAfter}} fim de semana</2>",
-    "<0>Export</0> your data as a zip file containing <3>db.sqlite</3> and <5>metadata.json</5> files. It can be imported into another Actual instance by closing an open file (if any), then clicking the “Import file” button, then choosing “Actual.”": "<0>Export</0> seus dados para um arquivo zip contendo <3>db.sqlite</3> e <5>metadata.json</5>. Ele pode ser importado para outra instância Actual fechando um arquivo aberto (se houver), em seguida clicando no botão “Importar arquivo” e escolhendo “Actual”."
+    "<0>Export</0> your data as a zip file containing <3>db.sqlite</3> and <5>metadata.json</5> files. It can be imported into another Actual instance by closing an open file (if any), then clicking the “Import file” button, then choosing “Actual.”": "<0>Export</0> seus dados para um arquivo zip contendo <3>db.sqlite</3> e <5>metadata.json</5>. Ele pode ser importado para outra instância Actual fechando um arquivo aberto (se houver), em seguida clicando no botão “Importar arquivo” e escolhendo “Actual”.",
+    "allocate": "alocar",
+    "Amount:": "Montante:",
+    "Append": "Anexar",
+    "A category must be transferred to another of the same type (expense or income)": "Uma categoria deve ser transferida para outra do mesmo tipo (despesa ou receita)",
+    "An unknown error occurred while exporting. Please report this as a new issue on GitHub.": "Ocorreu um erro desconhecido ao exportar. Por favor, reporte como um novo problema no GitHub.",
+    "An internal error occurred, sorry! Visit https://actualbudget.org/contact/ for support. (ref: {{reason}})": "Ocorreu um erro interno, desculpe! Vá a https://actualbudget.org/contact/ para apoio. (ref: {{reason}})",
+    "all transactions": "todas as transações",
+    "All reconciled!": "Tudo reconciliado!",
+    "All accounts": "Todas as contas",
+    "All Accounts": "Todas as Contas",
+    "AMOUNT OPTIONS": "OPÇÕES MONTATE",
+    "An unknown error occurred: {{error}}": "Ocorreu um erro desconhecido: {{error}}",
+    "App updated to {{version}}": "App atualizada para {{version}}",
+    "account": "conta",
+    "append to notes": "Anexar às notas",
+    "Actual field": "Campo no Actual",
+    "A file with id “{{id}}” already exists with the name “{{name}}”. This file will be replaced. This probably happened because files were manually moved around outside of Actual.": "Um arquivo com id “{{id}}” já existe com o nome “{{name}}”. Este arquivo será substituído. Isso provavelmente aconteceu porque os arquivos foram movidos manualmente fora do Actual."
 }
