@@ -140,5 +140,6 @@
     "Thursday": "Четверг",
     "Wednesday": "Среда",
     "Tuesday": "Вторник",
-    "Monday": "Понедельник"
+    "Monday": "Понедельник",
+    "{{accountName}} bank sync settings": "Настройки синхронизации банка {{accountName}}"
 }
