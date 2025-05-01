@@ -1312,5 +1312,6 @@
     "Are you sure you want to unlink <1>{accountName}</1>?": "Willst du die Verknüpfung von <1>{accountName}</1> wirklich lösen?",
     "Collapse": "Einklappen",
     "Expand": "Ausklappen",
-    "Fully Expand": "Vollständig ausklappen"
+    "Fully Expand": "Vollständig ausklappen",
+    "To  Budget": "Zum Budget"
 }
