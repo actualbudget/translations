@@ -135,5 +135,10 @@
     "Add new schedule": "Добавить новое расписание",
     "<0>Link a <1>Brazilian</1> bank account</0> to automatically download transactions. Pluggy.ai provides reliable, up-to-date information from hundreds of banks.": "<0>Привяжите <1>Бразильский</1> банковский аккаунт</0> для автоматической подгрузки банковских операций. Pluggy.ai предоставляет надежную и актуальную информацию для сотен банков.",
     "<allocatedAmount /> <italic>of <totalAmount /></italic>": "<allocatedAmount /> <italic>из <totalAmount /></italic>",
-    "<0>Link a <1>North American</1> bank account</0> to automatically download transactions. SimpleFIN provides reliable, up-to-date information from hundreds of banks.": "<0>Подключите банковский счет <1>Северной Америки</1></0> для автоматической загрузки транзакций. SimpleFIN предоставляет надежную и актуальную информацию от сотен банков."
+    "<0>Link a <1>North American</1> bank account</0> to automatically download transactions. SimpleFIN provides reliable, up-to-date information from hundreds of banks.": "<0>Подключите банковский счет <1>Северной Америки</1></0> для автоматической загрузки транзакций. SimpleFIN предоставляет надежную и актуальную информацию от сотен банков.",
+    "Friday": "Пятница",
+    "Thursday": "Четверг",
+    "Wednesday": "Среда",
+    "Tuesday": "Вторник",
+    "Monday": "Понедельник"
 }
