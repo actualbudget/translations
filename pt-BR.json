@@ -1298,5 +1298,17 @@
     "You have {{count}} uncategorized transactions_other": "",
     "Budget files": "Arquivos de Orçamento",
     "You have budgeted more than your available funds": "Você orçou mais do que o seu dinheiro disponível",
-    "Banners": "Banners"
+    "Banners": "Banners",
+    "Cover": "Cobrir",
+    "Overbudgeted:": "Orçamento Excedido:",
+    "Import notes from file": "Importar notas de arquivo",
+    "Download Snapshot": "Baixar Cópia",
+    "An error occurred while linking your account, sorry! The potential issue could be: {{ message }}": "Ocorreu um erro ao vincular sua conta. Desculpe! O possível problema pode ser: {{ message }}",
+    "Enter server password": "Digite a senha do servidor",
+    "To Budget:": "Para Orçar:",
+    "To  Budget": "Para  Orçar",
+    "Closed": "Encerrado",
+    "Remove bank sync": "Remover sincronização bancária",
+    "Start using OpenID": "Comece a usar o OpenID",
+    "transfer": "transferir"
 }
