@@ -695,7 +695,6 @@
     "not one of": "no uno de",
     "Overwrite with budget template": "Sobreescribir con plantilla de presupuesto",
     "Owner": "Propietario",
-    "OpenID authentication method": "Método de autenticación de OpenID",
     "Please select a user.": "Por favor, seleccione un usuario.",
     "Note that the URL depends on your Keycloak domain and realm.": "Tenga en cuenta que la URL depende de su dominio y realm de Keycloak.",
     "Options": "Opciones",
