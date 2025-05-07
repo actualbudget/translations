@@ -12,5 +12,18 @@
     "(deleted)": "(odstraněno)",
     "(nothing)": "(nic)",
     "(Optional)": "(Volitelné)",
-    "(No payee)": "(Žádná protistrana)"
+    "(No payee)": "(Žádná protistrana)",
+    "{{displayMonth}} budget templates have been overwritten.": "{{displayMonth}} rozpočtové šablony byly přepsány.",
+    "{{displayMonth}} budgets have all been set to zero.": "{{displayMonth}} rozpočty byly nastaveny na nulu.",
+    "(give feedback)": "(poskytnout zpětnou vazbu)",
+    "{{selectedPayeeNames}}, and more": "{{selectedPayeeNames}}, a více",
+    "{{count}} associated rules_one": "{{count}} související pravidlo",
+    "{{count}} associated rules_few": "{{count}} související pravidla",
+    "{{count}} associated rules_other": "{{count}} souvisejících pravidel",
+    "{{displayMonth}} budget templates have been applied.": "{{displayMonth}} rozpočtové šablony byly nastaveny.",
+    "{{categoryGroupName}} expense group categories": "{{categoryGroupName}} katerorie výdajových skupin",
+    "{{accountName}} bank sync settings": "{{accountName}} nastavení synchronizace banky",
+    "{{displayMonth}} budgets have all been set to last month’s budgeted amounts.": "{{displayMonth}} rozpočty byly nastaveny na částky z minulého měsíce.",
+    "{{endOccurrences}} times": "{{endOccurrences}} krát",
+    "<0><0>Custom Report:</0></0> <2>{{name}}</2>": "<0><0>Vlastní Přehled:</0></0> <2>{{name}}</2>"
 }
