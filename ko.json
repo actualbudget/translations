@@ -5,5 +5,6 @@
     "{{count}} associated rules_other": "{{count}}개 관련 규칙",
     "(hidden)": "(숨김)",
     "(none)": "(없음)",
-    "(give feedback)": "(피드백 주기)"
+    "(give feedback)": "(피드백 주기)",
+    "(+{{numHiddenPayees}} more)": "(+{{numHiddenPayees}} 더보기)"
 }
