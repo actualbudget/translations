@@ -6,5 +6,11 @@
     "(hidden)": "(숨김)",
     "(none)": "(없음)",
     "(give feedback)": "(피드백 주기)",
-    "(+{{numHiddenPayees}} more)": "(+{{numHiddenPayees}} 더보기)"
+    "(+{{numHiddenPayees}} more)": "(+{{numHiddenPayees}} 더보기)",
+    "(No payee)": "(수취인 없음)",
+    "(deleted)": "(삭제됨)",
+    "(modified)": "(수정됨)",
+    "{{count}} transactions_other": "{{count}}건의 거래",
+    "<0>Balance:</0><1>{{amount}}</1>": "<0>잔액:</0><1>{{amount}}</1>",
+    "<0>Budgeted:</0><1>{{amount}}</1>": "<0>이번 달 예산:</0><1>{{amount}}</1>"
 }
