@@ -863,6 +863,7 @@
   "Reconcile": "Reconcile",
   "reconciled": "reconciled",
   "Reconciled": "Reconciled",
+  "Reconciled {{ relativeTimeAgo }}": "Reconciled {{ relativeTimeAgo }}",
   "Reconciled Transaction": "Reconciled Transaction",
   "Reconciliation balance adjustment": "Reconciliation balance adjustment",
   "Recurring": "Recurring",
