@@ -785,5 +785,9 @@
     "Rules are always run in the order that you see them.": "Las reglas son siempre ejecutadas en el orden en que las ves.",
     "Retrieving remote files...": "Recuperando archivos remotos…",
     "Revert to original version": "Revertir a la versión original",
-    "Your SimpleFIN Access Token is no longer valid. Please reset and generate a new token.": "Tu token de acceso de SimpleFIN ya no es válido. Por favor, genera un nuevo token."
+    "Your SimpleFIN Access Token is no longer valid. Please reset and generate a new token.": "Tu token de acceso de SimpleFIN ya no es válido. Por favor, genera un nuevo token.",
+    "or": "o",
+    "last": "último",
+    "last day": "último día",
+    "payee": "beneficiario"
 }
