@@ -789,5 +789,8 @@
     "or": "o",
     "last": "último",
     "last day": "último día",
-    "payee": "beneficiario"
+    "payee": "beneficiario",
+    "is on budget": "está dentro del presupuesto",
+    "is off budget": "está fuera del presupuesto",
+    "Filter": "Filtro"
 }
