@@ -48,7 +48,7 @@
     "<0>Reset sync</0> will remove all local data used to track changes for syncing, and create a fresh sync ID on the server. This file on other devices will have to be re-downloaded to use the new sync ID. Use this if there is a problem with syncing and you want to start fresh.": "<0>Restablecer sincronización</0> eliminará todos los datos locales utilizados para rastrear los cambios para la sincronización y creará un nuevo ID de sincronización en el servidor. Este archivo en otros dispositivos tendrá que ser vuelto a descargar para usar el nuevo ID de sincronización. Usa esta opción si hay un problema con la sincronización y deseas comenzar desde cero.",
     "Account in Actual": "Cuenta en Actual",
     "Add action": "Crear acción",
-    "Add a new transaction": "Crear nueva transacción",
+    "Add a new transaction": "Añadir una nueva transacción",
     "1 month": "1 mes",
     "Add another split": "Crear otra división",
     "Add category": "Crear categoría",
