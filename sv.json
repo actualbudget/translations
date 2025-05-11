@@ -111,5 +111,14 @@
     "Link bank account with GoCardless": "Koppla konto med GoCardless",
     "Loading transactions...": "Laddar överföringar ...",
     "logged in as: <2><0>{{userName}}</0></2>": "inloggad som: <2><0>{{userName}}</0></2>",
-    "Make sure the app is up-to-date. Do you want to load a backup?": "Kontrollera att appen är uppdaterad. Vill du ladda en säkerhetskopia?"
+    "Make sure the app is up-to-date. Do you want to load a backup?": "Kontrollera att appen är uppdaterad. Vill du ladda en säkerhetskopia?",
+    "(No payee)": "(Ingen mottagare)",
+    "(after weekend)": "(efter helg)",
+    "(before weekend)": "(före helg)",
+    "<0>Export</0> your data as a zip file containing <3>db.sqlite</3> and <5>metadata.json</5> files. It can be imported into another Actual instance by closing an open file (if any), then clicking the “Import file” button, then choosing “Actual.”": "<0>Exportera</0> din data som en zip-fil med <3>db.sqlite</3>- och <5>metadata.json</5>-filer. Du kan importera den till en annan Actual-instans genom att stänga den öppna filen (om någon är öppen), sedan klicka på knappen ”Importera fil” och sedan välja ”Actual”.",
+    "<0><0>Custom Report:</0></0> <2>{{name}}</2>": "<0><0>Anpassad rapport:</0></0> <2>{{name}}</2>",
+    "{{endOccurrences}} times": "{{endOccurrences}} gånger",
+    "(deleted)": "(borttagen)",
+    "(nothing)": "(ingenting)",
+    "<0><0>How are “Average” and “Spent Average MTD” calculated?</0></0><1>They are both the average cumulative spending by day for the three months before the selected “compare” month.</1>": "<0><0>Hur beräknas ”medelvärde” och ”spenderat medelvärde MTD”?</0></0><1>Båda är de genomsnittliga kumulativa utgifterna dag för dag, för de tre månaderna som föregår den månad som valts för jämförelse.</1>"
 }
