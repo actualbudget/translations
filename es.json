@@ -808,5 +808,6 @@
     "Budget {{percent}}% of available funds to budget this month": "Presupuestar {{percent}}% de los fondos disponibles presupuestados este mes",
     "Budget automations": "Automatizaciones de presupuesto",
     "{{categoryGroupName}} expense group categories": "{{categoryGroupName}} categorías de grupos de gastos",
-    "{{accountName}} bank sync settings": "{{accountName}} Ajustes de sincronización bancaria"
+    "{{accountName}} bank sync settings": "{{accountName}} Ajustes de sincronización bancaria",
+    "Are you sure you want to unlink <1>{accountName}</1>?": "¿Estás seguro que deseas desvincular la cuenta <1>{accountName}</1>?"
 }
