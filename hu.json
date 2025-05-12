@@ -12,5 +12,6 @@
     "<0>Balance:</0><1>{{amount}}</1>": "<0>Egyenleg:</0><1>{{amount}}</1>",
     "Friday": "Péntek",
     "Generate new key": "Új kulcs generálása",
-    "Help": "Segítség"
+    "Help": "Segítség",
+    "I understand the risks, run Actual in the unsupported fallback mode": "Megértettem a kockázatokat, futtassa az Actual-t a nem támogatott tartalék üzemmódban"
 }
