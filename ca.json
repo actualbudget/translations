@@ -4,5 +4,10 @@
     "(please select)": "(seleccioni si us plau)",
     "(give feedback)": "(fer comentaris)",
     "(hidden)": "(amagat)",
-    "(modified)": "(modificat)"
+    "(modified)": "(modificat)",
+    "(+{{numHiddenPayees}} more)": "(+{{numHiddenPayees}} més)",
+    "(after weekend)": "(després del cap de setmana)",
+    "(before weekend)": "(abans del cap de setmana)",
+    "(deleted)": "(eliminat)",
+    "(nothing)": "(res)"
 }
