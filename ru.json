@@ -141,5 +141,8 @@
     "Wednesday": "Среда",
     "Tuesday": "Вторник",
     "Monday": "Понедельник",
-    "{{accountName}} bank sync settings": "Настройки синхронизации банка {{accountName}}"
+    "{{accountName}} bank sync settings": "Настройки синхронизации банка {{accountName}}",
+    "Actual’s data directory successfully changed.": "Каталог данных Actual успешно изменен.",
+    "account": "счёт",
+    "Account list": "Список счетов"
 }
