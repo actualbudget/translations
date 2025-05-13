@@ -144,5 +144,10 @@
     "{{accountName}} bank sync settings": "Настройки синхронизации банка {{accountName}}",
     "Actual’s data directory successfully changed.": "Каталог данных Actual успешно изменен.",
     "account": "счёт",
-    "Account list": "Список счетов"
+    "Account list": "Список счетов",
+    "A category must be transferred to another of the same type (expense or income)": "Можно перевести только в категорию того же типа (расходы или доходы)",
+    "Access Revocation Incomplete": "Отзыв доступа не завершён",
+    "Actual field": "Поле в Actual",
+    "<0>Link a <1>European</1> bank account</0> to automatically download transactions. GoCardless provides reliable, up-to-date information from hundreds of banks.": "<0>Привяжите<1>Европейский</1> банковский аккаунт</0> для автоматической подгрузки банковских операций. GoCardless предоставляет надежную и актуальную информацию для сотен банков.",
+    "<0>Reset sync</0> will remove all local data used to track changes for syncing, and create a fresh sync ID on the server. This file on other devices will have to be re-downloaded to use the new sync ID. Use this if there is a problem with syncing and you want to start fresh.": "<0>Сброс синхронизации</0> удалит все локальные данные, используемые для отслеживания изменений при синхронизации, и создаст новый ID синхронизации на сервере. Этот файл на других устройствах придется загрузить заново, чтобы использовать новый ID синхронизации. Используйте эту операцию, если возникли проблемы с синхронизацией и вы хотите начать работу с нуля."
 }
