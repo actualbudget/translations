@@ -1297,7 +1297,7 @@
     "transfer": "transferieren",
     "Import notes from file": "Notizen aus Datei importieren",
     "Enter server password": "Serverpasswort eingeben",
-    "To Budget:": "Zum Budget:",
+    "To Budget:": "Zu budgetieren:",
     "Successfully merged transactions": "Transaktionen erfolgreich zusammengeführt",
     "Transactions will no longer be synchronized with this account and must be manually entered. You will not be able to edit the bank sync settings for this account and the settings will close.": "Transaktionen werden nicht mehr mit diesem Konto synchronisiert und müssen manuell eingegeben werden. Du wirst die Einstellungen zur Banksynchronisierung für dieses Konto nicht mehr bearbeiten können, und die Einstellungen werden geschlossen.",
     "By enabling bank sync, you will be granting GoCardless (a third party service) read-only access to your entire account’s transaction history. This service is not affiliated with Actual in any way. Make sure you’ve read and understand GoCardless’s <2>Privacy Policy</2> before proceeding.": "Durch das Aktivieren der Banksynchronisierung erteilst du GoCardless (einem Drittanbieterdienst) Lesezugriff auf den gesamten Transaktionsverlauf deines Kontos. Dieser Dienst steht in keiner Verbindung zu Actual. Stelle sicher, dass du die <2>Datenschutzerklärung</2> von GoCardless gelesen und verstanden hast, bevor du fortfährst.",
