@@ -168,5 +168,6 @@
     "Automatically add transaction": "Автоматически добавлять транзакцию",
     "Auth0 application settings": "Параметры приложения Auth0",
     "Auto login failed - No header sent": "Автоматическое подключение не удалось - No header sent",
-    "Auto login failed - Proxy not trusted": "Автоматическое подключение провалилось - Прокси не вызывает доверия"
+    "Auto login failed - Proxy not trusted": "Автоматическое подключение провалилось - Прокси не вызывает доверия",
+    "Amount left: {{amount}}": "Оставшаяся сумма: {{amount}}"
 }
