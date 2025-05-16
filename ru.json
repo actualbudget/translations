@@ -160,5 +160,13 @@
     "Are you sure you want to edit this transaction?": "Вы уверены, что хотите отредактировать эту операцию?",
     "append to notes": "Дописать в конец примечаний",
     "Are you sure you want to delete the report named ‘<2>{{name}}</2>’?": "Вы уверены, что хотите удалить отчет „<2>{{name}}</2>“?",
-    "All reconciled!": "Сверка завершена!"
+    "All reconciled!": "Сверка завершена!",
+    "An internal error occurred, sorry! Visit https://actualbudget.org/contact/ for support. (ref: {{reason}})": "Произошла внутренняя ошибка, извините! Посетите https://actual budget.org/contact/ для поддержки. (ref: {{reason}})",
+    "Available for download": "Доступно для скачивания",
+    "Assets:": "Активы:",
+    "Available funds": "Доступные средства",
+    "Automatically add transaction": "Автоматически добавлять транзакцию",
+    "Auth0 application settings": "Параметры приложения Auth0",
+    "Auto login failed - No header sent": "Автоматическое подключение не удалось - No header sent",
+    "Auto login failed - Proxy not trusted": "Автоматическое подключение провалилось - Прокси не вызывает доверия"
 }
