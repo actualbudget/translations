@@ -172,5 +172,10 @@
     "Amount left: {{amount}}": "Оставшаяся сумма: {{amount}}",
     "Add new automation": "Добавить новую автоматизацию",
     "{{scheduleName}} is due {{distanceFromNow}} ({{formattedDate}})": "{{scheduleName}} наступает через {{distanceFromNow}} ({{formattedDate}})",
-    "An error occurred while linking your account, sorry! The potential issue could be: {{ message }}": "Произошла ошибка при подключении вашего счета, извините! Возможная проблема: {{ message }}"
+    "An error occurred while linking your account, sorry! The potential issue could be: {{ message }}": "Произошла ошибка при подключении вашего счета, извините! Возможная проблема: {{ message }}",
+    "Back": "Назад",
+    "Average": "Средний",
+    "Average:": "Средний:",
+    "Back to file list": "Назад к списку файлов",
+    "Average spent": "Средний расход"
 }
