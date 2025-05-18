@@ -169,5 +169,8 @@
     "Auth0 application settings": "Параметры приложения Auth0",
     "Auto login failed - No header sent": "Автоматическое подключение не удалось - No header sent",
     "Auto login failed - Proxy not trusted": "Автоматическое подключение провалилось - Прокси не вызывает доверия",
-    "Amount left: {{amount}}": "Оставшаяся сумма: {{amount}}"
+    "Amount left: {{amount}}": "Оставшаяся сумма: {{amount}}",
+    "Add new automation": "Добавить новую автоматизацию",
+    "{{scheduleName}} is due {{distanceFromNow}} ({{formattedDate}})": "{{scheduleName}} наступает через {{distanceFromNow}} ({{formattedDate}})",
+    "An error occurred while linking your account, sorry! The potential issue could be: {{ message }}": "Произошла ошибка при подключении вашего счета, извините! Возможная проблема: {{ message }}"
 }
