@@ -157,5 +157,6 @@
     "Automatically add transaction": "Aggiungi automaticamente la transazione",
     "Available for download": "Disponibile per il download",
     "Average": "Media",
-    "account": "account"
+    "account": "account",
+    "(nothing)": "(vuoto)"
 }
