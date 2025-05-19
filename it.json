@@ -26,7 +26,7 @@
     "<0>Budgeted:</0><1>{{amount}}</1>": "<0>Nel Budget:</0><1>{{amount}}</1>",
     "<0>Budget ID:</0> {{budgetId}}": "<0>ID Budget:</0> {{budgetId}}",
     "<0>Authentication method</0> modifies how users log in to the system.": "Il <0>metodo di autenticazione</0> influenza il modo in cui gli utenti effettuano l'accesso.",
-    "<0>Category Learning</0> will automatically determine the best category for a transaction and create a rule that sets the category for the payee. <3>Learn more</3>": "L'<0>apprendimento della categoria</0> individuerà in automatico la categoria migliore per una transazione e creerà una regola che imposta la categoria per il beneficiario. <3>Scopri di più</3>",
+    "<0>Category Learning</0> will automatically determine the best category for a transaction and create a rule that sets the category for the payee. <3>Learn more</3>": "<0>Category Learning</0> determinerà automaticamente la categoria migliore per una transazione e creerà una regola che la assegna al beneficiario. <3>Scopri di più</3>",
     "(+{{numHiddenPayees}} more)": "(e altri {{numHiddenPayees}})",
     "<0><0>Custom Report:</0></0> <2>{{name}}</2>": "<0><0>Report Personalizzato:</0></0> <2>{{name}}</2>",
     "<0>Create a local account</0> if you want to add transactions manually. You can also <3>import QIF/OFX/QFX files into a local account</3>.": "<0>Crea un account locale</0> se desideri aggiungere transazioni manualmente. Puoi anche <3>importare file QIF/OFX/QFX in un account locale</3>.",
