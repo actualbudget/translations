@@ -38,7 +38,7 @@
     "<0>Goal Type:</0><1>{{type}}</1>": "<0>Tipo di obiettivo:</0><1>{{type}}</1>",
     "<0>Formatting</0> does not affect how budget data is stored, and can be changed at any time.": "<0>La formattazione</0> non influisce sulla memorizzazione dei dati di budget e può essere modificata in qualsiasi momento.",
     "Your password or something else has changed with your bank and you need to login again.": "La tua password o qualcos'altro è cambiato nella tua banca e devi effettuare nuovamente l'accesso.",
-    "(No payee)": "(Nessun beneficiario)",
+    "(No payee)": "Nessun beneficiario",
     "<0>Goal:</0><1>{{amount}}</1>": "<0>Obiettivo:</0><1>{{amount}}</1>",
     "<0>Export</0> your data as a zip file containing <3>db.sqlite</3> and <5>metadata.json</5> files. It can be imported into another Actual instance by closing an open file (if any), then clicking the “Import file” button, then choosing “Actual.”": "<0>Esporta</0> i tuoi dati come un file zip contenente i file <3>db.sqlite</3> e <5>metadata.json</5>. Può essere importato in un'altra istanza di Actual Budget chiudendo un file aperto (se presente), quindi facendo clic sul pulsante “Importa file” e scegliendo “Actual.”",
     "{{endOccurrences}} times": "{{endOccurrences}} volte",
@@ -156,5 +156,6 @@
     "all transactions": "tutte le transazioni",
     "Automatically add transaction": "Aggiungi automaticamente la transazione",
     "Available for download": "Disponibile per il download",
-    "Average": "Media"
+    "Average": "Media",
+    "account": "account"
 }
