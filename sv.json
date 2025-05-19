@@ -124,5 +124,8 @@
     "<0>Create a local account</0> if you want to add transactions manually. You can also <3>import QIF/OFX/QFX files into a local account</3>.": "<0>Skapa ett lokalt konto</0> om du vill lägga till överföringar manuellt. Du kan också <3>importera QIF/OFX/QFX-filer till ett lokalt konto</3>.",
     "<0>Experimental features.</0> These features are not fully tested and may not work as expected. THEY MAY CAUSE IRRECOVERABLE DATA LOSS. They may do nothing at all. Only enable them if you know what you are doing.": "<0>Experimentella funktioner.</0> Dessa funktioner har inte testats fullt ut och fungerar inte helt säkert enligt förväntan. DE KAN ORSAKA PERMANENT SKADA I DITT SPARADE DATA. De gör eventuellt ingenting alls. Aktivera dem bara om du vet vad du gör.",
     "<0>Envelope budgeting</0> (recommended) digitally mimics physical envelope budgeting system by allocating funds into virtual envelopes for different expenses. It helps track spending and ensure you don‘t overspend in any category.": "<0>Kuvertbudgetering</0> (rekommenderat) är en digital variant av det vanliga kuvertbudgetsystemet där du lägger tillgångar i virtuella brev för olika utgifter. Detta hjälper dig att hålla koll på utgifter och se till att du inte överspenderar i någon kategori.",
-    "(+{{numHiddenPayees}} more)": "(+{{numHiddenPayees}} mer)"
+    "(+{{numHiddenPayees}} more)": "(+{{numHiddenPayees}} mer)",
+    "<0>Goal Type:</0><1>{{type}}</1>": "<0>Typ av mål:</0><1>{{type}}</1>",
+    "<0>Goal:</0><1>{{amount}}</1>": "<0>Mål:</0><1>{{amount}}</1>",
+    "<0>Important:</0> if you forget this password <3>and</3> you don’t have any local copies of your data, you will lose access to all your data. The data cannot be decrypted without the password.": "<0>Observera:</0> om du glömmer detta lösenord <3>och</3> inte har någon lokal kopia av din data kommer du att förlora tillgången till all din data. Datan kan inte dekrypteras utan detta lösenord."
 }
