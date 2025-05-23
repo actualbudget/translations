@@ -105,7 +105,6 @@
     "<0>Category Learning</0> will automatically determine the best category for a transaction and create a rule that sets the category for the payee. <3>Learn more</3>": "<0>El Aprendizaje de Categorías</0> determinará automáticamente la mejor categoría para una transacción y creará una regla que establece la categoría para el beneficiario. <3>Más información</3>",
     "(please select)": "(por favor, selecciona)",
     "Date filters": "Filtros de fecha",
-    "Delete {{count}} users": "Eliminar {{count}} usuarios",
     "Calendar": "Calendario",
     "Calendar card": "Tarjeta de calendario",
     "<0>Balance:</0><1>{{amount}}</1>": "<0>Saldo:</0><1>{{amount}}</1>",

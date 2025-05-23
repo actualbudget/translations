@@ -368,7 +368,6 @@
     "Create Local Account": "Lokale Rekening Aanmaken",
     "Default": "Standaard",
     "Delete": "Verwijderen",
-    "Delete {{count}} users": "{{count}} gebruikers verwijderen",
     "Delete {{fileName}}": "Verwijder {{fileName}}",
     "Delete file from all devices": "Bestand van alle apparaten verwijderen",
     "Even though encryption is enabled, the exported zip file will not have any encryption.": "Ook al is versleuteling ingeschakeld, het geëxporteerde zip-bestand zal geen versleuteling gebruiken.",

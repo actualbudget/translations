@@ -434,7 +434,6 @@
     "Export": "Eksportuj",
     "Hide decimal places": "Ukryj liczby po przecinku",
     "Disable category learning": "Wyłącz uczenie się kategorii",
-    "Delete {{count}} users": "Usuń {{count}} osób",
     "Files in the destination folder with the same name will be overwritten.": "Pliki w folderze docelowym o tej samej nazwie zostaną zastąpione.",
     "For Actual to be useful, you need to <1>add an account</1>. You can link an account to automatically download transactions, or manage it locally yourself.": "Aby Actual było użyteczne, musisz <1>dodać konto</1>. Możesz połączyć z kontem, aby automatycznie pobierać transakcje, lub zarządzać nim lokalnie.",
     "Add category group": "Dodaj grupę kategorii",
