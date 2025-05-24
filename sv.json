@@ -841,5 +841,8 @@
     "is on budget": "är inom budget",
     "Link bank account with Pluggy.ai": "Koppla konto med Pluggy.ai",
     "Waiting on GoCardless...": "Väntar på GoCardless ...",
-    "account": "konto"
+    "account": "konto",
+    "{{scheduleName}} is due {{distanceFromNow}} ({{formattedDate}})": "{{scheduleName}} förfaller {{distanceFromNow}} {{formattedDate}}",
+    "{{categoryGroupName}} expense group categories": "{{categoryGroupName}} utgiftskategorier",
+    "{{accountName}} bank sync settings": "{{accountName}} banksynkroniseringsinställningar"
 }
