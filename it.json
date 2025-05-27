@@ -222,5 +222,21 @@
     "By default imported transactions that you delete will be re-imported with the next bank sync operation. To disable this behaviour - untick this box.": "Per impostazione predefinita, le transazioni importate che elimini verranno reimportate con la successiva operazione di sincronizzazione bancaria. Per disabilitare questo comportamento, deseleziona questa casella.",
     "Category": "Categoria",
     "Budget template applied.": "Modello di budget applicato.",
-    "Center": "Centro"
+    "Center": "Centro",
+    "Average spent": "Spesa media",
+    "Average:": "Media:",
+    "Balance": "Saldo",
+    "Balance for {{categoryName}} category": "Saldo per la categoria {{categoryName}}",
+    "Balance:": "Saldo:",
+    "Backups are taken every {{BACKUP_FREQUENCY_MINS}} minutes and stored in <4><0>Actual’s data directory</0></4>. Actual retains a maximum of {{MAX_BACKUPS}} backups at any time.": "I backup vengono eseguiti ogni {{BACKUP_FREQUENCY_MINS}} minuti e archiviati nella <4><0>directory dati di Actual</0></4>. Actual conserva un massimo di {{MAX_BACKUPS}} backup per volta.",
+    "Average per transaction": "Media per transazione",
+    "Bank field": "Campo banca",
+    "Back to file list": "Torna all'elenco dei file",
+    "Bank": "Banca",
+    "Bank Account To Sync": "Conto bancario da sincronizzare",
+    "Back up now": "Esegui il backup adesso",
+    "Backups": "Backup",
+    "Back": "Indietro",
+    "Balance must be a number": "Il saldo deve essere un numero",
+    "Average per month": "Media  mensile"
 }
