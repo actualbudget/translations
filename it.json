@@ -238,5 +238,15 @@
     "Backups": "Backup",
     "Back": "Indietro",
     "Balance must be a number": "Il saldo deve essere un numero",
-    "Average per month": "Media  mensile"
+    "Average per month": "Media  mensile",
+    "Budget automations": "Automazione dei Budget",
+    "Budget {{percent}}% of available funds to budget this month": "E' disponibile il {{percent}}% del budget di questo mese",
+    "Budget {{percent}}% of total income last month": "{{percent}}% del budget dai guadagni del mese scorso",
+    "Budget {{percent}}% of total income this month": "{{percent}}% del budget dai guadagni di questo mese",
+    "Budget for a schedule": "Budget per un programma",
+    "Budget files": "FIle del Budget",
+    "Budget page menu": "Pagina menù del budget",
+    "Budget the same amount as {{amount}} months ago": "Budget della stessa quantità negli ultimi {{amount}} mesi",
+    "Budget name": "Nome budget",
+    "By enabling bank sync, you will be granting GoCardless (a third party service) read-only access to your entire account’s transaction history. This service is not affiliated with Actual in any way. Make sure you’ve read and understand GoCardless’s <2>Privacy Policy</2> before proceeding.": "Attivando il sync della banca, darai accesso di lettura di tutte le transizioni del tuo accownt a GoCardless (un servizio di terza parte). Questo servizio non è affiliato in nessun modo a Actual. Assicurati di aver letto e capito la  <2>Privacy Policy</2> di GoCardless’s prima di continuare."
 }
