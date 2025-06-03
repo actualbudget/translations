@@ -520,5 +520,6 @@
     "A valid amount is required": "Wymagana jest poprawna kwota",
     "account": "konto",
     "<0>Actual</0> is a super fast privacy-focused app for managing your finances.": "<0>Actual</0> to super szybka i nastawiona na prywatność aplikacja do zarządzania twoimi finansami.",
-    "<0>Language</0> support is not available. Please follow the instructions <3>here</3> to add missing translation files.": "<0>Język</0> nie jest dostępny. Sprawdź instrukcję <3>tutaj</3>, aby dodać pliki tłumaczeniowe."
+    "<0>Language</0> support is not available. Please follow the instructions <3>here</3> to add missing translation files.": "<0>Język</0> nie jest dostępny. Sprawdź instrukcję <3>tutaj</3>, aby dodać pliki tłumaczeniowe.",
+    "{{categoryGroupName}} expense group categories": "{{categoryGroupName}} Kategorie grup wydatków"
 }
