@@ -593,7 +593,7 @@
     "Budget": "งบประมาณ",
     "Find matching transactions": "ค้นหารายการที่ตรงกัน",
     "Amount (inflow)": "จำนวนเงิน (รายรับ)",
-    "{{count}} associated rules_other": "{{count}} กฎที่เกี่ยวข้อง",
+    "{{count}} associated rules_other": "{{count}} กฏที่เกี่ยวข้อง",
     "Backups are taken every {{BACKUP_FREQUENCY_MINS}} minutes and stored in <4><0>Actual’s data directory</0></4>. Actual retains a maximum of {{MAX_BACKUPS}} backups at any time.": "การสำรองข้อมูลจะดำเนินทุก ๆ {{BACKUP_FREQUENCY_MINS}} นาที และจัดเก็บไว้ใน <4><0>ไดเรกทอรีข้อมูลของ Actual</0></4> โดย Actual จะเก็บข้อมูลสำรองไว้สูงสุด {{MAX_BACKUPS}} ชุดในแต่ละครั้ง",
     "<0>Reset sync</0> will remove all local data used to track changes for syncing, and create a fresh sync ID on the server. This file on other devices will have to be re-downloaded to use the new sync ID. Use this if there is a problem with syncing and you want to start fresh.": "<0>รีเซ็ตการซิงค์</0> จะลบข้อมูลภายในเครื่องทั้งหมดที่ใช้ติดตามการเปลี่ยนแปลงสำหรับการซิงค์ และสร้างรหัสซิงค์ใหม่บนเซิร์ฟเวอร์ ไฟล์นี้ในอุปกรณ์อื่นจะต้องดาวน์โหลดใหม่เพื่อใช้รหัสซิงค์ใหม่ ใช้ตัวเลือกนี้หากมีปัญหาในการซิงค์และคุณต้องการเริ่มต้นใหม่",
     "Load Backup": "โหลดข้อมูลสำรอง",
