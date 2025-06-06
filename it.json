@@ -209,7 +209,6 @@
     "Category name": "Nome della categoria",
     "Category group name": "Nome del gruppo di categorie",
     "Budgeted MTD": "Preventivato dall'inizio del mese",
-    "Budget set to last month’s budget.": "Il budget è stato impostato sul budget del mese scorso.",
     "Budgeted amount for {{categoryName}} category": "Importo preventivato per la categoria {{categoryName}}",
     "Calendar": "Calendario",
     "Calendar card": "Scheda del calendario",

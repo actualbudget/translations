@@ -122,7 +122,6 @@
     "Create reconciliation transaction": "Crear transacción de reconciliación",
     "Delete {{fileName}}": "Eliminar {{fileName}}",
     "Budget set to {{numberOfMonths}}-month average.": "Presupuesto establecido al promedio de los últimos {{numberOfMonths}} meses.",
-    "Budget set to last month’s budget.": "Presupuesto establecido como el ultimo mes.",
     "Budgeted amount for {{categoryName}} category": "Monto presupuestado para la categoría {{categoryName}}",
     "Budgeted:": "Presupuestado:",
     "Create": "Crear",

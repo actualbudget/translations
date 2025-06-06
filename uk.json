@@ -841,7 +841,6 @@
     "Checking Header Token Login ...": "Перевірка входу в маркер заголовка...",
     "Loading accounts...": "Завантаження облікових записів...",
     "Be aware that other devices may have already created these transactions. If you have multiple devices, make sure you only do this on one device or you will have duplicate transactions.": "Майте на увазі, що інші пристрої могли вже створити ці транзакції. Якщо у вас кілька пристроїв, переконайтеся, що ви робите це лише на одному пристрої, інакше ви матимете дублікати транзакцій.",
-    "Budget set to last month’s budget.": "Бюджет встановлено до бюджету минулого місяця.",
     "Key generation is randomized. The same password will create different keys, so this will change your key regardless of the password being different.": "Генерація ключів рандомізована. Той самий пароль створюватиме різні ключі, тому ваш ключ буде змінено незалежно від того, що пароль буде іншим.",
     "Budget set to {{numberOfMonths}}-month average.": "Середній бюджет встановлено на {{numberOfMonths}}-місячний.",
     "Cannot save: No widget available.": "Неможливо зберегти: немає доступного віджета.",

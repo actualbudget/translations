@@ -369,7 +369,6 @@
     "Be aware that other devices may have already created these transactions. If you have multiple devices, make sure you only do this on one device or you will have duplicate transactions.": "Sachez que d'autres appareils peuvent déjà avoir créé ces transactions. Si vous possédez plusieurs appareils, assurez-vous de ne le faire que sur un seul appareil, sinon vous aurez des transactions en double.",
     "Budget page menu": "Page de menu Budget",
     "Budget set to {{numberOfMonths}}-month average.": "Budget défini sur la moyenne sur {{numberOfMonths}} mois.",
-    "Budget set to last month’s budget.": "Budget fixé au budget du mois dernier.",
     "Budget Summary": "Résumé du budget",
     "Budget template applied.": "Modèle de budget appliqué.",
     "Cannot save: No widget available.": "Impossible d'enregistrer : aucun widget disponible.",
