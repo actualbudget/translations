@@ -962,7 +962,6 @@
     "This rule applies to these transactions:": "กฎนี้ใช้กับธุรกรรมเหล่านี้:",
     "To  Budget": "ไปยังงบประมาณ",
     "Underfunded ({{amount}})": "เงินทุนไม่เพียงพอ ({{amount}})",
-    "Configure your local server below to allow seamless data synchronization across your devices, bank sync and more...": "กำหนดค่าเซิร์ฟเวอร์ภายในเครื่องของคุณด้านล่าง เพื่อให้สามารถซิงค์ข้อมูลระหว่างอุปกรณ์ การซิงค์ธนาคาร และอื่น ๆ ได้อย่างราบรื่น",
     "Confirm Delete": "ยืนยันการลบ",
     "Create new rule": "สร้างกฎใหม่",
     "Create payee “{{payeeName}}”": "สร้างผู้รับเงิน “{{payeeName}}”",

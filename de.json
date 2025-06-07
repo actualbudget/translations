@@ -1345,7 +1345,6 @@
     "No description available": "Keine Beschreibung verfügbar",
     "No schedules found, create one in the <2>schedules</2> page.": "Keine Terminpläne gefunden, erstelle einen auf der Seite <2>schedules</2>.",
     "Configure your server": "Konfiguriere deinen Server",
-    "Configure your local server below to allow seamless data synchronization across your devices, bank sync and more...": "Konfiguriere unten deinen lokalen Server, um nahtlose Datensynchronisierung zwischen deinen Geräten, Banksynchronisation und mehr zu ermöglichen…",
     "Cover each occurrence when it occurs": "Decke jede Fälligkeit ab, wenn sie eintritt",
     "Cover the occurrences of the schedule &lsquo;{{name}}&rsquo; this month": "Decke jede Fälligkeit des Terminplans &lsquo;{{name}}&rsquo; dieses Monats",
     "Domain": "Domain",
