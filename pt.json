@@ -140,5 +140,6 @@
     "append to notes": "Anexar às notas",
     "Actual field": "Campo no Actual",
     "A file with id “{{id}}” already exists with the name “{{name}}”. This file will be replaced. This probably happened because files were manually moved around outside of Actual.": "Um arquivo com id “{{id}}” já existe com o nome “{{name}}”. Este arquivo será substituído. Isso provavelmente aconteceu porque os arquivos foram movidos manualmente fora do Actual.",
-    "<0>Sync ID:</0> {{syncId}}": "<0>ID de Sincronização:</0> {{syncId}}"
+    "<0>Sync ID:</0> {{syncId}}": "<0>ID de Sincronização:</0> {{syncId}}",
+    "{{categoryGroupName}} expense group categories": "{{categoryGroupName}}categorias de grupo de despesas"
 }
