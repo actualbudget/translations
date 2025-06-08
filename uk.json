@@ -1048,5 +1048,8 @@
     "<0>Themes</0> change the user interface colors.": "<0>Теми</0> змінюють кольори інтерфейсу користувача.",
     "2 weeks": "2 тижня",
     "<allocatedAmount /> <italic>of <totalAmount /></italic>": "<allocatedAmount /> <italic> від <totalAmount /></italic>",
-    "<0>Reset sync</0> is only available when syncing is": "<0>Скидання синхронізації</0> доступне лише тоді, коли синхронізація виконана"
+    "<0>Reset sync</0> is only available when syncing is": "<0>Скидання синхронізації</0> доступне лише тоді, коли синхронізація виконана",
+    "Account menu": "Меню облікових записів",
+    "Actual field": "Фактичне поле",
+    "<0>Server self-signed certificate</0> <2><0>enables a secure connection</0></2>": "<0>Самопідписаний сертифікат сервера</0> <2><0>забезпечує безпечне з’єднання</0></2>"
 }
