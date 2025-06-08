@@ -804,5 +804,11 @@
     "Budget automations": "Automatizaciones de presupuesto",
     "{{categoryGroupName}} expense group categories": "{{categoryGroupName}} categorías de grupos de gastos",
     "{{accountName}} bank sync settings": "{{accountName}} Ajustes de sincronización bancaria",
-    "Are you sure you want to unlink <1>{accountName}</1>?": "¿Estás seguro que deseas desvincular la cuenta <1>{accountName}</1>?"
+    "Are you sure you want to unlink <1>{accountName}</1>?": "¿Estás seguro que deseas desvincular la cuenta <1>{accountName}</1>?",
+    "Add a fixed amount to this category each month.": "Añadir un monto fijo a esta categoría cada mes",
+    "Collapse": "Contraer",
+    "Copy a previous month": "Copiar un mes previo",
+    "Cover each occurrence when it occurs": "Cubrir cada evento cuando ocurra",
+    "By default imported transactions that you delete will be re-imported with the next bank sync operation. To disable this behaviour - untick this box.": "Por defecto, las transacciones importadas que elimines serán reimportadas durante la siguiente operación de sincronización. Para deshabilitar este comportamiento - desactiva esta casilla.",
+    "Cover": "Cubrir"
 }
