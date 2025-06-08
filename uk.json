@@ -899,7 +899,7 @@
     "Fixed {{count}} splits with the wrong cleared flag._few": "Виправлено {{count}} розділення з неправильним скинутим прапори.",
     "Fixed {{count}} splits with the wrong cleared flag._many": "Виправлено {{count}} розділення з неправильним скинутим прапори.",
     "Proceed with caution.": "Дійте обережно.",
-    "Connecting...": "Підключення...",
+    "Connecting...": "Підключення…",
     "Deleting it will remove it and all of its backups permanently.": "Видалення видалить його та всі його резервні копії назавжди.",
     "Deleting reconciled transactions may bring your reconciliation out of balance.": "Видалення узгоджених транзакцій може привести до дисбалансу вашого узгодження.",
     "Duplicate file “{{newName}}” created.": "Створено дублікат файлу “{{newName}}”.",
