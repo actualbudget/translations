@@ -813,5 +813,10 @@
     "Cover": "Cubrir",
     "Budget for a schedule": "Presupuestar para una planificación",
     "Add enough to this category to cover the selected schedule. If the schedule occurs multiple times in a month, an amount will be added for each occurrence. You can choose to save up for the next occurrence over time (e.g. save $100 each month for a $300 quarterly bill) or cover each occurrence when it occurs (e.g. only add the $300 when the bill is due).": "Añadir a esta categoría lo suficiente para cubrir la planificación seleccionada. Si la planificación se repite varias veces al mes, se añadirá un importe por cada repetición. Puede elegir ahorrar para la siguiente repetición (por ejemplo, ahorrar $100 al mes para una factura trimestral de $300) o cubrir cada repetición cuando ocurra (por ejemplo, añadir $300 solo al vencimiento de la factura).",
-    "Budget the same amount as {{amount}} months ago": "Presupuestar el mismo monto de hace {{amount}} meses"
+    "Budget the same amount as {{amount}} months ago": "Presupuestar el mismo monto de hace {{amount}} meses",
+    "Day": "Día",
+    "Categorize": "Categorizar",
+    "By enabling bank sync, you will be granting GoCardless (a third party service) read-only access to your entire account’s transaction history. This service is not affiliated with Actual in any way. Make sure you’ve read and understand GoCardless’s <2>Privacy Policy</2> before proceeding.": "Al activar la sincronización bancaria, estarás otorgando a GoCardless (un servicio externo) acceso de solo lectura al historial entero de transacciones de tu cuenta. Este servicio no está afiliado con Actual. Asegúrate de haber leído y entendido la <2>Política de privacidad</2> de GoCardless antes de continuar.",
+    "Closed": "Cerrado",
+    "completed": "completado"
 }
