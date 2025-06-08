@@ -810,5 +810,8 @@
     "Copy a previous month": "Copiar un mes previo",
     "Cover each occurrence when it occurs": "Cubrir cada evento cuando ocurra",
     "By default imported transactions that you delete will be re-imported with the next bank sync operation. To disable this behaviour - untick this box.": "Por defecto, las transacciones importadas que elimines serán reimportadas durante la siguiente operación de sincronización. Para deshabilitar este comportamiento - desactiva esta casilla.",
-    "Cover": "Cubrir"
+    "Cover": "Cubrir",
+    "Budget for a schedule": "Presupuestar para una planificación",
+    "Add enough to this category to cover the selected schedule. If the schedule occurs multiple times in a month, an amount will be added for each occurrence. You can choose to save up for the next occurrence over time (e.g. save $100 each month for a $300 quarterly bill) or cover each occurrence when it occurs (e.g. only add the $300 when the bill is due).": "Añadir a esta categoría lo suficiente para cubrir la planificación seleccionada. Si la planificación se repite varias veces al mes, se añadirá un importe por cada repetición. Puede elegir ahorrar para la siguiente repetición (por ejemplo, ahorrar $100 al mes para una factura trimestral de $300) o cubrir cada repetición cuando ocurra (por ejemplo, añadir $300 solo al vencimiento de la factura).",
+    "Budget the same amount as {{amount}} months ago": "Presupuestar el mismo monto de hace {{amount}} meses"
 }
