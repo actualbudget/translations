@@ -1360,5 +1360,12 @@
     "Add enough to this category to cover the selected schedule. If the schedule occurs multiple times in a month, an amount will be added for each occurrence. You can choose to save up for the next occurrence over time (e.g. save $100 each month for a $300 quarterly bill) or cover each occurrence when it occurs (e.g. only add the $300 when the bill is due).": "Füge dieser Kategorie genügend Mittel hinzu, um den ausgewählten Terminplan abzudecken. Falls der Terminplan mehrmals im Monat vorkommt, wird für jede Wiederholung ein Betrag hinzugefügt. Du kannst wählen, ob du über die Zeit für die nächste Fälligkeit sparst (z. B. monatlich 100 € zurücklegen für eine vierteljährliche Rechnung von 300 €) oder jede Fälligkeit direkt abdeckst, wenn sie eintritt (z. B. die 300 € erst hinzufügen, wenn die Rechnung fällig ist).",
     "Delete {{selectedCount}} users_one": "Lösche einen Benutzer",
     "Delete {{selectedCount}} users_other": "Lösche {{selectedCount}} Benutzer",
-    "Switch file": "Datei wechseln"
+    "Switch file": "Datei wechseln",
+    "Budget set to last month‘s budget.": "Budget auf Vormonatsbudget gesetzt.",
+    "Disable auto hold": "Automatisches Zurückhalten deaktivieren",
+    "Disable current auto hold": "Aktuelles automatisches Zurückhalten deaktivieren",
+    "View transactions": "Transaktionen anzeigen",
+    "Need to expose your server to the internet? Follow our step-by-step <2>guide</2> for more information.": "Du musst deinen Server über das Internet zugänglich machen? Folge unserer <2>Schritt-für-Schritt-Anleitung</2> für weitere Informationen.",
+    "Enable auto hold": "Automatisches Zurückhalten aktivieren",
+    "Set up your server below to enable seamless data synchronization across your devices, bank sync and more...": "Richte unten deinen Server ein, um eine nahtlose Datensynchronisierung über deine Geräte hinweg, Banksynchronisierung und mehr zu ermöglichen..."
 }
