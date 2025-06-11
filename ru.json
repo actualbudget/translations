@@ -122,7 +122,6 @@
     "amount (inflow)": "сумма (поступление)",
     "An unknown error occurred: {{error}}": "Неизвестная ошибка: {{error}}",
     "after": "после",
-    "<0>Reset sync</0> is only available when syncing is": "<0>Сброс синхронизации</0> доступен только при активной синхронизации",
     "Actual is a personal finance tool that focuses on beautiful design and a slick user experience. <2>Editing your data should be as fast as possible.</2> On top of that, we want to provide powerful tools to allow you to do whatever you want with your data.": "Actual - это инструмент для управления личными финансами, в котором основное внимание уделяется красивому дизайну и удобству работы. <2> Редактирование ваших данных должно быть максимально быстрым.</2> Кроме того, мы хотим предоставить мощные инструменты, которые позволят вам делать с вашими данными все, что вы захотите.",
     "<0>Read here</0> for instructions on how to migrate your data from YNAB. You need to export your data as JSON, and that page explains how to do that.": "<0>Здесь вы можете прочитать</0> инструкцию по миграции ваших данных из YNAB. Вам потребуется экспортировать ваши данные в формате JSON, что подробно описывается в указанной ссылке.",
     "After disabling OpenID all sessions will be closed": "После отключения OpenID все сессии будут завершены",

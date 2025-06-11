@@ -662,7 +662,6 @@
     "contains": "มีคำว่า",
     "Data Table": "ตารางข้อมูล",
     "<0>Link a <1>Brazilian</1> bank account</0> to automatically download transactions. Pluggy.ai provides reliable, up-to-date information from hundreds of banks.": "<0>เชื่อมบัญชีธนาคารใน <1>บราซิล</1></0> เพื่อดาวน์โหลดธุรกรรมโดยอัตโนมัติ Pluggy.ai ให้ข้อมูลที่เชื่อถือได้และทันสมัยจากธนาคารหลายร้อยแห่ง",
-    "<0>Reset sync</0> is only available when syncing is": "<0>รีเซ็ตการซิงค์</0> สามารถใช้ได้เฉพาะเมื่อกำลังซิงค์อยู่",
     "From": "จาก",
     "Imported payee": "ผู้รับเงินที่นำเข้า",
     "A file with id “{{id}}” already exists with the name “{{name}}”. This file will be replaced. This probably happened because files were manually moved around outside of Actual.": "มีไฟล์ที่มีรหัส “{{id}}” อยู่แล้วในชื่อ “{{name}}” ไฟล์นี้จะถูกแทนที่ อาจเกิดจากการย้ายไฟล์ด้วยตนเองนอกแอป Actual",

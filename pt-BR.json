@@ -78,7 +78,6 @@
     "<0>Formatting</0> does not affect how budget data is stored, and can be changed at any time.": "<0>Formatação</0> não afeta como os dados do orçamento são armazenados e pode ser alterada a qualquer momento.",
     "<0>No server configured</0>": "<0>Nenhum servidor configurado</0>",
     "<0>Move schedule </0><1></1><2> {{beforeOrAfter}} weekend</2>": "<0>Mover agendamento </0><1></1><2> {{beforeOrAfter}} do fim de semana</2>",
-    "<0>Reset sync</0> is only available when syncing is": "<0>Redefinir sincronização</0> só está disponível quando a sincronização é",
     "<0>Themes</0> change the user interface colors.": "<0>Temas</0> alteram as cores da interface do usuário.",
     "A file with id “{{id}}” already exists with the name “{{name}}”. This file will be replaced. This probably happened because files were manually moved around outside of Actual.": "Um arquivo com ID \"{{id}}\" já existe com o nome \"{{name}}\". Este arquivo será substituído. Isso provavelmente aconteceu porque os arquivos foram movidos manualmente para fora do Actual.",
     "Account linking not opening in a new tab? Click here": "A nova aba para conectar a conta não abriu? Clique aqui",

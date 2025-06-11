@@ -57,7 +57,6 @@
     "allocate": "asignar",
     "Back": "Volver",
     "<0>Read here</0> for instructions on how to migrate your data from YNAB. You need to export your data as JSON, and that page explains how to do that.": "<0>Lee aquí</0> las instrucciones sobre cómo migrar tus datos desde YNAB. Necesitas exportar tus datos como JSON, y esa página explica cómo hacerlo.",
-    "<0>Reset sync</0> is only available when syncing is": "<0>Restablecer sincronización</0> solo está disponible cuando la sincronización está activada",
     "<0>Sync ID:</0> {{syncId}}": "<0>ID de sincronización:</0> {{syncId}}",
     "<0>Themes</0> change the user interface colors.": "<0>Los temas</0> cambian los colores de la interfaz de usuario.",
     "1 year": "1 año",

@@ -1061,7 +1061,6 @@
     "Duplicating reconciled transactions may bring your reconciliation out of balance.": "Het dupliceren van gereconcilieerde transacties kan de reconciliatie uit balans brengen.",
     "Unable to disable OpenID. Please update the config.json file in this case.": "OpenID kan niet worden uitgeschakeld. Pas het config.json bestand aan.",
     "Unable to enable OpenID. Please update the config.json file in this case.": "OpenID kan niet worden ingeschakeld. Pas het config.json bestand aan.",
-    "<0>Reset sync</0> is only available when syncing is": "<0>Reset sync</0> is alleen beschikbaar als synchronisatie aan staat",
     "Create reconciliation transaction": "Maak reconciliatietransactie",
     "Toggle the privacy filter": "Schakel het privacyfilter in/uit",
     "Deleting reconciled transactions may bring your reconciliation out of balance.": "Het verwijderen van gereconcilieerde transacties kan de reconciliatie uit balans brengen.",

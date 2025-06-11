@@ -255,7 +255,6 @@
     "Import file": "Importuj plik",
     "<0>Formatting</0> does not affect how budget data is stored, and can be changed at any time.": "<0>Format</0> nie wpływa na sposób przechowywania danych budżetowych i można go zmienić w dowolnym momencie.",
     "<0>Move schedule </0><1></1><2> {{beforeOrAfter}} weekend</2>": "<0>Przenieś zaplanowane </0><1></1><2> {{beforeOrAfter}} weekend</2>",
-    "<0>Reset sync</0> is only available when syncing is": "<0>Reset synchronizacji</0> jest dostępny tylko wtedy, gdy synchronizacja jest",
     "Add New": "Dodaj nową",
     "Create": "Utwórz",
     "Failed to duplicate budget file.": "Nie udało się zduplikować pliku budżetu.",
