@@ -13,5 +13,6 @@
     "(deleted)": "(silindi)",
     "(hidden)": "(gizli)",
     "(nothing)": "(hiçbiri)",
-    "{{accountName}} bank sync settings": "{{accountName}} banka eşitleme ayarları"
+    "{{accountName}} bank sync settings": "{{accountName}} banka eşitleme ayarları",
+    "<0><0>Custom Report:</0></0> <2>{{name}}</2>": "<0><0>Özel Rapor:</0></0> <2>{{name}}</2>"
 }
