@@ -1357,5 +1357,7 @@
     "View transactions": "Ver transações",
     "Delete {{selectedCount}} users_one": "Excluir {{selectedCount}} usuário",
     "Delete {{selectedCount}} users_many": "Excluir {{selectedCount}} usuários",
-    "Delete {{selectedCount}} users_other": "Excluir {{selectedCount}} usuários"
+    "Delete {{selectedCount}} users_other": "Excluir {{selectedCount}} usuários",
+    "Expand": "Mostrar mais",
+    "Average of previous months": "Média dos meses anteriores"
 }
