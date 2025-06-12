@@ -379,7 +379,6 @@
     "Client secret": "Code secret client",
     "Connecting...": "Connexion…",
     "contains": "contient",
-    "Context menus": "Menus contextuels",
     "Copy last month’s budget": "Copier le budget du dernier mois",
     "Dashboard has been successfully reset to default state. Don’t like what you see? You can always press [ctrl+z](#undo) to undo.": "Le tableau de bord a été réinitialisé avec succès à son état par défaut. Vous n'aimez pas ce que vous voyez ? Vous pouvez toujours appuyer sur [ctrl+z](#undo) pour annuler.",
     "Date is required": "La date est requise",

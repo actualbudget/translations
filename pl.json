@@ -131,7 +131,6 @@
     "Be aware that other devices may have already created these transactions. If you have multiple devices, make sure you only do this on one device or you will have duplicate transactions.": "Pamiętaj, że inne urządzenia mogły już utworzyć te transakcje. Jeśli masz wiele urządzeń, upewnij się, że robisz to tylko na jednym urządzeniu, w przeciwnym razie będziesz mieć zduplikowane transakcje.",
     "Cover from a category": "Pokryj z kategorii",
     "contains": "zawiera",
-    "Context menus": "Menu kontekstowe",
     "Copy last month’s budget": "Skopiuj budżet z zeszłego miesiąca",
     "Could not search: {{errorReason}}": "Nie można wyszukać: {{errorReason}}.",
     "Cover from a category:": "Pokryj z kategorii:",
