@@ -1329,5 +1329,16 @@
     "Transactions will no longer be synchronized with this account and must be manually entered. You will not be able to edit the bank sync settings for this account and the settings will close.": "As transações não serão mais sincronizadas com esta conta e deverão ser inseridas manualmente. Você não poderá editar as configurações de sincronização bancária para esta conta, e as configurações serão fechadas.",
     "Mode": "Modo",
     "{{categoryGroupName}} expense group categories": "Categorias do grupo de despesas {{categoryGroupName}}",
-    "{{accountName}} bank sync settings": "Configurações de sincronização bancária de {{accountName}}"
+    "{{accountName}} bank sync settings": "Configurações de sincronização bancária de {{accountName}}",
+    "Budget {{monthly}} each month": "Orçar {{monthly}} por mês",
+    "Available funds to budget": "Fundos disponíveis para o orçamento",
+    "Budget {{amount}} each week": "Orçar {{amount}} por semana",
+    "Collapse": "Recolher",
+    "Copy a previous month": "Copiar um mês anterior",
+    "Cover each occurrence when it occurs": "Cobrir cada ocorrência quando ela acontecer",
+    "You have {{count}} overspent categories_one": "Você tem {{count}} categoria com orçamento excedido",
+    "You have {{count}} overspent categories_many": "Você tem {{count}} categorias com orçamento excedido",
+    "You have {{count}} overspent categories_other": "Você tem {{count}} categorias com orçamento excedido",
+    "By enabling bank sync, you will be granting GoCardless (a third party service) read-only access to your entire account’s transaction history. This service is not affiliated with Actual in any way. Make sure you’ve read and understand GoCardless’s <2>Privacy Policy</2> before proceeding.": "Ao ativar a sincronização bancária, você estará concedendo à GoCardless (um serviço de terceiros) acesso somente de leitura ao histórico completo de transações da sua conta. Este serviço opera de forma independente e não tem relação com Actual. Certifique-se de que leu e compreendeu a <2>Política de Privacidade</2> da GoCardless antes de continuar.",
+    "Cover the occurrences of the schedule &lsquo;{{name}}&rsquo; this month": "Cobrir as ocorrências do agendamento &lsquo;{{name}}&rsquo; deste mês"
 }
