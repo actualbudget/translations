@@ -1340,5 +1340,6 @@
     "You have {{count}} overspent categories_many": "Você tem {{count}} categorias com orçamento excedido",
     "You have {{count}} overspent categories_other": "Você tem {{count}} categorias com orçamento excedido",
     "By enabling bank sync, you will be granting GoCardless (a third party service) read-only access to your entire account’s transaction history. This service is not affiliated with Actual in any way. Make sure you’ve read and understand GoCardless’s <2>Privacy Policy</2> before proceeding.": "Ao ativar a sincronização bancária, você estará concedendo à GoCardless (um serviço de terceiros) acesso somente de leitura ao histórico completo de transações da sua conta. Este serviço opera de forma independente e não tem relação com Actual. Certifique-se de que leu e compreendeu a <2>Política de Privacidade</2> da GoCardless antes de continuar.",
-    "Cover the occurrences of the schedule &lsquo;{{name}}&rsquo; this month": "Cobrir as ocorrências do agendamento &lsquo;{{name}}&rsquo; deste mês"
+    "Cover the occurrences of the schedule &lsquo;{{name}}&rsquo; this month": "Cobrir as ocorrências do agendamento &lsquo;{{name}}&rsquo; deste mês",
+    "Expense category groups": "Grupos de categorias de despesas"
 }
