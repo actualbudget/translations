@@ -282,7 +282,7 @@
     "Dashboard widget successfully saved.": "Widget do painel salvo com sucesso.",
     "Display": "Exibir",
     "Auth0 application settings": "Configurações do aplicativo Auth0",
-    "Auto login failed - No header sent": "Falha no login automático - Nenhum \"header\" enviado",
+    "Auto login failed - No header sent": "Falha na autenticação automática - Nenhum cabeçalho enviado",
     "Auto login failed - Proxy not trusted": "Falha no login automático - Proxy não confiável",
     "Complete": "Concluído",
     "Cover from a category": "Cobrir com uma categoria",
