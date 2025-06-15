@@ -77,6 +77,7 @@
   "A category must be transferred to another of the same type (expense or income)": "A category must be transferred to another of the same type (expense or income)",
   "A file with id “{{id}}” already exists with the name “{{name}}”. This file will be replaced. This probably happened because files were manually moved around outside of Actual.": "A file with id “{{id}}” already exists with the name “{{name}}”. This file will be replaced. This probably happened because files were manually moved around outside of Actual.",
   "A new version of Actual is available!": "A new version of Actual is available!",
+  "A new version of Actual is available! Your Pikapods instance will be automatically updated in the next few days - no action needed.": "A new version of Actual is available! Your Pikapods instance will be automatically updated in the next few days - no action needed.",
   "A valid amount is required": "A valid amount is required",
   "Access": "Access",
   "Access Revocation Incomplete": "Access Revocation Incomplete",
