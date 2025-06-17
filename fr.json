@@ -1301,5 +1301,6 @@
     "By enabling bank sync, you will be granting GoCardless (a third party service) read-only access to your entire account’s transaction history. This service is not affiliated with Actual in any way. Make sure you’ve read and understand GoCardless’s <2>Privacy Policy</2> before proceeding.": "En activant la synchronisation bancaire, vous accordez à GoCardless (un service tiers) un accès en lecture seule à l'historique complet des transactions de votre compte. Ce service n'est affilié à Actual d'aucune façon. Assurez-vous d'avoir lu et compris la <2>Politique de confidentialité</2> de GoCardless avant de continuer.",
     "An error occurred while linking your account, sorry! The potential issue could be: {{ message }}": "Une erreur s'est produite lors de l'association de votre compte. Nous en sommes désolés ! Le problème potentiel pourrait être : {{ message }}",
     "Download Snapshot": "Télécharger l'instantané",
-    "Import notes from file": "Importer des notes à partir d'un fichier"
+    "Import notes from file": "Importer des notes à partir d'un fichier",
+    "{{accountName}} bank sync settings": "Paramètres de synchronisation bancaire du compte  {{accountName}}"
 }
