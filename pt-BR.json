@@ -837,7 +837,7 @@
     "Fixed {{count}} splits with a blank payee._one": "Corrigido {{count}} transação dividida com beneficiário em branco.",
     "Fixed {{count}} splits with a blank payee._many": "Corrigidas {{count}} transações divididas com beneficiário em branco.",
     "Fixed {{count}} splits with a blank payee._other": "Corrigidas {{count}} transações divididas com beneficiário em branco.",
-    "For Actual to be useful, you need to <1>add an account</1>. You can link an account to automatically download transactions, or manage it locally yourself.": "Para que o Actual seja útil, você precisa <1>adicionar uma conta</1>. Você pode criar uma conta e gerenciar manualmente ou pode vincular uma conta para sincronizar transações automaticamente (atualmente disponível para bancos nos EUA e Europa).",
+    "For Actual to be useful, you need to <1>add an account</1>. You can link an account to automatically download transactions, or manage it locally yourself.": "Para que o Actual seja útil, você precisa <1>adicionar uma conta</1>. Você pode criar uma conta e gerenciar manualmente ou pode conectar uma conta para sincronizar transações automaticamente (atualmente disponível para bancos nos EUA e Europa).",
     "Fixed {{count}} splits with the wrong cleared flag._one": "Corrigida {{count}} transação dividida com indicador de compensação incorreto.",
     "Fixed {{count}} splits with the wrong cleared flag._many": "Corrigida {{count}} transações divididas com indicador de compensação incorreto.",
     "Fixed {{count}} splits with the wrong cleared flag._other": "Corrigida {{count}} transações divididas com indicador de compensação incorreto.",
