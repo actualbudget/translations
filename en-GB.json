@@ -50,5 +50,7 @@
     "You have {{count}} overspent categories_one": "You have {{count}} overspent category",
     "You have {{count}} overspent categories_other": "You have {{count}} overspent categories",
     "You have {{count}} uncategorized transactions_one": "You have {{count}} uncategorised transaction",
-    "You have {{count}} uncategorized transactions_other": "You have {{count}} uncategorised transactions"
+    "You have {{count}} uncategorized transactions_other": "You have {{count}} uncategorised transactions",
+    "Transactions will no longer be synchronized with this account and must be manually entered. You will not be able to edit the bank sync settings for this account and the settings will close.": "Transactions will no longer be synchronised with this account and must be manually entered. You will not be able to edit the bank sync settings for this account and the settings will close.",
+    "Unrecognized automation type.": "Unrecognised automation type."
 }
