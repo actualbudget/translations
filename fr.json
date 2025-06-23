@@ -1300,5 +1300,6 @@
     "An error occurred while linking your account, sorry! The potential issue could be: {{ message }}": "Une erreur s'est produite lors de l'association de votre compte. Nous en sommes désolés ! Le problème potentiel pourrait être : {{ message }}",
     "Download Snapshot": "Télécharger l'instantané",
     "Import notes from file": "Importer des notes à partir d'un fichier",
-    "{{accountName}} bank sync settings": "Paramètres de synchronisation bancaire du compte  {{accountName}}"
+    "{{accountName}} bank sync settings": "Paramètres de synchronisation bancaire du compte  {{accountName}}",
+    "Expense category groups": "Groupes de catégories de dépenses"
 }
