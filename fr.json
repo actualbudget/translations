@@ -1323,5 +1323,6 @@
     "Expand": "Étendre",
     "Closed": "Fermé",
     "Collapse": "Replier",
-    "Are you sure you want to unlink <1>{accountName}</1>?": "Êtes-vous sûr de vouloir dissocier le compte <1>{accountName}</1> ?"
+    "Are you sure you want to unlink <1>{accountName}</1>?": "Êtes-vous sûr de vouloir dissocier le compte <1>{accountName}</1> ?",
+    "Overbudgeted:": "Dépassement de budget :"
 }
