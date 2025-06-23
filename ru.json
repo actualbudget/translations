@@ -177,5 +177,12 @@
     "Average:": "Средний:",
     "Back to file list": "Назад к списку файлов",
     "Average spent": "Средний расход",
-    "Area Graph": "Диаграмма с областями"
+    "Area Graph": "Диаграмма с областями",
+    "Banners": "Баннеры",
+    "Category is required": "Категория обязательна для заполнения",
+    "Center": "Центр",
+    "Category name": "Название категории",
+    "before": "до",
+    "Category “{{name}}” already exists in group (it may be hidden)": "Категория \"{{name}}\" уже существует в группе (возможно скрыта)",
+    "Category group name": "Название группы категорий"
 }
