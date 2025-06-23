@@ -184,5 +184,8 @@
     "Category name": "Название категории",
     "before": "до",
     "Category “{{name}}” already exists in group (it may be hidden)": "Категория \"{{name}}\" уже существует в группе (возможно скрыта)",
-    "Category group name": "Название группы категорий"
+    "Category group name": "Название группы категорий",
+    "Bar Graph": "Гистограмма",
+    "Basic": "Базовый",
+    "Budget": "Бюджет"
 }
