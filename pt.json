@@ -142,5 +142,6 @@
     "<0>Sync ID:</0> {{syncId}}": "<0>ID de Sincronização:</0> {{syncId}}",
     "{{categoryGroupName}} expense group categories": "{{categoryGroupName}}categorias de grupo de despesas",
     "<0>Themes</0> change the user interface colors.": "<0>Temas</0> altera as cores da interface do usuário.",
-    "{{accountName}} bank sync settings": "Configurações de sincronização bancária de {{accountName}}"
+    "{{accountName}} bank sync settings": "Configurações de sincronização bancária de {{accountName}}",
+    "<allocatedAmount /> <italic>of <totalAmount /></italic>": "<allocatedAmount /> <italic> de <totalAmount /></italic>"
 }
