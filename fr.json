@@ -1324,5 +1324,9 @@
     "Closed": "Fermé",
     "Collapse": "Replier",
     "Are you sure you want to unlink <1>{accountName}</1>?": "Êtes-vous sûr de vouloir dissocier le compte <1>{accountName}</1> ?",
-    "Overbudgeted:": "Dépassement de budget :"
+    "Overbudgeted:": "Dépassement de budget :",
+    "In order to enable bank sync via SimpleFIN (only for North American banks), you will need to create a token. This can be done by creating an account with <2>SimpleFIN</2>.": "Pour activer la synchronisation bancaire via SimpleFIN (uniquement pour les banques nord-américaines), vous devez créer un jeton. Pour ce faire, créez un compte avec <2>SimpleFIN</2>.",
+    "Remove bank sync": "Supprimer la synchronisation bancaire",
+    "In order to enable bank sync via GoCardless (only for EU banks) you will need to create access credentials. This can be done by creating an account with <2>GoCardless</2>.": "Pour activer la synchronisation bancaire via GoCardless (uniquement pour les banques de l'UE), vous devez créer des identifiants d'accès. Pour ce faire, créez un compte avec <2>GoCardless</2>.",
+    "In order to enable bank sync via Pluggy.ai (only for Brazilian banks) you will need to create access credentials. This can be done by creating an account with <2>Pluggy.ai</2>.": "Pour activer la synchronisation bancaire via Pluggy.ai (uniquement pour les banques brésiliennes), vous devez créer des identifiants d'accès. Pour ce faire, créez un compte sur <2>Pluggy.ai</2>."
 }
