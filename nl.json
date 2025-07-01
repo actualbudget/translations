@@ -1121,5 +1121,10 @@
     "<0>Link a <1>North American</1> bank account</0> to automatically download transactions. SimpleFIN provides reliable, up-to-date information from hundreds of banks.": "<0>Koppel een <1>Noord-Amerikaanse</1> bankrekening</0> om automatisch transacties te downloaden. SimpleFIN biedt betrouwbare, actuele informatie van honderden banken.",
     "<0>Export</0> your data as a zip file containing <3>db.sqlite</3> and <5>metadata.json</5> files. It can be imported into another Actual instance by closing an open file (if any), then clicking the “Import file” button, then choosing “Actual.”": "<0>Exporteer</0> je gegevens als een zip-bestand met <3>db.sqlite</3> en <5>metadata.json</5> bestanden. Het kan worden geïmporteerd in een andere instantie van Actual door een (eventueel) geopend bestand te sluiten, op de knop “Bestand importeren” te klikken en vervolgens “Actual” te kiezen.",
     "(+{{numHiddenPayees}} more)": "(+{{numHiddenPayees}} meer)",
-    "Actual field": "Actual-veld"
+    "Actual field": "Actual-veld",
+    "(before weekend)": "(voor weekend)",
+    "(deleted)": "(verwijderd)",
+    "(nothing)": "(niets)",
+    "{{accountName}} bank sync settings": "{{accountName}} bank synchronisatie instellingen",
+    "{{endOccurrences}} times": "{{endOccurrences}} keer"
 }
