@@ -960,7 +960,7 @@
     "There are payees that have schedules that are due today._other": "Es gibt Zahlungsempfänger, deren Terminpläne heute fällig sind.",
     "You’re up to date!": "Du bist auf dem neuesten Stand!",
     "The account needs your attention at <2>SimpleFIN</2>.": "Das Konto benötigt deine Aufmerksamkeit bei <2>SimpleFIN</2>.",
-    "The payees <1>{payeeNamesList}</1> have schedules that are due today._one": "Der Zahlungsempfänger <1>{payeeNamesList}</1> hat Terminpläne, die heute fällig sind.",
+    "The payees <1>{payeeNamesList}</1> have schedules that are due today._one": "Der Zahlungsempfänger <1>{payeeNamesList}</1> hat einen Terminplan, der heute fällig ist.",
     "The payees <1>{payeeNamesList}</1> have schedules that are due today._other": "Die Zahlungsempfänger <1>{payeeNamesList}</1> haben Terminpläne, die heute fällig sind.",
     "Start using a server": "Mit der Nutzung eines Servers beginnen",
     "Switch to tracking budgeting": "Wechsle zur Tracking-Budgetierung",
@@ -1434,5 +1434,9 @@
     "Unable to parse file. Please select a JSON file exported from nYNAB.": "Verarbeiten der Datei nicht möglich. Bitte wähle eine aus nYNAB exportierte JSON-Datei.",
     "Unassigned": "Nicht zugewiesen",
     "Use last synced total": "Verwende letzte synchronisierte Gesamtsumme",
-    "You": "Du"
+    "You": "Du",
+    "Change category automations": "Kategorie-Automatisierungen ändern",
+    "In/Out": "Eingehend/Ausgehend",
+    "TOTAL DEPOSITS": "GESAMTE EINZAHLUNGEN",
+    "Unable to parse date {{date}} with given date format": "Verarbeiten des Datums {{date}} mit dem angegebenen Datumsformat nicht möglich"
 }
