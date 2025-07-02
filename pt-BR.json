@@ -1357,5 +1357,10 @@
     "Delete {{selectedCount}} users_many": "Excluir {{selectedCount}} usuários",
     "Delete {{selectedCount}} users_other": "Excluir {{selectedCount}} usuários",
     "Expand": "Expandir",
-    "Average of previous months": "Média dos meses anteriores"
+    "Average of previous months": "Média dos meses anteriores",
+    "{{count}} uncategorized transactions_one": "{{count}} transação não categorizada",
+    "{{count}} uncategorized transactions_many": "{{count}} transações não categorizadas",
+    "{{count}} uncategorized transactions_other": "{{count}} transações não categorizadas",
+    "{{scheduleName}} is due {{distanceFromNow}} ({{formattedDate}})": "{{scheduleName}} vence em {{distanceFromNow}} ({{formattedDate}})",
+    "{{status}} (Split)": "{{status}} (Divisão)"
 }
