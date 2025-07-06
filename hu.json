@@ -13,5 +13,12 @@
     "Friday": "Péntek",
     "Generate new key": "Új kulcs generálása",
     "Help": "Segítség",
-    "I understand the risks, run Actual in the unsupported fallback mode": "Megértettem a kockázatokat, futtassa az Actual-t a nem támogatott tartalék üzemmódban"
+    "I understand the risks, run Actual in the unsupported fallback mode": "Megértettem a kockázatokat, futtassa az Actual-t a nem támogatott tartalék üzemmódban",
+    "(+{{numHiddenPayees}} more)": "(+{{numHiddenPayees}} több)",
+    "{{count}} transactions_one": "{{count}} tranzakció",
+    "{{count}} transactions_other": "{{count}} tranzakció",
+    "(No payee)": "(Nincs kedvezményezett)",
+    "(nothing)": "(semmi)",
+    "{{accountName}} bank sync settings": "{{accountName}} bank szinkronizációs beállítások",
+    "{{categoryGroupName}} expense group categories": "{{categoryGroupName}} költségcsoport-kategóriák"
 }
