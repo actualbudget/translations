@@ -312,5 +312,6 @@
     "You can also delete just the local copy. This will remove all local data and the file will be listed as available for download.": "Puoi anche eliminare solo la copia locale. Questo rimuoverà tutti i dati locali e il file verrà elencato come disponibile per il download.",
     "Bank Sync": "Sincronizza conti bancari",
     "Bank Sync Offline": "Sincronizza conti bancari",
-    "Bank sync": "Sincronizza conti bancari"
+    "Bank sync": "Sincronizza conti bancari",
+    "{{status}} (Split)": "{{status}} (Suddividi)"
 }
