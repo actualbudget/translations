@@ -207,7 +207,6 @@
     "Import from nYNAB": "Importuj z nYNAB",
     "Budgeted": "W budżecie",
     "Change upcoming length": "Zmień nadchodzącą długość",
-    "Checking GoCardless configuration..": "Sprawdzanie konfiguracji GoCardless..",
     "Click the button below to reload and apply the update.": "Kliknij poniższy przycisk, aby ponownie wczytać i zastosować aktualizację.",
     "Cleared total:": "Wyczyszczono łącznie:",
     "Choose the schedule these {{ count }} transactions belong to:_one": "Wybierz harmonogram, do którego należy ta {{ count }} transakcja:",
