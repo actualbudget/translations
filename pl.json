@@ -17,7 +17,7 @@
     "(hidden)": "(ukryte)",
     "Add account": "Dodaj konto",
     "Add new widget": "Dodaj nowy widżet",
-    "{{displayMonth}} budget templates have been applied.": "Szablony budżetu za miesiąc {{displayMonth}} zostały zastosowane.",
+    "{{displayMonth}} budget templates have been applied.": "Szablony budżetu za {{displayMonth}} zostały zastosowane.",
     "(+{{numHiddenPayees}} more)": "(+{{numHiddenPayees}} więcej)",
     "<0><0>Custom Report:</0></0> <2>{{name}}</2>": "<0><0>Niestandardowy raport:</0></0> <2>{{name}}</2>",
     "{{displayMonth}} end-of-month cleanup templates have been applied.": "{{displayMonth}} – zastosowano szablony porządkowania na koniec miesiąca.",
