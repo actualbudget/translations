@@ -952,7 +952,7 @@
     "This a <1>local file</1> which is not stored on a server.": "Dies ist eine <1>lokale Datei</1>, die nicht auf einem Server gespeichert ist.",
     "Open balance menu for {{categoryName}} category": "Saldenmenü für Kategorie {{categoryName}} öffnen",
     "This is a cloud-based file but its state is unknown because you are offline.": "Dies ist eine cloud-basierte Datei, aber ihr Zustand ist unbekannt, da du offline bist.",
-    "Complete": "Vollständig",
+    "Complete": "Abschließen",
     "The newer web app": "Die neuere Web-App",
     "There are payees that have schedules that are due today._one": "Es gibt einen Zahlungsempfänger, dessen Terminplan heute fällig ist.",
     "There are payees that have schedules that are due today._other": "Es gibt Zahlungsempfänger, deren Terminpläne heute fällig sind.",
@@ -1261,7 +1261,7 @@
     "nothing": "nichts",
     "(deleted)": "(gelöscht)",
     "(nothing)": "(nichts)",
-    "completed": "vollständig",
+    "completed": "abgeschlossen",
     "scheduled": "geplant",
     "upcoming": "bevorstehend",
     "missed": "verpasst",
@@ -1433,5 +1433,9 @@
     "Change category automations": "Kategorie-Automatisierungen ändern",
     "In/Out": "Eingehend/Ausgehend",
     "TOTAL DEPOSITS": "GESAMTE EINZAHLUNGEN",
-    "Unable to parse date {{date}} with given date format": "Verarbeiten des Datums {{date}} mit dem angegebenen Datumsformat nicht möglich"
+    "Unable to parse date {{date}} with given date format": "Verarbeiten des Datums {{date}} mit dem angegebenen Datumsformat nicht möglich",
+    "Automatically rename these payees in the future_one": "Diesen Zahlungsempfänger in Zukunft automatisch umbenennen",
+    "Automatically rename these payees in the future_other": "Diese Zahlungsempfänger in Zukunft automatisch umbenennen",
+    "Checking GoCardless configuration...": "Überprüfung der GoCardless-Konfiguration...",
+    "Choose Color:": "Farbe auswählen:"
 }
