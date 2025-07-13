@@ -816,5 +816,7 @@
     "Closed": "Cerrado",
     "completed": "completado",
     "{{scheduleName}} is due {{distanceFromNow}} ({{formattedDate}})": "{{scheduleName}} se ejecutará en {{distanceFromNow}} ({{formattedDate}})",
-    "Configure your server": "Configurar tu servidor"
+    "Configure your server": "Configurar tu servidor",
+    "Delete template": "Eliminar plantilla",
+    "Edit template": "Editar plantilla"
 }
