@@ -814,5 +814,7 @@
     "Categorize": "Categorizar",
     "By enabling bank sync, you will be granting GoCardless (a third party service) read-only access to your entire account’s transaction history. This service is not affiliated with Actual in any way. Make sure you’ve read and understand GoCardless’s <2>Privacy Policy</2> before proceeding.": "Al activar la sincronización bancaria, estarás otorgando a GoCardless (un servicio externo) acceso de solo lectura al historial entero de transacciones de tu cuenta. Este servicio no está afiliado con Actual. Asegúrate de haber leído y entendido la <2>Política de privacidad</2> de GoCardless antes de continuar.",
     "Closed": "Cerrado",
-    "completed": "completado"
+    "completed": "completado",
+    "{{scheduleName}} is due {{distanceFromNow}} ({{formattedDate}})": "{{scheduleName}} se ejecutará en {{distanceFromNow}} ({{formattedDate}})",
+    "Configure your server": "Configurar tu servidor"
 }
