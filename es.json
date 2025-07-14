@@ -801,7 +801,7 @@
     "{{categoryGroupName}} expense group categories": "{{categoryGroupName}} categorías de grupos de gastos",
     "{{accountName}} bank sync settings": "{{accountName}} Ajustes de sincronización bancaria",
     "Are you sure you want to unlink <1>{accountName}</1>?": "¿Estás seguro que deseas desvincular la cuenta <1>{accountName}</1>?",
-    "Add a fixed amount to this category each month.": "Añadir un monto fijo a esta categoría cada mes",
+    "Add a fixed amount to this category each month.": "Añadir un monto fijo a esta categoría cada mes.",
     "Collapse": "Contraer",
     "Copy a previous month": "Copiar un mes previo",
     "Cover each occurrence when it occurs": "Cubrir cada evento cuando ocurra",
