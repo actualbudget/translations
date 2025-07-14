@@ -743,7 +743,7 @@
     "Amount left: {{amount}}": "Cantidad restante: {{amount}}",
     "(deleted)": "(eliminado)",
     "(nothing)": "(nada)",
-    "<0>Link a <1>Brazilian</1> bank account</0> to automatically download transactions. Pluggy.ai provides reliable, up-to-date information from hundreds of banks.": "<0>Vincula una cuenta bancaria <1>brasileña</1> para descargar automáticamente las transacciones. Pluggy.ai proporciona información confiable y actualizada de cientos de bancos.</0>",
+    "<0>Link a <1>Brazilian</1> bank account</0> to automatically download transactions. Pluggy.ai provides reliable, up-to-date information from hundreds of banks.": "<0>Enlaza una cuenta bancaria<1>brasileña</1></0> para descargar transacciones automáticamente. Pluggy.ai ofrece información fiable y actualizada de cientos de bancos.",
     "Budget files": "Archivos de presupuesto",
     "An error occurred while linking your account, sorry! The potential issue could be: {{ message }}": "Se produjo un error al vincular tu cuenta, ¡lo sentimos! El problema podría ser: {{ message }}",
     "Client Secret:": "Secreto de cliente:",
