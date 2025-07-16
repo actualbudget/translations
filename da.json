@@ -71,5 +71,6 @@
     "<0>Link a <1>European</1> bank account</0> to automatically download transactions. GoCardless provides reliable, up-to-date information from hundreds of banks.": "<0>Forbind en <1>europæisk</1> bankkonto</0> for automatisk at trække nye transaktioner fra din bank. GoCardless er en leverandør der kan bruges til at forbinde til hundredvis af banker til dit Actual budget.",
     "<0>Important:</0> if you forget this password <3>and</3> you don’t have any local copies of your data, you will lose access to all your data. The data cannot be decrypted without the password.": "<0>Vigtigt!</0> Hvis du mister dette kodeord <3>og</3> du ikke har en lokal kopi af dataene, vil du miste alle dine data. Dataene kan ikke dekrypteres uden kodeordet.",
     "<0>Formatting</0> does not affect how budget data is stored, and can be changed at any time.": "<0>Formatering</0> påvirker kun visning af tallene, og kan ændres når som helst.",
-    "{{accountName}} bank sync settings": "{{accountName}} bank synkroniserings indstillinger"
+    "{{accountName}} bank sync settings": "{{accountName}} bank synkroniserings indstillinger",
+    "<0>Create a local account</0> if you want to add transactions manually. You can also <3>import QIF/OFX/QFX files into a local account</3>.": "<0>Opret en lokal konto</0> hvis du selv vil tilføje transaktioner manuelt. Du kan også <3>importere QIF/OFX/QFX filer til den lokale konto</3>."
 }
