@@ -366,5 +366,6 @@
     "Day": "Dag",
     "Last": "Sidste",
     "Cover": "Dæk",
-    "Closed": "Lukket"
+    "Closed": "Lukket",
+    "Backups": "Sikkerhedskopier"
 }
