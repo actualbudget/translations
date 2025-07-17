@@ -1447,5 +1447,7 @@
     "Community support (Discord)": "Community-Support (Discord)",
     "Currency support": "Währungsunterstützung",
     "Default Currency": "Standardwährung",
-    "Default tag color": "Standardfarbe für Tags"
+    "Default tag color": "Standardfarbe für Tags",
+    "<0>{{category}}</0> is used by existing transactions or it has a positive leftover balance currently.": "<0>{{category}}</0> wird von bestehenden Transaktionen verwendet oder hat derzeit einen positiven Restsaldo.",
+    "<0>Currency settings</0> affect how amounts are displayed throughout the application.": "<0>Currency settings</0> beeinflussen, wie die Beträge in der gesamten Anwendung angezeigt werden."
 }
