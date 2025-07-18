@@ -10,7 +10,7 @@
     "(give feedback)": "(giv feedback)",
     "(none)": "(intet)",
     "{{displayMonth}} budget templates have been applied.": "{{displayMonth}} budgetskabeloner er blevet anvendt.",
-    "{{displayMonth}} budget templates have been overwritten.": "{{displayMonth}} budgetskabeloner er blevet overskrevet.",
+    "{{displayMonth}} budget templates have been overwritten.": "Budgetskabeloner fra {{displayMonth}} er blevet erstattet.",
     "{{displayMonth}} budgets have all been set to last month’s budgeted amounts.": "{{displayMonth}} budgetter er alle blevet sat til sidste måneds budgetterede beløb.",
     "Budgeted": "Budgetteret",
     "{{selectedPayeeNames}}, and more": "{{selectedPayeeNames}}, og flere",
