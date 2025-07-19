@@ -1442,5 +1442,6 @@
     "Account sync": "Synchronisation du compte",
     "Budget {{percent}}% of total income last month": "Budgétiser {{percent}}% du revenu total du mois dernier",
     "Budget {{percent}}% of total income this month": "Budgétiser {{percent}}% du revenu total ce mois-ci",
-    "Cover the occurrences of the schedule &lsquo;{{name}}&rsquo; this month": "Couvrir les évènements de l'échéancier &lsquo;{{name}}&rsquo; ce mois-ci"
+    "Cover the occurrences of the schedule &lsquo;{{name}}&rsquo; this month": "Couvrir les évènements de l'échéancier &lsquo;{{name}}&rsquo; ce mois-ci",
+    "To Budget:": "À budgétiser :"
 }
