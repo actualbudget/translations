@@ -328,5 +328,19 @@
     "Cleared": "Обработано",
     "Cleared total:": "Всего обработано:",
     "Consider opening <2>our tour</2> in a new tab for some guidance on what to do when you’ve set your password.": "Вы можете открыть <2>наш тур</2> в новой вкладке, чтобы узнать, что делать после установки пароля.",
-    "Consider taking our <2>guided tour</2> to help you get your bearings, and check out the rest of the documentation while you’re there to learn more about advanced topics.": "Посетите наш <2>тур</2> для освоения программы. Также ознакомьтесь с остальной документацией, чтобы узнать больше о продвинутых темах."
+    "Consider taking our <2>guided tour</2> to help you get your bearings, and check out the rest of the documentation while you’re there to learn more about advanced topics.": "Посетите наш <2>тур</2> для освоения программы. Также ознакомьтесь с остальной документацией, чтобы узнать больше о продвинутых темах.",
+    "Currently, Actual implements budgeting based on a <2>monthly envelope system</2>.": "В настоящее время Actual осуществляет составление бюджета на основе <2> системы ежемесячных конвертов</2>.",
+    "Dark theme": "Тёмная тема",
+    "Dates": "Даты",
+    "End-to-end Encryption is turned on.": "Сквозное шифрование включено.",
+    "First day of the week": "Первый день недели",
+    "Hide decimal places": "Скрыть десятичные знаки",
+    "Numbers": "Числа",
+    "Saturday": "Суббота",
+    "Settings": "Настройки",
+    "Sunday": "Воскресенье",
+    "Switch to envelope budgeting": "Переключиться на метод конвертов",
+    "Switch to tracking budgeting": "Переключиться на метод отслеживания бюджета",
+    "Theme": "Тема",
+    "With <1>tracking budgeting</1>, category balances reset each month, and funds are managed using a “Saved” metric instead of “To Be Budgeted.” Income is forecasted to plan future spending, rather than relying on current available funds.": "С методом <1>отслеживания бюджета<1> баланс по категориям сбрасывается каждый месяц, а управление средствами осуществляется с использованием показателя “Сэкономлено” вместо “Заложено в бюджет”. Доходы прогнозируются для планирования будущих расходов, а не основываются на текущих доступных средствах."
 }
