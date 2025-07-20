@@ -211,5 +211,6 @@
     "Account sync": "Синхронизация аккаунта",
     "Add entry": "Добавить запись",
     "Add user": "Добавить пользователя",
-    "Amount left:": "Осталось:"
+    "Amount left:": "Осталось:",
+    "Are you sure you want to unlink <1>{accountName}</1>?": "Вы уверены, что хотите отвязать <1>{accountName}</1>?"
 }
