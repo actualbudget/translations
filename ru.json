@@ -342,5 +342,6 @@
     "Switch to envelope budgeting": "Переключиться на метод конвертов",
     "Switch to tracking budgeting": "Переключиться на метод отслеживания бюджета",
     "Theme": "Тема",
-    "With <1>tracking budgeting</1>, category balances reset each month, and funds are managed using a “Saved” metric instead of “To Be Budgeted.” Income is forecasted to plan future spending, rather than relying on current available funds.": "С методом <1>отслеживания бюджета<1> баланс по категориям сбрасывается каждый месяц, а управление средствами осуществляется с использованием показателя “Сэкономлено” вместо “Заложено в бюджет”. Доходы прогнозируются для планирования будущих расходов, а не основываются на текущих доступных средствах."
+    "With <1>tracking budgeting</1>, category balances reset each month, and funds are managed using a “Saved” metric instead of “To Be Budgeted.” Income is forecasted to plan future spending, rather than relying on current available funds.": "С методом <1>отслеживания бюджета<1> баланс по категориям сбрасывается каждый месяц, а управление средствами осуществляется с использованием показателя “Сэкономлено” вместо “Заложено в бюджет”. Доходы прогнозируются для планирования будущих расходов, а не основываются на текущих доступных средствах.",
+    "{{status}} (Split)": "{{status}} (Разделено)"
 }
