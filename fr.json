@@ -525,7 +525,7 @@
     "GoCardless integration has not yet been configured.": "L'intégration de GoCardless n'a pas encore été configurée.",
     "Hide reconciled transactions": "Cacher les transactions rapprochées",
     "Hold": "Conserver",
-    "Change how many days in advance of the scheduled date a scheduled transaction appears in the account ledger as upcoming.": "Modifier le nombre de jours avant la date prévue où une transaction planifiée apparaît dans le registre du compte en tant qu'à venir.",
+    "Change how many days in advance of the scheduled date a scheduled transaction appears in the account ledger as upcoming.": "Définir le nombre de jour à partir duquel une transaction planifiée apparaît avec le statut \"À venir\" dans le registre du compte.",
     "Manage payees": "Gérer les bénéficiaires",
     "Payee:": "Bénéficiaire :",
     "Payees": "Bénéficiaires",
