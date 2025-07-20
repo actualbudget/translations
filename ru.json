@@ -212,5 +212,8 @@
     "Add entry": "Добавить запись",
     "Add user": "Добавить пользователя",
     "Amount left:": "Осталось:",
-    "Are you sure you want to unlink <1>{accountName}</1>?": "Вы уверены, что хотите отвязать <1>{accountName}</1>?"
+    "Are you sure you want to unlink <1>{accountName}</1>?": "Вы уверены, что хотите отвязать <1>{accountName}</1>?",
+    "Budget “{{id}}” not found. Check the ID of your budget in the Advanced section of the settings page.": "Бюджет “{{id}}” не найден. Проверьте идентификатор вашего бюджета в расширенном разделе страницы настроек.",
+    "Budget name": "Наименование бюджета",
+    "Budget page menu": "Страница меню бюджета"
 }
