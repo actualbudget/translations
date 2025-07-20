@@ -206,5 +206,10 @@
     "Bank Sync": "Банковская синхронизация",
     "Bank Sync Offline": "Банковская Синхронизация Отключена",
     "Be aware that other devices may have already created these transactions. If you have multiple devices, make sure you only do this on one device or you will have duplicate transactions.": "Имейте в виду, что другие устройства, возможно, уже создали эти транзакции. Если у вас есть несколько устройств, убедитесь, что вы делаете это только на одном устройстве или у вас будут дубликаты транзакции.",
-    "Break down less-frequent expenses into monthly expenses": "Разбейте менее редкие расходы на ежемесячные расходы"
+    "Break down less-frequent expenses into monthly expenses": "Разбейте менее редкие расходы на ежемесячные расходы",
+    "Account is a required field": "Поле Account является обязательным",
+    "Account sync": "Синхронизация аккаунта",
+    "Add entry": "Добавить запись",
+    "Add user": "Добавить пользователя",
+    "Amount left:": "Осталось:"
 }
