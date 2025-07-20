@@ -114,7 +114,7 @@
     "1 year": "1 год",
     "2 weeks": "2 недели",
     "<0>Sync ID:</0> {{syncId}}": "<0>Идентификатор синхронизации:</0> {{syncId}}",
-    "(before weekend)": "(до выходных)\n(перед выходными)",
+    "(before weekend)": "(перед выходными)",
     "Add a new transaction": "Добавить новую транзакцию",
     "Add transaction": "Добавить транзакцию",
     "Add New": "Добавить Новый",
@@ -188,5 +188,9 @@
     "Bar Graph": "Гистограмма",
     "Basic": "Базовый",
     "Budget": "Бюджет",
-    "Average per month": "Среднее за месяц"
+    "Average per month": "Среднее за месяц",
+    "Available funds to budget": "Доступные средства в бюджете",
+    "Average of previous months": "Среднее за предыдущие месяцы",
+    "Average per transaction": "Среднее за транзакцию",
+    "Bank Account To Sync": "Банковский счёт для синхронизации"
 }
