@@ -982,7 +982,7 @@
     "Note that the URL depends on your Keycloak domain and realm.": "Veuillez noter que l'URL est spécifique à votre domaine Keycloak et à votre realm (espace d'administration).",
     "Pin sidebar": "Épingler la barre latérale",
     "Post transactions": "Publier les transactions",
-    "<0>Link a <1>European</1> bank account</0> to automatically download transactions. GoCardless provides reliable, up-to-date information from hundreds of banks.": "<0>Liez un compte bancaire <1>Européen</1> </0> pour télécharger les transactions automatiquement. GoCardless fournit des informations fiables et à jour provenant de centaines de banques.",
+    "<0>Link a <1>European</1> bank account</0> to automatically download transactions. GoCardless provides reliable, up-to-date information from hundreds of banks.": "<0>Connectez un compte bancaire <1>européen</1></0> pour télécharger automatiquement vos transactions. GoCardless fournit des informations fiables et actualisées provenant de centaines de banques",
     "Select a user from the directory": "Sélectionnez un utilisateur dans le dossier",
     "Select new file...": "Sélectionner un nouveau fichier...",
     "Some access permissions were not revoked successfully.": "Certains droits d'accès n'ont pas été supprimés correctement.",
