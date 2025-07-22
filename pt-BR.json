@@ -1185,9 +1185,9 @@
     "(after weekend)": "(após o fim de semana)",
     "(before weekend)": "(antes do fim de semana)",
     "account": "conta",
-    "Fixed {{count}} non-split transactions with split errors._one": "Corrigida {{count}} transação não dividida com erro de divisão.",
-    "Fixed {{count}} non-split transactions with split errors._many": "Corrigidas {{count}} transações não divididas com erros de divisão.",
-    "Fixed {{count}} non-split transactions with split errors._other": "Corrigidas {{count}} transações não divididas com erros de divisão.",
+    "Fixed {{count}} non-split transactions with split errors._one": "{{count}} transação não dividida com erro de divisão foi corrigida.",
+    "Fixed {{count}} non-split transactions with split errors._many": "{{count}} transações não divididas com erros de divisão foram corrigidas.",
+    "Fixed {{count}} non-split transactions with split errors._other": "{{count}} transações não divididas com erros de divisão foram corrigidas.",
     "Client ID:": "ID do Cliente:",
     "Error when trying to contact Pluggy.ai": "Erro ao tentar contatar o Pluggy.ai",
     "Item Ids (comma separated):": "IDs dos itens (separados por vírgula):",
@@ -1382,5 +1382,6 @@
     "Before amount (e.g. $100)": "Antes do valor (ex. R$100)",
     "Canadian Dollar": "Dólar canadense",
     "Categories in the group <2>{{group}}</2> are used by existing transactions or it has a positive leftover balance currently.": "Categorias no grupo <2>{{group}}</2> são usadas por transações existentes ou têm saldo positivo restante atualmente.",
-    "Categories in the group <2>{{group}}</2> are used by existing transactions.": "Categorias no grupo <2>{{group}}</2> são usadas por transações existentes."
+    "Categories in the group <2>{{group}}</2> are used by existing transactions.": "Categorias no grupo <2>{{group}}</2> são usadas por transações existentes.",
+    "Filter tags...": "Filtrar tags..."
 }
