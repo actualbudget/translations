@@ -1031,9 +1031,9 @@
     "Rule action templating": "Criação de modelo para ação de regra",
     "Show “cleared” checkboxes": "Mostrar caixas de seleção \"confirmado\"",
     "Spent amount for {{categoryName}} category": "Valor gasto na categoria {{categoryName}}",
-    "There are payees that have schedules that are due today._one": "Existe um beneficiário que tem um agendamento que vence hoje.",
-    "There are payees that have schedules that are due today._many": "Existem beneficiários que têm agendamentos que vencem hoje.",
-    "There are payees that have schedules that are due today._other": "Existem beneficiários que têm agendamentos que vencem hoje.",
+    "There are payees that have schedules that are due today._one": "Há um beneficiário que tem agendamentos que vencem hoje.",
+    "There are payees that have schedules that are due today._many": "Há beneficiários que têm agendamentos que vencem hoje.",
+    "There are payees that have schedules that are due today._other": "Há beneficiários que têm agendamentos que vencem hoje.",
     "Your files won’t be moved. You can manually move them to the folder.": "Seus arquivos não serão movidos. Você pode movê-los manualmente para a pasta.",
     "This only affects how schedules are displayed and not how budget data is stored. It can be changed at any time.": "Isso afeta apenas como os agendamentos são exibidos e não como os dados do orçamento são armazenados. Pode ser alterado a qualquer momento.",
     "Unable to connect to the server. We need to access the server to get some information about your keys.": "Não foi possível conectar ao servidor. Precisamos acessar o servidor para obter algumas informações sobre suas chaves.",
@@ -1465,5 +1465,5 @@
     "Singapore Dollar": "Dólar de Singapura",
     "Some rules were not deleted because they are linked to schedules.": "Algumas regras não foram removidas, pois estão vinculadas à agendamentos.",
     "Swiss Franc": "Franco suíço",
-    "Switch file": "Trocar o arquivo"
+    "Switch file": "Trocar arquivo"
 }
