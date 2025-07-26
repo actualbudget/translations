@@ -305,7 +305,7 @@
     "Filters": "Filtres",
     "Delete transaction": "Supprimer l'opération",
     "Edit": "Modifier",
-    "Duplicate file “{{newName}}” created.": "Le fichier clone “{{newName}}” a été créé.",
+    "Duplicate file “{{newName}}” created.": "Duplicata du fichier “{{newName}}” créé.",
     "Enable OpenID": "Activer OpenID",
     "Enable templating": "Activer les modèles",
     "Enabled": "Activé",
