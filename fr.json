@@ -1422,7 +1422,7 @@
     "Total of all income": "Total de l'ensemble des revenus",
     "TOTAL SPENDING": "DÉPENSES TOTALES",
     "Transaction on {{date}} has no amount": "La transaction du {{date}} n'a pas de montant",
-    "Transactions will no longer be synchronized with this account and must be manually entered. You will not be able to edit the bank sync settings for this account and the settings will close.": "Les transactions ne seront plus synchronisées avec ce compte et devront être saisies manuellement. Vous ne pourrez plus modifier les paramètres de synchronisation bancaire pour ce compte et les paramètres seront fermés.",
+    "Transactions will no longer be synchronized with this account and must be manually entered. You will not be able to edit the bank sync settings for this account and the settings will close.": "Les transactions ne seront plus synchronisées avec ce compte et devront être saisies manuellement. Vous ne pourrez plus modifier les paramètres de synchronisation bancaire de ce compte et les paramètres seront fermés.",
     "transfer": "transférer",
     "Type": "Type",
     "Unable to parse date {{date}} with given date format": "Impossible d'analyser la date {{date}} avec le format de date donné",
