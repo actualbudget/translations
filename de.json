@@ -1441,7 +1441,6 @@
     "Community support (Discord)": "Community-Support (Discord)",
     "Currency support": "Währungsunterstützung",
     "Default Currency": "Standardwährung",
-    "Default tag color": "Standardfarbe für Tags",
     "<0>{{category}}</0> is used by existing transactions or it has a positive leftover balance currently.": "<0>{{category}}</0> wird von bestehenden Transaktionen verwendet oder hat aktuell ein positives Restguthaben.",
     "<0>Currency settings</0> affect how amounts are displayed throughout the application.": "<0>Währungseinstellungen</0> beeinflussen, wie Beträge in der Anwendung angezeigt werden.",
     "<0>Are you sure you want to delete it?</0> If so, you must select another category to transfer existing transactions and balance to.": "<0>Bist du sicher, dass du sie löschen möchtest?</0> Wenn ja, musst du eine andere Kategorie auswählen, auf die bestehende Transaktionen und Guthaben übertragen werden.",
@@ -1472,7 +1471,6 @@
     "Yuan Renminbi": "Renminbi Yuan",
     "You don’t have permission to view this page": "Du hast keine Berechtigung zur Anzeige dieser Seite",
     "Open the Command Palette": "Öffne die Befehlsleiste",
-    "Reset": "Zurücksetzen",
     "Symbol Position": "Symbolposition",
     "budget templates have been applied.": "Budgetvorlagen wurden angewendet."
 }
