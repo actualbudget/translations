@@ -344,7 +344,7 @@
     "Can also assign ownership of a budget to another person, ensuring efficient budget management.": "Peut également attribuer la propriété d’un budget à une autre personne, garantissant ainsi une gestion budgétaire efficace.",
     "Create new account": "Crée nouveau compte",
     "Create new account (off budget)": "Crée nouveau compte (hors budget)",
-    "Bank sync": "Synchro Banque",
+    "Bank sync": "Synchro. banque",
     "Bank Sync": "Synchro Banque",
     "Budgeted": "Budgétisé",
     "Budgeted amount for {{categoryName}} category": "Montant budgétisé pour la catégorie {{categoryName}}",
@@ -654,7 +654,7 @@
     "Remove": "Enlever",
     "Show all payees": "Montrer tous les bénéficiaires",
     "Status": "Statut",
-    "Fixed {{count}} splits with a blank payee._one": "Correction d'{{count}} transaction sans bénéficiaire.",
+    "Fixed {{count}} splits with a blank payee._one": "Correction de {{count}} transaction sans bénéficiaire.",
     "Fixed {{count}} splits with a blank payee._many": "Correction de {{count}} transactions sans bénéficiaire.",
     "Fixed {{count}} splits with a blank payee._other": "Correction de {{count}} transactions sans bénéficiaire.",
     "No payees": "Pas de bénéficiaires",
@@ -864,7 +864,7 @@
     "Custom Report:": "Rapport personnalisé :",
     "For next month": "Pour le mois prochain",
     "Hide": "Masquer",
-    "Fixed {{count}} splits with the wrong cleared flag._one": "Correction d'une transaction fractionnée avec un indicateur de rapprochement incorrect.",
+    "Fixed {{count}} splits with the wrong cleared flag._one": "Correction de {{count}} transaction fractionnée avec un indicateur de rapprochement incorrect.",
     "Fixed {{count}} splits with the wrong cleared flag._many": "Correction de {{count}} transactions fractionnées avec un indicateur de rapprochement incorrect.",
     "Fixed {{count}} splits with the wrong cleared flag._other": "Correction de {{count}} transactions fractionnées avec un indicateur de rapprochement incorrect.",
     "<0>Export</0> your data as a zip file containing <3>db.sqlite</3> and <5>metadata.json</5> files. It can be imported into another Actual instance by closing an open file (if any), then clicking the “Import file” button, then choosing “Actual.”": "<0>Exporter</0> vos données sous forme d'un fichier zip contenant les fichiers <3>db.sqlite</3> et <5>metadata.json</5>. Il peut être importé dans une autre instance d'Actual en fermant un fichier ouvert (le cas échéant), puis en cliquant sur le bouton « Importer un fichier », puis en choisissant « Actual. »",
@@ -1507,5 +1507,10 @@
     "Search results": "Résultats de la recherche",
     "Search shortcuts": "Raccourcis de recherche",
     "shortcut": "raccourci",
-    "shortcuts": "raccourcis"
+    "shortcuts": "raccourcis",
+    "Post transaction": "Publier la transaction",
+    "View Transactions": "Voir les transactions",
+    "Find Existing Tags": "Chercher les étiquettes existantes",
+    "No Tags": "Pas d'étiquettes",
+    "An unknown error occurred while importing. Please report this as a new issue on GitHub.": "Une erreur inconnue s'est produite lors de l'importation. Merci de la signaler sur GitHub."
 }
