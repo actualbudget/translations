@@ -1309,7 +1309,7 @@
     "Budget {{percent}}% of available funds to budget this month": "Budgétise {{percent}}% des fonds disponibles à budgétiser ce mois-ci",
     "Add enough to this category to cover the selected schedule. If the schedule occurs multiple times in a month, an amount will be added for each occurrence. You can choose to save up for the next occurrence over time (e.g. save $100 each month for a $300 quarterly bill) or cover each occurrence when it occurs (e.g. only add the $300 when the bill is due).": "Ajoutez suffisamment à cette catégorie pour couvrir l'échéancier sélectionné. Si l'échéancier survient plusieurs fois au cours d'un mois, un montant sera ajouté pour chaque occurrence. Vous pouvez choisir d'épargner progressivement en vue de la prochaine échéance (par exemple, mettre de côté 100 $ chaque mois pour une facture trimestrielle de 300 $) ou de couvrir chaque échéance uniquement lorsqu'elle se présente (par exemple, ajouter les 300 $ seulement au moment où la facture est due).",
     "Budget {{percent}}% of &lsquo;{{category}}&rsquo; last month": "Budgétise {{percent}}% de &lsquo;{{category}}&rsquo; du mois dernier",
-    "Expand": "Étendre",
+    "Expand": "Développer",
     "Closed": "Fermé",
     "Collapse": "Replier",
     "Are you sure you want to unlink <1>{accountName}</1>?": "Êtes-vous sûr de vouloir dissocier le compte <1>{accountName}</1> ?",
