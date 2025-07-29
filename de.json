@@ -202,8 +202,8 @@
     "Compare:": "Vergleiche:",
     "Confirm": "Bestätigen",
     "Daily": "Täglich",
-    "Debt:": "Ausgaben:",
-    "Debts:": "Ausgaben:",
+    "Debt:": "Schulden:",
+    "Debts:": "Schulden:",
     "From": "Von",
     "None": "Keine",
     "Payments": "Auszahlungen",
@@ -1472,5 +1472,8 @@
     "You don’t have permission to view this page": "Du hast keine Berechtigung zur Anzeige dieser Seite",
     "Open the Command Palette": "Öffne die Befehlsleiste",
     "Symbol Position": "Symbolposition",
-    "budget templates have been applied.": "Budgetvorlagen wurden angewendet."
+    "budget templates have been applied.": "Budgetvorlagen wurden angewendet.",
+    "View Transactions": "Transaktionen anzeigen",
+    "Find Existing Tags": "Finde existierende Tags",
+    "Search results": "Suchergebnisse"
 }
