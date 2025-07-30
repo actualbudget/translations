@@ -1,5 +1,5 @@
 {
-    "(give feedback)": "（反馈）",
+    "(give feedback)": "（提供反馈）",
     "(hidden)": "（隐藏）",
     "(modified)": "（已编辑）",
     "(none)": "（无）",
@@ -17,8 +17,8 @@
     "(after weekend)": "(在周末后)",
     "{{endOccurrences}} times": "{{endOccurrences}}次",
     "(+{{numHiddenPayees}} more)": "(还有 +{{numHiddenPayees}} 项)",
-    "(before weekend)": "(在周末前)",
-    "(deleted)": "(已删除)",
+    "(before weekend)": "（周末前）",
+    "(deleted)": "（已删除）",
     "(nothing)": "(无)",
     "{{accountName}} bank sync settings": "{{accountName}} 银行同步设置",
     "<0><0>How is cash flow calculated?</0></0><1>Cash flow shows the balance of your budgeted accounts over time, and the amount of expenses/income each day or month. Your budgeted accounts are considered to be “cash on hand,” so this gives you a picture of how available money fluctuates.</1>": "<0><0>现金流量是怎么计算的？</0></0><1>现金流量显示预算账户在一段时间内的余额，以及每天或每月的支出/收入金额。您的预算账户被视为 “手头现金”，因此这可以让您了解可用资金的波动情况。</1>",
