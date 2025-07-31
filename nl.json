@@ -1117,5 +1117,7 @@
     "(deleted)": "(verwijderd)",
     "(nothing)": "(niets)",
     "{{accountName}} bank sync settings": "{{accountName}} bank synchronisatie instellingen",
-    "{{endOccurrences}} times": "{{endOccurrences}} keer"
+    "{{endOccurrences}} times": "{{endOccurrences}} keer",
+    "(after weekend)": "(na het weekend)",
+    "{{categoryGroupName}} expense group categories": "{{categoryGroupName}} uitgave groep categorieën"
 }
