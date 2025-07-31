@@ -348,5 +348,8 @@
     "Add enough to this category to cover the selected schedule. If the schedule occurs multiple times in a month, an amount will be added for each occurrence. You can choose to save up for the next occurrence over time (e.g. save $100 each month for a $300 quarterly bill) or cover each occurrence when it occurs (e.g. only add the $300 when the bill is due).": "Добавьте достаточно средств в эту категорию, чтобы покрыть выбранное расписание. Если расписание происходит несколько раз в месяц, сумма будет добавлена для каждого случая. Вы можете выбрать накопление средств для следующего случая с течением времени (например, откладывать $100 каждый месяц для квартального счета в $300) или покрывать каждый случай, когда он наступает (например, добавлять $300 только когда наступает срок оплаты счета).",
     "Choose the schedule these {{ count }} transactions belong to:_one": "Выберите расписание, которому принадлежит следующие {{ count }} операция",
     "Choose the schedule these {{ count }} transactions belong to:_few": "Выберите расписание, которому принадлежит следующие {{ count }} операции",
-    "Choose the schedule these {{ count }} transactions belong to:_many": "Выберите расписание, которому принадлежит следующие {{ count }} операций"
+    "Choose the schedule these {{ count }} transactions belong to:_many": "Выберите расписание, которому принадлежит следующие {{ count }} операций",
+    "{{count}} uncategorized transactions_one": "{{count}} транзакция без категории",
+    "{{count}} uncategorized transactions_few": "{{count}} транзакции без категории",
+    "{{count}} uncategorized transactions_many": "{{count}} транзакций без категории"
 }
