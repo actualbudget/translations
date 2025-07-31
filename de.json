@@ -1489,5 +1489,8 @@
     "shortcut": "Tastenkombination",
     "shortcuts": "Tastenkombinationen",
     "{isSearching\n                        ? 'No matching shortcuts'\n                        : isInCategory\n                          ? 'No shortcuts in this category'\n                          : 'No matching shortcuts'}": "{isSearching\n\n                        ? 'Keine passenden Tastenkombinationen'\n\n                        : isInCategory\n\n                          ? 'Keine Tastenkombinationen in dieser Kategorie'\n\n                          : 'Keine passenden Tastenkombinationen'}",
-    "Delete the selected transactions": "Lösche die ausgewählten Transaktionen"
+    "Delete the selected transactions": "Lösche die ausgewählten Transaktionen",
+    "Move to the next transaction and scroll": "Zur nächsten Transaktion und scrollen",
+    "Move to the previous transaction and scroll": "Zur vorherigen Transaktion und scrollen",
+    "Toggle transactions between current and most recently selected transaction": "Umschalten zwischen aktueller und zuletzt ausgewählter Transaktion"
 }
