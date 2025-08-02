@@ -1387,7 +1387,7 @@
     "Import {{count}} transactions_one": "Eine Transaktion importieren",
     "Import {{count}} transactions_other": "{{count}} Transaktionen importieren",
     "Imported Payee": "Importierter Zahlungsempfänger",
-    "Inflow": "Einnahmen",
+    "Inflow": "Zufluss",
     "Last Balance from Bank: ": "Letzter Banksaldo: ",
     "Make negative": "Negativ setzen",
     "Make positive": "Positiv setzen",
