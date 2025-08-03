@@ -95,7 +95,9 @@
     "{{displayMonth}} budgets have all been set to zero.": "{{displayMonth}} 預算範本已被清零",
     "{{displayMonth}} budget templates have been overwritten.": "已覆寫 {{displayMonth}} 預算範本",
     "(modified)": "已編輯",
-    "(give feedback)": "意見回饋",
+    "(give feedback)": "（意見回饋）",
     "{{count}} associated rules_other": "{{count}} 相關規則",
-    "(none)": "（無）"
+    "(none)": "（無）",
+    "(after weekend)": "（週末後）",
+    "(before weekend)": "（週末前）"
 }
