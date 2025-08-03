@@ -729,5 +729,6 @@
     "In order to enable bank sync via Pluggy.ai (only for Brazilian banks) you will need to create access credentials. This can be done by creating an account with <2>Pluggy.ai</2>.": "Aby włączyć synchronizację bankową przez Pluggy.ai (tylko dla brazylijskich banków), musisz utworzyć dane dostępowe. Można to zrobić, tworząc konto w <2>Pluggy.ai</2>.",
     "In order to enable bank sync via SimpleFIN (only for North American banks), you will need to create a token. This can be done by creating an account with <2>SimpleFIN</2>.": "Aby włączyć synchronizację bankową za pośrednictwem SimpleFIN (tylko dla banków północnoamerykańskich), musisz utworzyć token. Można to zrobić, tworząc konto w <2>SimpleFIN</2>.",
     "Income categories": "Kategorie dochodu",
-    "indefinitely": "nieokreślenie"
+    "indefinitely": "nieokreślenie",
+    "Every {{interval}} days": "Co {{interval}} dni"
 }
