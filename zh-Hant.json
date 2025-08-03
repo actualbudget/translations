@@ -99,5 +99,6 @@
     "{{count}} associated rules_other": "{{count}} 相關規則",
     "(none)": "（沒有）",
     "(after weekend)": "（週末後）",
-    "(before weekend)": "（週末前）"
+    "(before weekend)": "（週末前）",
+    "(No payee)": "（沒有受款人）"
 }
