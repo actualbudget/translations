@@ -14,5 +14,6 @@
     "<0>Balance:</0><1>{{amount}}</1>": "<0>잔액:</0><1>{{amount}}</1>",
     "<0>Budgeted:</0><1>{{amount}}</1>": "<0>이번 달 예산:</0><1>{{amount}}</1>",
     "(Optional)": "(선택사항)",
-    "{{accountName}} bank sync settings": "{{accountName}} 은행 동기화 설정"
+    "{{accountName}} bank sync settings": "{{accountName}} 은행 동기화 설정",
+    "{{displayMonth}} budget templates have been applied.": "{{displayMonth}} 예산 템플릿이 적용되었습니다."
 }
