@@ -1510,5 +1510,8 @@
     "Enable auto hold": "Habilitar retenção automática",
     "Invalid amount value": "Valor inválido",
     "Need to expose your server to the internet? Follow our step-by-step <2>guide</2> for more information.": "Precisa expor seu servidor para a internet? Siga nosso <2>passo à passo</2> para mais informações.",
-    "The payee <2>{{payee}}</2> is not used by transactions any more. Would you like to merge it with <6>{{payee}}</6>?": "O beneficiário <2>{{payee}}</2> não é mais usado por transações. Você gostaria de combiná-lo com <2>{{payee}}</2>?"
+    "The payee <2>{{payee}}</2> is not used by transactions any more. Would you like to merge it with <6>{{payee}}</6>?": "O beneficiário <2>{{payee}}</2> não é mais usado por transações. Você gostaria de combiná-lo com <2>{{payee}}</2>?",
+    "Choose Color:": "Escolha a Cor:",
+    "Needs Repair": "Precisa de Reparação",
+    "View Transactions": "Ver Transações"
 }
