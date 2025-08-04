@@ -1484,5 +1484,22 @@
     "Yen": "Iene",
     "You": "Você",
     "You don’t have permission to view this page": "Você não tem permissão para ver esta página.",
-    "Yuan Renminbi": "Yuan Renminbi"
+    "Yuan Renminbi": "Yuan Renminbi",
+    "No Tags": "Sem Tags",
+    "{{categoryName}} shortcuts": "{{categoryName}} atalhos",
+    "{isSearching\n                        ? 'No matching shortcuts'\n                        : isInCategory\n                          ? 'No shortcuts in this category'\n                          : 'No matching shortcuts'}": "{isSearching? 'Nenhum atalho encontrado' : isInCategory ? 'Sem atalhos nessa categoria' : 'Nenhum atalho encontrado'}",
+    "Account page": "Página de contas",
+    "Budget page": "Página de orçamentos",
+    "Change category automations": "Alterar automações de categorias",
+    "Delete the selected transactions": "Excluir as transações selecionadas",
+    "Find Existing Tags": "Encontrar Tags Existentes",
+    "General": "Geral",
+    "Move to the next transaction and scroll": "Mover para a próxima transação e rolar",
+    "Move to the previous transaction and scroll": "Mover para a transação anterior e rolar",
+    "Post transaction": "Pós transação",
+    "Search results": "Resultados da busca",
+    "shortcut": "atalho",
+    "shortcuts": "atalhos",
+    "Toggle transactions between current and most recently selected transaction": "Alternar transações entre a atual e a última transação selecionada",
+    "Search shortcuts": "Buscar atalhos"
 }
