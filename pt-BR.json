@@ -1490,7 +1490,7 @@
     "{isSearching\n                        ? 'No matching shortcuts'\n                        : isInCategory\n                          ? 'No shortcuts in this category'\n                          : 'No matching shortcuts'}": "{isSearching? 'Nenhum atalho encontrado' : isInCategory ? 'Sem atalhos nessa categoria' : 'Nenhum atalho encontrado'}",
     "Account page": "Página de contas",
     "Budget page": "Página de orçamentos",
-    "Change category automations": "Alterar automações de categorias",
+    "Change category automations": "Alterar automações de categoria",
     "Delete the selected transactions": "Excluir as transações selecionadas",
     "Find Existing Tags": "Encontrar Tags Existentes",
     "General": "Geral",
@@ -1501,5 +1501,14 @@
     "shortcut": "atalho",
     "shortcuts": "atalhos",
     "Toggle transactions between current and most recently selected transaction": "Alternar transações entre a atual e a última transação selecionada",
-    "Search shortcuts": "Buscar atalhos"
+    "Search shortcuts": "Buscar atalhos",
+    "AVERAGE DEPOSIT": "DEPÓSITO MÉDIO",
+    "budget templates have been applied.": "modelos de orçamento foram aplicados.",
+    "Checking GoCardless configuration...": "Verificando a configuração do GoCardless...",
+    "Disable auto hold": "Desabilitar retenção automática",
+    "Disable current auto hold": "Desabilitar retenção automática atual",
+    "Enable auto hold": "Habilitar retenção automática",
+    "Invalid amount value": "Valor inválido",
+    "Need to expose your server to the internet? Follow our step-by-step <2>guide</2> for more information.": "Precisa expor seu servidor para a internet? Siga nosso <2>passo à passo</2> para mais informações.",
+    "The payee <2>{{payee}}</2> is not used by transactions any more. Would you like to merge it with <6>{{payee}}</6>?": "O beneficiário <2>{{payee}}</2> não é mais usado por transações. Você gostaria de combiná-lo com <2>{{payee}}</2>?"
 }
