@@ -13,5 +13,6 @@
     "{{count}} transactions_other": "{{count}}건의 거래",
     "<0>Balance:</0><1>{{amount}}</1>": "<0>잔액:</0><1>{{amount}}</1>",
     "<0>Budgeted:</0><1>{{amount}}</1>": "<0>이번 달 예산:</0><1>{{amount}}</1>",
-    "(Optional)": "(선택사항)"
+    "(Optional)": "(선택사항)",
+    "{{accountName}} bank sync settings": "{{accountName}} 은행 동기화 설정"
 }
