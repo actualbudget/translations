@@ -382,5 +382,7 @@
     "Fixed {{count}} split transactions with non-null category._other": "Riparate {{count}} transazioni suddivise con categorie non vuote.",
     "Fixed {{count}} splits that weren’t properly deleted._one": "Riparata {{count}} suddivisione che non era stata correttamente eliminata.",
     "Fixed {{count}} splits that weren’t properly deleted._many": "Riparate {{count}} suddivisioni che non erano state correttamente eliminate.",
-    "Fixed {{count}} splits that weren’t properly deleted._other": "Riparate {{count}} suddivisioni che non erano state correttamente eliminate."
+    "Fixed {{count}} splits that weren’t properly deleted._other": "Riparate {{count}} suddivisioni che non erano state correttamente eliminate.",
+    "You can always manually post a transaction later for a due schedule by selecting the schedule and clicking “Post transaction today” in the action menu.": "È sempre possibile registrare manualmente una transazione in un secondo momento per una scadenza programmata selezionando la scadenza e cliccando su \"Registra transazione oggi\" nel menu azioni",
+    "You need to revert it to continue syncing. Any unsynced data will be lost. If you like, you can instead [upload this file](#upload) to be the latest version.": "Devi ripristinarlo per continuare la sincronizzazione. Tutti i dati non sincronizzati andranno persi. Se preferisci, puoi invece [caricare questo file](#upload) per avere la versione più recente."
 }
