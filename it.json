@@ -315,7 +315,7 @@
     "{{status}} (Split)": "{{status}} (Suddividi)",
     "{{count}} uncategorized transactions_one": "{{count}} transazione non categorizzata",
     "{{count}} uncategorized transactions_many": "{{count}} transazioni non categorizzate",
-    "{{count}} uncategorized transactions_other": "{{count}} transazioni non categorizzate",
+    "{{count}} uncategorized transactions_other": "",
     "<0>{{category}}</0> is used by existing transactions.": "<0>{{category}}</0> è utilizzata da transazioni esistenti.",
     "<0>Are you sure you want to delete it?</0> If so, you must select another category to transfer existing transactions and balance to.": "<0>Sei sicuro di volerla eliminare?</0> Se sì, devi selezionare un'altra categoria sulla quale trasferire transazioni e saldo esistenti.",
     "<0>Currency settings</0> affect how amounts are displayed throughout the application.": "<0>Impostazioni Valuta</0> influenzano il modo in cui gli importi vengono visualizzati nell'intera applicazione.",
