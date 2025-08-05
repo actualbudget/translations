@@ -418,5 +418,21 @@
     "You don't have the required permissions to set up secrets. Please contact an Admin to configure": "Non disponi dei permessi necessari per configurare le credenziali. Contatta un amministratore per la configurazione.",
     "You have budgeted more than your available funds": "Hai superato il budget rispetto ai fondi disponibili",
     "You have to be admin to set secrets": "Devi essere un amministratore per impostare le credenziali",
-    "You need to register it to take advantage of syncing which allows you to use it across devices and never worry about losing your data.": "Devi registrarlo per attivare la sincronizzazione così potrai usarlo su tutti i dispositivi e i tuoi dati saranno sempre al sicuro"
+    "You need to register it to take advantage of syncing which allows you to use it across devices and never worry about losing your data.": "Devi registrarlo per attivare la sincronizzazione così potrai usarlo su tutti i dispositivi e i tuoi dati saranno sempre al sicuro",
+    "<0>{{category}}</0> is used by existing transactions or it has a positive leftover balance currently.": "<0>{{category}}</0> è usata da transazioni esistenti o ha un saldo residuo positivo.",
+    "Choose Color:": "Scegli il Colore:",
+    "Create reconciliation transaction": "Crea una transazione di riconciliazione",
+    "Create rule": "Crea regola",
+    "Create test file": "Crea un file di test",
+    "Creating budget...": "Creazione del budget...",
+    "CSV OPTIONS": "OPZIONI CSV",
+    "Current month": "Mese corrente",
+    "Currently, Actual implements budgeting based on a <2>monthly envelope system</2>.": "Al momento, Actual implementa un budget basato su un <2>sistema a buste mensile</2>.",
+    "Custom length": "Lunghezza personalizzata",
+    "Custom Report:": "Report personalizzato:",
+    "Custom Report: {{name}}": "Report Personalizzato:{{name}}",
+    "Custom Reports": "Report Personalizzati",
+    "Dark theme": "Tema scuro",
+    "Dashboard has been successfully imported. Don’t like what you see? You can always press [ctrl+z](#undo) to undo.": "La dashboard è stata importata con successo. Non ti piace quello che vedi? Puoi sempre premere [ctrl+z](#undo) per tornare indietro.",
+    "Dashboard has been successfully reset to default state. Don’t like what you see? You can always press [ctrl+z](#undo) to undo.": "La dashboard è stata ripristinata con successo allo stato predefinito. Non ti piace quello che vedi? Puoi sempre premere [ctrl+z](#undo) per tornare indietro."
 }
