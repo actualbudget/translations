@@ -1513,5 +1513,8 @@
     "The payee <2>{{payee}}</2> is not used by transactions any more. Would you like to merge it with <6>{{payee}}</6>?": "O beneficiário <2>{{payee}}</2> não é mais usado por transações. Você gostaria de combiná-lo com <2>{{payee}}</2>?",
     "Choose Color:": "Escolha a Cor:",
     "Needs Repair": "Precisa de reparo",
-    "View Transactions": "Ver Transações"
+    "View Transactions": "Ver Transações",
+    "Turkish Lira": "Lira Turca",
+    "Swedish Krona": "Coroa Sueca",
+    "Qatari Riyal": "Rial do Catar"
 }
