@@ -1513,5 +1513,8 @@
     "Find Existing Tags": "Chercher les étiquettes existantes",
     "No Tags": "Pas d'étiquettes",
     "An unknown error occurred while importing. Please report this as a new issue on GitHub.": "Une erreur inconnue s'est produite lors de l'importation. Merci de la signaler sur GitHub.",
-    "Toggle transactions between current and most recently selected transaction": "Échanger la transaction actuelle avec la dernière sélectionnée"
+    "Toggle transactions between current and most recently selected transaction": "Échanger la transaction actuelle avec la dernière sélectionnée",
+    "Qatari Riyal": "Riyal qatarien",
+    "Swedish Krona": "Couronne suédoise",
+    "Turkish Lira": "Livre turque"
 }
