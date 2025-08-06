@@ -32,5 +32,7 @@
     "{{scheduleName}} is due {{distanceFromNow}} ({{formattedDate}})": "{{scheduleName}} 将于 {{distanceFromNow}}到期 ({{formattedDate}})",
     "{{status}} (Split)": "{{状态}} (拆分)",
     "<0>{{category}}</0> is used by existing transactions or it has a positive leftover balance currently.": "<0>{{category}}</0> 已有交易在使用，或当前有正余额。",
-    "<0>{{category}}</0> is used by existing transactions.": "<0>{{category}}</0> 正在被已有交易使用。"
+    "<0>{{category}}</0> is used by existing transactions.": "<0>{{category}}</0> 正在被已有交易使用。",
+    "<0><0>Custom Report:</0></0> <2>{{name}}</2>": "<0><0>自定义报表：</0></0> <2>{{name}}</2>",
+    "<0><0>How are “Average” and “Spent Average MTD” calculated?</0></0><1>They are both the average cumulative spending by day for the three months before the selected “compare” month.</1>": "<0><0>“平均值”和“已花费平均值（MTD）”是如何计算的？</0></0><1>它们都是在选定的“比较”月份之前的三个月内，进行每日累计支出平均值的计算。</1>"
 }
