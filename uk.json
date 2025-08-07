@@ -996,7 +996,7 @@
     "Your password or something else has changed with your bank and you need to login again.": "Ваш пароль або щось інше змінилося у вашому банку, і вам потрібно ввійти знову.",
     "<0>Balance:</0><1>{{amount}}</1>": "<0>Баланс:</0><1>{{amount}}</1>",
     "<0>Budgeted:</0><1>{{amount}}</1>": "<0>Заплановано в бюджеті:</0><1>{{amount}}</1>",
-    "(+{{numHiddenPayees}} more)": "(+{{numHiddenPayees}} ще)",
+    "(+{{numHiddenPayees}} more)": "(+{{numHiddenPayees}} більше)",
     "<0>Move schedule </0><1></1><2> {{beforeOrAfter}} weekend</2>": "<0>Перенести розклад </0><1></1><2> {{beforeOrAfter}} вихідних</2>",
     "<0>Formatting</0> does not affect how budget data is stored, and can be changed at any time.": "<0> Форматування</0> не впливає на те, як зберігаються бюджетні дані, і може бути змінено в будь-який час.",
     "<0>Link a <1>Brazilian</1> bank account</0> to automatically download transactions. Pluggy.ai provides reliable, up-to-date information from hundreds of banks.": "<0>Прив'яжіть <1>бразильський</1> банківський рахунок</0> для автоматичного завантаження транзакцій. Pluggy.ai надає надійну, актуальну інформацію від сотень банків.",
