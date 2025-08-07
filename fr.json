@@ -1238,7 +1238,7 @@
     "Budget files": "Fichiers de budget",
     "nothing": "rien",
     "Reimport deleted transactions": "Réimporter les transactions supprimées",
-    "upcoming": "prochain",
+    "upcoming": "à venir",
     "Institution to Sync": "Institution à synchroniser",
     "missed": "manqué",
     "paid": "payé",
@@ -1516,5 +1516,7 @@
     "Toggle transactions between current and most recently selected transaction": "Échanger la transaction actuelle avec la dernière sélectionnée",
     "Qatari Riyal": "Riyal qatarien",
     "Swedish Krona": "Couronne suédoise",
-    "Turkish Lira": "Livre turque"
+    "Turkish Lira": "Livre turque",
+    "Toggle balance history": "Basculer l'historique des soldes",
+    "Transfer {{direction}} {{accountName}}": "Transférer {{direction}} {{accountName}}"
 }
