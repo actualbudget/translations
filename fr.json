@@ -1479,7 +1479,6 @@
     "Tag description": "Description de l'étiquette",
     "Tags": "Étiquettes",
     "The following payees are not used by transactions any more. Would you like to merge them with <2>{{payee}}</2>?": "Les bénéficiaires suivants ne sont plus utilisés dans aucune transaction. Voulez-vous les fusionner avec <2>{{payee}}</2> ?",
-    "The payee <2>{{payee}}</2> is not used by transactions any more. Would you like to merge it with <6>{{payee}}</6>?": "Le bénéficiaire <2>{{payee}}</2> n'est plus utilisé dans aucune transaction. Voulez-vous le fusionner avec <6>{{payee}}</6> ?",
     "This file is not valid. Please select a JSON file exported from nYNAB.": "Ce fichier n'est pas valide. Veuillez sélectionner un fichier JSON exporté depuis nYNAB.",
     "This file is not valid. Please select an unencrypted archive of Actual data.": "Ce fichier n'est pas valide. Veuillez sélectionner une archive de donnée Actual non chiffrée.",
     "Yuan Renminbi": "Yuan renminbi",
