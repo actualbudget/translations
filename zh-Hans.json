@@ -88,5 +88,7 @@
     "Access Revocation Incomplete": "访问权限撤销失败",
     "Account in Actual": "Actual 中的账户",
     "Account is a required field": "账户是必填字段",
-    "Account linking not opening in a new tab? Click here": "账户链接未在新标签页中打开？点击这里"
+    "Account linking not opening in a new tab? Click here": "账户链接未在新标签页中打开？点击这里",
+    "28+": "28+",
+    "Access": "使用权"
 }
