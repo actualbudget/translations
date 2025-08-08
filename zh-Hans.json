@@ -1,7 +1,7 @@
 {
     "(give feedback)": "（提供反馈）",
     "(hidden)": "（隐藏）",
-    "(modified)": "（已修改）",
+    "(modified)": "（已更改）",
     "(none)": "（无）",
     "(please select)": "（请选择）",
     "{{count}} associated rules_other": "{{count}} 条相关规则",
@@ -43,5 +43,22 @@
     "<0>End-to-end encryption</0> is not available when running without a server. Budget files are always kept unencrypted locally, and encryption is only applied when sending data to a server.": "<0>端到端加密</0> 在无服务器运行时不可用。 预算文件在本地始终以未加密形式保存，仅当数据发送至服务器时才会启用加密。",
     "<0>End-to-end encryption</0> is not enabled. Any data on the server is still protected by the server password, but it’s not end-to-end encrypted which means the server owners have the ability to read it. If you want, you can use an additional password to encrypt your data on the server.": "<0>端到端加密</0>未启用。服务器上的数据仍受服务器密码保护，但未经端到端加密意味着服务器所有者可读取这些数据。如需您想增强保护，您可为服务器数据设置额外加密密码。",
     "<0>Experimental features.</0> These features are not fully tested and may not work as expected. THEY MAY CAUSE IRRECOVERABLE DATA LOSS. They may do nothing at all. Only enable them if you know what you are doing.": "<0>实验性功能。</0>这些功能尚未经过完整测试，可能无法按预期运行。可能导致无法恢复的数据丢失，甚至可能完全无效。除非您完全了解潜在风险，否则请勿启用。",
-    "<0>Budget ID:</0> {{budgetId}}": "<0>预算 ID</0> {{budgetId}}"
+    "<0>Budget ID:</0> {{budgetId}}": "<0>预算 ID</0> {{budgetId}}",
+    "<0>Language</0> is the display language of all text. Please note that no warranty is provided for the accuracy or completeness of non-English translations. If you encounter a translation error, feel free to make a suggestion on <3>Weblate</3>.": "<0>语言</0>是应用的显示语言。温馨提示：非英文的翻译的准确性或完整性不含保证。如果您遇到翻译错误，请随时在<3>Weblate</3>提出建议。",
+    "<0>Language</0> support is not available. Please follow the instructions <3>here</3> to add missing translation files.": "暂时无<0>语言</0>支持。请根据<3>此处</3>的说明添加缺失的翻译文件。",
+    "<0>No server configured</0>": "<0>未配置服务器</0>",
+    "<0>Reset budget cache</0> will clear all cached values for the budget and recalculate the entire budget. All values in the budget are cached for performance reasons, and if there is a bug in the cache you won’t see correct values. There is no danger in resetting the cache. Hopefully you never have to do this.": "<0>重置预算缓存</0>将会清除预算里所有的缓存值而重新计算整个预算表。所有预算中的数值都会因为性能原因而被缓存。如果缓存中有错误，您将看不到正确的数值。重置缓存是没有危险的。希望你永远不需这么做。",
+    "$10 a week": "每周＄10",
+    "$10 a week, up to a maximum of $80": "每周＄10，最高限定为＄80",
+    "$50 each month": "每月＄50",
+    "1 day": "1天",
+    "1 month": "1个月",
+    "1 week": "1个星期",
+    "1 year": "1年",
+    "2 weeks": "2周",
+    "3 months": "3个月",
+    "6 months": "6个月",
+    "account": "账户",
+    "Account": "账户",
+    "Account list": "账户列表"
 }
