@@ -1522,5 +1522,15 @@
     "a fixed percent of the remainder": "un pourcentage fixe du reliquat",
     "an equal portion of the remainder": "une part égale du reliquat",
     "average": "moyen",
-    "budgeted": "budgétisé"
+    "budgeted": "budgétisé",
+    "{{num}} more items...": "{{num}} autres éléments...",
+    "DEFAULT": "DEFAUT",
+    "Filter rules…": "Filtrer les règles…",
+    "IF": "SI",
+    "No rules found. Create your first rule to get started!": "Aucune règle trouvée. Créez votre première règle pour commencer !",
+    "Philippine Peso": "Peso philippin",
+    "POST": "APRES",
+    "PRE": "PRÉ",
+    "Split {{num}}": "Séparation {{num}}",
+    "THEN": "ALORS"
 }
