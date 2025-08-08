@@ -1047,5 +1047,6 @@
     "Add an amount to this category each month based on the values from previous months. For example, you can copy the amount from a year ago to budget for an annual expense, or budget the average of the last 3 months to account for seasonal changes.": "Щомісяця додавати суму до цієї категорії на основі значень попередніх місяців. Наприклад, ви можете скопіювати суму річної давнини, щоб закласти в бюджет річні витрати, або закласти в бюджет середнє значення за останні 3 місяці, щоб врахувати сезонні зміни.",
     "Add condition": "Додати умову",
     "For next month": "На наступний місяць",
-    "{{status}} (Split)": "{{status}} (Розділена)"
+    "{{status}} (Split)": "{{status}} (Розділена)",
+    "Amount:": "Сума:"
 }
