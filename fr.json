@@ -446,7 +446,7 @@
     "Closed: {{ accountName }}": "Clôturé : {{ accountName }}",
     "Compare:": "Comparer :",
     "Compare {{formattedStartDate}} to {{typeOrFormattedEndDate}}": "Comparer de {{formattedStartDate}} à {{typeOrFormattedEndDate}}",
-    "Complete": "Compléter",
+    "Complete": "Terminé",
     "Confirm Delete": "Confirmer la suppression",
     "Confirm password": "Confirmer le mot de passe",
     "Confirm": "Confirmer",
@@ -1104,7 +1104,7 @@
     "Unable to decrypt file with this password. Please try again.": "Impossible de déchiffrer le fichier avec ce mot de passe. Veuillez réessayer.",
     "Uploading the file failed. Check your network connection.": "L'envoi du fichier a échoué. Vérifiez votre connexion réseau.",
     "There was a problem loading one of the chunks of the application. Please reload the page and try again. If the issue persists - there might be an issue with either your internet connection and/or the server where the app is hosted.": "Un problème est survenu lors du chargement d'une partie de l'application. Veuillez recharger la page et réessayer. Si le problème persiste, cela peut être dû à votre connexion Internet et/ou au serveur hébergeant l'application.",
-    "Toggle the privacy filter": "Activer/désactiver le filtre de confidentialité",
+    "Toggle the privacy filter": "Basculer le filtre de confidentialité",
     "prepend to notes": "Préfixer les notes",
     "To:": "À :",
     "Select a user from the directory to designate as the new budget owner.": "Sélectionner un utilisateur depuis le répertoire pour le désigner comme nouveau propriétaire du budget.",
@@ -1517,5 +1517,10 @@
     "Swedish Krona": "Couronne suédoise",
     "Turkish Lira": "Livre turque",
     "Toggle balance history": "Basculer l'historique des soldes",
-    "Transfer {{direction}} {{accountName}}": "Transférer {{direction}} {{accountName}}"
+    "Transfer {{direction}} {{accountName}}": "Transférer {{direction}} {{accountName}}",
+    "a fixed amount": "un montant fixe",
+    "a fixed percent of the remainder": "un pourcentage fixe du reliquat",
+    "an equal portion of the remainder": "une part égale du reliquat",
+    "average": "moyen",
+    "budgeted": "budgétisé"
 }
