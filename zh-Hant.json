@@ -100,5 +100,17 @@
     "(none)": "（沒有）",
     "(after weekend)": "（週末後）",
     "(before weekend)": "（週末前）",
-    "(No payee)": "（沒有受款人）"
+    "(No payee)": "（沒有受款人）",
+    "{{accountName}} bank sync settings": "{{accountName}} 銀行同步設定",
+    "{{categoryGroupName}} expense group categories": "{{categoryGroupName}} 支出群組分類",
+    "{{categoryName}} shortcuts": "{{categoryName}} 快捷鍵",
+    "{{count}} uncategorized transactions_other": "{{count}} 筆尚未分類交易",
+    "{{displayMonth}} budgets have all been set to last month’s budgeted amounts.": "{{displayMonth}} 預算已全部設定為上個月的預算數。",
+    "{{displayMonth}} end-of-month cleanup templates have been applied.": "已將月底結算範本套用至 {{displayMonth}}。",
+    "{{endOccurrences}} times": "{{endOccurrences}}次",
+    "{{scheduleName}} is due {{distanceFromNow}} ({{formattedDate}})": "{{scheduleName}} 將於 {{distanceFromNow}} ({{formattedDate}}) 到期",
+    "{{selectedPayeeNames}}, and more": "{{selectedPayeeNames}} 及其他",
+    "{{status}} (Split)": "{{status}} (拆分)",
+    "<0><0>Custom Report:</0></0> <2>{{name}}</2>": "<0><0>自訂報表：</0></0> <2>{{name}}</2>",
+    "<0><0>How are “Average” and “Spent Average MTD” calculated?</0></0><1>They are both the average cumulative spending by day for the three months before the selected “compare” month.</1>": "<0><0>「平均」及「當月平均支出」是如何計算的？</0></0><1>二者都是以選擇比較當月的前三個月逐日平均累計支出來計算。</1>"
 }
