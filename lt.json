@@ -5,5 +5,19 @@
     "(Optional)": "(Neprivaloma)",
     "(give feedback)": "(palikite atsiliepimą)",
     "(hidden)": "(paslėpta)",
-    "{{displayMonth}} budget templates have been applied.": "{{displayMonth}} biudžeto šablonai buvo pritaikyti."
+    "{{displayMonth}} budget templates have been applied.": "{{displayMonth}} biudžeto šablonai buvo pritaikyti.",
+    "(No payee)": "(nėra gavėjo)",
+    "{{count}} associated rules_one": "{{count}} susijusi taisyklė",
+    "{{count}} associated rules_few": "{{count}} susijusios taisyklės",
+    "{{count}} associated rules_other": "{{count}} susijusios taisyklės",
+    "{{displayMonth}} budgets have all been set to last month’s budgeted amounts.": "{{displayMonth}} biudžetai buvo nustatyti pagal praėjusio mėnesio biudžetų sumas.",
+    "{{displayMonth}} budgets have all been set to zero.": "{{displayMonth}} biudžetai buvo anuliuoti.",
+    "{{displayMonth}} end-of-month cleanup templates have been applied.": "{{displayMonth}} mėnesio galo valymo šablonai buvo panaudoti.",
+    "{{selectedPayeeNames}}, and more": "{{selectedPayeeNames}}, ir daugiau",
+    "<0><0>Custom Report:</0></0> <2>{{name}}</2>": "<0><0>Ataskaita:</0></0> <2>{{name}}</2>",
+    "(modified)": "(redaguota)",
+    "{{count}} transactions_one": "{{count}} transakcija",
+    "{{count}} transactions_few": "{{count}} transakcijos",
+    "{{count}} transactions_other": "{{count}} transakcijos",
+    "<0><0>How are “Average” and “Spent Average MTD” calculated?</0></0><1>They are both the average cumulative spending by day for the three months before the selected “compare” month.</1>": "<0><0>Kaip skaičiuojamas \"Vidurkis\" ir \"Išlaidų vidurkis nuo mėnesio pradžios\"?</0></0><1>Jie abu yra vidutinių išlaidų vidurkis nuo trijų mėnesių iki pasirinkti \"lyginamojo\" mėnesio</1>"
 }
