@@ -1070,5 +1070,9 @@
     "Available funds": "Доступні кошти",
     "{{categoryName}} shortcuts": "Швидкі дії для {{categoryName}}",
     "<0>Are you sure you want to delete it?</0> If so, you must select another category to transfer existing transactions and balance to.": "<0>Ви впевнені, що хочете видалити це?</0> Якщо так, потрібно вибрати іншу категорію для перенесення наявних транзакцій і залишку.",
-    "Income categories": "Категорії доходів"
+    "Income categories": "Категорії доходів",
+    "Fixed {{count}} transfers._one": "Виправлено {{count}} переказ.",
+    "Fixed {{count}} transfers._few": "Виправлено {{count}} перекази.",
+    "Fixed {{count}} transfers._many": "Виправлено {{count}} переказів.",
+    "Account is a required field": "Акаунт - обов'язкове поле"
 }
