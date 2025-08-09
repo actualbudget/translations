@@ -384,7 +384,7 @@
     "Fixed {{count}} splits that weren’t properly deleted._many": "Riparate {{count}} suddivisioni che non erano state correttamente eliminate.",
     "Fixed {{count}} splits that weren’t properly deleted._other": "Riparate {{count}} suddivisioni che non erano state correttamente eliminate.",
     "You can always manually post a transaction later for a due schedule by selecting the schedule and clicking “Post transaction today” in the action menu.": "Puoi sempre registrare manualmente una transazione successivamente per una scadenza programmata selezionando il programma e cliccando \"Registra transazione oggi\" nel menu delle azioni.",
-    "You need to revert it to continue syncing. Any unsynced data will be lost. If you like, you can instead [upload this file](#upload) to be the latest version.": "Devi ripristinarlo per continuare la sincronizzazione Tutti i dati non sincronizzati andranno persi Se preferisci puoi invece [caricare questo file](#upload) come versione più recente",
+    "You need to revert it to continue syncing. Any unsynced data will be lost. If you like, you can instead [upload this file](#upload) to be the latest version.": "Devi ripristinarlo per continuare la sincronizzazione Tutti i dati non sincronizzati andranno persi Se preferisci puoi invece [caricare questo file](#upload) come versione più recente.",
     "Add enough to this category to cover the selected schedule. If the schedule occurs multiple times in a month, an amount will be added for each occurrence. You can choose to save up for the next occurrence over time (e.g. save $100 each month for a $300 quarterly bill) or cover each occurrence when it occurs (e.g. only add the $300 when the bill is due).": "Aggiungi a questa categoria un importo sufficiente a coprire la pianificazione selezionata. Se la pianificazione ricorre più volte in un mese, verrà aggiunto un importo per ogni occorrenza. Puoi scegliere di accumulare gradualmente l'importo per la prossima scadenza (ad esempio, mettere da parte 100€ al mese per una bolletta trimestrale di 300€) o coprire ogni occorrenza quando si verifica (ad esempio, aggiungere i 300€ solo quando la bolletta è dovuta).",
     "Budget {{amount}} each week": "Assegna {{amount}} ogni settimana",
     "Budget the average of the last {{amount}} months": "Calcola il budget come media degli ultimi {{amount}} mesi",
@@ -415,7 +415,7 @@
     "You are currently working from a backup.": "Stai attualmente lavorando su un backup.",
     "You can also <2>force close</2> the account which will delete it and all its transactions permanently. Doing so may change your budget unexpectedly since money in it may vanish.": "Puoi anche <2>chiudere forzatamente</2> il conto, il che lo eliminerà insieme a tutte le sue transazioni in modo permanente. Questa operazione potrebbe modificare il budget in modo imprevisto, poiché i fondi presenti potrebbero scomparire.",
     "You can import data from another Actual account or instance. First export your data from a different account, and it will give you a compressed file. This file is a simple zip file that contains the <1>db.sqlite</1> and <4>metadata.json</4> files.": "Puoi importare dati da un altro account o istanza Actual. Per prima cosa esporta i tuoi dati da un account diverso e otterrai un file compresso. Questo file è un semplice file zip che contiene i file <1>db.sqlite</1> e <4>metadata.json</4>.",
-    "You don't have the required permissions to set up secrets. Please contact an Admin to configure": "Non disponi dei permessi necessari per configurare le credenziali. Contatta un amministratore per la configurazione.",
+    "You don't have the required permissions to set up secrets. Please contact an Admin to configure": "Non disponi dei permessi necessari per configurare le credenziali. Contatta un amministratore per la configurazione",
     "You have budgeted more than your available funds": "Hai superato il budget rispetto ai fondi disponibili",
     "You have to be admin to set secrets": "Devi essere un amministratore per impostare le credenziali",
     "You need to register it to take advantage of syncing which allows you to use it across devices and never worry about losing your data.": "È necessario registrarlo per sfruttare la sincronizzazione, che consente di utilizzarlo su più dispositivi senza doversi preoccupare di perdere i dati.",
@@ -1524,5 +1524,6 @@
     "View Transactions": "Mostra transazioni",
     "Waiting on GoCardless...": "In attesa di GoCardless...",
     "You are not logged in.": "Non sei loggato",
-    "Yuan Renminbi": "Yuan Renminbi"
+    "Yuan Renminbi": "Yuan Renminbi",
+    "IF": "SE"
 }
