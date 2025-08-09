@@ -444,7 +444,7 @@
     "Automatically rename these payees in the future_other": "Rinominare automaticamente questi beneficiari in futuro",
     "budget templates have been applied.": "i template del budget sono stati applicati.",
     "Checking GoCardless configuration...": "Verifica della configurazione di GoCardless...",
-    "Confirm Unlink": "Conferma disconnessione",
+    "Confirm Unlink": "Conferma scollegamento",
     "Cover each occurrence when it occurs": "Copri ogni occorrenza quando si verifica",
     "Cover the occurrences of the schedule &lsquo;{{name}}&rsquo; this month": "Copri gli eventi della pianificazione &lsquo;{{name}}&rsquo; di questo mese",
     "Create schedules": "Crea pianificazioni",
