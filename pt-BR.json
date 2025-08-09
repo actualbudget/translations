@@ -1514,5 +1514,6 @@
     "View Transactions": "Ver Transações",
     "Turkish Lira": "Lira Turca",
     "Swedish Krona": "Coroa Sueca",
-    "Qatari Riyal": "Rial do Catar"
+    "Qatari Riyal": "Rial do Catar",
+    "Transfer {{direction}} {{accountName}}": "Transferir {{direction}}{{accountName}}"
 }
