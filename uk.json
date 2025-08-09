@@ -1069,5 +1069,6 @@
     "Ascending": "За зростанням",
     "Available funds": "Доступні кошти",
     "{{categoryName}} shortcuts": "Швидкі дії для {{categoryName}}",
-    "<0>Are you sure you want to delete it?</0> If so, you must select another category to transfer existing transactions and balance to.": "<0>Ви впевнені, що хочете видалити це?</0> Якщо так, потрібно вибрати іншу категорію для перенесення наявних транзакцій і залишку."
+    "<0>Are you sure you want to delete it?</0> If so, you must select another category to transfer existing transactions and balance to.": "<0>Ви впевнені, що хочете видалити це?</0> Якщо так, потрібно вибрати іншу категорію для перенесення наявних транзакцій і залишку.",
+    "Income categories": "Категорії доходів"
 }
