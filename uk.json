@@ -1074,5 +1074,7 @@
     "Fixed {{count}} transfers._one": "Виправлено {{count}} переказ.",
     "Fixed {{count}} transfers._few": "Виправлено {{count}} перекази.",
     "Fixed {{count}} transfers._many": "Виправлено {{count}} переказів.",
-    "Account is a required field": "Акаунт - обов'язкове поле"
+    "Account is a required field": "Акаунт - обов'язкове поле",
+    "Monday": "Понеділок",
+    "Months": "Місяці"
 }
