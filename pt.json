@@ -146,5 +146,6 @@
     "<allocatedAmount /> <italic>of <totalAmount /></italic>": "<allocatedAmount /> <italic> de <totalAmount /></italic>",
     "{{count}} uncategorized transactions_one": "{{count}} transação sem categoria",
     "{{count}} uncategorized transactions_many": "{{count}} transações sem categoria",
-    "{{count}} uncategorized transactions_other": "{{count}} transações sem categoria"
+    "{{count}} uncategorized transactions_other": "{{count}} transações sem categoria",
+    "Account is a required field": "Conta é um campo obrigatório"
 }
