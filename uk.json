@@ -1406,5 +1406,7 @@
     "Closing...": "Закриття...",
     "Categories in the group <2>{{group}}</2> are used by existing transactions or it has a positive leftover balance currently.": "Категорії в групі <2>{{group}}</2> використовуються в наявних транзакціях або наразі мають позитивний залишок.",
     "Categories in the group <2>{{group}}</2> are used by existing transactions.": "Категорії в групі <2>{{group}}</2> використовуються в наявних транзакціях.",
-    "Create reconciliation transaction": "Створити транзакцію для звірки"
+    "Create reconciliation transaction": "Створити транзакцію для звірки",
+    "Covered overbudgeted from {{categoryName}}": "Покрите надмірне бюджетування з {{categoryName}}",
+    "Create new account (off budget)": "Створити новий рахунок (поза бюджетом)"
 }
