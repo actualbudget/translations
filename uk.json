@@ -1402,5 +1402,6 @@
     "Cover the occurrences of the schedule &lsquo;{{name}}&rsquo; this month": "Покрити випадки розкладу «{{name}}» цього місяця",
     "Covered {{toCategoryName}} overspending from {{fromCategoryName}}.": "Перевитрата в категорії {{toCategoryName}} покрита за рахунок {{fromCategoryName}}.",
     "Create new account": "Створити новий рахунок",
-    "Create payee “{{payeeName}}”": "Створити отримувача «{{payeeName}}»"
+    "Create payee “{{payeeName}}”": "Створити отримувача «{{payeeName}}»",
+    "Closing...": "Закриття..."
 }
