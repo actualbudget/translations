@@ -480,5 +480,12 @@
     "Hide balance": "Skjul saldo",
     "GoCardless menu": "GoCardless menu",
     "GoCardless integration has not yet been configured.": "Integration med GoCardless er ikke konfigureret endnu.",
-    "Goal Templates": "Mål-skabeloner"
+    "Goal Templates": "Mål-skabeloner",
+    "{{categoryName}} shortcuts": "{{categoryName}} genveje",
+    "{{count}} payees_one": "{{count}} modtager",
+    "{{count}} payees_other": "{{count}} modtagere",
+    "{{count}} uncategorized transactions_one": "{{count}} ukategoriseret transaktion",
+    "{{count}} uncategorized transactions_other": "{{count}} ukategoriserede transaktioner",
+    "{{scheduleName}} is due {{distanceFromNow}} ({{formattedDate}})": "{{scheduleName}} forfalder {{distanceFromNow}} ({{formattedDate}})",
+    "{{status}} (Split)": "{{status}} (Opdel)"
 }
