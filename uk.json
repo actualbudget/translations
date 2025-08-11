@@ -308,7 +308,7 @@
     "Sidebar menu": "Бічне меню",
     "Spending analysis": "Аналіз витрат",
     "Split Transaction": "Розділена транзакція",
-    "Split:": "Спліт:",
+    "Split:": "Розподіл:",
     "Stage": "етап",
     "Stage of rule:": "Етап виконання:",
     "Start using a server": "Почніть використовувати сервер",
@@ -676,7 +676,7 @@
     "Create schedules": "Створюйте розклади",
     "Schedule Name": "Назва розкладу",
     "Sign in to this Actual instance": "Увійдіть у цей фактичний екземпляр",
-    "Split": "Спліт",
+    "Split": "Розподіл",
     "Last month": "Останній місяць",
     "New Category": "Нова категорія",
     "Last 6 months": "Останні 6 місяців",
@@ -1182,7 +1182,7 @@
     "Connect to an Actual server to set up <2>automatic syncing</2>.": "Підключитись до сервера Actual щоб налаштувати <2>автоматичну синхронізацію</2>.",
     "Copy a previous month": "Скопіювати з попереднього місяця",
     "Could not search: {{errorReason}}": "Неможливо знайти: {{errorReason}}",
-    "Cover from a category:": "Покрити з категорії",
+    "Cover from a category:": "Покрити з категорії:",
     "{{count}} payees_one": "{{count}} отримувач",
     "{{count}} payees_few": "{{count}} отримувачі",
     "{{count}} payees_many": "{{count}} отримувачів",
@@ -1403,5 +1403,8 @@
     "Covered {{toCategoryName}} overspending from {{fromCategoryName}}.": "Перевитрата в категорії {{toCategoryName}} покрита за рахунок {{fromCategoryName}}.",
     "Create new account": "Створити новий рахунок",
     "Create payee “{{payeeName}}”": "Створити отримувача «{{payeeName}}»",
-    "Closing...": "Закриття..."
+    "Closing...": "Закриття...",
+    "Categories in the group <2>{{group}}</2> are used by existing transactions or it has a positive leftover balance currently.": "Категорії в групі <2>{{group}}</2> використовуються в наявних транзакціях або наразі мають позитивний залишок.",
+    "Categories in the group <2>{{group}}</2> are used by existing transactions.": "Категорії в групі <2>{{group}}</2> використовуються в наявних транзакціях.",
+    "Create reconciliation transaction": "Створити транзакцію для звірки"
 }
