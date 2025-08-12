@@ -1491,5 +1491,7 @@
     "Delete the selected transactions": "Lösche die ausgewählten Transaktionen",
     "Move to the next transaction and scroll": "Zur nächsten Transaktion und scrollen",
     "Move to the previous transaction and scroll": "Zur vorherigen Transaktion und scrollen",
-    "Toggle transactions between current and most recently selected transaction": "Umschalten zwischen aktueller und zuletzt ausgewählter Transaktion"
+    "Toggle transactions between current and most recently selected transaction": "Umschalten zwischen aktueller und zuletzt ausgewählter Transaktion",
+    "{{count}} payees_one": "{{count}} Zahlungsempfänger",
+    "{{count}} payees_other": "{{count}} Zahlungsempfänger"
 }
