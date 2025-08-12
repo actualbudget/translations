@@ -1493,5 +1493,9 @@
     "Move to the previous transaction and scroll": "Zur vorherigen Transaktion und scrollen",
     "Toggle transactions between current and most recently selected transaction": "Umschalten zwischen aktueller und zuletzt ausgewählter Transaktion",
     "{{count}} payees_one": "{{count}} Zahlungsempfänger",
-    "{{count}} payees_other": "{{count}} Zahlungsempfänger"
+    "{{count}} payees_other": "{{count}} Zahlungsempfänger",
+    "a fixed amount": "ein fester Betrag",
+    "a fixed percent of the remainder": "ein fester Anteil vom Rest",
+    "all": "alle",
+    "an equal portion of the remainder": "ein gleicher Anteil vom Rest"
 }
