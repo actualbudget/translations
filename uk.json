@@ -787,7 +787,7 @@
     "Show transactions": "Показати транзакції",
     "Unknown error with budget name": "Невідома помилка з назвою бюджету",
     "Your budget is hosted on a server, making it accessible for download on your devices": {
-        "<1></1>Would you like to duplicate this budget for all your devices or keep it stored locally on this device?": "Ваш бюджет розміщено на сервері, що робить його доступним для завантаження на ваші пристрої.<1></1>Бажаєте ви скопіювати цей бюджет для всіх своїх пристроїв чи зберегти його локально на цьому пристрої?"
+        "<1></1>Would you like to duplicate this budget for all your devices or keep it stored locally on this device?": "Ваш бюджет розміщено на сервері, що дозволяє завантажувати його на ваші пристрої.<1></1>Бажаєте дублювати цей бюджет на всі ваші пристрої чи зберігати локально лише на цьому?"
     },
     "Disable OpenID": "Вимкнути OpenID",
     "disabled": "вимкнено",
@@ -871,7 +871,7 @@
     "Failed importing the dashboard file.": "Не вдалося імпортувати файл інформаційної панелі.",
     "Failed loading available banks: GoCardless access credentials might be misconfigured. Please <2>set them up</2> again.": "Не вдалося завантажити доступні банки: облікові дані доступу GoCardless можуть бути неправильно налаштовані. <2>Налаштуйте їх</2> знову.",
     "Failed parsing the imported JSON.": "Не вдалося розібрати імпортований JSON.",
-    "Failed to duplicate budget file.": "Не вдалося скопіювати файл бюджету.",
+    "Failed to duplicate budget file.": "Не вдалося створити копію файлу бюджету.",
     "GoCardless integration has not yet been configured.": "Інтеграція GoCardless ще не налаштована.",
     "It is required to provide a token.": "Необхідно надати жетон.",
     "Name {{ newAccountName }} already exists.": "Ім’я {{ newAccountName }} уже існує.",
@@ -1461,5 +1461,12 @@
     "Disable current auto hold": "Вимкнути поточне автоматичне утримання",
     "Duplicating: {{oldName}} to: {{newName}}": "Копіювання: {{oldName}} у: {{newName}}",
     "Enable category learning": "Увімкнути автовизначення категорій",
-    "Go to log in": "Перейти до входу"
+    "Go to log in": "Перейти до входу",
+    "AVERAGE DEPOSIT": "СЕРЕДНІЙ ВНЕСОК",
+    "Category learning settings": "Налаштування автовизначення категорій",
+    "DEPOSIT": "ВНЕСОК",
+    "Disable category learning": "Вимкнути автовизначення категорій",
+    "Disabling Category Learning will not delete any existing rules but will prevent new rules from being created automatically on a global level.": "Вимкнення автовизначення категорій не видалить наявні правила, але запобігатиме автоматичному створенню нових правил на глобальному рівні.",
+    "Enable auto hold": "Увімкнути автоутримання",
+    "Hong Kong Dollar": "Гонконгський долар"
 }
