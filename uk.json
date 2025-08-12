@@ -1408,5 +1408,18 @@
     "Categories in the group <2>{{group}}</2> are used by existing transactions.": "Категорії в групі <2>{{group}}</2> використовуються в наявних транзакціях.",
     "Create reconciliation transaction": "Створити транзакцію для звірки",
     "Covered overbudgeted from {{categoryName}}": "Покрите надмірне бюджетування з {{categoryName}}",
-    "Create new account (off budget)": "Створити новий рахунок (поза бюджетом)"
+    "Create new account (off budget)": "Створити новий рахунок (поза бюджетом)",
+    "Determine which users can view and manage your budgets": "Визначте, які користувачі можуть переглядати ваші бюджети та керувати ними",
+    "Duplicate locally": "Продублювати локально",
+    "Currency support": "Підтримка валют",
+    "Date format": "Формат дати",
+    "Default Currency": "Валюта за замовчуванням",
+    "End of the current month": "Кінець поточного місяця",
+    "Error when trying to contact Pluggy.ai": "Помилка при спробі зв'язатися з Pluggy.ai",
+    "Every {{interval}} days": "Кожні {{interval}} днів",
+    "Every {{interval}} months on the {{range}}": "Кожні {{interval}} місяці у діапазоні {{range}}",
+    "Every {{interval}} weeks on {{dateFormatted}}": "Кожні{{interval}} тижні на {{dateFormatted}}",
+    "Every {{interval}} years on {{dateFormatted}}": "Кожні {{interval}} роки на {{dateFormatted}}",
+    "Every month on the {{dateFormatted}}": "Щомісяця на {{dateFormatted}}",
+    "Every month on the {{range}}": "Щомісяця в диапазоні {{range}}"
 }
