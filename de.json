@@ -1497,5 +1497,6 @@
     "a fixed amount": "ein fester Betrag",
     "a fixed percent of the remainder": "ein fester Anteil vom Rest",
     "all": "alle",
-    "an equal portion of the remainder": "ein gleicher Anteil vom Rest"
+    "an equal portion of the remainder": "ein gleicher Anteil vom Rest",
+    "The following payees are not used by transactions any more. Would you like to merge them with <2>{{payee}}</2>?": "Die folgenden Zahlungsempfänger werden von keinen Transaktionen mehr verwendet. Möchtest du sie mit <2>{{payee}}</2> zusammenführen?"
 }
