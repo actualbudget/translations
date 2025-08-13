@@ -1509,5 +1509,9 @@
     "No rules found. Create your first rule to get started!": "Keine Regeln gefunden. Starte mit deiner ersten Regel!",
     "Philippine Peso": "Philippinischer Peso",
     "Polish Złoty": "Polnischer Złoty",
-    "Swedish Krona": "Schwedische Krone"
+    "Swedish Krona": "Schwedische Krone",
+    "{{num}} more items...": "{{num}} weitere Einträge...",
+    "any": "irgendeine",
+    "Prior year to date": "Vorjahr bis heute",
+    "Split {{num}}": "{{num}} aufteilen"
 }
