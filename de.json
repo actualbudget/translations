@@ -1498,5 +1498,16 @@
     "a fixed percent of the remainder": "ein fester Anteil vom Rest",
     "all": "alle",
     "an equal portion of the remainder": "ein gleicher Anteil vom Rest",
-    "The following payees are not used by transactions any more. Would you like to merge them with <2>{{payee}}</2>?": "Die folgenden Zahlungsempfänger werden von keinen Transaktionen mehr verwendet. Möchtest du sie mit <2>{{payee}}</2> zusammenführen?"
+    "The following payees are not used by transactions any more. Would you like to merge them with <2>{{payee}}</2>?": "Die folgenden Zahlungsempfänger werden von keinen Transaktionen mehr verwendet. Möchtest du sie mit <2>{{payee}}</2> zusammenführen?",
+    "THEN": "DANN",
+    "average": "Durchschnitt",
+    "budgeted": "Budgetiert",
+    "DEFAULT": "STANDARD",
+    "Filter rules…": "Filterregeln…",
+    "IF": "WENN",
+    "Indian Rupee": "Indische Rupie",
+    "No rules found. Create your first rule to get started!": "Keine Regeln gefunden. Starte mit deiner ersten Regel!",
+    "Philippine Peso": "Philippinischer Peso",
+    "Polish Złoty": "Polnischer Złoty",
+    "Swedish Krona": "Schwedische Krone"
 }
