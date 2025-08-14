@@ -1398,7 +1398,6 @@
     "Port": "Port",
     "Positive amount: {{amount}}": "Montant positif : {{amount}}",
     "Projected savings": "Économies prévues",
-    "Reconciled {{ relativeTimeAgo }}": "Rapproché {{ relativeTimeAgo }}",
     "Refresh": "Actualiser",
     "Save up for the next occurrence": "Épargner en vue du prochain événement",
     "Save up for the schedule &lsquo;{{name}}&rsquo;": "Épargner pour l'échéance &lsquo;{{name}}&rsquo;",

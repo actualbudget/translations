@@ -807,7 +807,6 @@
     "Number of months back": "จำนวนเดือนย้อนหลัง",
     "Something went wrong when creating this cloud file. You need to upload this file to fix it.": "มีบางอย่างผิดพลาดขณะสร้างไฟล์คลาวด์นี้ คุณต้องอัปโหลดไฟล์นี้เพื่อแก้ไข",
     "Once you have exported your data, select the file and Actual will import it. Budgets may not match up exactly because things work slightly differently, but you should be able to fix up any problems.": "เมื่อคุณส่งออกข้อมูลของคุณแล้ว ให้เลือกไฟล์และ Actual จะนำเข้าข้อมูล งบประมาณอาจไม่ตรงกันทุกประการเนื่องจากการทำงานแตกต่างกันเล็กน้อย แต่คุณควรจะสามารถแก้ไขปัญหาใดๆ ได้",
-    "Reconciled {{ relativeTimeAgo }}": "กระทบยอดเมื่อ {{ relativeTimeAgo }}",
     "Recurring": "เกิดซ้ำ",
     "Remove active category filters to show the category selector.": "ลบตัวกรองหมวดหมู่ที่ใช้งานอยู่เพื่อแสดงตัวเลือกหมวดหมู่",
     "Report Name": "ชื่อรายงาน",
