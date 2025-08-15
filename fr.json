@@ -1542,5 +1542,11 @@
     "Show {{count}} unused payees_many": "Montrer les {{count}} bénéficiaires inutilisés",
     "Show {{count}} unused payees_other": "Montrer les {{count}} bénéficiaires inutilisés",
     "The payee <2>{{previousPayee}}</2> is not used by transactions any more. Would you like to merge it with <6>{{payee}}</6>?": "Le bénéficiaire <2>{{previousPayee}}</2> n’est plus utilisé par des transactions. Voulez-vous le fusionner avec <6>{{payee}}</6> ?",
-    "Polish Złoty": "Złoty polonais"
+    "Polish Złoty": "Złoty polonais",
+    "Closed: {{accountName}}": "Clôturé : {{accountName}}",
+    "Reconciled {{ relativeTimeAgo }} ({{ absoluteDate }})": "Rapproché {{ relativeTimeAgo }} ({{ absoluteDate }})",
+    "Reconciled {{relativeTimeAgo}} ({{absoluteDate}})": "Rapproché {{relativeTimeAgo}} ({{absoluteDate}})",
+    "Search All Accounts": "Rechercher tous les comptes",
+    "Search Off Budget Accounts": "Rechercher les comptes non budgetisés",
+    "Search On Budget Accounts": "Rechercher les comptes budgetisés"
 }
