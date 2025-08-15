@@ -1476,5 +1476,10 @@
     "Search Off Budget Accounts": "Пошук серед рахунків поза бюджетом",
     "Search On Budget Accounts": "Пошук серед рахунків у межах бюджету",
     "scheduled": "заплановано",
-    "Offline": "Офлайн"
+    "Offline": "Офлайн",
+    "Mode": "Режим",
+    "Domain": "Домен",
+    "Navigation": "Навігація",
+    "In/Out": "Вхідні/Вихідні",
+    "Multiplier": "Множник"
 }
