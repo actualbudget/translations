@@ -1546,7 +1546,11 @@
     "Closed: {{accountName}}": "Clôturé : {{accountName}}",
     "Reconciled {{ relativeTimeAgo }} ({{ absoluteDate }})": "Rapproché {{ relativeTimeAgo }} ({{ absoluteDate }})",
     "Reconciled {{relativeTimeAgo}} ({{absoluteDate}})": "Rapproché {{relativeTimeAgo}} ({{absoluteDate}})",
-    "Search All Accounts": "Rechercher tous les comptes",
-    "Search Off Budget Accounts": "Rechercher les comptes non budgetisés",
-    "Search On Budget Accounts": "Rechercher les comptes budgetisés"
+    "Search All Accounts": "Rechercher dans tous les comptes",
+    "Search Off Budget Accounts": "Rechercher dans les comptes non budgetisés",
+    "Search On Budget Accounts": "Rechercher dans les comptes budgetisés",
+    "Add new rule": "Ajouter une nouvelle règle",
+    "Create Rule": "Créer une règle",
+    "Edit Rule": "Modifier la règle",
+    "Loading rule...": "Chargement de la règle..."
 }
