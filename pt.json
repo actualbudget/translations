@@ -144,8 +144,8 @@
     "<0>Themes</0> change the user interface colors.": "<0>Temas</0> altera as cores da interface do usuário.",
     "{{accountName}} bank sync settings": "Configurações de sincronização bancária de {{accountName}}",
     "<allocatedAmount /> <italic>of <totalAmount /></italic>": "<allocatedAmount /> <italic> de <totalAmount /></italic>",
-    "{{count}} uncategorized transactions_one": "{{count}} transação sem categoria",
-    "{{count}} uncategorized transactions_many": "{{count}} transações sem categoria",
-    "{{count}} uncategorized transactions_other": "{{count}} transações sem categoria",
+    "{{count}} uncategorized transactions_one": "{{count}} transação não categorizada",
+    "{{count}} uncategorized transactions_many": "{{count}} transações não categorizadas",
+    "{{count}} uncategorized transactions_other": "{{count}} transações não categorizadas",
     "Account is a required field": "Conta é um campo obrigatório"
 }
