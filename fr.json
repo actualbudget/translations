@@ -1545,7 +1545,6 @@
     "Polish Złoty": "Złoty polonais",
     "Closed: {{accountName}}": "Clôturé : {{accountName}}",
     "Reconciled {{ relativeTimeAgo }} ({{ absoluteDate }})": "Rapproché {{ relativeTimeAgo }} ({{ absoluteDate }})",
-    "Reconciled {{relativeTimeAgo}} ({{absoluteDate}})": "Rapproché {{relativeTimeAgo}} ({{absoluteDate}})",
     "Search All Accounts": "Rechercher dans tous les comptes",
     "Search Off Budget Accounts": "Rechercher dans les comptes non budgetisés",
     "Search On Budget Accounts": "Rechercher dans les comptes budgetisés",
