@@ -861,5 +861,6 @@
     "Release Notes": "Nyheter",
     "Reset to default": "Återställ till förinställning",
     "Rollover overspending": "Rulla över överspendering",
-    "Syncing has been reset on this cloud file": "Synkronisering har återställts på denna fil i molnet"
+    "Syncing has been reset on this cloud file": "Synkronisering har återställts på denna fil i molnet",
+    "It is required to provide both the client id, client secret and at least one item id.": "Du måste ange både \"client id\" och \"client secret\" samt minst ett \"item id\"."
 }
