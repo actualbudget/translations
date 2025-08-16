@@ -1566,5 +1566,8 @@
     "Login expired, please log in again.": "Термін сеансу закінчився, будь ласка, увійдіть знову.",
     "Synced field to map to {{field}}": "Синхронізоване поле, яке потрібно пов'язати з {{field}}",
     "Pluggy.ai Bank Sync (Brazilian banks only)": "Синхронізація з банком через Pluggy.ai (тільки для банків Бразилії)",
-    "Set up Pluggy.ai for bank sync": "Налаштувати Pluggy.ai для синхронізація з банком"
+    "Set up Pluggy.ai for bank sync": "Налаштувати Pluggy.ai для синхронізація з банком",
+    "In order to enable bank sync via SimpleFIN (only for North American banks), you will need to create a token. This can be done by creating an account with <2>SimpleFIN</2>.": "Щоб увімкнути банківську синхронізацію через SimpleFIN (лише для банків Північної Америки), вам потрібно буде створити токен. Це можна зробити, створивши обліковий запис у<2>SimpleFIN</2>.",
+    "Move to the next transaction and scroll": "Перейти до наступної транзакції та прокрутити",
+    "Move to the previous transaction and scroll": "Перейти до попередньої транзакції та прокрутити"
 }
