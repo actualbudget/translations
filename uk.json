@@ -339,7 +339,7 @@
     "Uncategorized & Off budget": "Без категорії та поза бюджетом",
     "Internal error": "Внутрішня помилка",
     "Login expired": "Термін дії входу минув",
-    "Multi-user will not work after disabling": "Багатокористувацький режим не працюватиме після відключення",
+    "Multi-user will not work after disabling": "Режим кількох користувачів не працюватиме після вимкнення",
     "No users": "Немає користувачів",
     "No users available": "Немає доступних користувачів",
     "No users available to give access": "Немає доступних користувачів для надання доступу",
@@ -1574,5 +1574,6 @@
     "See <2>Goal Templates</2> for more information.": "Дивіться <2>Шаблони цілей</2> для додаткової інформації.",
     "Prior year to date": "За попередній рік до сьогодні",
     "Reopen": "Відкрити знову",
-    "Reset Pluggy.ai credentials": "Скинути облікові дані Pluggy.ai"
+    "Reset Pluggy.ai credentials": "Скинути облікові дані Pluggy.ai",
+    "OpenID provider": "Постачальник OpenID"
 }
