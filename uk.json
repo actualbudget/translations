@@ -798,7 +798,7 @@
     },
     "Select Provider": "Виберіть Постачальник",
     "You don't have the required permissions to set up secrets": {
-        " Please contact an Admin to configure": "У вас немає необхідних прав для налаштування secrets. Будь ласка, зверніться до адміністратора для їх конфігурації."
+        " Please contact an Admin to configure": "У вас немає необхідних прав для налаштування secrets. Будь ласка, зверніться до адміністратора для їх конфігурації"
     },
     "Role is required.": "Потрібна роль.",
     "Failed to complete ownership transfer. Please try again.": "Не вдалося завершити передачу права власності. Спробуйте ще раз.",
@@ -1210,7 +1210,7 @@
     "Budget {{percent}}% of total income this month": "Виділити {{percent}}% загального доходу за цей місяць",
     "Budget name": "Назва бюджету",
     "Budget page": "Сторінка бюджету",
-    "budget templates have been applied.": "застосовано шаблони бюджету",
+    "budget templates have been applied.": "застосовано шаблони бюджету.",
     "Budget the average of the last {{amount}} months": "Встановити бюджет за середнім значенням останніх {{amount}} місяців",
     "Start": "Початок",
     "Disabled": "Вимкнено",
@@ -1500,7 +1500,7 @@
     "Include current Month in live range": "Включити поточний місяць у діапазон реального часу",
     "Include current period in live range": "Включити поточний період у діапазон реального часу",
     "Include current Year in live range": "Включити поточний рік у діапазон реального часу",
-    "Item Ids (comma separated):": "ID елементів (через кому)",
+    "Item Ids (comma separated):": "ID елементів (через кому):",
     "Loading rule...": "Завантаження правила…",
     "paid": "сплачено",
     "Recurring error": "Повторювана помилка",
@@ -1557,7 +1557,7 @@
     "Manage and view users who can create new budgets or be invited to access existing ones.": "Керуйте та переглядайте користувачів, які можуть створювати нові бюджети або отримувати доступ до наявних за запрошенням.",
     "Need to expose your server to the internet? Follow our step-by-step <2>guide</2> for more information.": "Хочете надати доступ до свого сервера через інтернет? Докладнішу інформацію знайдете в нашому покроковому <2>посібнику</2>.",
     "Note that the URL depends on your authentik domain and provider slug name.": "Зверніть увагу, що URL-адреса залежить від вашого домену в authentik та назви provider slug.",
-    "Your cleared balance <2>{{clearedBalance}}</2> needs <5>{{difference}}</5> to match<7></7> your bank's balance of <10>{{bankBalance}}</10>": "Ваш проведений залишок <2>{{clearedBalance}}</2> відрізняється на <5>{{difference}}</5> від залишку у банку <10>{{bankBalance}}</10>.",
+    "Your cleared balance <2>{{clearedBalance}}</2> needs <5>{{difference}}</5> to match<7></7> your bank's balance of <10>{{bankBalance}}</10>": "Ваш проведений залишок <2>{{clearedBalance}}</2> відрізняється на <5>{{difference}}</5> від залишку у банку <10>{{bankBalance}}</10>",
     "Select an app to import from, and we’ll guide you through the process.": "Виберіть програму для імпорту, і ми допоможемо вам пройти весь процес.",
     "Selected role does not exist, possibly a bug? Visit https://actualbudget.org/contact/ for support.": "Вибрана роль не існує, можливо, це помилка? Зверніться по допомогу на https://actualbudget.org/contact/ .",
     "No schedules found, create one in the <2>schedules</2> page.": "Розкладів не знайдено, створіть новий на сторінці <2>Розклади</2>.",
@@ -1586,5 +1586,7 @@
     "Search shortcuts": "Пошук комбінацій клавіш",
     "Rule deleted successfully": "Правило успішно видалено",
     "Pluggy.ai menu": "Меню Pluggy.ai",
-    "Long_noun": "Long_noun"
+    "Long_noun": "Long_noun",
+    "logged in as: <2>{{userName}}</2>": "здійснено вхід як: <2>{{userName}}</2>",
+    "logged in as: <2><0>{{userName}}</0></2>": "здійснено вхід як: <2><0>{{userName}}</0></2>"
 }
