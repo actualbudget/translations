@@ -352,5 +352,10 @@
     "{{count}} uncategorized transactions_one": "{{count}} транзакция без категории",
     "{{count}} uncategorized transactions_few": "{{count}} транзакции без категории",
     "{{count}} uncategorized transactions_many": "{{count}} транзакций без категории",
-    "{{categoryName}} shortcuts": "Быстрые действия для {{categoryName}}"
+    "{{categoryName}} shortcuts": "Быстрые действия для {{categoryName}}",
+    "<0>{{category}}</0> is used by existing transactions.": "<0>{{category}}</0> используется существующими транзакциями.",
+    "<0>Currency settings</0> affect how amounts are displayed throughout the application.": "<0>Настройки валюты</0> влияют на то, как суммы отображаются в приложении.",
+    "<0>Reset sync</0> is only available when syncing is enabled.": "<0>Сброс синхронизации</0> доступен только если синхронизация включена.",
+    "A new version of Actual is available! Your Pikapods instance will be automatically updated in the next few days - no action needed.": "Новая версия Actual доступна! Ваш инстанс Pikapods будет автоматически обновлен через несколько дней - дополнительных действий не требуется.",
+    "Add space between amount and symbol": "Добавьте пробел между суммой и символом"
 }
