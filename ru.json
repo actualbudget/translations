@@ -26,9 +26,9 @@
     "{{displayMonth}} end-of-month cleanup templates have been applied.": "В конце месяца «{{displayMonth}}» были применены очищающие шаблоны.",
     "{{displayMonth}} budget templates have been applied.": "Были применены шаблоны бюджета на {{displayMonth}}.",
     "<0><0>How are “Average” and “Spent Average MTD” calculated?</0></0><1>They are both the average cumulative spending by day for the three months before the selected “compare” month.</1>": "<0><0>Как рассчитываются «Среднее» и «Потраченное среднее MTD»? </0></0><1>Они оба представляют собой средние суммарные расходы по дням за три месяца, предшествующих выбранному «для сравнения» месяцу.</1>",
-    "(please select)": "(Пожалуйста, выберите)",
+    "(please select)": "(пожалуйста, выберите)",
     "{{displayMonth}} budget templates have been overwritten.": "Шаблоны бюджета на {{displayMonth}} были перезаписаны.",
-    "(give feedback)": "(дать отзыв)",
+    "(give feedback)": "(оставить отзыв)",
     "<0>Formatting</0> does not affect how budget data is stored, and can be changed at any time.": "<0>Форматирование</0> не влияет на то, как хранятся бюджетные данные, и может быть изменено в любое время.",
     "Actual is a super fast privacy-focused app for managing your finances. To secure your data, you’ll need to set a password for your server.": "Actual - это супер быстрое приложение, ориентированное на конфиденциальность для управления вашими финансами. Чтобы обезопасить ваши данные, вам необходимо установить пароль для вашего сервера.",
     "<0>Move schedule </0><1></1><2> {{beforeOrAfter}} weekend</2>": "<0>Переместить расписание </0><1></1><2> {{beforeOrAfter}} выходных</2>",
@@ -39,7 +39,7 @@
     "<0>Themes</0> change the user interface colors.": "<0>Темы</0> изменение цветов пользовательского интерфейса.",
     "$50 each month": "$50 каждый месяц",
     "<0>Reset budget cache</0> will clear all cached values for the budget and recalculate the entire budget. All values in the budget are cached for performance reasons, and if there is a bug in the cache you won’t see correct values. There is no danger in resetting the cache. Hopefully you never have to do this.": "<0>Сбросить кэш бюджета</0> очистит все кэшированные значения для бюджета и пересчитает весь бюджет. Все значения в бюджете кэшируются по соображениям производительности, и если в кэше есть ошибка, вы не увидите правильных значений. Сброс кэша не представляет опасности. Надеюсь, вам никогда не придется этого делать.",
-    "(+{{numHiddenPayees}} more)": "(+{{numHiddenPayees}} более)",
+    "(+{{numHiddenPayees}} more)": "(ещё +{{numHiddenPayees}})",
     "(No payee)": "(Нет получателя)",
     "(after weekend)": "(после выходных)",
     "<0>End-to-end encryption</0> is not enabled. Any data on the server is still protected by the server password, but it’s not end-to-end encrypted which means the server owners have the ability to read it. If you want, you can use an additional password to encrypt your data on the server.": "<0>Сквозное шифрование</0> не включено. Все данные на сервере защищены паролем сервера, но без сквозного шифрования владельцы сервера могут их прочитать. Если хотите, вы можете использовать дополнительный пароль для шифрования данных на сервере.",
@@ -139,7 +139,7 @@
     "Wednesday": "Среда",
     "Tuesday": "Вторник",
     "Monday": "Понедельник",
-    "{{accountName}} bank sync settings": "Настройки синхронизации банка {{accountName}}",
+    "{{accountName}} bank sync settings": "Настройки синхронизации банка для {{accountName}}",
     "Actual’s data directory successfully changed.": "Каталог данных Actual успешно изменен.",
     "account": "счёт",
     "Account list": "Список счетов",
@@ -351,5 +351,6 @@
     "Choose the schedule these {{ count }} transactions belong to:_many": "Выберите расписание, которому принадлежит следующие {{ count }} операций",
     "{{count}} uncategorized transactions_one": "{{count}} транзакция без категории",
     "{{count}} uncategorized transactions_few": "{{count}} транзакции без категории",
-    "{{count}} uncategorized transactions_many": "{{count}} транзакций без категории"
+    "{{count}} uncategorized transactions_many": "{{count}} транзакций без категории",
+    "{{categoryName}} shortcuts": "Быстрые действия для {{categoryName}}"
 }
