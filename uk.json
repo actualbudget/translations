@@ -1575,5 +1575,8 @@
     "Prior year to date": "За попередній рік до сьогодні",
     "Reopen": "Відкрити знову",
     "Reset Pluggy.ai credentials": "Скинути облікові дані Pluggy.ai",
-    "OpenID provider": "Постачальник OpenID"
+    "OpenID provider": "Постачальник OpenID",
+    "Are you sure you want to delete these {{count}} transactions?_one": "Ви впевнені, що хочете видалити цю {{count}} транзакцію?",
+    "Are you sure you want to delete these {{count}} transactions?_few": "Ви впевнені, що хочете видалити ці {{count}} транзакції?",
+    "Are you sure you want to delete these {{count}} transactions?_many": "Ви впевнені, що хочете видалити ці {{count}} транзакцій?"
 }
