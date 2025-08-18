@@ -1101,7 +1101,6 @@
     "Day: {{dayOfMonth}}": "Dia: {{dayOfMonth}}",
     "Export transactions": "Exportar transações",
     "Filter name": "Nome do filtro",
-    "Go to log in": "Ir para o login",
     "Log in with password": "Login com senha",
     "Transferred {{amount}} to {{categoryName}}": "Transferido {{amount}} para {{categoryName}}",
     "Done reconciling": "Concluir reconciliação",

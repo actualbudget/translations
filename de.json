@@ -800,7 +800,6 @@
     "No actions available": "Keine Aktionen verfügbar",
     "No transactions found": "Keine Transaktionen gefunden",
     "GitHub does not support discovery. You need to configure it in the server.": "GitHub unterstützt keine automatische Erkennung. Du musst dies auf dem Server konfigurieren.",
-    "Go to log in": "Zum Login",
     "Import a file exported from Actual": "Importiere eine aus Actual exportierte Datei",
     "If you can't update Actual at this time you can find the latest release at <2>app.actualbudget.org</2>. You can use it until your client is updated.": "Wenn du Actual derzeit nicht aktualisieren kannst, findest du die neueste Version unter <2>app.actualbudget.org</2>. Du kannst sie verwenden, bis dein Client aktualisiert wird.",
     "In the future, you can add accounts from the sidebar.": "In Zukunft kannst du Konten über die Seitenleiste hinzufügen.",

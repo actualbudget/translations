@@ -518,7 +518,6 @@
     "Error getting available users": "Une erreur est survenue lors de la récupération des utilisateurs disponibles",
     "For Actual to be useful, you need to <1>add an account</1>. You can link an account to automatically download transactions, or manage it locally yourself.": "Pour utiliser Actual, vous devez <1>ajouter un compte</1>. Vous pouvez lier un compte pour télécharger automatiquement les transactions, ou gérer cela vous-même localement.",
     "Hide hidden categories": "Cacher les catégories masquées",
-    "Go to log in": "Aller à la page de connexion",
     "Existing filters will be cleared": "Les filtres existants seront supprimés",
     "If <2></2>{{allOrAny}} of these conditions match:": "Si <2></2>{{allOrAny}} conditions correspondent :",
     "GoCardless integration has not yet been configured.": "L'intégration de GoCardless n'a pas encore été configurée.",
