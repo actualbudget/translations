@@ -1579,5 +1579,12 @@
     "Are you sure you want to delete these {{count}} transactions?_one": "Ви впевнені, що хочете видалити цю {{count}} транзакцію?",
     "Are you sure you want to delete these {{count}} transactions?_few": "Ви впевнені, що хочете видалити ці {{count}} транзакції?",
     "Are you sure you want to delete these {{count}} transactions?_many": "Ви впевнені, що хочете видалити ці {{count}} транзакцій?",
-    "Distribute": "Поширити"
+    "Distribute": "Поширити",
+    "Are you sure you want to delete the transaction?": "Ви впевнені, що хочете видалити транзакцію?",
+    "Are you sure you want to delete this rule?": "Ви впевнені, що хочете видалити це правило?",
+    "Failed to delete rule. Please try again.": "Не вдалося видалити правило. Спробуйте ще раз.",
+    "Search shortcuts": "Пошук комбінацій клавіш",
+    "Rule deleted successfully": "Правило успішно видалено",
+    "Pluggy.ai menu": "Меню Pluggy.ai",
+    "Long_noun": "Long_noun"
 }
