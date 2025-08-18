@@ -1552,5 +1552,12 @@
     "Create Rule": "Créer une règle",
     "Edit Rule": "Modifier la règle",
     "Loading rule...": "Chargement de la règle…",
-    "Reopen": "Réouvrir"
+    "Reopen": "Réouvrir",
+    "Are you sure you want to delete the transaction?": "Êtes-vous sûr de vouloir supprimer la transaction ?",
+    "Are you sure you want to delete these {{count}} transactions?_one": "Êtes-vous sûr de vouloir supprimer cette {{count}} transaction ?",
+    "Are you sure you want to delete these {{count}} transactions?_many": "Êtes-vous sûr de vouloir supprimer ces {{count}} transactions ?",
+    "Are you sure you want to delete these {{count}} transactions?_other": "",
+    "Are you sure you want to delete this rule?": "Êtes-vous sûr de vouloir supprimer cette règle ?",
+    "Failed to delete rule. Please try again.": "Échec de la suppression de la règle. Veuillez réessayer.",
+    "Rule deleted successfully": "Règle supprimée avec succès"
 }
