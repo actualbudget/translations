@@ -1542,5 +1542,6 @@
     "Show {{count}} unused payees_other": "Mostra {{count}} beneficiari non utilizzati",
     "The payee <2>{{previousPayee}}</2> is not used by transactions any more. Would you like to merge it with <6>{{payee}}</6>?": "Il beneficiario <2>{{previousPayee}}</2> non è più utilizzato da nessuna transazione. Vuoi unirlo con <6>{{payee}}</6>?",
     "Unlink account": "Scollega conto",
-    "Polish Złoty": "Złoty polacco"
+    "Polish Złoty": "Złoty polacco",
+    "Add new rule": "Aggiungi nuova regola"
 }
