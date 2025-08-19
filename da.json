@@ -92,7 +92,7 @@
     "Account menu": "Kontomenu",
     "Accounts": "Konti",
     "Actions": "Handlinger",
-    "Actual has updated the syncing format": "Actual har opdateret synkroniseringsformatet.",
+    "Actual has updated the syncing format": "Actual har opdateret synkroniseringsformatet",
     "Fixed {{count}} transfers._one": "Rettede {{count}} overførsel.",
     "Fixed {{count}} transfers._other": "Rettede {{count}} overførsler.",
     "You have {{count}} overspent categories_one": "Du har overforbrug i {{count}} kategori",
@@ -487,5 +487,8 @@
     "{{count}} uncategorized transactions_one": "{{count}} ukategoriseret transaktion",
     "{{count}} uncategorized transactions_other": "{{count}} ukategoriserede transaktioner",
     "{{scheduleName}} is due {{distanceFromNow}} ({{formattedDate}})": "{{scheduleName}} forfalder {{distanceFromNow}} ({{formattedDate}})",
-    "{{status}} (Split)": "{{status}} (Opdel)"
+    "{{status}} (Split)": "{{status}} (Opdel)",
+    "<0>{{category}}</0> is used by existing transactions.": "<0>{{category}}</0> bruges af eksisterende transaktioner.",
+    "Access Revocation Incomplete": "Tilbagekaldelse af adgang er ikke fuldført",
+    "Account is a required field": "Konto er et påkrævet felt"
 }
