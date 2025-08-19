@@ -1558,5 +1558,11 @@
     "Are you sure you want to delete these {{count}} transactions?_other": "Êtes-vous sûr de vouloir supprimer ces {{count}} transactions ?",
     "Are you sure you want to delete this rule?": "Êtes-vous sûr de vouloir supprimer cette règle ?",
     "Failed to delete rule. Please try again.": "Échec de la suppression de la règle. Veuillez réessayer.",
-    "Rule deleted successfully": "Règle supprimée avec succès"
+    "Rule deleted successfully": "Règle supprimée avec succès",
+    "Already imported transaction. You can skip it, or import it again.": "Transaction déjà importée. Vous pouvez la passer ou l’importer à nouveau.",
+    "Invalid: unable to parse the value": "Invalide : impossible de décomposer la valeur",
+    "Invalid: unable to parse the value ({{amount}})": "Invalide : impossible de décomposer la valeur ({{amount}})",
+    "New transaction. You can import it, or skip it.": "Nouvelle transaction. Vous pouvez l’importer ou la passer.",
+    "Updated transaction. You can update it, import it again, or skip it.": "Transaction mise à jour. Vous pouvez la mettre à jour, l’importer ou la passer.",
+    "Select column to specify if amount goes in/out": "Sélectionnez la colonne pour spécifier si le montant est crédité ou débité."
 }
