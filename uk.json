@@ -1591,5 +1591,6 @@
     "Already imported transaction. You can skip it, or import it again.": "Транзакція вже імпортована. Ви можете пропустити її або імпортувати знову.",
     "In/Out outflow value": "Значення надходжень/витрат",
     "Invalid: unable to parse the value": "Некоректне значення: неможливо розпізнати",
-    "Invalid: unable to parse the value ({{amount}})": "Некоректне значення: неможливо розпізнати ({{amount}})"
+    "Invalid: unable to parse the value ({{amount}})": "Некоректне значення: неможливо розпізнати ({{amount}})",
+    "New transaction. You can import it, or skip it.": "Нова транзакція. Ви можете імпортувати її або пропустити."
 }
