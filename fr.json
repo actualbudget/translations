@@ -1563,6 +1563,8 @@
     "Invalid: unable to parse the value": "Invalide : impossible de décomposer la valeur",
     "Invalid: unable to parse the value ({{amount}})": "Invalide : impossible de décomposer la valeur ({{amount}})",
     "New transaction. You can import it, or skip it.": "Nouvelle transaction. Vous pouvez l’importer ou la passer.",
-    "Updated transaction. You can update it, import it again, or skip it.": "Transaction mise à jour. Vous pouvez la mettre à jour, l’importer ou la passer.",
-    "Select column to specify if amount goes in/out": "Sélectionnez la colonne pour spécifier si le montant est crédité ou débité."
+    "Updated transaction. You can update it, import it again, or skip it.": "Transaction mise à jour. Vous pouvez la mettre à jour, l’importer à nouveau ou la passer.",
+    "Select column to specify if amount goes in/out": "Sélectionnez la colonne pour spécifier si le montant est crédité ou débité",
+    "Value for out rows, e.g: ‘Credit’": "Valeur pour les lignes de sortie, ex : ‘Credit’",
+    "In/Out outflow value": "Valeur qui spécifie l'entrée/sortie"
 }
