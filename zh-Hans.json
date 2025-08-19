@@ -90,5 +90,8 @@
     "Account is a required field": "账户是必填字段",
     "Account linking not opening in a new tab? Click here": "账户链接未在新标签页中打开？点击这里",
     "28+": "28+",
-    "Access": "使用权"
+    "Access": "使用权",
+    "{{num}} more items...": "{{num}} 更多项目...",
+    "a fixed amount": "固定金额",
+    "a fixed percent of the remainder": "剩余部分的固定百分比"
 }
