@@ -1542,5 +1542,14 @@
     "The payee <2>{{previousPayee}}</2> is not used by transactions any more. Would you like to merge it with <6>{{payee}}</6>?": "Il beneficiario <2>{{previousPayee}}</2> non è più utilizzato da nessuna transazione. Vuoi unirlo con <6>{{payee}}</6>?",
     "Unlink account": "Scollega conto",
     "Polish Złoty": "Złoty polacco",
-    "Add new rule": "Aggiungi nuova regola"
+    "Add new rule": "Aggiungi nuova regola",
+    "Are you sure you want to delete the transaction?": "Vuoi davvero cancellare la transazione?",
+    "Are you sure you want to delete these {{count}} transactions?_one": "Vuoi davvero cancellare questa transazione?",
+    "Are you sure you want to delete these {{count}} transactions?_many": "Vuoi davvero cancellare {{count}} transazioni?",
+    "Are you sure you want to delete these {{count}} transactions?_other": "Vuoi davvero cancellare {{count}} transazioni?",
+    "Are you sure you want to delete this rule?": "Vuoi davvero cancellare questa regola?",
+    "Closed: {{accountName}}": "Chiuso:{{accountName}}",
+    "Create Rule": "Crea regola",
+    "Edit Rule": "Modifica regola",
+    "Failed to delete rule. Please try again.": "Impossibile cancellare la regola. Per favore, riprova."
 }
