@@ -7,5 +7,7 @@
     "(give feedback)": "(beri umpan balik)",
     "(hidden)": "(tersembunyi)",
     "(modified)": "(dimodifikasi)",
-    "(No payee)": "(Tidak ada penerima)"
+    "(No payee)": "(Tidak ada penerima)",
+    "(Optional)": "(Opsional)",
+    "{{count}} transactions_other": "{{count}} transaksi"
 }
