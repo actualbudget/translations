@@ -1551,5 +1551,6 @@
     "Closed: {{accountName}}": "Chiuso:{{accountName}}",
     "Create Rule": "Crea regola",
     "Edit Rule": "Modifica regola",
-    "Failed to delete rule. Please try again.": "Impossibile cancellare la regola. Per favore, riprova."
+    "Failed to delete rule. Please try again.": "Impossibile cancellare la regola. Per favore, riprova.",
+    "Already imported transaction. You can skip it, or import it again.": "Transazione già importata. Puoi ignorarla o importarla nuovamente."
 }
