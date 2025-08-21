@@ -1552,5 +1552,12 @@
     "Create Rule": "Crea regola",
     "Edit Rule": "Modifica regola",
     "Failed to delete rule. Please try again.": "Impossibile cancellare la regola. Per favore, riprova.",
-    "Already imported transaction. You can skip it, or import it again.": "Transazione già importata. Puoi ignorarla o importarla nuovamente."
+    "Already imported transaction. You can skip it, or import it again.": "Transazione già importata. Puoi ignorarla o importarla nuovamente.",
+    "Loading rule...": "Caricamento regola...",
+    "Reconciled {{ relativeTimeAgo }} ({{ absoluteDate }})": "Riconciliato {{ relativeTimeAgo }}  {{ absoluteDate }}",
+    "Reopen": "Riaperto",
+    "Rule deleted successfully": "Regola cancellata con successo",
+    "Search All Accounts": "Cerca in tutti i conti",
+    "Search Off Budget Accounts": "Cerca nei conti fuori budget",
+    "Search On Budget Accounts": "Cerca nei conti in budget"
 }
