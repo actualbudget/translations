@@ -1555,5 +1555,15 @@
     "THEN": "ENTÃO",
     "Toggle balance history": "Alternar histórico de saldo",
     "Updated transaction. You can update it, import it again, or skip it.": "Transação atualizada. Você pode atualizá-la, importá-la novamente ou ignorá-la.",
-    "Value for out rows, e.g: ‘Credit’": "Valor para linhas de saída, ex: 'Crédito'"
+    "Value for out rows, e.g: ‘Credit’": "Valor para linhas de saída, ex: 'Crédito'",
+    "Rule deleted successfully": "Regra excluída com sucesso",
+    "Search Off Budget Accounts": "Buscar em Contas Fora do Orçamento",
+    "Search On Budget Accounts": "Buscar em Contas no Orçamento",
+    "Select column to specify if amount goes in/out": "Selecione a coluna para indicar se o valor é de entrada ou saída",
+    "Show {{count}} unused payees_one": "Mostrar beneficiário não utilizado",
+    "Show {{count}} unused payees_many": "Mostrar {{count}} beneficiários não utilizados",
+    "Show {{count}} unused payees_other": "Mostrar {{count}} beneficiários não utilizados",
+    "Are you sure you want to delete these {{count}} transactions?_one": "Tem certeza de que deseja excluir esta transação?",
+    "Are you sure you want to delete these {{count}} transactions?_many": "Tem certeza de que deseja excluir estas {{count}} transações?",
+    "Are you sure you want to delete these {{count}} transactions?_other": "Tem certeza de que deseja excluir estas {{count}} transações?"
 }
