@@ -1598,5 +1598,6 @@
     "Save up for the next occurrence": "Зберегти для наступного випадку",
     "Save up for the schedule &lsquo;{{name}}&rsquo;": "Накопичити на розклад &lsquo;{{name}}&rsquo;",
     "Select column to specify if amount goes in/out": "Виберіть стовпець, щоб вказати, чи є сума надходженням/витратою",
-    "Value for out rows, e.g: ‘Credit’": "Значення для рядків витрат, наприклад: «Кредит»"
+    "Value for out rows, e.g: ‘Credit’": "Значення для рядків витрат, наприклад: «Кредит»",
+    "Updated transaction. You can update it, import it again, or skip it.": "Оновлена транзакція. Ви можете оновити її, імпортувати знову або пропустити."
 }
