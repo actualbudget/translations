@@ -250,7 +250,7 @@
     "Failed importing the dashboard file.": "Nie udało się zaimportować pliku dashboard.",
     "Edit notes": "Edytuj notatki",
     "Import file": "Importuj plik",
-    "<0>Formatting</0> does not affect how budget data is stored, and can be changed at any time.": "<0>Format</0> nie wpływa na sposób przechowywania danych budżetowych i można go zmienić w dowolnym momencie.",
+    "<0>Formatting</0> does not affect how budget data is stored, and can be changed at any time.": "<0>Format</0> nie wpływa na sposób przechowywania danych budżetowych. Można go zmienić w dowolnym momencie.",
     "<0>Move schedule </0><1></1><2> {{beforeOrAfter}} weekend</2>": "<0>Przenieś zaplanowane </0><1></1><2> {{beforeOrAfter}} weekend</2>",
     "Add New": "Dodaj nową",
     "Create": "Utwórz",
