@@ -1559,5 +1559,6 @@
     "Rule deleted successfully": "Regola cancellata con successo",
     "Search All Accounts": "Cerca in tutti i conti",
     "Search Off Budget Accounts": "Cerca nei conti fuori budget",
-    "Search On Budget Accounts": "Cerca nei conti in budget"
+    "Search On Budget Accounts": "Cerca nei conti in budget",
+    "Invalid: unable to parse the value": "Non valido: impossibile elaborare il valore"
 }
