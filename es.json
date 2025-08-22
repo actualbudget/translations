@@ -815,5 +815,12 @@
     "Configure your server": "Configurar tu servidor",
     "Delete template": "Eliminar plantilla",
     "Edit template": "Editar plantilla",
-    "due": "pendiente"
+    "due": "pendiente",
+    "{{count}} payees_one": "{{count}} beneficiario",
+    "{{count}} payees_many": "{{count}} beneficiarios",
+    "{{count}} payees_other": "{{count}} beneficiarios",
+    "{{count}} uncategorized transactions_one": "{{count}} transacción sin categorizar",
+    "{{count}} uncategorized transactions_many": "{{count}} transacciones sin categorizar",
+    "{{count}} uncategorized transactions_other": "{{count}} transacciones sin categorizar",
+    "<0>{{category}}</0> is used by existing transactions or it has a positive leftover balance currently.": "<0>{{category}}</0> está siendo utilizado por transacciones existentes o actualmente tiene un saldo restante positivo."
 }
