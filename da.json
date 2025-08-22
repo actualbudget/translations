@@ -490,5 +490,6 @@
     "{{status}} (Split)": "{{status}} (Opdel)",
     "<0>{{category}}</0> is used by existing transactions.": "<0>{{category}}</0> bruges af eksisterende transaktioner.",
     "Access Revocation Incomplete": "Tilbagekaldelse af adgang er ikke fuldført",
-    "Account is a required field": "Konto er et påkrævet felt"
+    "Account is a required field": "Konto er et påkrævet felt",
+    "{{categoryGroupName}} expense group categories": "{{categoryGroupName}} udgiftsgruppekategorier"
 }
