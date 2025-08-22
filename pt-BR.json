@@ -1565,5 +1565,6 @@
     "Show {{count}} unused payees_other": "Mostrar {{count}} beneficiários não utilizados",
     "Are you sure you want to delete these {{count}} transactions?_one": "Tem certeza de que deseja excluir esta transação?",
     "Are you sure you want to delete these {{count}} transactions?_many": "Tem certeza de que deseja excluir estas {{count}} transações?",
-    "Are you sure you want to delete these {{count}} transactions?_other": "Tem certeza de que deseja excluir estas {{count}} transações?"
+    "Are you sure you want to delete these {{count}} transactions?_other": "Tem certeza de que deseja excluir estas {{count}} transações?",
+    "In/Out outflow value": "Valor de entrada/saída"
 }
