@@ -533,7 +533,7 @@
     "Add a fixed percentage of your income to this category each month. You can choose to take the percentage from the current month or the previous month.": "Każdego miesiąca dodaj stały procent z Twoich dochodów do tej kategorii. Możesz wybrać procent z obecnego lub poprzedniego miesiąca.",
     "Add an amount to this category each month based on the values from previous months. For example, you can copy the amount from a year ago to budget for an annual expense, or budget the average of the last 3 months to account for seasonal changes.": "Co miesiąc dodaj kwotę do tej kategorii na podstawie wartości z poprzednich miesięcy. Na przykład, możesz skopiować kwotę sprzed roku, aby zabudżetować roczny wydatek, lub średnią z ostatnich 3 miesięcy, aby uwzględnić zmiany sezonowe.",
     "Add entry": "Dodaj wpis",
-    "Add new automation": "Nowa automatyzacja",
+    "Add new automation": "Dodaj nową automatyzację",
     "Add space between amount and symbol": "Dodaj spację między wartością a symbolem",
     "Add user": "Dodaj użytkownika",
     "Amount left:": "Pozostała kwota:",
@@ -996,5 +996,12 @@
     "It is recommended for the encryption password to be different than the log-in password in order to better protect your data.": "Zaleca się, aby hasło szyfrowania było inne niż hasło logowania w celu lepszej ochrony danych.",
     "It is required to provide a token.": "Wymagane jest podanie tokena.",
     "It is required to provide both the secret id and secret key.": "Wymagane jest podanie zarówno tajnego identyfikatora, jak i tajnego klucza.",
-    "Item is no longer authorized. You need to login again.": "Brak autoryzacji. Zaloguj się ponownie."
+    "Item is no longer authorized. You need to login again.": "Brak autoryzacji. Zaloguj się ponownie.",
+    "{{categoryName}} shortcuts": "{{categoryName}} skróty",
+    "{{scheduleName}} is due {{distanceFromNow}} ({{formattedDate}})": "Termin {{scheduleName}} upływa za {{distanceFromNow}} ({{formattedDate}})",
+    "{{status}} (Split)": "{{status}} (Podziel)",
+    "{isSearching\n                        ? 'No matching shortcuts'\n                        : isInCategory\n                          ? 'No shortcuts in this category'\n                          : 'No matching shortcuts'}": "{isSearching\n                        ? 'Brak pasujących skrótów'\n                         : isInCategory\n                             ? 'Brak skrótów w tej kategorii'\n                              : 'Brak pasujących skrótów'}",
+    "Account page": "Strona konta",
+    "Add enough to this category to cover the selected schedule. If the schedule occurs multiple times in a month, an amount will be added for each occurrence. You can choose to save up for the next occurrence over time (e.g. save $100 each month for a $300 quarterly bill) or cover each occurrence when it occurs (e.g. only add the $300 when the bill is due).": "Dodaj wystarczającą kwotę do tej kategorii, aby pokryć wybrany harmonogram.  \nJeśli harmonogram występuje wielokrotnie w ciągu miesiąca, kwota zostanie dodana dla każdego wystąpienia.  \nMożesz zdecydować się na odkładanie na kolejne wystąpienie w czasie (np. odkładaj 100 zł miesięcznie na rachunek kwartalny w wysokości 300 zł) lub pokrywać każde wystąpienie w momencie jego wystąpienia (np. dodaj 300 zł tylko wtedy, gdy rachunek jest wymagalny).",
+    "After amount (e.g. 100€)": "Po kwocie (np. 100€)"
 }
