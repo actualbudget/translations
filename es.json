@@ -822,5 +822,6 @@
     "{{count}} uncategorized transactions_one": "{{count}} transacción sin categorizar",
     "{{count}} uncategorized transactions_many": "{{count}} transacciones sin categorizar",
     "{{count}} uncategorized transactions_other": "{{count}} transacciones sin categorizar",
-    "<0>{{category}}</0> is used by existing transactions or it has a positive leftover balance currently.": "<0>{{category}}</0> está siendo utilizado por transacciones existentes o actualmente tiene un saldo restante positivo."
+    "<0>{{category}}</0> is used by existing transactions or it has a positive leftover balance currently.": "<0>{{category}}</0> está siendo utilizado por transacciones existentes o actualmente tiene un saldo restante positivo.",
+    "<0>{{category}}</0> is used by existing transactions.": "<0>{{category}}</0> tiene transacciones asociadas."
 }
