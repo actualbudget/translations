@@ -1511,5 +1511,9 @@
     "{{num}} more items...": "{{num}} weitere Einträge...",
     "any": "irgendeine",
     "Prior year to date": "Vorjahr bis heute",
-    "Split {{num}}": "{{num}} aufteilen"
+    "Split {{num}}": "{{num}} aufteilen",
+    "The payee <2>{{previousPayee}}</2> is not used by transactions any more. Would you like to merge it with <6>{{payee}}</6>?": "Der Zahlungsempfänger <2>{{previousPayee}}</2> wird nicht mehr in Transaktionen verwendet. Möchten Sie diesen mit <6>{{payee}}</6> zusammenlegen?",
+    "Turkish Lira": "Türkische Lira",
+    "Show {{count}} unused payees_one": "Zeige einen ungenutzten Zahlungsempfänger",
+    "Show {{count}} unused payees_other": "Zeige {{count}} ungenutzte Zahlungsempfänger"
 }
