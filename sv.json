@@ -824,8 +824,6 @@
     "Keyboard shortcuts": "Kortkommandon",
     "Welcome to Actual!": "Välkommen till Actual!",
     "When": "När",
-    "You have {{count}} uncategorized transactions_one": "Du har {{count}} överföring som inte har kategoriserats.",
-    "You have {{count}} uncategorized transactions_other": "Du har {{count}} överföringar som inte har kategoriserats.",
     "indefinitely": "för alltid",
     "Interval": "Intervall",
     "is on budget": "är inom budget",

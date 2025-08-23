@@ -95,8 +95,6 @@
     "Actual has updated the syncing format": "Actual har opdateret synkroniseringsformatet",
     "Fixed {{count}} transfers._one": "Rettede {{count}} overførsel.",
     "Fixed {{count}} transfers._other": "Rettede {{count}} overførsler.",
-    "You have {{count}} overspent categories_one": "Du har overforbrug i {{count}} kategori",
-    "You have {{count}} overspent categories_other": "Du har overforbrug i {{count}} kategorier",
     "Account linking not opening in a new tab? Click here": "Klik her, hvis et nyt vindue for indstilling af bankforbindelse ikke åbner.",
     "Actual is a super fast privacy-focused app for managing your finances. To secure your data, you’ll need to set a password for your server.": "Actual er et lynhurtigt værktøj til styring af privatøkonomi, med fokus på en stærk privatlivspolitik. For at beskytte dine data, skal du indtaste et kodeord for serveren.",
     "Actual requires access to <1>SharedArrayBuffer</1> in order to function properly. If you’re seeing this error, either your browser does not support <3>SharedArrayBuffer</3>, or your server is not sending the appropriate headers, or you are not using HTTPS. See <6>our troubleshooting documentation</6> to learn more. <9></9>": "Actual kræver brugen af <1>SharedArrayBuffer</1> for at virke ordentlig. Hvis du ser denne fejl, skyldes det enten, at din browser ikke understøtter <3>SharedArrayBuffer</3>, at serveren ikke sender de rigtige headers, eller at du ikke bruger HTTPS. Se nærmere på <6>vores fejlsøgningsinformation</6> for at lære mere.<9></9>",
