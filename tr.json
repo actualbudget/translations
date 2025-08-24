@@ -14,5 +14,8 @@
     "(hidden)": "(gizli)",
     "(nothing)": "(hiçbiri)",
     "{{accountName}} bank sync settings": "{{accountName}} banka eşitleme ayarları",
-    "<0><0>Custom Report:</0></0> <2>{{name}}</2>": "<0><0>Özel Rapor:</0></0> <2>{{name}}</2>"
+    "<0><0>Custom Report:</0></0> <2>{{name}}</2>": "<0><0>Özel Rapor:</0></0> <2>{{name}}</2>",
+    "{{count}} transactions_one": "{{count}} işlem",
+    "{{count}} transactions_other": "{{count}} işlemler",
+    "<0><0>How is cash flow calculated?</0></0><1>Cash flow shows the balance of your budgeted accounts over time, and the amount of expenses/income each day or month. Your budgeted accounts are considered to be “cash on hand,” so this gives you a picture of how available money fluctuates.</1>": "<0><0>Nakit akışı nasıl hesaplanır?</0></0><1>Nakit akışı, bütçelenmiş hesaplarınızın zaman içindeki bakiyesini ve her gün veya ay için gider/gelir miktarını gösterir. Bütçelenmiş hesaplarınız 'eldeki nakit' olarak kabul edilir, bu nedenle bu size mevcut paranın nasıl dalgalandığına dair bir fikir verir.</1>"
 }
