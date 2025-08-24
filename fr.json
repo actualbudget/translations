@@ -1560,5 +1560,11 @@
     "Updated transaction. You can update it, import it again, or skip it.": "Transaction mise à jour. Vous pouvez la mettre à jour, l’importer à nouveau ou la passer.",
     "Select column to specify if amount goes in/out": "Sélectionnez la colonne pour spécifier si le montant est crédité ou débité",
     "Value for out rows, e.g: ‘Credit’": "Indicateur des lignes de sortie, ex. : « Credit »",
-    "In/Out outflow value": "Indicateur de flux sortant"
+    "In/Out outflow value": "Indicateur de flux sortant",
+    "You have {{count}} uncategorized transactions ({{amount}})_one": "Vous avez {{count}} transaction non catégorisée ({{amount}})",
+    "You have {{count}} uncategorized transactions ({{amount}})_many": "Vous avez {{count}} transactions non catégorisées ({{amount}})",
+    "You have {{count}} uncategorized transactions ({{amount}})_other": "Vous avez {{count}} transactions non catégorisées ({{amount}})",
+    "You have {{count}} overspent categories ({{amount}})_one": "Vous avez {{count}} catégorie en dépassement budgétaire ({{amount}})",
+    "You have {{count}} overspent categories ({{amount}})_many": "Vous avez {{count}} catégories en dépassement budgétaire ({{amount}})",
+    "You have {{count}} overspent categories ({{amount}})_other": "Vous avez {{count}} catégories en dépassement budgétaire ({{amount}})"
 }
