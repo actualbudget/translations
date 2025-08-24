@@ -20,5 +20,21 @@
     "<0><0>How is cash flow calculated?</0></0><1>Cash flow shows the balance of your budgeted accounts over time, and the amount of expenses/income each day or month. Your budgeted accounts are considered to be “cash on hand,” so this gives you a picture of how available money fluctuates.</1>": "<0><0>Nakit akışı nasıl hesaplanır?</0></0><1>Nakit akışı, bütçelenmiş hesaplarınızın zaman içindeki bakiyesini ve her gün veya ay için gider/gelir miktarını gösterir. Bütçelenmiş hesaplarınız 'eldeki nakit' olarak kabul edilir, bu nedenle bu size mevcut paranın nasıl dalgalandığına dair bir fikir verir.</1>",
     "{{displayMonth}} end-of-month cleanup templates have been applied.": "{{displayMonth}} ay sonu temizleme şablonları uygulandı.",
     "{{endOccurrences}} times": "{{endOccurrences}} defa",
-    "{{selectedPayeeNames}}, and more": "{{selectedPayeeNames}}, ve fazlası"
+    "{{selectedPayeeNames}}, and more": "{{selectedPayeeNames}}, ve fazlası",
+    "Calendar": "Takvim",
+    "Calendar card": "Takvim Kartı",
+    "Can also assign ownership of a budget to another person, ensuring efficient budget management.": "Ayrıca bütçenin sahipliğini başka bir kişiye atayarak bütçenin etkin bir şekilde yönetilmesini sağlayabilirsiniz.",
+    "Can do everything that Basic users can. In addition, they have the ability to add new users to the directory and access budget files from all users.": "Temel kullanıcıların yapabildiği her şeyi yapabilirler.  Ayrıca, dizine yeni kullanıcılar ekleme ve tüm kullanıcıların bütçe dosyalarına erişme yetkileri vardır.",
+    "Canadian Dollar": "Kanada Doları",
+    "Cancel": "Vazgeç",
+    "Cannot save: No widget available.": "Kaydedilemiyor: Widget yok.",
+    "Cash Flow": "Nakit Akışı",
+    "Cash flow graph": "Nakit Akış Grafiği",
+    "Categories in the group <2>{{group}}</2> are used by existing transactions or it has a positive leftover balance currently.": "Grubundaki <2>{{group}}</2> kategorileri mevcut işlemler tarafından kullanılıyor veya şu anda pozitif bir bakiye fazlası var.",
+    "Categorize": "Kategorize Et",
+    "category": "Kategori",
+    "Category": "Kategori",
+    "Category “{{name}}” already exists in group (it may be hidden)": "“{{name}}” kategorisi grupta zaten var (gizli olabilir)",
+    "Category Learning": "Kategori Öğrenme",
+    "Category name": "Kategori adı"
 }
