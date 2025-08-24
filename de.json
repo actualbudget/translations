@@ -1537,5 +1537,6 @@
     "Select column to specify if amount goes in/out": "Wähle eine Spalte, um festzulegen, ob der Betrag ein- oder ausgehend ist",
     "Toggle balance history": "Saldenentwicklung umschalten",
     "Transfer {{direction}} {{accountName}}": "Umbuchung {{direction}} {{accountName}}",
-    "Updated transaction. You can update it, import it again, or skip it.": "Transaktion aktualisiert. Du kannst sie aktualisieren, erneut importieren, oder überspringen."
+    "Updated transaction. You can update it, import it again, or skip it.": "Transaktion aktualisiert. Du kannst sie aktualisieren, erneut importieren, oder überspringen.",
+    "Qatari Riyal": "Katar-Riyal"
 }
