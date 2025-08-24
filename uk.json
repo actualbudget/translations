@@ -1165,7 +1165,7 @@
     "Include current period": "Включити поточний період",
     "Include current Month": "Включити поточний місяць",
     "Expense category groups": "Групи категорій витрат",
-    "Add enough to this category to cover the selected schedule. If the schedule occurs multiple times in a month, an amount will be added for each occurrence. You can choose to save up for the next occurrence over time (e.g. save $100 each month for a $300 quarterly bill) or cover each occurrence when it occurs (e.g. only add the $300 when the bill is due).": "Додайте в цю категорію достатньо коштів, щоб покрити заплановані операції. Якщо запланована операція відбувається кілька разів на місяць, сума буде додаватися для кожного випадку. Ви можете заздалегідь збирати кошти на наступну операцію (наприклад, заощаджувати по ₴100 щомісяця для щоквартального рахунку на ₴300) або покривати кожну операцію, коли вона настає (наприклад, додати ₴300 лише тоді, коли настане термін оплати рахунку).",
+    "Add enough to this category to cover the selected schedule. If the schedule occurs multiple times in a month, an amount will be added for each occurrence. You can choose to save up for the next occurrence over time (e.g. save $100 each month for a $300 quarterly bill) or cover each occurrence when it occurs (e.g. only add the $300 when the bill is due).": "Додайте до цієї категорії достатньо коштів, щоб покрити вибраний розклад. Якщо розклад повторюється кілька разів на місяць, сума буде додана для кожного повтору. Ви можете накопичувати кошти на наступний повтор з часом (наприклад, відкладати 100 грн щомісяця на квартальний рахунок у 300 грн) або покривати кожен повтор, коли він настає (наприклад, додавати 300 грн лише тоді, коли настає термін сплати рахунку).",
     "Budget the same amount as {{amount}} months ago": "Виділіть ту саму суму, що й {{amount}} місяців тому",
     "By default imported transactions that you delete will be re-imported with the next bank sync operation. To disable this behaviour - untick this box.": "За замовчуванням видалені імпортовані транзакції будуть повторно імпортовані при наступній банківській синхронізації. Щоб вимкнути цю функцію, зніміть позначку з цього поля.",
     "By enabling bank sync, you will be granting GoCardless (a third party service) read-only access to your entire account’s transaction history. This service is not affiliated with Actual in any way. Make sure you’ve read and understand GoCardless’s <2>Privacy Policy</2> before proceeding.": "Увімкнувши синхронізацію з банком, ви надаєте GoCardless (сторонній сервіс) доступ лише для читання до всієї історії транзакцій вашого рахунку. Цей сервіс жодним чином не пов'язаний з Actual. Переконайтеся, що ви прочитали і зрозуміли <2>Політику конфіденційності</2> GoCardless перед тим, як продовжити.",
@@ -1594,5 +1594,11 @@
     "Select column to specify if amount goes in/out": "Виберіть стовпець, щоб вказати, чи є сума надходженням/витратою",
     "Value for out rows, e.g: ‘Credit’": "Значення для рядків витрат, наприклад: «Кредит»",
     "Updated transaction. You can update it, import it again, or skip it.": "Оновлена транзакція. Ви можете оновити її, імпортувати знову або пропустити.",
-    "Missed {{scheduleName}} due {{distanceFromNow}} ({{formattedDate}})": "Пропущено {{scheduleName}} з {{distanceFromNow}} ({{formattedDate}})"
+    "Missed {{scheduleName}} due {{distanceFromNow}} ({{formattedDate}})": "Пропущено {{scheduleName}} з {{distanceFromNow}} ({{formattedDate}})",
+    "You have {{count}} overspent categories ({{amount}})_one": "У вас {{count}} категорія з перевищенням витрат ({{amount}})",
+    "You have {{count}} overspent categories ({{amount}})_few": "У вас {{count}} категорії з перевищенням витрат ({{amount}})",
+    "You have {{count}} overspent categories ({{amount}})_many": "У вас {{count}} категорій з перевищенням витрат ({{amount}})",
+    "You have {{count}} uncategorized transactions ({{amount}})_one": "У вас {{count}} транзакція без категорії ({{amount}})",
+    "You have {{count}} uncategorized transactions ({{amount}})_few": "У вас {{count}} транзакції без категорій ({{amount}})",
+    "You have {{count}} uncategorized transactions ({{amount}})_many": "У вас {{count}} транзакцій без категорій ({{amount}})"
 }
