@@ -160,7 +160,7 @@
     "append to notes": "Дописать в конец примечаний",
     "Are you sure you want to delete the report named ‘<2>{{name}}</2>’?": "Вы уверены, что хотите удалить отчет „<2>{{name}}</2>“?",
     "All reconciled!": "Всё сверено!",
-    "An internal error occurred, sorry! Visit https://actualbudget.org/contact/ for support. (ref: {{reason}})": "Произошла внутренняя ошибка, извините! Посетите https://actual budget.org/contact/ для поддержки. (ref: {{reason}})",
+    "An internal error occurred, sorry! Visit https://actualbudget.org/contact/ for support. (ref: {{reason}})": "Произошла внутренняя ошибка. Посетите https://actual budget.org/contact/ для поддержки. (ref: {{reason}})",
     "Available for download": "Доступно для скачивания",
     "Assets:": "Активы:",
     "Available funds": "Доступные средства",
