@@ -25,7 +25,7 @@
     "{{displayMonth}} budgets have all been set to zero.": "Все суммы месяца «{{displayMonth}}» были заменены нулём.",
     "{{displayMonth}} end-of-month cleanup templates have been applied.": "В конце месяца «{{displayMonth}}» были применены очищающие шаблоны.",
     "{{displayMonth}} budget templates have been applied.": "Были применены шаблоны бюджета на {{displayMonth}}.",
-    "<0><0>How are “Average” and “Spent Average MTD” calculated?</0></0><1>They are both the average cumulative spending by day for the three months before the selected “compare” month.</1>": "<0><0>Как рассчитываются «Среднее» и «Потраченное среднее MTD»? </0></0><1>Они оба представляют собой средние суммарные расходы по дням за три месяца, предшествующих выбранному «для сравнения» месяцу.</1>",
+    "<0><0>How are “Average” and “Spent Average MTD” calculated?</0></0><1>They are both the average cumulative spending by day for the three months before the selected “compare” month.</1>": "<0><0>Как рассчитываются «Среднее» и «Потраченное среднее MTD»? </0></0><1>Они оба представляют собой средние суммарные расходы по дням за три месяца, предшествующих выбранному «сравнительному» месяцу.</1>",
     "(please select)": "(пожалуйста, выберите)",
     "{{displayMonth}} budget templates have been overwritten.": "Шаблоны бюджета на {{displayMonth}} были перезаписаны.",
     "(give feedback)": "(оставить отзыв)",
