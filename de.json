@@ -1185,7 +1185,6 @@
     "The request timed out. Please try again later.": "Zeitüberschreitung der Anfrage. Bitte versuche es später erneut.",
     "Error when trying to contact Pluggy.ai": "Fehler beim Versuch, Pluggy.ai zu kontaktieren",
     "Set-up Pluggy.ai": "Pluggy.ai einrichten",
-    "Pluggy.ai Bank Sync (Brazilian banks only)": "Pluggy.ai Bank-Synchronisation (nur für brasilianische Banken)",
     "Client Secret:": "Client-Secret:",
     "Client ID:": "Client-ID:",
     "<0>Link a <1>Brazilian</1> bank account</0> to automatically download transactions. Pluggy.ai provides reliable, up-to-date information from hundreds of banks.": "<0>Verknüpfe ein <1>brasilianisches</1> Bankkonto</0>, um Transaktionen automatisch herunterzuladen. Pluggy.ai bietet zuverlässige, aktuelle Informationen von Hunderten von Banken.",

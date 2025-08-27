@@ -1245,7 +1245,6 @@
     "Successfully unlinked {{count}} transactions from their respective schedules._other": "{{count}} transações desvinculadas com sucesso de seus respectivos agendamentos.",
     "Every {{interval}} weeks on {{dateFormatted}}": "A cada {{interval}} semanas no dia {{dateFormatted}}",
     "Not yet reconciled": "Ainda não reconciliado",
-    "Pluggy.ai Bank Sync (Brazilian banks only)": "Sincronização Bancária Pluggy.ai (apenas para bancos brasileiros)",
     "payee": "beneficiário",
     "Every year on {{dateFormatted}}": "Todo ano no dia {{dateFormatted}}",
     "<0>Link a <1>European</1> bank account</0> to automatically download transactions. GoCardless provides reliable, up-to-date information from hundreds of banks.": "<0>Vincule uma conta bancária <1>europeia</1></0> para baixar transações automaticamente. GoCardless fornece informações confiáveis e atualizadas de centenas de bancos.",
