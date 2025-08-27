@@ -103,5 +103,10 @@
     "Actual is a super fast privacy-focused app for managing your finances. To secure your data, you’ll need to set a password for your server.": "Actual 是一款极速且注重隐私的理财应用。为保障你的数据安全，你需要为服务器设置密码。",
     "Add a fixed amount to this category each month.": "每月向此类别添加固定金额。",
     "Add a fixed percentage of your income to this category each month. You can choose to take the percentage from the current month or the previous month.": "每月按你收入的一定比例为此类别分配资金，可选择以本月或上月收入为基准。",
-    "Add action": "添加操作"
+    "Add action": "添加操作",
+    "<0>Move schedule </0><1></1><2> {{beforeOrAfter}} weekend</2>": "<0>使预定设在</0><1></1><2>周末 {{beforeOrAfter}}</2>",
+    "Actual has updated the syncing format": "Actual 已更改同步格式",
+    "Actual’s data directory successfully changed.": "Actual 的数据目录已成功更改。",
+    "Add": "添加",
+    "Add account": "添加账户"
 }
