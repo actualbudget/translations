@@ -113,7 +113,8 @@
     "{{status}} (Split)": "{{status}} (拆分)",
     "<0><0>Custom Report:</0></0> <2>{{name}}</2>": "<0><0>自訂報表：</0></0> <2>{{name}}</2>",
     "<0><0>How are “Average” and “Spent Average MTD” calculated?</0></0><1>They are both the average cumulative spending by day for the three months before the selected “compare” month.</1>": "<0><0>「平均」及「當月平均支出」是如何計算的？</0></0><1>二者都是以選擇比較當月的前三個月逐日平均累計支出來計算。</1>",
-    "(deleted)": "（已刪除）",
+    "(deleted)": "(已刪除)",
     "(nothing)": "（無）",
-    "<0>{{category}}</0> is used by existing transactions or it has a positive leftover balance currently.": "仍有分類在<0>{{category}}</0> 的交易或該分類仍有餘額。"
+    "<0>{{category}}</0> is used by existing transactions or it has a positive leftover balance currently.": "仍有分類在<0>{{category}}</0> 的交易或該分類仍有餘額。",
+    "(+{{numHiddenPayees}} more)": "(+{{numHiddenPayees}} 更多)"
 }
