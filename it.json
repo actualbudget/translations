@@ -1559,5 +1559,11 @@
     "Select column to specify if amount goes in/out": "Seleziona la colonna per specificare se l’importo è in entrata o in uscita",
     "In/Out outflow value": "Valore outflow in Entrata/Uscita",
     "Updated transaction. You can update it, import it again, or skip it.": "Transazione aggiornata. Puoi modificarla, importarla di nuovo, oppure ignorarla.",
-    "Value for out rows, e.g: ‘Credit’": "Valore per le righe di uscita. E.s.: ‘Credito’"
+    "Value for out rows, e.g: ‘Credit’": "Valore per le righe di uscita. E.s.: ‘Credito’",
+    "You have {{count}} overspent categories ({{amount}})_one": "Hai {{count}} categoria con spesa oltre il budget ({{amount}})",
+    "You have {{count}} overspent categories ({{amount}})_many": "Hai {{count}} categorie con spesa oltre il budget ({{amount}})",
+    "You have {{count}} overspent categories ({{amount}})_other": "Hai {{count}} categorie con spesa oltre il budget ({{amount}})",
+    "You have {{count}} uncategorized transactions ({{amount}})_one": "Hai {{count}} transazione non categorizzata({{amount}})",
+    "You have {{count}} uncategorized transactions ({{amount}})_many": "Hai {{count}} transazioni non categorizzate ({{amount}})",
+    "You have {{count}} uncategorized transactions ({{amount}})_other": "Hai {{count}} transazioni non categorizzate ({{amount}})"
 }
