@@ -360,5 +360,7 @@
     "Add space between amount and symbol": "Добавьте пробел между суммой и символом",
     "Encrypting the file failed. You have the correct key so this is an internal bug. To fix this, generate a new key in the next step.": "Шифрование файла завершилось с ошибкой. У вас корректный ключ, из чего следует, что это внутренний баг. Для того, чтобы исправить это, сгенерируйте новый ключ на следующем шаге",
     "To enable end-to-end encryption, you need to create a key. We will generate a key based on a password and use it to encrypt from now on. <2>This requires a sync reset</2> and all other devices will have to revert to this version of your data. ": "Чтобы включить сквозное шифрование, необходимо создать ключ. Мы сгенерируем ключ на основе пароля и будем использовать его для шифрования в дальнейшем. <2> Для этого потребуется сброс синхронизации</2>, а все остальные устройства вернутся к этой версии ваших данных. ",
-    "<0>{{category}}</0> is used by existing transactions or it has a positive leftover balance currently.": "<0>{{category}}</0> используется существующими транзакциями или имеет положительный остаток на балансе"
+    "<0>{{category}}</0> is used by existing transactions or it has a positive leftover balance currently.": "<0>{{category}}</0> используется существующими транзакциями или имеет положительный остаток на балансе",
+    "a fixed amount": "фиксированная сумма",
+    "a fixed percent of the remainder": "фиксированный процент от остатка"
 }
