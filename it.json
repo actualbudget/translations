@@ -1554,7 +1554,7 @@
     "Search Off Budget Accounts": "Cerca nei conti fuori budget",
     "Search On Budget Accounts": "Cerca nei conti in budget",
     "Invalid: unable to parse the value": "Non valido: impossibile elaborare il valore",
-    "Invalid: unable to parse the value ({{amount}})": "Non valido: impossibile interpretare il valore ({{amount}})",
+    "Invalid: unable to parse the value ({{amount}})": "Non valido: impossibile elaborare il valore ({{amount}})",
     "New transaction. You can import it, or skip it.": "Nuova transazione. Puoi importarla oppure ignorarla.",
     "Select column to specify if amount goes in/out": "Seleziona la colonna per specificare se l’importo è in entrata o in uscita",
     "In/Out outflow value": "Valore outflow in Entrata/Uscita",
