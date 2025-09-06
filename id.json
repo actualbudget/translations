@@ -9,5 +9,10 @@
     "(modified)": "(dimodifikasi)",
     "(No payee)": "(Tidak ada penerima)",
     "(Optional)": "(Opsional)",
-    "{{count}} transactions_other": "{{count}} transaksi"
+    "{{count}} transactions_other": "{{count}} transaksi",
+    "(please select)": "(silakan pilih)",
+    "{{categoryGroupName}} expense group categories": "Kategori grup pengeluaran {{categoryGroupName}}",
+    "{{categoryName}} shortcuts": "Pintasan {{categoryName}}",
+    "{{count}} associated rules_other": "{{count}} aturan terkait",
+    "{{count}} uncategorized transactions_other": "{{count}} transaksi tanpa kategori"
 }
