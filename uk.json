@@ -1097,7 +1097,6 @@
     "before": "до",
     "Budget {{percent}}% of &lsquo;{{category}}&rsquo; last month": "Виділяти {{percent}}% від &lsquo;{{category}}&rsquo; минулого місяця",
     "Budget {{percent}}% of &lsquo;{{category}}&rsquo; this month": "Виділити {{percent}}% від &lsquo;{{category}}&rsquo; цього місяця",
-    "Budget automations": "Автоматизація бюджетування",
     "Budget files": "Файли бюджетів",
     "Budget for a schedule": "Призначено для розкладу",
     "Budget set to last month‘s budget.": "Встановити бюджет як минулого місяця.",

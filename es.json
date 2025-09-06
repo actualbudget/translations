@@ -793,7 +793,6 @@
     "Add an amount to this category each month based on the values from previous months. For example, you can copy the amount from a year ago to budget for an annual expense, or budget the average of the last 3 months to account for seasonal changes.": "Añadir un monto a esta categoría cada mes, basado en los valores del los meses previos. Por ejemplo, puedes copiar el monto de hace un año para presupuestar un gasto anual, o presupuestar el promedio de los últimos 3 meses para considerar cambios temporales.",
     "Budget the average of the last {{amount}} months": "Presupuestar el promedio de los últimos {{amount}} meses",
     "Budget {{percent}}% of available funds to budget this month": "Presupuestar {{percent}}% de los fondos disponibles presupuestados este mes",
-    "Budget automations": "Automatizaciones de presupuesto",
     "{{categoryGroupName}} expense group categories": "{{categoryGroupName}} categorías de grupos de gastos",
     "{{accountName}} bank sync settings": "{{accountName}} Ajustes de sincronización bancaria",
     "Are you sure you want to unlink <1>{accountName}</1>?": "¿Estás seguro que deseas desvincular la cuenta <1>{accountName}</1>?",
