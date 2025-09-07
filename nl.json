@@ -1118,5 +1118,6 @@
     "{{accountName}} bank sync settings": "{{accountName}} bank synchronisatie instellingen",
     "{{endOccurrences}} times": "{{endOccurrences}} keer",
     "(after weekend)": "(na het weekend)",
-    "{{categoryGroupName}} expense group categories": "{{categoryGroupName}} uitgave groep categorieën"
+    "{{categoryGroupName}} expense group categories": "{{categoryGroupName}} uitgave groep categorieën",
+    "{{categoryName}} shortcuts": "{{categoryName}} snelkoppelingen"
 }
