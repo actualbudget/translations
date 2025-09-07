@@ -1119,5 +1119,7 @@
     "{{endOccurrences}} times": "{{endOccurrences}} keer",
     "(after weekend)": "(na het weekend)",
     "{{categoryGroupName}} expense group categories": "{{categoryGroupName}} uitgave groep categorieën",
-    "{{categoryName}} shortcuts": "{{categoryName}} snelkoppelingen"
+    "{{categoryName}} shortcuts": "{{categoryName}} snelkoppelingen",
+    "{{count}} uncategorized transactions_one": "{{count}} niet-gecategoriseerde transactie",
+    "{{count}} uncategorized transactions_other": "{{count}}niet-gecategoriseerde transacties"
 }
