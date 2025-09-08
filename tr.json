@@ -36,5 +36,13 @@
     "Category": "Kategori",
     "Category “{{name}}” already exists in group (it may be hidden)": "“{{name}}” kategorisi grupta zaten var (gizli olabilir)",
     "Category Learning": "Kategori Öğrenme",
-    "Category name": "Kategori adı"
+    "Category name": "Kategori adı",
+    "{{categoryGroupName}} expense group categories": "{{categoryGroupName}} masraf grup kategorileri",
+    "{{count}} uncategorized transactions_one": "{{count}} kategorize edilmemiş işlem",
+    "{{count}} uncategorized transactions_other": "{{count}} kategorize edilmemiş işlemler",
+    "{{displayMonth}} budget templates have been applied.": "{{displayMonth}} bütçe şablonları uygulandı.",
+    "{{displayMonth}} budget templates have been overwritten.": "{{displayMonth}} bütçe şablonlarının üzerine yazıldı.",
+    "{{displayMonth}} budgets have all been set to last month’s budgeted amounts.": "{{displayMonth}} bütçeleri son ayın bütçelenen miktarlarına ayarlandı.",
+    "{{num}} more items...": "{{num}} daha fazla oğe...",
+    "{{status}} (Split)": "{{status}} (Böl)"
 }
