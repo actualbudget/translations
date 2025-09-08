@@ -44,5 +44,6 @@
     "{{displayMonth}} budget templates have been overwritten.": "{{displayMonth}} bütçe şablonlarının üzerine yazıldı.",
     "{{displayMonth}} budgets have all been set to last month’s budgeted amounts.": "{{displayMonth}} bütçeleri son ayın bütçelenen miktarlarına ayarlandı.",
     "{{num}} more items...": "{{num}} daha fazla oğe...",
-    "{{status}} (Split)": "{{status}} (Böl)"
+    "{{status}} (Split)": "{{status}} (Böl)",
+    "{{displayMonth}} budgets have all been set to zero.": "{{displayMonth}} bütçesi tamamen sıfırlandı."
 }
