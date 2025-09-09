@@ -435,7 +435,7 @@
     "Display Name": "Wyświetlana nazwa",
     "Help": "Pomoc",
     "Create key": "Utwórz klucz",
-    "Access Revocation Incomplete": "Niekompletne wycofanie dostępu",
+    "Access Revocation Incomplete": "Niekompletne unieważnienie dostępu",
     "Edit account name": "Edytuj nazwę konta",
     "Compare {{formattedStartDate}} to {{typeOrFormattedEndDate}}": "Porównaj od {{formattedStartDate}} do {{typeOrFormattedEndDate}}",
     "Confirm": "Potwierdź",
