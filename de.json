@@ -1541,5 +1541,5 @@
     "You have {{count}} overspent categories ({{amount}})_other": "Du hast {{count}} überzogene Kategorien ({{amount}})",
     "You have {{count}} uncategorized transactions ({{amount}})_one": "Du hast eine nicht kategorisierte Transaktion ({{amount}})",
     "You have {{count}} uncategorized transactions ({{amount}})_other": "Du hast {{count}} nicht kategorisierte Transaktionen ({{amount}})",
-    "Value for out rows, e.g: ‘Credit’": "Wert für ausgehende Zeilen, z.B. 'Gutschrift'"
+    "Value for out rows, e.g: ‘Credit’": "Wert für ausgehende Zeilen, z.B. 'Kredit'"
 }
