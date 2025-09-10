@@ -1564,5 +1564,21 @@
     "You have {{count}} uncategorized transactions ({{amount}})_other": "Vous avez {{count}} transactions non catégorisées ({{amount}})",
     "You have {{count}} overspent categories ({{amount}})_one": "Vous avez {{count}} catégorie en dépassement budgétaire ({{amount}})",
     "You have {{count}} overspent categories ({{amount}})_many": "Vous avez {{count}} catégories en dépassement budgétaire ({{amount}})",
-    "You have {{count}} overspent categories ({{amount}})_other": "Vous avez {{count}} catégories en dépassement budgétaire ({{amount}})"
+    "You have {{count}} overspent categories ({{amount}})_other": "Vous avez {{count}} catégories en dépassement budgétaire ({{amount}})",
+    "Brazilian Real": "Réal brésilien",
+    "Budget automations: {{category}}": "Automatisation budgétaire : {{category}}",
+    "If the automation UI isn't working for you, you can temporarily switch back to notes-based automations. Please let us know your feedback about what's not working on the <2>feedback issue</2>.": "Si l'interface d'automatisation ne fonctionne pas pour vous, vous pouvez temporairement revenir aux automatisations basées sur les notes. Merci de nous faire part de vos retours sur le <2>ticket de retour d'expérience</2>.",
+    "Jamaican Dollar": "Dollar jamaïcain",
+    "Moldovan Leu": "Leu moldave",
+    "Original templates:<1>{templates}</1>": "Modèle originel  :<1>{templates}</1>",
+    "Romanian Leu": "Leu roumain",
+    "Russian Ruble": "Rouble russe",
+    "Save notes & un-migrate": "Sauvegarder les notes et annuler la migration",
+    "Serbian Dinar": "Dinar serbe",
+    "Thai Baht": "Baht thaïlandais",
+    "This category uses notes-based automations (formerly “budget templates”). We have automatically imported your existing automations below. Please review them for accuracy and hit save to complete the migration.": "Cette catégorie utilise les automatisations basées sur les notes (anciennement \"modèle de budget\"). Nous avons automatiquement importé vos automatisations ci-dessous. Vérifiez leur exactitude et appuyez sur sauvegarder pour finaliser la migration.",
+    "Ukrainian Hryvnia": "Hryvnia ukrainien",
+    "Un-migrate": "Annuler la migration",
+    "Un-migrate automations: {{category}}": "Annuler la migration de l'automatisation : {{category}}",
+    "We have merged your existing automations with the notes for this category. Please review and edit as needed.": "Nous avons fusionné vos automatisations existantes avec les notes pour cette catégorie. Vérifiez et éditez-les si besoin."
 }
