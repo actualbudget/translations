@@ -1551,5 +1551,13 @@
     "Save notes & un-migrate": "Notizen speichern & Migration rückgängig machen",
     "Serbian Dinar": "Serbischer Dinar",
     "Thai Baht": "Thailändischer Baht",
-    "Un-migrate": "Migration rückgängig machen"
+    "Un-migrate": "Migration rückgängig machen",
+    "We have merged your existing automations with the notes for this category. Please review and edit as needed.": "Wir haben deine bestehenden Automatisierungen mit den Notizen für diese Kategorie zusammengeführt. Bitte überprüfe diese und nimm gegebenenfalls Änderungen vor.",
+    "Un-migrate automations: {{category}}": "Migration für Automatisierungen rückgängig machen: {{category}}",
+    "Egyptian Pound": "Ägyptisches Pfund",
+    "If the automation UI isn't working for you, you can temporarily switch back to notes-based automations. Please let us know your feedback about what's not working on the <2>feedback issue</2>.": "Wenn die Automatisierungs-Benutzeroberfläche bei dir nicht funktioniert, kannst du vorübergehend zu notizbasierten Automatisierungen zurückkehren. Bitte teilen uns dein Feedback dazu, was nicht funktioniert, unter <2>Feedback-Problem</2> mit.",
+    "Original templates:<1>{templates}</1>": "Original-Vorlagen:<1>{templates}</1>",
+    "Saudi Riyal": "Saudi-Riyal",
+    "Ukrainian Hryvnia": "Ukrainischer Hrywnja",
+    "This category uses notes-based automations (formerly “budget templates”). We have automatically imported your existing automations below. Please review them for accuracy and hit save to complete the migration.": "Diese Kategorie verwendet notizbasierte Automatisierungen (früher „Budgetvorlagen“). Wir haben deine bestehenden Automatisierungen unten automatisch importiert. Bitte überprüfe diese auf ihre Richtigkeit und klicke auf „Speichern“, um die Migration abzuschließen."
 }
