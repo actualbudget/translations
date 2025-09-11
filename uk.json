@@ -1600,7 +1600,7 @@
     "You have {{count}} uncategorized transactions ({{amount}})_few": "У вас {{count}} транзакції без категорій ({{amount}})",
     "You have {{count}} uncategorized transactions ({{amount}})_many": "У вас {{count}} транзакцій без категорій ({{amount}})",
     "Brazilian Real": "Бразильський реал",
-    "Budget automations: {{category}}": "Автоматизація бюджету: {{категорія}}",
+    "Budget automations: {{category}}": "Автоматизація бюджету: {{category}}",
     "Egyptian Pound": "Єгипетський фунт",
     "If the automation UI isn't working for you, you can temporarily switch back to notes-based automations. Please let us know your feedback about what's not working on the <2>feedback issue</2>.": "Якщо інтерфейс автоматизації не працює для вас, ви можете тимчасово повернутися до автоматизації на основі нотаток. Будь ласка, повідомте нам про те, що не працює, у <2>питанні щодо зворотного зв'язку</2>.",
     "Jamaican Dollar": "Ямайський долар",
