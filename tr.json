@@ -5,8 +5,8 @@
     "(No payee)": "(Alan/Veren yok)",
     "(Optional)": "(Tercihen)",
     "(please select)": "(lütfen seçin)",
-    "{{count}} associated rules_one": "{{count}} bağlantılı kural",
-    "{{count}} associated rules_other": "{{count}} bağlantılı kurallar",
+    "{{count}} associated rules_one": "{{count}} adet bağlantılı kural",
+    "{{count}} associated rules_other": "{{count}} adet bağlantılı kurallar",
     "(after weekend)": "(hafta sonundan sonra)",
     "(before weekend)": "(hafta sonundan önce)",
     "(give feedback)": "(görüş bildir)",
@@ -45,5 +45,6 @@
     "{{displayMonth}} budgets have all been set to last month’s budgeted amounts.": "{{displayMonth}} bütçeleri son ayın bütçelenen miktarlarına ayarlandı.",
     "{{num}} more items...": "{{num}} daha fazla oğe...",
     "{{status}} (Split)": "{{status}} (Böl)",
-    "{{displayMonth}} budgets have all been set to zero.": "{{displayMonth}} bütçesi tamamen sıfırlandı."
+    "{{displayMonth}} budgets have all been set to zero.": "{{displayMonth}} bütçesi tamamen sıfırlandı.",
+    "{{categoryName}} shortcuts": "{{categoryName}} kısayolları"
 }
