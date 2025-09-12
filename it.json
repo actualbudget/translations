@@ -1577,5 +1577,10 @@
     "This category uses notes-based automations (formerly “budget templates”). We have automatically imported your existing automations below. Please review them for accuracy and hit save to complete the migration.": "Questa categoria utilizza automazioni basate su note (in precedenza “modelli di budget”). Abbiamo importato automaticamente qui sotto le tue automazioni esistenti. Verificale per correttezza e fai clic su salva per completare la migrazione.",
     "Ukrainian Hryvnia": "Grivna ucraina",
     "Un-migrate": "Annulla la migrazione",
-    "Budget automations: {{category}}": "Automazioni del budget: {{category}}"
+    "Budget automations: {{category}}": "Automazioni del budget: {{category}}",
+    "Egyptian Pound": "Sterlina Egiziana",
+    "Original templates:<1>{templates}</1>": "Modelli originali:<1>{templates}</1>",
+    "Saudi Riyal": "Riyal saudita",
+    "Un-migrate automations: {{category}}": "Annulla migrazione automazioni: {{category}}",
+    "We have merged your existing automations with the notes for this category. Please review and edit as needed.": "Abbiamo unito le tue automazioni esistenti alle note per questa categoria. Ti preghiamo di rivederle e modificarle se necessario."
 }
