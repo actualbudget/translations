@@ -265,7 +265,7 @@
     "Closed accounts...": "Conti chiusi...",
     "Covered {{toCategoryName}} overspending from {{fromCategoryName}}.": "Coperta la spesa eccessiva di {{toCategoryName}} da {{fromCategoryName}}.",
     "before": "prima",
-    "cleared": "cancellato",
+    "cleared": "verificato",
     "Banners": "Banner",
     "Budget “{{id}}” not found. Check the ID of your budget in the Advanced section of the settings page.": "Budget “{{id}}” non trovato. Controlla l'ID del tuo budget nella sezione Avanzate della pagina delle impostazioni.",
     "Choose your bank:": "Scegliere la propria banca:",
@@ -290,8 +290,8 @@
     "Compare": "Confronta",
     "Configure GoCardless integration": "Configurare l'integrazione di GoCardless",
     "Budget": "Budget",
-    "Cleared": "Cancellato",
-    "Cleared total:": "Totale cancellato:",
+    "Cleared": "Verificato",
+    "Cleared total:": "Totale verificato:",
     "Click the button below to reload and apply the update.": "Cliccare sul pulsante qui sotto per ricaricare e applicare l'aggiornamento.",
     "Client ID": "Client ID",
     "Client ID cannot be empty": "L'ID client non può essere vuoto",
@@ -305,7 +305,7 @@
     "Your data is encrypted with a key that only you have before sending it it out to the cloud. Local data remains unencrypted so if you forget your password you can re-encrypt it.": "I tuoi dati vengono crittografati con una chiave che solo tu hai prima di inviarli al cloud. I dati locali rimangono non crittografati, quindi se dimentichi la password puoi crittografarli di nuovo.",
     "Your files won’t be moved. You can manually move them to the folder.": "I tuoi file non verranno spostati. Puoi spostarli manualmente nella cartella.",
     "You’re up to date!": "Sei aggiornato!",
-    "Your cleared balance <2>{{clearedBalance}}</2> needs <5>{{difference}}</5> to match<7></7> your bank's balance of <10>{{bankBalance}}</10>": "Il tuo saldo cancellato <2>{{clearedBalance}}</2> ha bisogno di <5>{{difference}}</5> per corrispondere<7></7> al saldo della tua banca di <10>{{bankBalance}}</10>",
+    "Your cleared balance <2>{{clearedBalance}}</2> needs <5>{{difference}}</5> to match<7></7> your bank's balance of <10>{{bankBalance}}</10>": "Il tuo saldo verificato <2>{{clearedBalance}}</2> ha bisogno di <5>{{difference}}</5> per corrispondere<7></7> al saldo della tua banca di <10>{{bankBalance}}</10>",
     "Your data is out of sync": "I tuoi dati non sono sincronizzati",
     "You can also delete just the local copy. This will remove all local data and the file will be listed as available for download.": "Puoi anche eliminare solo la copia locale. Questo rimuoverà tutti i dati locali e il file verrà elencato come disponibile per il download.",
     "Bank Sync": "Sincronizzazione bancaria",
@@ -1576,5 +1576,6 @@
     "Thai Baht": "Baht thailandese",
     "This category uses notes-based automations (formerly “budget templates”). We have automatically imported your existing automations below. Please review them for accuracy and hit save to complete the migration.": "Questa categoria utilizza automazioni basate su note (in precedenza “modelli di budget”). Abbiamo importato automaticamente qui sotto le tue automazioni esistenti. Verificale per correttezza e fai clic su salva per completare la migrazione.",
     "Ukrainian Hryvnia": "Grivna ucraina",
-    "Un-migrate": "Annulla la migrazione"
+    "Un-migrate": "Annulla la migrazione",
+    "Budget automations: {{category}}": "Automazioni del budget: {{category}}"
 }
