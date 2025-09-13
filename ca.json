@@ -10,5 +10,6 @@
     "(before weekend)": "(abans del cap de setmana)",
     "(deleted)": "(eliminat)",
     "(nothing)": "(res)",
-    "(No payee)": "(Cap pagador)"
+    "(No payee)": "(Cap pagador)",
+    "{{accountName}} bank sync settings": "{{accountName}} paràmetres de sincronització bancaria"
 }
