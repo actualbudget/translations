@@ -831,5 +831,6 @@
     "Account is a required field": "El campo de cuenta es requerido",
     "Add entry": "Añadir registro",
     "Add space between amount and symbol": "Agregar espacio entre la cantidad y el símbolo",
-    "Add user": "Agregar usuario"
+    "Add user": "Agregar usuario",
+    "<0>Reset sync</0> is only available when syncing is enabled.": "<0>Reiniciar la sincronización</0> solo es posible si la sincronización está habilitada."
 }
