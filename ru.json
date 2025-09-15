@@ -362,5 +362,8 @@
     "To enable end-to-end encryption, you need to create a key. We will generate a key based on a password and use it to encrypt from now on. <2>This requires a sync reset</2> and all other devices will have to revert to this version of your data. ": "Чтобы включить сквозное шифрование, необходимо создать ключ. Мы сгенерируем ключ на основе пароля и будем использовать его для шифрования в дальнейшем. <2> Для этого потребуется сброс синхронизации</2>, а все остальные устройства вернутся к этой версии ваших данных. ",
     "<0>{{category}}</0> is used by existing transactions or it has a positive leftover balance currently.": "<0>{{category}}</0> используется существующими транзакциями или имеет положительный остаток на балансе",
     "a fixed amount": "фиксированная сумма",
-    "a fixed percent of the remainder": "фиксированный процент от остатка"
+    "a fixed percent of the remainder": "фиксированный процент от остатка",
+    "{{num}} more items...": "{{num}} ещё элементы…",
+    "<0>Are you sure you want to delete it?</0> If so, you must select another category to transfer existing transactions and balance to.": "<0>Вы уверены, что хотите удалить это?</0> Если да, то необходимо выбрать другую категорию для переноса существующих транзакций и остатка.",
+    "Account page": "Страница профиля"
 }
