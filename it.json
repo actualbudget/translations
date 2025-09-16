@@ -1582,5 +1582,7 @@
     "Original templates:<1>{templates}</1>": "Modelli originali:<1>{templates}</1>",
     "Saudi Riyal": "Riyal saudita",
     "Un-migrate automations: {{category}}": "Annulla migrazione automazioni: {{category}}",
-    "We have merged your existing automations with the notes for this category. Please review and edit as needed.": "Abbiamo unito le tue automazioni esistenti alle note per questa categoria. Ti preghiamo di rivederle e modificarle se necessario."
+    "We have merged your existing automations with the notes for this category. Please review and edit as needed.": "Abbiamo unito le tue automazioni esistenti alle note per questa categoria. Ti preghiamo di rivederle e modificarle se necessario.",
+    "Selecting this option will disable importing transactions and only import the account balance for use in reconciliation": "Selezionando questa opzione, l'importazione delle transazioni viene disabilitata, e solo il bilancio dei conti verrà importato per essere usato durante la riconciliazione",
+    "Investment Account": "Conto di investimento"
 }
