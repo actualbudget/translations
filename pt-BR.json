@@ -844,7 +844,6 @@
     "Move right when editing": "Mover para a direita ao editar",
     "Merge and edit rule": "Mesclar e editar regra",
     "Move files to new directory": "Mover arquivos para um novo diretório",
-    "New version available: {{latestVersion}}": "Nova versão disponível: {{latestVersion}}",
     "Move to the next transaction down": "Mover para a próxima transação abaixo",
     "Import from Actual export": "Importar de uma exportação do Actual",
     "Fund upcoming scheduled transaction only on needed month": "Garantir recursos para a próxima transação programada apenas no mês necessário",

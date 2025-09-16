@@ -558,7 +558,6 @@
     "Link or view schedule for selected transactions": "Vincular o ver planificación para las transacciones seleccionadas",
     "logged in as: <2>{{userName}}</2>": "conectado como: <2>{{userName}}</2>",
     "logged in as: <2><0>{{userName}}</0></2>": "conectado como: <2><0>{{userName}}</0></2>",
-    "New version available: {{latestVersion}}": "Nueva versión disponible: {{latestVersion}}",
     "None": "Ninguno",
     "Load Backup": "Cargar copia de seguridad",
     "Month": "Mes",

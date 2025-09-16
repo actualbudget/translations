@@ -309,7 +309,6 @@
     "Set category for selected transactions": "Välj kategori för markerade överföringar",
     "Show unchecked": "Visa ej ikryssade",
     "Delete file locally": "Ta bort fil lokalt",
-    "New version available: {{latestVersion}}": "Ny uppdatering tillgänglig: {{latestVersion}}",
     "No linked transactions": "Inga kopplade överföringar",
     "No matching schedules": "Inga matchande scheman",
     "Show password": "Visa lösenord",
