@@ -1039,7 +1039,7 @@
     "<allocatedAmount /> <italic>of <totalAmount /></italic>": "<allocatedAmount /> <italic> від <totalAmount /></italic>",
     "Account menu": "Меню рахунків",
     "Actual field": "Фактичне поле",
-    "<0>Server self-signed certificate</0> <2><0>enables a secure connection</0></2>": "<0>Самопідписаний сертифікат сервера</0> <2><0>забезпечує безпечне з’єднання</0></2>",
+    "<0>Server self-signed certificate</0> <2><0>enables a secure connection</0></2>": "<0>Серверний само підписаний сертифікат</0> <2><0>забезпечує безпечне з'єднання</0></2>",
     "{{accountName}} bank sync settings": "Налаштування синхронізації з банком для {{accountName}}",
     "{{categoryGroupName}} expense group categories": "Група витрат {{categoryGroupName}} - категорії",
     "Add a fixed amount to this category for each week in the month. For example, $100 per week would be $400 per month in a 4-week month.": "Додати фіксовану суму для цієї категорії на кожен тиждень місяця. До прикладу, 1000грн на тиждень складатиме 4000грн кожного місяця, що складається з 4-рьох тижнів.",
