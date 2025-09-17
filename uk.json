@@ -1579,7 +1579,7 @@
     "Long_noun": "Long_noun",
     "logged in as: <2>{{userName}}</2>": "здійснено вхід як: <2>{{userName}}</2>",
     "logged in as: <2><0>{{userName}}</0></2>": "здійснено вхід як: <2><0>{{userName}}</0></2>",
-    "Already imported transaction. You can skip it, or import it again.": "Транзакція вже імпортована. Ви можете пропустити її або імпортувати знову.",
+    "Already imported transaction. You can skip it, or import it again.": "Транзакцію вже імпортовано. Ви можете пропустити її або імпортувати ще раз.",
     "In/Out outflow value": "Значення надходжень/витрат",
     "Invalid: unable to parse the value": "Некоректне значення: неможливо розпізнати",
     "Invalid: unable to parse the value ({{amount}})": "Некоректне значення: неможливо розпізнати ({{amount}})",
@@ -1588,7 +1588,7 @@
     "occurrences": "випадків",
     "Save up for the next occurrence": "Зберегти для наступного випадку",
     "Save up for the schedule &lsquo;{{name}}&rsquo;": "Накопичити на розклад &lsquo;{{name}}&rsquo;",
-    "Select column to specify if amount goes in/out": "Виберіть стовпець, щоб вказати, чи є сума надходженням/витратою",
+    "Select column to specify if amount goes in/out": "Виберіть стовпець, щоб указати, чи надходить/виходить сума",
     "Value for out rows, e.g: ‘Credit’": "Значення для рядків витрат, наприклад: «Кредит»",
     "Updated transaction. You can update it, import it again, or skip it.": "Оновлена транзакція. Ви можете оновити її, імпортувати знову або пропустити.",
     "Missed {{scheduleName}} due {{distanceFromNow}} ({{formattedDate}})": "Пропущено {{scheduleName}} з {{distanceFromNow}} ({{formattedDate}})",
@@ -1615,5 +1615,6 @@
     "Ukrainian Hryvnia": "Українська гривня",
     "Un-migrate": "Не-мігрувати",
     "Un-migrate automations: {{category}}": "Не-мігрувати автоматично: {{category}}",
-    "We have merged your existing automations with the notes for this category. Please review and edit as needed.": "Ми об'єднали ваші існуючі автоматизації з примітками для цієї категорії. Перегляньте та відредагуйте їх за необхідності."
+    "We have merged your existing automations with the notes for this category. Please review and edit as needed.": "Ми об'єднали ваші існуючі автоматизації з примітками для цієї категорії. Перегляньте та відредагуйте їх за необхідності.",
+    "Investment Account": "Інвестиційний Акаунт"
 }
