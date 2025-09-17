@@ -1583,5 +1583,7 @@
     "Egyptian Pound": "Livre égyptienne",
     "Investment Account": "Compte d'investissement",
     "Saudi Riyal": "Riyal saoudien",
-    "Selecting this option will disable importing transactions and only import the account balance for use in reconciliation": "Choisir cette option désactivera l'import des transactions et importera uniquement le solde du compte pour les rapprochements"
+    "Selecting this option will disable importing transactions and only import the account balance for use in reconciliation": "Choisir cette option désactivera l'import des transactions et importera uniquement le solde du compte pour les rapprochements",
+    "Display a notification when updates are available": "Afficher une notification lorsqu'une mise à jour est disponible",
+    "New version available: {versionInfo.latestVersion}": "Nouvelle version disponible : {versionInfo.latestVersion}"
 }
