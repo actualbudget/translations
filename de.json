@@ -1558,5 +1558,6 @@
     "Original templates:<1>{templates}</1>": "Original-Vorlagen:<1>{templates}</1>",
     "Saudi Riyal": "Saudi-Riyal",
     "Ukrainian Hryvnia": "Ukrainischer Hrywnja",
-    "This category uses notes-based automations (formerly “budget templates”). We have automatically imported your existing automations below. Please review them for accuracy and hit save to complete the migration.": "Diese Kategorie verwendet notizbasierte Automatisierungen (früher „Budgetvorlagen“). Wir haben deine bestehenden Automatisierungen unten automatisch importiert. Bitte überprüfe diese auf ihre Richtigkeit und klicke auf „Speichern“, um die Migration abzuschließen."
+    "This category uses notes-based automations (formerly “budget templates”). We have automatically imported your existing automations below. Please review them for accuracy and hit save to complete the migration.": "Diese Kategorie verwendet notizbasierte Automatisierungen (früher „Budgetvorlagen“). Wir haben deine bestehenden Automatisierungen unten automatisch importiert. Bitte überprüfe diese auf ihre Richtigkeit und klicke auf „Speichern“, um die Migration abzuschließen.",
+    "New version available: {versionInfo.latestVersion}": "Neue Version verfügbar: {versionInfo.latestVersion}"
 }
