@@ -1616,5 +1616,8 @@
     "Un-migrate": "Не-мігрувати",
     "Un-migrate automations: {{category}}": "Не-мігрувати автоматично: {{category}}",
     "We have merged your existing automations with the notes for this category. Please review and edit as needed.": "Ми об'єднали ваші існуючі автоматизації з примітками для цієї категорії. Перегляньте та відредагуйте їх за необхідності.",
-    "Investment Account": "Інвестиційний Акаунт"
+    "Investment Account": "Інвестиційний Акаунт",
+    "Display a notification when updates are available": "Показувати сповіщення, коли доступні оновлення",
+    "New version available: {versionInfo.latestVersion}": "Доступна нова версія: {versionInfo.latestVersion}",
+    "Selecting this option will disable importing transactions and only import the account balance for use in reconciliation": "Вибір цієї опції вимкне імпорт транзакцій і дозволить імпортувати лише баланс рахунку для використання при звірці"
 }
