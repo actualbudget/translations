@@ -11,8 +11,8 @@
     "(none)": "(nessuno)",
     "(Optional)": "(Opzionale)",
     "(please select)": "(si prega di selezionare)",
-    "{{displayMonth}} budgets have all been set to last month’s budgeted amounts.": "Tutti i budget di {{displayMonth}} sono stati impostati sugli importi preventivati del mese scorso.",
-    "{{displayMonth}} end-of-month cleanup templates have been applied.": "Sono stati applicati {{displayMonth}} modelli di pulizia di fine mese.",
+    "{{displayMonth}} budgets have all been set to last month’s budgeted amounts.": "I budget di {{displayMonth}} sono stati impostati sugli importi del mese scorso.",
+    "{{displayMonth}} end-of-month cleanup templates have been applied.": "Sono stati applicati i modelli di pulizia di fine mese per {{displayMonth}}.",
     "{{displayMonth}} budget templates have been overwritten.": "I modelli di budget di {{displayMonth}} sono stati sovrascritti.",
     "(give feedback)": "(fornisci feedback)",
     "{{displayMonth}} budgets have all been set to zero.": "Tutti i budget di {{displayMonth}} sono stati impostati su zero.",
@@ -1583,5 +1583,7 @@
     "Un-migrate automations: {{category}}": "Annulla migrazione automazioni: {{category}}",
     "We have merged your existing automations with the notes for this category. Please review and edit as needed.": "Abbiamo unito le tue automazioni esistenti alle note per questa categoria. Ti preghiamo di rivederle e modificarle se necessario.",
     "Selecting this option will disable importing transactions and only import the account balance for use in reconciliation": "Selezionando questa opzione, l'importazione delle transazioni viene disabilitata, e solo il bilancio dei conti verrà importato per essere usato durante la riconciliazione",
-    "Investment Account": "Conto di investimento"
+    "Investment Account": "Conto di investimento",
+    "Display a notification when updates are available": "Mostra una notifica quando sono disponibili aggiornamenti",
+    "New version available: {versionInfo.latestVersion}": "Nuova versione disponibile: {versionInfo.latestVersion}"
 }
