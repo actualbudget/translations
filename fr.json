@@ -1472,8 +1472,6 @@
     "This file is not valid. Please select an unencrypted archive of Actual data.": "Ce fichier n'est pas valide. Veuillez sélectionner une archive de donnée Actual non chiffrée.",
     "Yuan Renminbi": "Yuan renminbi",
     "You don’t have permission to view this page": "Vous n'avez pas la permission de voir cette page",
-    "After amount (e.g. 100€)": "Après le montant (ex. 100€)",
-    "Before amount (e.g. $100)": "Avant le montant (ex. $100)",
     "Unable to parse file. Please select a JSON file exported from nYNAB.": "Impossible d'analyser le fichier. Veuillez sélectionner un fichier JSON exporté depuis nYNAB.",
     "US Dollar": "Dollar américain",
     "User defined tags with color and description.": "Étiquette définie par l'utilisateur, avec couleur et description.",
