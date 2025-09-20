@@ -868,7 +868,7 @@
     "reconciled": "riconciliato",
     "saved": "salvato",
     "until": "fino a",
-    "missed": "mancato",
+    "missed": "saltato",
     "nothing": "niente",
     "paid": "pagato",
     "scheduled": "pianificato",
@@ -1016,7 +1016,7 @@
     "Text Widget": "Testo del Widget",
     "This month": "Questo mese",
     "This week": "Questa settimana",
-    "To Budget": "A budget",
+    "To Budget": "Per il budget",
     "Transaction list": "Lista transazioni",
     "Transfer ownership": "Trasferisci proprietà",
     "Transfer to:": "Trasferisci a:",
@@ -1062,7 +1062,7 @@
     "Start Date": "Data d'inizio",
     "until {{dateFormatted}}": "fino a {{dateFormatted}}",
     "Save changes": "Salva cambiamenti",
-    "To Budget:": "A budget:",
+    "To Budget:": "Per il budget:",
     "Edit template": "Modifica template",
     "Percentage of": "Percentuale di",
     "Savings mode": "Modalità Risparmi",
@@ -1585,5 +1585,7 @@
     "Selecting this option will disable importing transactions and only import the account balance for use in reconciliation": "Selezionando questa opzione, l'importazione delle transazioni viene disabilitata, e solo il bilancio dei conti verrà importato per essere usato durante la riconciliazione",
     "Investment Account": "Conto di investimento",
     "Display a notification when updates are available": "Mostra una notifica quando sono disponibili aggiornamenti",
-    "New version available: {versionInfo.latestVersion}": "Nuova versione disponibile: {versionInfo.latestVersion}"
+    "New version available: {versionInfo.latestVersion}": "Nuova versione disponibile: {versionInfo.latestVersion}",
+    "Hide balance chart": "Nascondi il grafico del saldo",
+    "Show balance chart": "Mostra il grafico del saldo"
 }
