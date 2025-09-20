@@ -114,5 +114,6 @@
     "Add enough to this category to cover the selected schedule. If the schedule occurs multiple times in a month, an amount will be added for each occurrence. You can choose to save up for the next occurrence over time (e.g. save $100 each month for a $300 quarterly bill) or cover each occurrence when it occurs (e.g. only add the $300 when the bill is due).": "为该类别添加足够的金额以覆盖所选的计划支出。如果该计划在一个月内发生多次，则每次都会添加相应金额。您可以选择提前分期存钱以备下次支出（例如，每月储蓄 $100 来支付每季度 $300 的账单），或在每次账单到期时再添加所需金额（例如，仅在账单到期时添加 $300）。",
     "Add entry": "添加记录",
     "Add condition": "添加条件",
-    "Add group": "添加组别"
+    "Add group": "添加组别",
+    "{{count}} payees_other": "收款人"
 }
