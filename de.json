@@ -1476,7 +1476,7 @@
     "Search shortcuts": "Tastenkombinationen durchsuchen",
     "shortcut": "Tastenkombination",
     "shortcuts": "Tastenkombinationen",
-    "{isSearching\n                        ? 'No matching shortcuts'\n                        : isInCategory\n                          ? 'No shortcuts in this category'\n                          : 'No matching shortcuts'}": "{isSearching\n\n                        ? 'Keine passenden Tastenkombinationen'\n\n                        : isInCategory\n\n                          ? 'Keine Tastenkombinationen in dieser Kategorie'\n\n                          : 'Keine passenden Tastenkombinationen'}",
+    "{isSearching\n                        ? 'No matching shortcuts'\n                        : isInCategory\n                          ? 'No shortcuts in this category'\n                          : 'No matching shortcuts'}": "{isSearching\n                        ? 'Keine passenden Tastenkombinationen'\n                        : isInCategory\n                          ? 'Keine Tastenkombinationen in dieser Kategorie'\n                          : 'Keine passenden Tastenkombinationen'}",
     "Delete the selected transactions": "Lösche die ausgewählten Transaktionen",
     "Move to the next transaction and scroll": "Zur nächsten Transaktion und scrollen",
     "Move to the previous transaction and scroll": "Zur vorherigen Transaktion und scrollen",
@@ -1538,7 +1538,7 @@
     "You have {{count}} overspent categories ({{amount}})_other": "Du hast {{count}} überzogene Kategorien ({{amount}})",
     "You have {{count}} uncategorized transactions ({{amount}})_one": "Du hast eine nicht kategorisierte Transaktion ({{amount}})",
     "You have {{count}} uncategorized transactions ({{amount}})_other": "Du hast {{count}} nicht kategorisierte Transaktionen ({{amount}})",
-    "Value for out rows, e.g: ‘Credit’": "Wert für ausgehende Zeilen, z.B. 'Kredit'",
+    "Value for out rows, e.g: ‘Credit’": "Wert für Ausgabenzeilen, z.B.: 'Kredit'",
     "Brazilian Real": "Brasilianischer Real",
     "Budget automations: {{category}}": "Budgetautomatisierungen: {{category}}",
     "Jamaican Dollar": "Jamaikanischer Dollar",
@@ -1557,5 +1557,8 @@
     "Saudi Riyal": "Saudi-Riyal",
     "Ukrainian Hryvnia": "Ukrainischer Hrywnja",
     "This category uses notes-based automations (formerly “budget templates”). We have automatically imported your existing automations below. Please review them for accuracy and hit save to complete the migration.": "Diese Kategorie verwendet notizbasierte Automatisierungen (früher „Budgetvorlagen“). Wir haben deine bestehenden Automatisierungen unten automatisch importiert. Bitte überprüfe diese auf ihre Richtigkeit und klicke auf „Speichern“, um die Migration abzuschließen.",
-    "New version available: {versionInfo.latestVersion}": "Neue Version verfügbar: {versionInfo.latestVersion}"
+    "New version available: {versionInfo.latestVersion}": "Neue Version verfügbar: {versionInfo.latestVersion}",
+    "Display a notification when updates are available": "Zeige eine Benachrichtigung an, wenn Updates verfügbar sind",
+    "In/Out outflow value": "Ein-/Ausgangswert",
+    "Investment Account": "Anlagekonto"
 }
