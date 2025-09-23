@@ -390,7 +390,6 @@
     "Something went wrong trying to create a key, sorry! Visit https://actualbudget.org/contact/ for support.": "Noget gik desværre galt under oprettelsen af en nøgle. Besøg https://actualbudget.org/contact/ for hjælp.",
     "Something happened while editing access": "Noget skete, mens adgangsrettigheder blev ændret",
     "Something happened while deleting users": "Noget skete, mens brugere blev slettet",
-    "Payees (Soon)": "Modtagere (snart)",
     "payee (name)": "modtager (navn)",
     "logged in as: <2><0>{{userName}}</0></2>": "logged ind som: <2><0>{{userName}}</0></2>",
     "logged in as: <2>{{userName}}</2>": "logged ind som: <2>{{userName}}</2>",
