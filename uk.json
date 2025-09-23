@@ -403,7 +403,7 @@
     "{{count}} transactions_many": "{{count}} транзакцій",
     "Create rule": "Створити правило",
     "Syncing has been fixed!": "Синхронізацію виправлено!",
-    "to ": "в ",
+    "to ": "до ",
     "A file with id “{{id}}” already exists with the name “{{name}}”. This file will be replaced. This probably happened because files were manually moved around outside of Actual.": "Файл з ідентифікатором “{{id}}” уже існує з назвою “{{name}}”. Цей файл буде замінено. Можливо, це сталося через те, що файли вручну переміщувалися за межі Actual.",
     "Show": "Показати",
     "Unable to encrypt your data because you are missing the key. Create your key to sync your data.": "Неможливо зашифрувати ваші дані, оскільки вам не вказано ключ. Створіть свій ключ для синхронізації даних.",
