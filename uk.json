@@ -1420,7 +1420,7 @@
     "Failed to duplicate budget file": "Не вдалося створити дублікат файлу бюджету",
     "Find Existing Tags": "Пошук наявних тегів",
     "Hide hidden categories": "Сховати приховані категорії",
-    "Edit this widget to change the **markdown** content.": "Відредагуйте цей віджет, щоб змінити вміст  **markdown**.",
+    "Edit this widget to change the **markdown** content.": "Відредагуйте цей віджет, щоб змінити вміст **markdown**.",
     "If <2></2>{{allOrAny}} of these conditions match:": "Якщо <2>{{allOrAny}}</2> із цих умов виконується:",
     "You have budgeted more than your available funds": "Ви призначили бюджет більший за доступні кошти",
     "You can always manually post a transaction later for a due schedule by selecting the schedule and clicking “Post transaction today” in the action menu.": "Ви завжди можете записати транзакцію пізніше вручну, вибравши цей розклад і натиснувши «Записати транзакцію сьогодні» в меню дій.",
