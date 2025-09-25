@@ -1587,5 +1587,7 @@
     "Before amount": "Avant le montant",
     "e.g.": "ex.",
     "Hide balance chart": "Masquer le graphique du solde",
-    "Show balance chart": "Afficher le graphique du solde"
+    "Show balance chart": "Afficher le graphique du solde",
+    "No payees found.": "Aucun bénéficiaire trouvé.",
+    "Filter payees…": "Filtrer les bénéficiaires…"
 }
