@@ -20,5 +20,11 @@
     "(No payee)": "(Nincs kedvezményezett)",
     "(nothing)": "(semmi)",
     "{{accountName}} bank sync settings": "{{accountName}} bank szinkronizációs beállítások",
-    "{{categoryGroupName}} expense group categories": "{{categoryGroupName}} költségcsoport-kategóriák"
+    "{{categoryGroupName}} expense group categories": "{{categoryGroupName}} költségcsoport-kategóriák",
+    "(after weekend)": "(hétvége után)",
+    "(before weekend)": "(hétvége előtt)",
+    "(deleted)": "(törölt)",
+    "{{count}} associated rules_one": "{{count}} kapcsolódó szabály",
+    "{{count}} associated rules_other": "{{count}} kapcsolódó szabály",
+    "{{displayMonth}} end-of-month cleanup templates have been applied.": "{{displayMonth}} hó végi tisztítási sablonok lettek alkalmazva."
 }
