@@ -24,7 +24,15 @@
     "(after weekend)": "(hétvége után)",
     "(before weekend)": "(hétvége előtt)",
     "(deleted)": "(törölt)",
-    "{{count}} associated rules_one": "{{count}} kapcsolódó szabály",
-    "{{count}} associated rules_other": "{{count}} kapcsolódó szabály",
-    "{{displayMonth}} end-of-month cleanup templates have been applied.": "{{displayMonth}} hó végi tisztítási sablonok lettek alkalmazva."
+    "{{count}} associated rules_one": "{{count}} társított szabály",
+    "{{count}} associated rules_other": "{{count}} társított szabály",
+    "{{displayMonth}} end-of-month cleanup templates have been applied.": "{{displayMonth}} hó végi tisztítási sablonok lettek alkalmazva.",
+    "{{count}} uncategorized transactions_one": "{{count}} kategorizálatlan tranzakció",
+    "{{count}} uncategorized transactions_other": "{{count}} kategorizálatlan tranzakció",
+    "{{displayMonth}} budget templates have been applied.": "{{displayMonth}} költéségkeret sablon alkalmazva lett.",
+    "{{displayMonth}} budget templates have been overwritten.": "{{displayMonth}} költségkeret sablon felül lett írva.",
+    "{{displayMonth}} budgets have all been set to last month’s budgeted amounts.": "{{displayMonth}}  költségkeretek mindegyike a múlt havi költségkeret összegekre lett beállítva.",
+    "{{displayMonth}} budgets have all been set to zero.": "{{displayMonth}} költségkeretek mindegyike nullára lett állítva.",
+    "{{endOccurrences}} times": "{{endOccurrences}} alkalommal",
+    "{{scheduleName}} is due {{distanceFromNow}} ({{formattedDate}})": "{{scheduleName}} {{distanceFromNow}} múlva esedékes ({{formattedDate}})"
 }
