@@ -1402,6 +1402,7 @@
   "Transfer to:": "Transfer to:",
   "Transfer To/From": "Transfer To/From",
   "Transfer: ": "Transfer: ",
+  "Transfer: {{name}}": "Transfer: {{name}}",
   "Transferred {{amount}} to {{categoryName}}": "Transferred {{amount}} to {{categoryName}}",
   "Transferring...": "Transferring...",
   "Transfers": "Transfers",
