@@ -1565,5 +1565,7 @@
     "After amount": "Nach Betrag",
     "Before amount": "Vor Betrag",
     "e.g.": "z.B.",
-    "Hide balance chart": "Saldendiagramm verstecken"
+    "Hide balance chart": "Saldendiagramm verstecken",
+    "Filter payees…": "Zahlungsempfänger filtern…",
+    "No payees found.": "Keine Zahlungsempfänger gefunden."
 }
