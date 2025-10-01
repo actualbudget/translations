@@ -1567,5 +1567,6 @@
     "e.g.": "z.B.",
     "Hide balance chart": "Saldendiagramm verstecken",
     "Filter payees…": "Zahlungsempfänger filtern…",
-    "No payees found.": "Keine Zahlungsempfänger gefunden."
+    "No payees found.": "Keine Zahlungsempfänger gefunden.",
+    "Transfer: {{name}}": "Umbuchung: {{name}}"
 }
