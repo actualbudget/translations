@@ -368,5 +368,7 @@
     "Account page": "Страница профиля",
     "{{count}} payees_one": "получатель",
     "{{count}} payees_few": "получателя",
-    "{{count}} payees_many": "получателей"
+    "{{count}} payees_many": "получателей",
+    "all": "Все",
+    "an equal portion of the remainder": "равная часть остатка"
 }
