@@ -1589,5 +1589,6 @@
     "Ukrainian Hryvnia": "Grívnia ucraniana",
     "Un-migrate": "Desfazer migração",
     "Un-migrate automations: {{category}}": "Desfazer migração das automações: {{category}}",
-    "We have merged your existing automations with the notes for this category. Please review and edit as needed.": "Unimos suas automações existentes às notas desta categoria. Revise e edite se necessário."
+    "We have merged your existing automations with the notes for this category. Please review and edit as needed.": "Unimos suas automações existentes às notas desta categoria. Revise e edite se necessário.",
+    "Selecting this option will disable importing transactions and only import the account balance for use in reconciliation": "Selecionar esta opção desativará a importação de transações e importará apenas o saldo da conta para uso na reconciliação"
 }
