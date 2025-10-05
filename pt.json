@@ -155,5 +155,8 @@
     "{{num}} more items...": "{{num}} mais itens...",
     "{{scheduleName}} is due {{distanceFromNow}} ({{formattedDate}})": "{{scheduleName}} é devido em {{distanceFromNow}} ({{formattedDate}})",
     "{{status}} (Split)": "{{status}} (Dividir)",
-    "a fixed amount": "um valor fixo"
+    "a fixed amount": "um valor fixo",
+    "Syncing... {{count}} accounts remaining_one": "A sincronizar... {{count}} conta restante",
+    "Syncing... {{count}} accounts remaining_many": "A sincronizar... {{count}} contas restantes",
+    "Syncing... {{count}} accounts remaining_other": "A sincronizar... {{count}} contas restantes"
 }
