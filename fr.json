@@ -1590,5 +1590,13 @@
     "Show balance chart": "Afficher le graphique du solde",
     "No payees found.": "Aucun bénéficiaire trouvé.",
     "Filter payees…": "Filtrer les bénéficiaires…",
-    "Transfer: {{name}}": "Transfert : {{name}}"
+    "Transfer: {{name}}": "Transfert : {{name}}",
+    "App: v{{appVersion}} | Server: {{serverVersion}}": "App : v{{appVersion}} | Serveur : {{serverVersion}}",
+    "Average per year": "Moyenne annuelle",
+    "Change interval": "Changer l’intervalle",
+    "number of years": "nombre d’années",
+    "Revert to Latest": "Revenir au plus récent",
+    "Rule {{id}}": "Règle {{id}}",
+    "Trim empty intervals at the start and end of the report": "Retirer les intervalles vides au début et à la fin du rapport",
+    "Trim intervals": "Retirer les intervalles vides"
 }
