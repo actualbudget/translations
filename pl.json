@@ -1005,5 +1005,16 @@
     "Automatically rename these payees in the future_few": "Automatycznie zmieniaj nazwy tych odbiorców w przyszłości",
     "Automatically rename these payees in the future_many": "Automatycznie zmieniaj nazwy tych odbiorców w przyszłości",
     "AVERAGE NET": "ŚREDNIA NETTO",
-    "AVERAGE SPENDING": "ŚREDNIE WYDATKI"
+    "AVERAGE SPENDING": "ŚREDNIE WYDATKI",
+    "{{count}} payees_one": "odbiorca płatności",
+    "{{count}} payees_few": "odbiorców płatności",
+    "{{count}} payees_many": "odbiorców płatności",
+    "{{num}} more items...": "{{num}} więcej pozycji...",
+    "a fixed amount": "stała kwota",
+    "a fixed percent of the remainder": "stały procent pozostałej kwoty",
+    "Add new rule": "Dodaj nową regułę",
+    "all": "wszystkie",
+    "Already imported transaction. You can skip it, or import it again.": "Transakcja została już zaimportowana. Możesz ją pominąć lub zaimportować ponownie.",
+    "an equal portion of the remainder": "równa część pozostałej części",
+    "any": "dowolny"
 }
