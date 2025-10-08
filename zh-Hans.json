@@ -70,7 +70,6 @@
     "{{count}} uncategorized transactions_other": "{{count}}未分类交易",
     "<0>Category Learning</0> will automatically determine the best category for a transaction and create a rule that sets the category for the payee. <3>Learn more</3>": "<0>类别学习</0>会主动选择对一条交易最适合的组别以及 create a rule that sets the category for the payee. <3>更多详情</3>",
     "<0>Create a local account</0> if you want to add transactions manually. You can also <3>import QIF/OFX/QFX files into a local account</3>.": "<0>创建本地账户</0>，如果你想手动添加交易。你也可以<3>将 QIF/OFX/QFX 文件导入本地账户</3>。",
-    "<0>Currency settings</0> affect how amounts are displayed throughout the application.": "<0>货币设置</0> 会影响整个应用中金额的显示方式。",
     "<0>Link a <1>Brazilian</1> bank account</0> to automatically download transactions. Pluggy.ai provides reliable, up-to-date information from hundreds of banks.": "<0>链接一个 <1>巴西</1>银行账户</0>，以自动下载交易记录。Pluggy.ai 可从数百家银行提供可靠、最新的信息。",
     "<0>Link a <1>North American</1> bank account</0> to automatically download transactions. SimpleFIN provides reliable, up-to-date information from hundreds of banks.": "<0>链接一个 <1>北美</1>银行账户</0>，以自动下载交易记录。SimpleFIN 可从数百家银行提供可靠、最新的信息。",
     "<0>Read here</0> for instructions on how to migrate your data from YNAB. You need to export your data as JSON, and that page explains how to do that.": "<0>点击这里阅读</0>，了解如何从 YNAB 迁移数据。你需要将数据导出为 JSON 格式，该页面会说明如何操作。",
