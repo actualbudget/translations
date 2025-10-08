@@ -1624,5 +1624,15 @@
     "e.g.": "наприклад:",
     "Filter payees…": "Фільтрувати отримувачів…",
     "No payees found.": "Не знайдено отримувачів.",
-    "Transfer: {{name}}": "Переказ: {{name}}"
+    "Transfer: {{name}}": "Переказ: {{name}}",
+    "App: v{{appVersion}} | Server: {{serverVersion}}": "Застосунок: v{{appVersion}} | Сервер: {{serverVersion}}",
+    "Change interval": "Змінити інтервал",
+    "Costa Rican Colón": "Костариканський колон",
+    "Failed to delete payee. Please try again.": "Не вдалося видалити отримувача. Спробуйте ще раз.",
+    "Load Backup…": "Завантажити резервну копію…",
+    "Payee “{{name}}” deleted successfully": "Отримувача “{{name}}” успішно видалено",
+    "Revert to Latest": "Відновити останню версію",
+    "Sri Lankan Rupee": "Шрі-Ланкійська рупія",
+    "Trim empty intervals at the start and end of the report": "Відкинути порожні інтервали на початку та в кінці звіту",
+    "Trim intervals": "Відкинути інтервали"
 }
