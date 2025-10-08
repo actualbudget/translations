@@ -1123,5 +1123,6 @@
     "{{count}} uncategorized transactions_other": "{{count}}niet-gecategoriseerde transacties",
     "Long": "Lang",
     "Hide": "Verberg",
-    "Transaction": "Transactie"
+    "Transaction": "Transactie",
+    "{{scheduleName}} is due {{distanceFromNow}} ({{formattedDate}})": "{{scheduleName}} is vervallen op {{distanceFromNow}} ({{formattedDate}})"
 }
