@@ -1634,5 +1634,8 @@
     "Revert to Latest": "Відновити останню версію",
     "Sri Lankan Rupee": "Шрі-Ланкійська рупія",
     "Trim empty intervals at the start and end of the report": "Відкинути порожні інтервали на початку та в кінці звіту",
-    "Trim intervals": "Відкинути інтервали"
+    "Trim intervals": "Відкинути інтервали",
+    "Average per year": "Середнє на рік",
+    "number of years": "кількість років",
+    "Rule {{id}}": "Правило {{id}}"
 }
