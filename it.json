@@ -1589,5 +1589,19 @@
     "Before amount": "Prima dell’importo",
     "No payees found.": "Nessun beneficiario trovato.",
     "Transfer: {{name}}": "Trasferimento: {{name}}",
-    "Filter payees…": "Filtra beneficiari…"
+    "Filter payees…": "Filtra beneficiari…",
+    "App: v{{appVersion}} | Server: {{serverVersion}}": "App: v{{appVersion}} | Server: {{serverVersion}}",
+    "Average per year": "Media annua",
+    "Change interval": "Intervallo di modifica",
+    "Costa Rican Colón": "Colón costaricano",
+    "e.g.": "per esempio",
+    "Failed to delete payee. Please try again.": "Impossibile eliminare il beneficiario. Riprova.",
+    "Load Backup…": "Carica backup…",
+    "number of years": "numero di anni",
+    "Payee “{{name}}” deleted successfully": "Beneficiario “{{name}}” eliminato con successo",
+    "Revert to Latest": "Ripristina l'ultima versione",
+    "Rule {{id}}": "Regola {{id}}",
+    "Sri Lankan Rupee": "Rupia singalese",
+    "Trim empty intervals at the start and end of the report": "Taglia gli intervalli vuoti all'inizio e alla fine del report",
+    "Trim intervals": "Taglia intervalli"
 }
