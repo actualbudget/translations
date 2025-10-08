@@ -1584,5 +1584,9 @@
     "Display a notification when updates are available": "Mostra una notifica quando sono disponibili aggiornamenti",
     "New version available: {versionInfo.latestVersion}": "Nuova versione disponibile: {versionInfo.latestVersion}",
     "Hide balance chart": "Nascondi il grafico del saldo",
-    "Show balance chart": "Mostra il grafico del saldo"
+    "Show balance chart": "Mostra il grafico del saldo",
+    "After amount": "Dopo l’importo",
+    "Before amount": "Prima dell’importo",
+    "No payees found.": "Nessun beneficiario trovato.",
+    "Transfer: {{name}}": "Trasferimento: {{name}}"
 }
