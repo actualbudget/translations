@@ -848,5 +848,8 @@
     "Banners": "Banners",
     "Australian Dollar": "Dólar australiano",
     "all": "todos",
-    "Amount left:": "Cantidad restante:"
+    "Amount left:": "Cantidad restante:",
+    "Already imported transaction. You can skip it, or import it again.": "Transacción ya importada. Puedes ignorarla o importarla de nuevo.",
+    "an equal portion of the remainder": "una  parte igual del resto",
+    "any": "cualquier"
 }
