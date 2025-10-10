@@ -1635,5 +1635,16 @@
     "Trim intervals": "Відкинути інтервали",
     "Average per year": "Середнє на рік",
     "number of years": "кількість років",
-    "Rule {{id}}": "Правило {{id}}"
+    "Rule {{id}}": "Правило {{id}}",
+    "<0>Currency settings</0> affect how amounts are displayed throughout the application. Changing the currency will affect the number format, symbol position, and whether fractions are shown. These can be adjusted after the currency is set.": "<0>Налаштування валюти</0> впливають на те, як відображаються суми у всьому застосунку. Зміна валюти вплине на формат чисел, розташування символу та на те, чи відображаються дробові частини. Їх можна налаштувати після встановлення валюти.",
+    "Argentinian Peso": "Аргентинське песо",
+    "Client-Side plugins (soon)": "Користувацькі плагіни (скоро)",
+    "Japanese Yen": "Японська єна",
+    "Redo": "Повторити",
+    "Starting Balance": "Початковий баланс",
+    "Starting Balances": "Початкові баланси",
+    "This rule could not be deleted because it is linked to a schedule.": "Це правило не вдалося видалити, оскільки воно пов’язане з розкладом.",
+    "UAE Dirham": "Дирхам ОАЕ",
+    "Undo": "Скасувати",
+    "Uzbek Soum": "Узбецький сум"
 }
