@@ -369,5 +369,11 @@
     "{{count}} payees_few": "получателя",
     "{{count}} payees_many": "получателей",
     "all": "Все",
-    "an equal portion of the remainder": "равная часть остатка"
+    "an equal portion of the remainder": "равная часть остатка",
+    "Add new rule": "Добавить новое правило",
+    "Already imported transaction. You can skip it, or import it again.": "Транзакция уже импортирована. Вы можете её пропустить или импортировать снова.",
+    "An unknown error occurred while importing. Please report this as a new issue on GitHub.": "Произошла неизвестная ошибка при импорте. Пожалуйста, сообщите об этом как о новой проблеме в GitHub.",
+    "any": "любой",
+    "Are you sure you want to delete the transaction?": "Вы уверены, что хотите удалить транзакцию?",
+    "Australian Dollar": "Австралийский доллар"
 }
