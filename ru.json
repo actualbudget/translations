@@ -409,5 +409,6 @@
     "disabled": "отключено",
     "Disabled": "Отключено",
     "Enable": "Включить",
-    "Encrypting your file failed because you are missing your encryption key. Create your key in the next step.": "Не удалось зашифровать файл, так как отсутствует ключ шифрования. Создайте ключ на следующем шаге."
+    "Encrypting your file failed because you are missing your encryption key. Create your key in the next step.": "Не удалось зашифровать файл, так как отсутствует ключ шифрования. Создайте ключ на следующем шаге.",
+    "Enable learning": "Включить автоопределение"
 }
