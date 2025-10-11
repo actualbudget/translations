@@ -1375,6 +1375,7 @@
   "This rule applies to these transactions:": "This rule applies to these transactions:",
   "This rule could not be deleted because it is linked to a schedule.": "This rule could not be deleted because it is linked to a schedule.",
   "This schedule has custom conditions and actions": "This schedule has custom conditions and actions",
+  "This transaction will be deleted by Rules": "This transaction will be deleted by Rules",
   "This week": "This week",
   "This will change the password for this server instance. All existing sessions will stay logged in.": "This will change the password for this server instance. All existing sessions will stay logged in.",
   "This will generate a new key for encrypting your data. <2>This requires a sync reset</2> and all other devices will have to revert to this version of your data. Actual will take you through that process on those devices.": "This will generate a new key for encrypting your data. <2>This requires a sync reset</2> and all other devices will have to revert to this version of your data. Actual will take you through that process on those devices.",
