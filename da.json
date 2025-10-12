@@ -488,5 +488,13 @@
     "<0>{{category}}</0> is used by existing transactions.": "<0>{{category}}</0> bruges af eksisterende transaktioner.",
     "Access Revocation Incomplete": "Tilbagekaldelse af adgang er ikke fuldført",
     "Account is a required field": "Konto er et påkrævet felt",
-    "{{categoryGroupName}} expense group categories": "{{categoryGroupName}} udgiftsgruppekategorier"
+    "{{categoryGroupName}} expense group categories": "{{categoryGroupName}} udgiftsgruppekategorier",
+    "Create new file": "Opret ny fil",
+    "Create new rule": "Opret ny regel",
+    "Create payee “{{payeeName}}”": "Opret modtager \"{{payeeName}}\"",
+    "Create reconciliation transaction": "Opret afstemningstransaktion",
+    "Create rule": "Opret regel",
+    "Creating budget...": "Opretter budget...",
+    "CSV OPTIONS": "CSV INDSTILLINGER",
+    "Current month": "Denne måned"
 }
