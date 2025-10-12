@@ -1189,7 +1189,7 @@
     "Add a fixed amount to this category each month.": "Щомісяця поповнювати цю категорію фіксованою сумою.",
     "all": "все",
     "any": "будь-що",
-    "Automatically rename these payees in the future_one": "Автоматично перейменовувати цього(цих) отримувача(ів) у майбутньому",
+    "Automatically rename these payees in the future_one": "Автоматично перейменовувати цього отримувача у майбутньому",
     "Automatically rename these payees in the future_few": "Автоматично перейменовувати цих отримувачів у майбутньому",
     "Automatically rename these payees in the future_many": "Автоматично перейменовувати цих отримувачів у майбутньому",
     "Available funds to budget": "Доступні кошти для бюджету",
@@ -1309,7 +1309,7 @@
     "The widget is configured to use a non-existing filter value (i.e. category/account/payee). Edit the filters used in this report widget to remove the warning.": "У віджеті використовується неіснуюче значення фільтра (категорія/рахунок/ отримувач). Змініть фільтри у цьому звітному віджеті, щоб видалити повідомлення про помилку.",
     "The stage of a rule allows you to force a specific order. Pre rules always run first, and post rules always run last. Within each stage rules are automatically ordered from least to most specific.": "Етап правила дозволяє задати порядок виконання. Правила на етапі «Перед» виконуються першими, а на етапі «Після» - останніми. Всередині кожного етапу правила автоматично впорядковуються від найзагальніших до найконкретніших.",
     "The request timed out. Please try again later.": "Час очікування запиту вичерпано. Спробуйте, будь ласка, пізніше.",
-    "The payee <2>{{previousPayee}}</2> is not used by transactions any more. Would you like to merge it with <6>{{payee}}</6>?": "Отримувач <2>{{previous Payee}}</2> більше не використовується у транзакціях. Об'єднати його з 6>{{payee}}</6>?",
+    "The payee <2>{{previousPayee}}</2> is not used by transactions any more. Would you like to merge it with <6>{{payee}}</6>?": "Отримувач <2>{{previousPayee}}</2> більше не використовується у транзакціях. Об'єднати його з <6>{{payee}}</6>?",
     "The metadata file in the given archive is corrupted.": "Файл метаданих у цьому архіві пошкоджено.",
     "The following payees are not used by transactions any more. Would you like to merge them with <2>{{payee}}</2>?": "Наступні отримувачі більше не використовуються у транзакціях. Об'єднати їх з <2>{{payee}}</2>?",
     "Tag description": "Опис тега",
@@ -1646,5 +1646,6 @@
     "This rule could not be deleted because it is linked to a schedule.": "Це правило не вдалося видалити, оскільки воно пов’язане з розкладом.",
     "UAE Dirham": "Дирхам ОАЕ",
     "Undo": "Скасувати",
-    "Uzbek Soum": "Узбецький сум"
+    "Uzbek Soum": "Узбецький сум",
+    "This transaction will be deleted by Rules": "Цю транзакцію буде видалено Правилами"
 }
