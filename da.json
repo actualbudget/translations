@@ -496,5 +496,7 @@
     "Create rule": "Opret regel",
     "Creating budget...": "Opretter budget...",
     "CSV OPTIONS": "CSV INDSTILLINGER",
-    "Current month": "Denne måned"
+    "Current month": "Denne måned",
+    "<0>{{category}}</0> is used by existing transactions or it has a positive leftover balance currently.": "<0>{{category}}</0> bruges allerede af eksisterende transaktioner eller har en positiv restsaldo.",
+    "<0>Are you sure you want to delete it?</0> If so, you must select another category to transfer existing transactions and balance to.": "<0>Er du sikker på, at du vil slette den?</0> Hvis ja, så skal du vælge en anden kategori, som eksisterende transaktioner og saldoer overføres til."
 }
