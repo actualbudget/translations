@@ -92,7 +92,7 @@
     "AMOUNT OPTIONS": "ОПЦИИ СУММЫ",
     "Amount:": "Сумма:",
     "An internal error occurred. Try to log in again, or get <2>in touch</2> for support.": "Произошла внутренняя ошибка. Попробуйте войти снова или <2>связаться с нами</2> для поддержки.",
-    "An unknown error occurred while exporting. Please report this as a new issue on GitHub.": "Неизвестная ошибка произошла при экспорте. Пожалуйста, сообщите об этом как о новой ошибке в GitHub.",
+    "An unknown error occurred while exporting. Please report this as a new issue on GitHub.": "Произошла неизвестная ошибка при экспорте. Пожалуйста, сообщите об этом как о новой проблеме на GitHub.",
     "Apply": "Применить",
     "An error occurred while saving. Please visit https://actualbudget.org/contact/ for support.": "Во время сохранения произошла ошибка. Пожалуйста, посетите https://actual budget.org/contact/ для поддержки.",
     "Apply actions": "Применить действия",
