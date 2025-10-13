@@ -475,5 +475,11 @@
     "You have budgeted more than your available funds": "Вы распределили больше средств, чем доступно",
     "Your data is out of sync": "Ваши данные не синхронизированы",
     "Your data is still out of sync": "Ваши данные всё ещё не синхронизированы",
-    "Your password or something else has changed with your bank and you need to login again.": "Ваш пароль или другие данные в банке изменились. Необходимо снова войти."
+    "Your password or something else has changed with your bank and you need to login again.": "Ваш пароль или другие данные в банке изменились. Необходимо снова войти.",
+    "Are you sure you want to delete these {{count}} transactions?_one": "Вы уверены, что хотите удалить {{count}} транзакцию?",
+    "Are you sure you want to delete these {{count}} transactions?_few": "Вы уверены, что хотите удалить {{count}} транзакции?",
+    "Are you sure you want to delete these {{count}} transactions?_many": "Вы уверены, что хотите удалить {{count}} транзакций?",
+    "Are you sure you want to delete this rule?": "Вы уверены, что хотите удалить это правило?",
+    "AVERAGE DEPOSIT": "СРЕДНИЙ ДЕПОЗИТ",
+    "Average per year": "Среднее за год"
 }
