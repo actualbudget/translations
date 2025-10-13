@@ -1596,5 +1596,22 @@
     "Revert to Latest": "Revenir au plus récent",
     "Rule {{id}}": "Règle {{id}}",
     "Trim empty intervals at the start and end of the report": "Retirer les intervalles vides au début et à la fin du rapport",
-    "Trim intervals": "Retirer les intervalles vides"
+    "Trim intervals": "Retirer les intervalles vides",
+    "<0>Currency settings</0> affect how amounts are displayed throughout the application. Changing the currency will affect the number format, symbol position, and whether fractions are shown. These can be adjusted after the currency is set.": "Les <0>paramètres monétaires</0> déterminent l'affichage des montants dans l’application. Changer la devise affectera le format de nombre, la position du symbole et l'affichage des décimales. Ces paramètres peuvent être ajustés après avoir selectionné la devise.",
+    "Argentinian Peso": "Peso argentin",
+    "Client-Side plugins (soon)": "Plugins du client (bientôt)",
+    "Costa Rican Colón": "Colón costaricien",
+    "Failed to delete payee. Please try again.": "Échec de la suppression du bénéficiaire. Veuillez réessayez.",
+    "Japanese Yen": "Yen japonais",
+    "Load Backup…": "Charger une sauvegarde…",
+    "Payee “{{name}}” deleted successfully": "Bénéficiaire « {{name}} » supprimé avec succès",
+    "Redo": "Rétablir",
+    "Sri Lankan Rupee": "Roupie srilankaise",
+    "Starting Balance": "Solde de départ",
+    "Starting Balances": "Soldes de départ",
+    "This rule could not be deleted because it is linked to a schedule.": "Cette règle n'a pas pu être supprimée puisqu'elle est liée à un échéancier.",
+    "This transaction will be deleted by Rules": "Cette transaction sera supprimée par les règles",
+    "UAE Dirham": "Dirham émirati",
+    "Undo": "Annuler",
+    "Uzbek Soum": "Sum ouzbek"
 }
