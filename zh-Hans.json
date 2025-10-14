@@ -116,5 +116,14 @@
     "Add group": "添加组别",
     "{{count}} payees_other": "收款人",
     "<0>Currency settings</0> affect how amounts are displayed throughout the application. Changing the currency will affect the number format, symbol position, and whether fractions are shown. These can be adjusted after the currency is set.": "<0>货币设置</0> 会影响应用中金额的显示方式。更改货币将影响数字格式、符号位置以及是否显示小数部分。在设定货币后，这些选项仍可进行调整。",
-    "Add new rule": "添加新规则"
+    "Add new rule": "添加新规则",
+    "Actual field": "实际支出字段",
+    "Actual requires access to <1>SharedArrayBuffer</1> in order to function properly. If you’re seeing this error, either your browser does not support <3>SharedArrayBuffer</3>, or your server is not sending the appropriate headers, or you are not using HTTPS. See <6>our troubleshooting documentation</6> to learn more. <9></9>": "Actual 需要访问 <1>SharedArrayBuffer</1> 才能正常运行。如果你看到此错误，可能是因为你的浏览器不支持 <3>SharedArrayBuffer</3>，或者你的服务器未发送正确的响应头，亦或你未使用 HTTPS。请查阅 <6>我们的故障排查文档</6> 了解更多信息。<9></9>",
+    "Actual uses <1>SharedArrayBuffer</1> to allow usage from multiple tabs at once and to ensure correct behavior when switching files. While it can run without access to<3>SharedArrayBuffer</3>, you may encounter data loss or notice multiple budget files being merged with each other.": "Actual 使用 <1>SharedArrayBuffer</1> 来支持多标签页同时使用，并确保在切换文件时的正常行为。\n虽然在没有访问 <3>SharedArrayBuffer</3> 的情况下也可以运行，但您可能会遇到数据丢失，或多个预算文件被错误地合并的问题。",
+    "Add an amount to this category each month based on the values from previous months. For example, you can copy the amount from a year ago to budget for an annual expense, or budget the average of the last 3 months to account for seasonal changes.": "每月根据前几个月的数值为此类别添加金额。例如，你可以复制一年前的金额用于预算年度支出，或使用过去三个月的平均值来应对季节性变化。",
+    "Add space between amount and symbol": "在金额和符号之间添加空格",
+    "Add Split": "添加拆分",
+    "Add user": "添加用户",
+    "All accounts": "所有账户",
+    "All Accounts": "所有账户"
 }
