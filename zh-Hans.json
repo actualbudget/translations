@@ -125,5 +125,7 @@
     "Add Split": "添加拆分",
     "Add user": "添加用户",
     "All accounts": "所有账户",
-    "All Accounts": "所有账户"
+    "All Accounts": "所有账户",
+    "Add a fixed amount to this category for each week in the month. For example, $100 per week would be $400 per month in a 4-week month.": "每周向此类别添加固定金额。例如，每周 100 元，在一个 4 周的月份中即为 400 元。",
+    "Add New": "新增标签"
 }
