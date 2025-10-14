@@ -1076,6 +1076,7 @@
   "Rule {{id}}": "Rule {{id}}",
   "Rule action templating": "Rule action templating",
   "Rule deleted successfully": "Rule deleted successfully",
+  "Rule saved successfully": "Rule saved successfully",
   "Rules": "Rules",
   "Rules are always run in the order that you see them.": "Rules are always run in the order that you see them.",
   "Run Rules": "Run Rules",
