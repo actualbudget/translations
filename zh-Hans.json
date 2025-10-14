@@ -192,5 +192,10 @@
     "Balance must be a number": "余额必须是一个数字",
     "Bank": "银行",
     "Bank Account To Sync": "银行账户同步",
-    "Bank field": "银行业"
+    "Bank field": "银行业",
+    "and": "和",
+    "Apply": "应用",
+    "Assets:": "资产：",
+    "Balance": "余额",
+    "Balance:": "余额："
 }
