@@ -114,5 +114,7 @@
     "Add entry": "添加记录",
     "Add condition": "添加条件",
     "Add group": "添加组别",
-    "{{count}} payees_other": "收款人"
+    "{{count}} payees_other": "收款人",
+    "<0>Currency settings</0> affect how amounts are displayed throughout the application. Changing the currency will affect the number format, symbol position, and whether fractions are shown. These can be adjusted after the currency is set.": "<0>货币设置</0> 会影响应用中金额的显示方式。更改货币将影响数字格式、符号位置以及是否显示小数部分。在设定货币后，这些选项仍可进行调整。",
+    "Add new rule": "添加新规则"
 }
