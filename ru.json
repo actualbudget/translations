@@ -481,5 +481,6 @@
     "Are you sure you want to delete these {{count}} transactions?_many": "Вы уверены, что хотите удалить {{count}} транзакций?",
     "Are you sure you want to delete this rule?": "Вы уверены, что хотите удалить это правило?",
     "AVERAGE DEPOSIT": "СРЕДНИЙ ДЕПОЗИТ",
-    "Average per year": "Среднее за год"
+    "Average per year": "Среднее за год",
+    "Add Split": "Добавить разделение"
 }
