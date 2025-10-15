@@ -772,5 +772,16 @@
     "Name {{ newAccountName }} already exists.": "Navnet {{ newAccountName }} eksisterer allerede.",
     "Invalid: unable to parse the value ({{amount}})": "Ugyldigt: kunne ikke fortolke værdien ({{amount}})",
     "Institution to Sync": "Bank der skal synkronisers",
-    "A new version of Actual is available!": "En ny udgave af Actual er tilgængelig!"
+    "A new version of Actual is available!": "En ny udgave af Actual er tilgængelig!",
+    "Add Split": "Tilføj opdeling",
+    "Add user": "Tilføj bruger",
+    "After amount": "Efter beløbet",
+    "all": "alle",
+    "Already imported transaction. You can skip it, or import it again.": "Transaktionen er allerede importeret. Du kan springe den over eller importere den igen.",
+    "Amount left:": "Tilbageværende beløb:",
+    "AMOUNT OPTIONS": "BELØBSMULIGHEDER",
+    "an equal portion of the remainder": "en jævn andel af resten",
+    "Are you sure you want to delete the transaction?": "Er du sikker på, at du vil slette transaktionen?",
+    "Are you sure you want to delete these {{count}} transactions?_one": "Er du sikker på, at du vil slette {{count}} transaktion?",
+    "Are you sure you want to delete these {{count}} transactions?_other": "Er du sikker på, at du vil slette {{count}} transaktioner?"
 }
