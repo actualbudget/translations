@@ -386,7 +386,7 @@
     "Existing sessions will be logged out and you will log in to this server. We will validate that Actual is running at this URL.": "As sessões existentes serão encerradas e você fará login neste servidor. Vamos verificar se o Actual está funcionando neste URL.",
     "Expand split transactions": "Exibir transações divididas",
     "Failed to complete ownership transfer. Please try again.": "A transferência de propriedade não foi concluída. Tente novamente.",
-    "Failed to duplicate budget file.": "Falha ao duplicar o arquivo de orçamento.",
+    "Failed to duplicate budget file.": "Falha ao duplicar arquivo de orçamento.",
     "Filter schedules…": "Filtrar agendamentos…",
     "Expenses": "Gastos",
     "Filtered balance:": "Saldo filtrado:",
