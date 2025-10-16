@@ -47,5 +47,8 @@
     "{{status}} (Split)": "{{status}} (Böl)",
     "{{displayMonth}} budgets have all been set to zero.": "{{displayMonth}} bütçesi tamamen sıfırlandı.",
     "{{categoryName}} shortcuts": "{{categoryName}} kısayolları",
-    "{{scheduleName}} is due {{distanceFromNow}} ({{formattedDate}})": "{{scheduleName}}'in kalan zamanı {{distanceFromNow}} {{formattedDate}}"
+    "{{scheduleName}} is due {{distanceFromNow}} ({{formattedDate}})": "{{scheduleName}}'in kalan zamanı {{distanceFromNow}} {{formattedDate}}",
+    "{isSearching\n                        ? 'No matching shortcuts'\n                        : isInCategory\n                          ? 'No shortcuts in this category'\n                          : 'No matching shortcuts'}": "{isSearching\n                        ? 'Eşleşen kısa yol yok'\n                        : Kategorisinde\n                        ? 'Bu kategoride eşleşen kısa yol yok'\n                        : 'Eşleşen kısa yok yok'}",
+    "<0>{{category}}</0> is used by existing transactions or it has a positive leftover balance currently.": "<0>{{category}}</0> mevcut işlemler tarafından kullanılmaktadır yada anlık artık bakiye pozitiftir.",
+    "<0>{{category}}</0> is used by existing transactions.": "<0>{{category}}</0> mevcut işlemler tarafından kullanılmakta."
 }
