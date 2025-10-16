@@ -46,5 +46,6 @@
     "{{num}} more items...": "{{num}} daha fazla oğe...",
     "{{status}} (Split)": "{{status}} (Böl)",
     "{{displayMonth}} budgets have all been set to zero.": "{{displayMonth}} bütçesi tamamen sıfırlandı.",
-    "{{categoryName}} shortcuts": "{{categoryName}} kısayolları"
+    "{{categoryName}} shortcuts": "{{categoryName}} kısayolları",
+    "{{scheduleName}} is due {{distanceFromNow}} ({{formattedDate}})": "{{scheduleName}}'in kalan zamanı {{distanceFromNow}} {{formattedDate}}"
 }
