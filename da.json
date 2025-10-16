@@ -839,7 +839,7 @@
     "Select a schedule": "Vælg en tidsplan",
     "Select a user": "Vælg en bruger",
     "Select a user from the directory": "Vælg en bruger fra mappen",
-    "On budget": "Indenfor budgettet",
+    "On budget": "I budgettet",
     "once": "en gang",
     "Once you have exported your data, select the file and Actual will import it. Budgets may not match up exactly because things work slightly differently, but you should be able to fix up any problems.": "Når du har eksporteret dine data skal du vælge filen og så vil Actual importere den. Det er muligt, at budgetterne ikke passer helt sammen, fordi tingene fungerer lidt forskelligt, men du burde være i stand til at fikse eventuelle problemer.",
     "one of": "en af",
@@ -848,5 +848,13 @@
     "Open budget menu for {{categoryName}} category": "Åben budgetmenuen for kategorien {{categoryName}}",
     "Open changelog": "Se ændringer",
     "Open the Command Palette": "Åben kommandolinjen",
-    "Open the help menu": "Åben hjælpemenuen"
+    "Open the help menu": "Åben hjælpemenuen",
+    "any": "en",
+    "Save notes & un-migrate": "Gem noter & tilbageføre",
+    "Rule saved successfully": "Regel gemt",
+    "Role is required.": "Rollen er påkrævet.",
+    "Rollover overspending": "Videreføre overforbrug",
+    "On budget accounts": "Kontoer i budgettet",
+    "On Budget": "I budgettet",
+    "Change server URL": "Skift server URL"
 }
