@@ -780,5 +780,6 @@
     "You’re up to date!": "У вас последняя версия!",
     "Disable learning": "Отключить обучение",
     "Disable templating": "Отключить шаблоны",
-    "Unknown": "Неизвестно"
+    "Unknown": "Неизвестно",
+    "Unable to parse file. Please select a JSON file exported from nYNAB.": "Не удалось обработать файл. Пожалуйста, выберете JSON-файл экспортированный из nYNAB."
 }
