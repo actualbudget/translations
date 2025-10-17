@@ -777,5 +777,8 @@
     "Uncleared total:": "Несверенная сумма:",
     "Undo": "Отменить",
     "We don’t have a key that encrypts or decrypts this file. Enter the password for this file to create the key for encryption.": "У нас нет ключа, который шифрует или расшифровывает этот файл. Введите пароль для этого файла, чтобы создать ключ для шифрования.",
-    "You’re up to date!": "У вас последняя версия!"
+    "You’re up to date!": "У вас последняя версия!",
+    "Disable learning": "Отключить обучение",
+    "Disable templating": "Отключить шаблоны",
+    "Unknown": "Неизвестно"
 }
