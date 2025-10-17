@@ -117,7 +117,7 @@
     "Advanced options": "Avancerede indstillinger",
     "Advanced Settings": "Avancerede Indstillinger",
     "after": "efter",
-    "After disabling OpenID all sessions will be closed": "Når OpenID bliver slået fra, vil alle sessions blive lukket.",
+    "After disabling OpenID all sessions will be closed": "Når OpenID bliver deaktiveret, vil alle sessioner blive lukket",
     "After enabling OpenID all sessions will be closed": "Når OpenID bliver slået til, vil alle sessions blive lukket.",
     "All accounts": "Alle konti",
     "All Accounts": "Alle Konti",
@@ -872,5 +872,6 @@
     "Budget {{percent}}% of total income last month": "Budgetter {{percent}}% af den sidste måneds samlede indkomst",
     "Budget {{percent}}% of total income this month": "Budgetter {{percent}}% af den denne måneds samlede indkomst",
     "Budget automations: {{category}}": "Automatisk budgettering: {{category}}",
-    "Budget page": "Budgetside"
+    "Budget page": "Budgetside",
+    "{{num}} more items...": "{{num}} flere..."
 }
