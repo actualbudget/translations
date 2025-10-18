@@ -1068,7 +1068,6 @@
     "Switch file": "สลับไฟล์",
     "Switch to envelope budgeting": "สลับไปใช้การจัดทำงบประมาณแบบซองจดหมาย",
     "There are payees that have schedules that are due today._other": "มีผู้รับเงินที่มีกำหนดการที่ครบกำหนดในวันนี้",
-    "This file was encrypted with a different key than you are currently using. This probably means you changed your password. Enter your current password to update your key.": "ไฟล์นี้ถูกเข้ารหัสด้วยคีย์อื่นนอกเหนือจากที่คุณใช้อยู่ในปัจจุบัน ซึ่งอาจหมายความว่าคุณเปลี่ยนรหัสผ่านแล้ว โปรดป้อนรหัสผ่านปัจจุบันของคุณเพื่ออัปเดตคีย์",
     "This schedule has custom conditions and actions": "กำหนดการนี้มีเงื่อนไขและการดำเนินการที่กำหนดเอง",
     "To Budget:": "ไปยังงบประมาณ:",
     "Toggle cleared for selected transactions": "สลับการล้างสำหรับธุรกรรมที่เลือก",
@@ -1084,7 +1083,6 @@
     "Unknown error with budget name": "ข้อผิดพลาดที่ไม่รู้จักเกี่ยวกับชื่องบประมาณ",
     "Up to $150 each month, and remove extra funds over $150": "สูงสุด $150 ต่อเดือน และนำเงินส่วนเกิน $150 ออก",
     "Update": "อัปเดต",
-    "Update key": "อัปเดตคีย์",
     "Use an external server": "ใช้เซิร์ฟเวอร์ภายนอก",
     "Using server: <1>{url}</1>": "กำลังใช้เซิร์ฟเวอร์: <1>{url}</1>",
     "View file list": "ดูรายการไฟล์",
@@ -1304,6 +1302,5 @@
     "There was a problem syncing your data. We can try to repair your sync state to fix it.": "มีปัญหาในการซิงค์ข้อมูลของคุณ เราสามารถลองซ่อมแซมสถานะการซิงค์ของคุณเพื่อแก้ไขได้",
     "These transactions match this schedule:": "ธุรกรรมเหล่านี้ตรงกับกำหนดการนี้:",
     "Try again": "ลองอีกครั้ง",
-    "Unable to decrypt file": "ไม่สามารถถอดรหัสไฟล์ได้",
     "Unlinked": "ไม่ได้เชื่อมโยง"
 }
