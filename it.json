@@ -1598,5 +1598,16 @@
     "Rule {{id}}": "Regola {{id}}",
     "Sri Lankan Rupee": "Rupia singalese",
     "Trim empty intervals at the start and end of the report": "Taglia gli intervalli vuoti all'inizio e alla fine del report",
-    "Trim intervals": "Taglia intervalli"
+    "Trim intervals": "Taglia intervalli",
+    "<0>Currency settings</0> affect how amounts are displayed throughout the application. Changing the currency will affect the number format, symbol position, and whether fractions are shown. These can be adjusted after the currency is set.": "<0>Le impostazioni della valuta</0> influiscono su come gli importi vengono visualizzati nell'applicazione. La modifica della valuta influirà sul formato numerico, sulla posizione del simbolo e sulla visualizzazione delle frazioni. Questi parametri possono essere modificati dopo aver impostato la valuta.",
+    "Argentinian Peso": "Peso Argentino",
+    "Client-Side plugins (soon)": "Plugin lato client (presto disponibili)",
+    "Japanese Yen": "Yen Giapponese",
+    "Redo": "Ripeti",
+    "Starting Balance": "Bilancio iniziale",
+    "Starting Balances": "Bilanci iniziali",
+    "This rule could not be deleted because it is linked to a schedule.": "Questa regola non può essere eliminata poiché è collegata ad una pianificazione.",
+    "UAE Dirham": "Dirham UAE",
+    "Undo": "Annulla",
+    "Uzbek Soum": "Sum Uzbeko"
 }
