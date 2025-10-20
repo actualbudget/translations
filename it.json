@@ -1609,5 +1609,10 @@
     "This rule could not be deleted because it is linked to a schedule.": "Questa regola non può essere eliminata poiché è collegata ad una pianificazione.",
     "UAE Dirham": "Dirham UAE",
     "Undo": "Annulla",
-    "Uzbek Soum": "Sum Uzbeko"
+    "Uzbek Soum": "Sum Uzbeko",
+    "Decrypt budget file": "Decripta il file di budget",
+    "Please provide the encryption key to unlock this budget file. You may be unlocking it for the first time, or the key has changed. Enter your password to continue.": "Per favore, fornisci la chiave di crittografia per sbloccare questo file di budget. Potresti sbloccarlo per la prima volta oppure la chiave potrebbe essere cambiata. Inserisci la tua password per continuare.",
+    "Rule saved successfully": "Regola salvata con successo",
+    "Server is not available": "Server non disponibile",
+    "Unlock budget file": "Sblocca file di budget"
 }
