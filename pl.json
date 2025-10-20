@@ -1014,5 +1014,6 @@
     "all": "wszystkie",
     "Already imported transaction. You can skip it, or import it again.": "Transakcja została już zaimportowana. Możesz ją pominąć lub zaimportować ponownie.",
     "an equal portion of the remainder": "równa część pozostałej części",
-    "any": "dowolny"
+    "any": "dowolny",
+    "average": "średnia"
 }
