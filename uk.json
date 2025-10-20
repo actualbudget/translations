@@ -1646,5 +1646,8 @@
     "Uzbek Soum": "Узбецький сум",
     "This transaction will be deleted by Rules": "Цю транзакцію буде видалено Правилами",
     "Rule saved successfully": "Правило успішно збережено",
-    "Server is not available": "Сервер недоступний"
+    "Server is not available": "Сервер недоступний",
+    "Decrypt budget file": "Розшифрувати файл бюджету",
+    "Please provide the encryption key to unlock this budget file. You may be unlocking it for the first time, or the key has changed. Enter your password to continue.": "Будь ласка, надайте ключ шифрування, щоб розблокувати цей файл бюджету. Можливо, ви розблоковуєте його вперше, або ж ключ було змінено. Введіть свій пароль, щоб продовжити.",
+    "Unlock budget file": "Розблокувати файл бюджету"
 }
