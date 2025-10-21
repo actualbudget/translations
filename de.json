@@ -1574,5 +1574,9 @@
     "number of years": "Anzahl Jahre",
     "Rule saved successfully": "Regel erfolgreich gespeichert",
     "This rule could not be deleted because it is linked to a schedule.": "Diese Regel konnte nicht gelöscht werden, weil sie mit einem Terminplan verknüpft ist.",
-    "Undo": "Rückgängig"
+    "Undo": "Rückgängig",
+    "Failed to delete payee. Please try again.": "Löschen des Zahlungsempfängers fehlgeschlagen. Bitte versuche es erneut.",
+    "This transaction will be deleted by Rules": "Diese Transaktion wird durch Regeln gelöscht",
+    "Trim empty intervals at the start and end of the report": "Leere Intervalle am Anfang und Ende des Berichts abschneiden",
+    "Unlock budget file": "Budgetdatei entsperren"
 }
