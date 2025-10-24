@@ -70,7 +70,7 @@
     "<0>IDs</0> are the names Actual uses to identify your budget internally. There are several different IDs associated with your budget. The Budget ID is used to identify your budget file. The Sync ID is used to access the budget on the server.": "<0>ID'er</0> er navnene Actual bruger internt, til at identificere det enkelte budget. Der er flere ID'er tilknyttet dit budget. Budget ID'et identificerer din budgetfile, mens Sync ID'et bruges til at tilgå budgettet på serveren.",
     "<0>Link a <1>European</1> bank account</0> to automatically download transactions. GoCardless provides reliable, up-to-date information from hundreds of banks.": "<0>Forbind en <1>europæisk</1> bankkonto</0> for automatisk at trække nye transaktioner fra din bank. GoCardless er en leverandør der kan bruges til at forbinde til hundredvis af banker til dit Actual budget.",
     "<0>Important:</0> if you forget this password <3>and</3> you don’t have any local copies of your data, you will lose access to all your data. The data cannot be decrypted without the password.": "<0>Vigtigt!</0> Hvis du mister dette kodeord <3>og</3> du ikke har en lokal kopi af dataene, vil du miste alle dine data. Dataene kan ikke dekrypteres uden dette kodeord.",
-    "<0>Formatting</0> does not affect how budget data is stored, and can be changed at any time.": "<0>Formatering</0> påvirker kun visning af tallene, og kan ændres når som helst.",
+    "<0>Formatting</0> does not affect how budget data is stored, and can be changed at any time.": "<0>Formatering af tal- og datoformat, mv.</0> påvirker kun visning af tallene, og kan ændres når som helst.",
     "{{accountName}} bank sync settings": "{{accountName}} bank synkroniserings indstillinger",
     "<0>Create a local account</0> if you want to add transactions manually. You can also <3>import QIF/OFX/QFX files into a local account</3>.": "<0>Opret en lokal konto</0> hvis du selv vil tilføje transaktioner manuelt. Du kan også <3>importere QIF/OFX/QFX filer til den lokale konto</3>.",
     "<0>Themes</0> change the user interface colors.": "<0>Temaer</0> ændrer brugerfladens farver.",
@@ -486,7 +486,7 @@
     "{{scheduleName}} is due {{distanceFromNow}} ({{formattedDate}})": "{{scheduleName}} forfalder {{distanceFromNow}} ({{formattedDate}})",
     "{{status}} (Split)": "{{status}} (Opdel)",
     "<0>{{category}}</0> is used by existing transactions.": "<0>{{category}}</0> bruges af eksisterende transaktioner.",
-    "Access Revocation Incomplete": "Tilbagekaldelse af adgang er ikke fuldført",
+    "Access Revocation Incomplete": "Tilbagekaldelse af adgang ikke fuldført",
     "Account is a required field": "Konto er et påkrævet felt",
     "{{categoryGroupName}} expense group categories": "{{categoryGroupName}} udgiftsgruppekategorier",
     "Create new file": "Opret ny fil",
@@ -1269,5 +1269,7 @@
     "Successfully marked {{count}} transactions as transfer._one": "{{count}} transaktion markeret som overførsel.",
     "Successfully marked {{count}} transactions as transfer._other": "{{count}} transaktioner markerede som overførsler.",
     "Disabling OpenID will deactivate multi-user mode.": "Deaktivering af OpenID vil forhindre flerbruger-tilstanden.",
-    "Disable templating": "Deaktivere skabeloner"
+    "Disable templating": "Deaktivere skabeloner",
+    "<0>Server self-signed certificate</0> <2><0>enables a secure connection</0></2>": "<0>En selvudstedt certifikat på serveren</0> <2><0>gør det muligt at anvende en sikker forbindelse</0></2>",
+    "A file with id “{{id}}” already exists with the name “{{name}}”. This file will be replaced. This probably happened because files were manually moved around outside of Actual.": "En fil med id \"{{id}}\" eksisterer allerede med navnet \"{{name}}\" og vil blive overskrevet. Dette er sandsynligvis sket, fordi nogen har flyttet rundt på filerne udenom Actual."
 }
