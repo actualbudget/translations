@@ -219,5 +219,6 @@
     "Average per year": "每年平均",
     "an equal portion of the remainder": "剩余部分的均等份额",
     "Are you sure you want to edit this transaction?": "您确定要编辑此交易吗？",
-    "AVERAGE SPENDING": "平均支出"
+    "AVERAGE SPENDING": "平均支出",
+    "Are you sure you want to unlink <1>{accountName}</1>?": "您确定要取消关联 <1>{accountName}</1>吗？"
 }
