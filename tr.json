@@ -50,5 +50,10 @@
     "{{scheduleName}} is due {{distanceFromNow}} ({{formattedDate}})": "{{scheduleName}}'in kalan zamanı {{distanceFromNow}} {{formattedDate}}",
     "{isSearching\n                        ? 'No matching shortcuts'\n                        : isInCategory\n                          ? 'No shortcuts in this category'\n                          : 'No matching shortcuts'}": "{isSearching\n                        ? 'Eşleşen kısa yol yok'\n                        : Kategorisinde\n                        ? 'Bu kategoride eşleşen kısa yol yok'\n                        : 'Eşleşen kısa yok yok'}",
     "<0>{{category}}</0> is used by existing transactions or it has a positive leftover balance currently.": "<0>{{category}}</0> mevcut işlemler tarafından kullanılmaktadır yada anlık artık bakiye pozitiftir.",
-    "<0>{{category}}</0> is used by existing transactions.": "<0>{{category}}</0> mevcut işlemler tarafından kullanılmakta."
+    "<0>{{category}}</0> is used by existing transactions.": "<0>{{category}}</0> mevcut işlemler tarafından kullanılmakta.",
+    "<0>Actual’s data directory</0> <2><0>where your files are stored</0></2>": "<0>Dosyalarınızın depolandığı </0> <2><0>Actual'ın dosya dizini</0></2>",
+    "<0>Actual</0> is a super fast privacy-focused app for managing your finances.": "<0>Actual</0> finansal işlemlerinizi yönetmek için tasarlanmış, gizlilik odaklı süper hızlı bir uygulamadır.",
+    "<0>Are you sure you want to delete it?</0> If so, you must select another category to transfer existing transactions and balance to.": "<0>Silmek istediğine emin misin?</0> Öyleyse, mevcut işlemleri ve bakiyenizi aktarmak için başka bir kategori seçmelisiniz.",
+    "<0>Authentication method</0> modifies how users log in to the system.": "<0>Kimlik doğrulama yöntemi</0> kullanıcıların sisteme giriş yapma şeklini değiştirir.",
+    "<0>Balance:</0><1>{{amount}}</1>": "<0>Bakiye:</0><1>{{amount}}</1>"
 }
