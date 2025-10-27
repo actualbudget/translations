@@ -1578,5 +1578,20 @@
     "Failed to delete payee. Please try again.": "Löschen des Zahlungsempfängers fehlgeschlagen. Bitte versuche es erneut.",
     "This transaction will be deleted by Rules": "Diese Transaktion wird durch Regeln gelöscht",
     "Trim empty intervals at the start and end of the report": "Leere Intervalle am Anfang und Ende des Berichts abschneiden",
-    "Unlock budget file": "Budgetdatei entsperren"
+    "Unlock budget file": "Budgetdatei entsperren",
+    "<0>Currency settings</0> affect how amounts are displayed throughout the application. Changing the currency will affect the number format, symbol position, and whether fractions are shown. These can be adjusted after the currency is set.": "<0>Währungseinstellungen</0> beeinflussen, wie Beträge in der Anwendung angezeigt werden. Eine Änderung der Währung hat Auswirkungen auf das Zahlenformat, die Position des Symbols und darauf, ob Nachkommastellen angezeigt werden. Diese können angepasst werden, nachdem die Währung festgelegt wurde.",
+    "Costa Rican Colón": "Costa-Rica-Colón",
+    "Decrypt budget file": "Budgetdatei entschlüsseln",
+    "Payee “{{name}}” deleted successfully": "Zahlungsempfänger \"{{name}}\" erfolgreich gelöscht",
+    "Please provide the encryption key to unlock this budget file. You may be unlocking it for the first time, or the key has changed. Enter your password to continue.": "Bitte gebe den Verschlüsselungsschlüssel ein, um diese Budgetdatei zu entsperren. Möglicherweise entsperrst du sie zum ersten Mal oder der Schlüssel wurde geändert. Gib dein Passwort ein, um fortzufahren.",
+    "Redo": "Wiederholen",
+    "Revert to Latest": "Auf neuesten Stand zurücksetzen",
+    "Rule {{id}}": "Regel {{id}}",
+    "Server is not available": "Server ist nicht verfügbar",
+    "Sri Lankan Rupee": "Sri-Lanka-Rupie",
+    "Starting Balance": "Startsaldo",
+    "Starting Balances": "Startsalden",
+    "Trim intervals": "Intervalle abschneiden",
+    "UAE Dirham": "VAE-Dirham",
+    "Uzbek Soum": "Usbekischer Soʻm"
 }
