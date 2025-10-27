@@ -1294,5 +1294,16 @@
     "Date is required": "Dato mangler",
     "Day: {{dayOfMonth}}": "Dag: {{dayOfMonth}}",
     "Decide later": "Beslut dig senere",
-    "Determine which users can view and manage your budgets": "Afgør hvilke brugere kan se og styre dine budgetter"
+    "Determine which users can view and manage your budgets": "Afgør hvilke brugere kan se og styre dine budgetter",
+    "Display Name": "Vist Navn",
+    "Every {{interval}} weeks on {{dateFormatted}}": "Hver {{interval}} uge på {{dateFormatted}}",
+    "Every {{interval}} years on {{dateFormatted}}": "Hvert {{interval}} år på {{dateFormatted}}",
+    "Every month on the {{dateFormatted}}": "Hver måned på den {{dateFormatted}}",
+    "Every month on the {{range}}": "Hver måned på den {{range}}",
+    "Every week on {{dateFormatted}}": "Hver uge på den {{dateFormatted}}",
+    "Every year on {{dateFormatted}}": "Hvert år på den {{dateFormatted}}",
+    "Failed to duplicate budget file": "Fejl: Kunne ikke kopiere budgetfil",
+    "Failed to duplicate budget file.": "Fejl: Kunne ikke kopiere budgetfil.",
+    "Financial files": "Finansielle filer",
+    "Account not found": "Kontoen blev ikke fundet"
 }
