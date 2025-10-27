@@ -1615,5 +1615,13 @@
     "Please provide the encryption key to unlock this budget file. You may be unlocking it for the first time, or the key has changed. Enter your password to continue.": "Forneça a chave de criptografia para desbloquear este arquivo de orçamento. Pode ser a primeira vez que está desbloqueando ou a chave foi alterada. Digite sua senha para continuar.",
     "Rule saved successfully": "Regra salva com sucesso",
     "Server is not available": "Servidor indisponível",
-    "Unlock budget file": "Desbloquear arquivo de orçamento"
+    "Unlock budget file": "Desbloquear arquivo de orçamento",
+    "Account not found": "Conta não encontrada",
+    "Add Query": "Adicionar Consulta",
+    "Calculates difference between dates in days.": "Calcula a diferença entre duas datas, em dias.",
+    "Calculates distance between dates.": "Calcula a diferença entre duas datas.",
+    "Calculates future value of investment.": "Calcula o valor futuro de um investimento.",
+    "Calculates interest rate per period.": "Calcula a taxa de juros por período.",
+    "Calculates internal rate of return.": "Calcula taxa interna de retorno.",
+    "Calculates net present value.": "Calcula valor atual líquido."
 }
