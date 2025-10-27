@@ -1593,5 +1593,6 @@
     "Starting Balances": "Startsalden",
     "Trim intervals": "Intervalle abschneiden",
     "UAE Dirham": "VAE-Dirham",
-    "Uzbek Soum": "Usbekischer Soʻm"
+    "Uzbek Soum": "Usbekischer Soʻm",
+    "Account ID (string). The ID of the account.\n\nExample: `=CONCATENATE(\"Paid from \", account)`": "Account-ID (string). Die ID des Accounts.\n\nBeispiel: `=CONCATENATE(\"Gezahlt von \", account)`"
 }
