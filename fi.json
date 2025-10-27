@@ -36,5 +36,12 @@
     "<0>{{category}}</0> is used by existing transactions or it has a positive leftover balance currently.": "<0>{{category}}</0>  on olemassaolevien liiketapahtumien käytössä tai sillä on tällä hetkellä positiivinen  jäljellä oleva saldo.",
     "<0>{{category}}</0> is used by existing transactions.": "<0>{{category}}</0>  on olemassaolevien liiketapahtumien käytössä.",
     "<0><0>Custom Report:</0></0> <2>{{name}}</2>": "<0><0>Mukautettu Raportti:</0></0> <2>{{name}}</2>",
-    "<0><0>How is cash flow calculated?</0></0><1>Cash flow shows the balance of your budgeted accounts over time, and the amount of expenses/income each day or month. Your budgeted accounts are considered to be “cash on hand,” so this gives you a picture of how available money fluctuates.</1>": "<0><0>Miten kassavirta lasketaan?</0></0><1>Kassavirta näyttää budjetoitujen tiliesi saldon ajan mittaan sekä menojen/tulojen määrän päivittäin tai kuukausittain. Budjetoidut tilit lasketaan mukaan käytettävissä olevaan rahaan (\"cash on hand\"), joten kassavirta antaa kuvan siitä, miten käytettävissä oleva rahamäärä vaihtelee.</1>"
+    "<0><0>How is cash flow calculated?</0></0><1>Cash flow shows the balance of your budgeted accounts over time, and the amount of expenses/income each day or month. Your budgeted accounts are considered to be “cash on hand,” so this gives you a picture of how available money fluctuates.</1>": "<0><0>Miten kassavirta lasketaan?</0></0><1>Kassavirta näyttää budjetoitujen tiliesi saldon ajan mittaan sekä menojen/tulojen määrän päivittäin tai kuukausittain. Budjetoidut tilit lasketaan mukaan käytettävissä olevaan rahaan (\"cash on hand\"), joten kassavirta antaa kuvan siitä, miten käytettävissä oleva rahamäärä vaihtelee.</1>",
+    "(none)": "(tyhjä)",
+    "(please select)": "(ole hyvä ja valitse)",
+    "<0>Balance:</0><1>{{amount}}</1>": "<0>Saldo:</0><1>{{amount}}</1>",
+    "<0>Budget ID:</0> {{budgetId}}": "<0>Budjetti ID:</0> {{budgetId}}",
+    "<0>Budgeted:</0><1>{{amount}}</1>": "<0>Budjetoitu:</0><1>{{amount}}</1>",
+    "<0>No server configured</0>": "<0>Palvelinta ei ole määritetty</0>",
+    "<0>Read here</0> for instructions on how to migrate your data from YNAB. You need to export your data as JSON, and that page explains how to do that.": "<0>Lue täältä</0> ohjeet miten voit tuoda tietosi YNAB:sta. Sinun täytyy viedä tietosi JSON muodossa, sivu kertoo miten se tehdään."
 }
