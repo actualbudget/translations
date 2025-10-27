@@ -13,7 +13,7 @@
     "{{count}} associated rules_other": "{{count}} liitettyä sääntöä",
     "{{displayMonth}} budgets have all been set to last month’s budgeted amounts.": "{{displayMonth}} budjetti on asetettu edellisen kuun budjetoituihin summiin.",
     "{{displayMonth}} budgets have all been set to zero.": "{{displayMonth}} budjetoidut summat on nollattu.",
-    "{{displayMonth}} end-of-month cleanup templates have been applied.": "{{displayMonth}} loppukuun siivousmalli on suoritettu.",
+    "{{displayMonth}} end-of-month cleanup templates have been applied.": "{{displayMonth}} loppukuun siivousmallit on otettu käyttöön.",
     "<0>Actual’s data directory</0> <2><0>where your files are stored</0></2>": "<0>Actual:n tiedostohakemisto</0> <2><0>mihin tiedostosi on tallennettu</0></2>",
     "<0>Actual</0> is a super fast privacy-focused app for managing your finances.": "<0>Actual</0> on todella nopea, yksityisyyttäsi kunnioittava sovellus taloutesi hallintaan.",
     "<0>Authentication method</0> modifies how users log in to the system.": "<0>Todennusmenetelmä</0> muuttaa tapaa, jolla käyttäjät kirjautuvat järjestelmään.",
@@ -23,5 +23,18 @@
     "<0>Language</0> is the display language of all text. Please note that no warranty is provided for the accuracy or completeness of non-English translations. If you encounter a translation error, feel free to make a suggestion on <3>Weblate</3>.": "<0>Kieli</0> on kaiken tekstin näyttökieli. Huomioi, että takuuta muun kuin englannin kielisen käännöksen tarkkuudesta tai täydellisyydestä ei anneta. Jos törmäät käännösvirheeseen, voit ehdottaa parempaa käännöstä <3>Weblatessa</3>.",
     "{{selectedPayeeNames}}, and more": "{{selectedPayeeNames}}, ja enemmän",
     "<0><0>How are “Average” and “Spent Average MTD” calculated?</0></0><1>They are both the average cumulative spending by day for the three months before the selected “compare” month.</1>": "<0><0>Kuinka \"Keskimäärin\" ja \"Kulutettu keskimäärin kuun alusta tähän päivään\" lasketaan? </0></0><1>Molemmat ovat kumulatiivisen keskimäärän kulutus viimeisen kolmen kuukauden ajalta ennen valittua \"vertaa\" kuuta.</1>",
-    "{{displayMonth}} budget templates have been applied.": "{{displayMonth}} budjettimallit otettu käyttöön."
+    "{{displayMonth}} budget templates have been applied.": "{{displayMonth}} budjettimallit on otettu käyttöön.",
+    "(+{{numHiddenPayees}} more)": "(+{{numHiddenPayees}} lisää)",
+    "(after weekend)": "(viikonlopun jälkeen)",
+    "(before weekend)": "(ennen viikonloppua)",
+    "(deleted)": "(poistettu)",
+    "(No payee)": "(Ei maksajaa)",
+    "(nothing)": "(tyhjä)",
+    "{{accountName}} bank sync settings": "{{accountName}} pankin synkronointiasetukset",
+    "{{categoryGroupName}} expense group categories": "{{categoryGroupName}} kuluryhmäkategoriat",
+    "{{scheduleName}} is due {{distanceFromNow}} ({{formattedDate}})": "{{scheduleName}} erääntyy {{distanceFromNow}} ({{formattedDate}})",
+    "<0>{{category}}</0> is used by existing transactions or it has a positive leftover balance currently.": "<0>{{category}}</0>  on olemassaolevien liiketapahtumien käytössä tai sillä on tällä hetkellä positiivinen  jäljellä oleva saldo.",
+    "<0>{{category}}</0> is used by existing transactions.": "<0>{{category}}</0>  on olemassaolevien liiketapahtumien käytössä.",
+    "<0><0>Custom Report:</0></0> <2>{{name}}</2>": "<0><0>Mukautettu Raportti:</0></0> <2>{{name}}</2>",
+    "<0><0>How is cash flow calculated?</0></0><1>Cash flow shows the balance of your budgeted accounts over time, and the amount of expenses/income each day or month. Your budgeted accounts are considered to be “cash on hand,” so this gives you a picture of how available money fluctuates.</1>": "<0><0>Miten kassavirta lasketaan?</0></0><1>Kassavirta näyttää budjetoitujen tiliesi saldon ajan mittaan sekä menojen/tulojen määrän päivittäin tai kuukausittain. Budjetoidut tilit lasketaan mukaan käytettävissä olevaan rahaan (\"cash on hand\"), joten kassavirta antaa kuvan siitä, miten käytettävissä oleva rahamäärä vaihtelee.</1>"
 }
