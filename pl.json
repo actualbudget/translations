@@ -1044,5 +1044,20 @@
     "last day": "ostatni dzień",
     "Left": "Lewo",
     "Link bank account with Pluggy.ai": "Połącz konto bankowe z Pluggy.ai",
-    "matches": "pasuje"
+    "matches": "pasuje",
+    "<0>Currency settings</0> affect how amounts are displayed throughout the application. Changing the currency will affect the number format, symbol position, and whether fractions are shown. These can be adjusted after the currency is set.": "<0>Ustawienia walut</0> wpływają na to, jak wartości wyświetlane są w całej aplikacji. Zmiana waluty wpływa na format liczb, symbol i wyświetlanie wartości ułamkowych. Po wybraniu waluty można zmienić te opcje.",
+    "App: v{{appVersion}} | Server: {{serverVersion}}": "Aplikacja: v{{appVersion}} | Serwer: {{serverVersion}}",
+    "Are you sure you want to delete the transaction?": "Czy na pewno chcesz usunąć tę transakcję?",
+    "Are you sure you want to delete these {{count}} transactions?_one": "Czy na pewno chcesz usunąć {{count}} transakcję?",
+    "Are you sure you want to delete these {{count}} transactions?_few": "Czy na pewno chcesz usunąć {{count}} transakcje?",
+    "Are you sure you want to delete these {{count}} transactions?_many": "Czy na pewno chcesz usunąć {{count}} transakcji?",
+    "Are you sure you want to delete this rule?": "Czy na pewno chcesz usunąć tę regułę?",
+    "Argentinian Peso": "Peso argentyńskie",
+    "Average per year": "Średnia roczna",
+    "Brazilian Real": "Real brazylijski",
+    "Budget {{amount}} each week": "Przeznacz {{amount}} tygodniowo",
+    "Budget {{monthly}} each month": "Przeznacz {{monthly}} miesięcznie",
+    "Budget {{percent}}% of &lsquo;{{category}}&rsquo; last month": "Przeznacz {{percent}}% z kategorii &lsquo;{{category}}&rsquo; za ostatni miesiąc",
+    "Budget {{percent}}% of &lsquo;{{category}}&rsquo; this month": "Przeznacz {{percent}}% z kategorii &lsquo;{{category}}&rsquo; w tym miesiącu",
+    "Budget {{percent}}% of available funds to budget last month": "Przeznacz {{percent}}% dostępnych środków do budżetu w zeszłym miesiącu"
 }
