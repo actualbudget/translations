@@ -1771,5 +1771,13 @@
     "Transaction notes/memo text. Use for string operations.\n\nExample: `=UPPER(notes)` to convert to uppercase": "Notes de la transaction. Destiné aux opérations liés aux chaînes de caractères.\n\nExemple : `=UPPER(notes)` pour convertir en majuscules",
     "Truncates number to specified decimals.": "Tronque un nombre au nombre de décimales spécifié.",
     "Unlock budget file": "Déverrouiller le fichier de budget",
-    "Variable with value: {{value}}": "Variable avec la valeur : {{value}}"
+    "Variable with value: {{value}}": "Variable avec la valeur : {{value}}",
+    "Rounds down to nearest integer.": "Arrondit par défaut.",
+    "Rounds down to nearest multiple of significance.": "Arrondit au multiple spécifié inférieur le plus proche.",
+    "Rounds down to specified decimals.": "Arrondit par défaut au nombre de décimales spécifié.",
+    "Rounds up to nearest multiple of significance.": "Arrondit au multiple spécifié supérieur le plus proche.",
+    "Rounds up to specified decimals.": "Arrondit par excès au nombre de décimales spécifié.",
+    "Searches horizontally in first row and returns value.": "Cherche dans la première ligne et retourne la valeur.",
+    "Searches vertically in first column and returns value.": "Cherche dans la première colonne et retourne la valeur.",
+    "Returns the base-10 logarithm.": "Retourne le logarithme décimal."
 }
