@@ -1777,5 +1777,7 @@
     "Sums cells that meet multiple criteria.": "Sommatoria delle celle che soddisfano più criteri.",
     "Transaction amount in cents. Use for calculations and comparisons.\n\nExample: `=amount / 100` to get dollar value": "Importo della transazione in centesimi. Utilizzare per calcoli e confronti.\n\nEsempio: `=importo / 100` per ottenere il valore in dollari",
     "Transaction date in YYYY-MM-DD format. Use with date functions.\n\nExample: `=TEXT(date, \"MMMM\")` to get month name": "Data della transazione nel formato AAAA-MM-GG. Da utilizzare con le funzioni relative alla data.\n\nEsempio: `=TEXT(date, “MMMM”)` per ottenere il nome del mese",
-    "Transaction notes/memo text. Use for string operations.\n\nExample: `=UPPER(notes)` to convert to uppercase": "Note sulla transazione/testo del promemoria. Utilizzare per operazioni su stringhe.\n\nEsempio: `=UPPER(notes)` per convertire in maiuscolo"
+    "Transaction notes/memo text. Use for string operations.\n\nExample: `=UPPER(notes)` to convert to uppercase": "Note sulla transazione/testo del promemoria. Utilizzare per operazioni su stringhe.\n\nEsempio: `=UPPER(notes)` per convertire in maiuscolo",
+    "Category Name (string). The human-readable name of the category.\n\nExample: `=IF(category_name=\"Groceries\", \"Food\", \"Other\")`": "Nome categoria (stringa). Il nome della categoria leggibile dall'utente.\n\nEsempio: `=IF(category_name=\"Generi alimentari\", \"Cibo\", \"Altro\")`",
+    "Queries allow you to reference filtered transaction data in your formulas using QUERY(‘queryName’)": "Le query consentono di fare riferimento ai dati delle transazioni filtrati nelle tue formule utilizzando QUERY(‘queryName’)"
 }
