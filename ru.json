@@ -922,5 +922,7 @@
     "shortcut": "Сочетание клавиш",
     "shortcuts": "сочетания клавиш",
     "Range:": "Диапазон:",
-    "average": "средний"
+    "average": "средний",
+    "Add Query": "Добавить запрос",
+    "Calculates difference between dates in days.": "Вычисляет разницу между датами в днях."
 }
