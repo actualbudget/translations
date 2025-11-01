@@ -855,5 +855,12 @@
     "<0>Currency settings</0> affect how amounts are displayed throughout the application. Changing the currency will affect the number format, symbol position, and whether fractions are shown. These can be adjusted after the currency is set.": "Los <0>ajustes de moneda</0> afectan a cómo se muestran las cantidades en toda la aplicación. Cambiar la moneda modificará el formato numérico, la posición del símbolo y si se muestran los decimales. Estos parámetros pueden ajustarse después de establecer la moneda.",
     "An unknown error occurred while importing. Please report this as a new issue on GitHub.": "Ha ocurrido un error desconocido durante la importación. Por favor, reporta esto como un nuevo \"issue\" en GitHub.",
     "Canadian Dollar": "Dólar canadiense",
-    "After amount": "Cantidad después"
+    "After amount": "Cantidad después",
+    "Are you sure you want to delete the transaction?": "¿Estás seguro de que quieres eliminar la transacción?",
+    "Budget {{percent}}% of &lsquo;{{category}}&rsquo; last month": "{{percent}}% del presupuesto del &lsquo;{{category}}&rsquo; último mes",
+    "Budget {{percent}}% of &lsquo;{{category}}&rsquo; this month": "{{percent}}% del presupuesto de &lsquo;{{category}}&rsquo; este mes",
+    "Budget automations: {{category}}": "Automatizaciones del presupuesto: {{category}}",
+    "Budget page": "Página de presupuesto",
+    "budget templates have been applied.": "Se han aplicado las plantillas de presupuestos.",
+    "budgeted": "presupuestado"
 }
