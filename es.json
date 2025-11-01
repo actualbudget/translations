@@ -868,5 +868,6 @@
     "Are you sure you want to delete these {{count}} transactions?_other": "¿Estás seguro de que quieres eliminar {{count}} transacciones?",
     "Automatically rename these payees in the future_one": "Renombra automáticamente este pagador en el futuro",
     "Automatically rename these payees in the future_many": "Renombra automáticamente estos pagadores en el futuro",
-    "Automatically rename these payees in the future_other": "Renombra automáticamente estos pagadores en el futuro"
+    "Automatically rename these payees in the future_other": "Renombra automáticamente estos pagadores en el futuro",
+    "Budget set to last month‘s budget.": "Presupuesto ajustado al del mes pasado."
 }
