@@ -862,5 +862,11 @@
     "Budget automations: {{category}}": "Automatizaciones del presupuesto: {{category}}",
     "Budget page": "Página de presupuesto",
     "budget templates have been applied.": "Se han aplicado las plantillas de presupuestos.",
-    "budgeted": "presupuestado"
+    "budgeted": "presupuestado",
+    "Are you sure you want to delete these {{count}} transactions?_one": "¿Estás seguro de que quieres eliminar {{count}} transacción?",
+    "Are you sure you want to delete these {{count}} transactions?_many": "¿Estás seguro de que quieres eliminar {{count}} transacciones?",
+    "Are you sure you want to delete these {{count}} transactions?_other": "¿Estás seguro de que quieres eliminar {{count}} transacciones?",
+    "Automatically rename these payees in the future_one": "Renombra automáticamente este pagador en el futuro",
+    "Automatically rename these payees in the future_many": "Renombra automáticamente estos pagadores en el futuro",
+    "Automatically rename these payees in the future_other": "Renombra automáticamente estos pagadores en el futuro"
 }
