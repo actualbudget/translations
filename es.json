@@ -837,7 +837,7 @@
     "a fixed amount": "un monto fijo",
     "a fixed percent of the remainder": "un porcentaje fijo del resto",
     "Account page": "Página de la cuenta",
-    "Account sync": "Sincronización de la cuenta",
+    "Account sync": "Sincronización de cuenta",
     "Add new rule": "Añadir una nueva regla",
     "Add Split": "Crear división",
     "Are you sure you want to delete this rule?": "¿Estás seguro de que quieres eliminar esta regla?",
@@ -853,5 +853,6 @@
     "an equal portion of the remainder": "una  parte igual del resto",
     "any": "cualquier",
     "<0>Currency settings</0> affect how amounts are displayed throughout the application. Changing the currency will affect the number format, symbol position, and whether fractions are shown. These can be adjusted after the currency is set.": "Los <0>ajustes de moneda</0> afectan a cómo se muestran las cantidades en toda la aplicación. Cambiar la moneda modificará el formato numérico, la posición del símbolo y si se muestran los decimales. Estos parámetros pueden ajustarse después de establecer la moneda.",
-    "An unknown error occurred while importing. Please report this as a new issue on GitHub.": "Ha ocurrido un error desconocido durante la importación. Por favor, reporta esto como un nuevo \"issue\" en GitHub."
+    "An unknown error occurred while importing. Please report this as a new issue on GitHub.": "Ha ocurrido un error desconocido durante la importación. Por favor, reporta esto como un nuevo \"issue\" en GitHub.",
+    "Canadian Dollar": "Dólar canadiense"
 }
