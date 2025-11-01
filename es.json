@@ -854,5 +854,6 @@
     "any": "cualquier",
     "<0>Currency settings</0> affect how amounts are displayed throughout the application. Changing the currency will affect the number format, symbol position, and whether fractions are shown. These can be adjusted after the currency is set.": "Los <0>ajustes de moneda</0> afectan a cómo se muestran las cantidades en toda la aplicación. Cambiar la moneda modificará el formato numérico, la posición del símbolo y si se muestran los decimales. Estos parámetros pueden ajustarse después de establecer la moneda.",
     "An unknown error occurred while importing. Please report this as a new issue on GitHub.": "Ha ocurrido un error desconocido durante la importación. Por favor, reporta esto como un nuevo \"issue\" en GitHub.",
-    "Canadian Dollar": "Dólar canadiense"
+    "Canadian Dollar": "Dólar canadiense",
+    "After amount": "Cantidad después"
 }
