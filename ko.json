@@ -16,5 +16,6 @@
     "(Optional)": "(선택사항)",
     "{{accountName}} bank sync settings": "{{accountName}} 은행 동기화 설정",
     "{{displayMonth}} budget templates have been applied.": "{{displayMonth}} 예산 템플릿이 적용되었습니다.",
-    "{{displayMonth}} budget templates have been overwritten.": "{{displayMonth}} 예산 템플릿을 덮어썼습니다."
+    "{{displayMonth}} budget templates have been overwritten.": "{{displayMonth}} 예산 템플릿을 덮어썼습니다.",
+    "{{categoryGroupName}} expense group categories": "{{categoryGroupName}} 지출 그룹 분류"
 }
