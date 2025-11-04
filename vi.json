@@ -1,3 +1,24 @@
 {
-    "(after weekend)": "(sau cuối tuần)"
+    "(after weekend)": "(sau cuối tuần)",
+    "Notes": "Ghi chú",
+    "Offline": "Offline",
+    "(before weekend)": "(trước cuối tuần)",
+    "(deleted)": "(đã xóa)",
+    "(modified)": "(đã chỉnh sửa)",
+    "{{count}} transactions_other": "{{count}} giao dịch",
+    "{{count}} uncategorized transactions_other": "{{count}} giao dịch chưa phân loại",
+    "Next date": "Ngày kế tiếp",
+    "Next month": "Tháng kế tiếp",
+    "Next:": "Tiếp:",
+    "Next: {{month}}": "Tiếp: {{month}}",
+    "No": "Không",
+    "No account": "Không có tài khoản",
+    "No notes": "Không có ghi chú",
+    "No users": "Không có người dùng nào",
+    "Notes (markdown supported)": "Ghi chú (hỗ trợ markdown)",
+    "Notes: {{name}}": "Ghi chú: {{name}}",
+    "OK": "OK",
+    "once": "một lần",
+    "one of": "một trong",
+    "Open Actual": "Mở Actual"
 }
