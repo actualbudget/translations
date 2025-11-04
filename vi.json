@@ -20,5 +20,6 @@
     "OK": "OK",
     "once": "một lần",
     "one of": "một trong",
-    "Open Actual": "Mở Actual"
+    "Open Actual": "Mở Actual",
+    "(+{{numHiddenPayees}} more)": "{{numHiddenPayees}} thêm)"
 }
