@@ -984,7 +984,6 @@
     "System default": "Valeur par défaut du système",
     "The username registered within the OpenID provider.": "Le nom d'utilisateur enregistré auprès du fournisseur OpenID.",
     "Rate limit exceeded for this item. Please try again later.": "La limite de requêtes pour cet élément a été dépassée. Veuillez réessayer plus tard.",
-    "Skip lines:": "Ignorer les lignes :",
     "Stacked Bar Graph": "Histogramme à barres empilées",
     "Subfeature: Budget automations UI": "Sous-fonctionnalité : Interface d'automatisation du budget",
     "Select one of these compressed files and import it here.": "Sélectionner un de ces fichiers compressés et l'importer ici.",

@@ -252,7 +252,6 @@
     "Set up SimpleFIN for bank sync": "Ställ in SimpleFIN för banksynkronisering",
     "Show transactions for {{categoryName}} category": "Visa överföringar för kategori {{categoryName}}",
     "Single month": "En månad",
-    "Skip lines:": "Hoppa över linjer:",
     "Sign out": "Logga ut",
     "Something went wrong when registering your encryption key id. You need to recreate your key. ": "Någonting gick fel när din krypteringsnyckel registrerades. Var god skapa om din nyckel. ",
     "Something happened while deleting users": "Någonting hände när användare togs bort",

@@ -336,7 +336,6 @@
     "Sign in with OpenID": "เข้าสู่ระบบด้วย OpenID",
     "Since you are transferring the balance from an on budget account to an off budget account, this transaction must be categorized. Select a category:": "เนื่องจากคุณกำลังโอนยอดคงเหลือจากบัญชีในงบประมาณไปยังบัญชีนอกงบประมาณ รายการนี้จึงต้องจัดหมวดหมู่ กรุณาเลือกหมวดหมู่:",
     "Single month": "เดือนเดียว",
-    "Skip lines:": "ข้ามบรรทัด:",
     "Skip next scheduled date": "ข้ามวันที่กำหนดถัดไป",
     "Something happened while editing access": "มีบางอย่างเกิดขึ้นขณะแก้ไขการเข้าถึง",
     "Something went wrong trying to create a key, sorry! Visit https://actualbudget.org/contact/ for support.": "มีบางอย่างผิดพลาดขณะพยายามสร้างคีย์ ขออภัย! เยี่ยมชม https://actualbudget.org/contact/ เพื่อขอความช่วยเหลือ",
