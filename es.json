@@ -853,7 +853,7 @@
     "an equal portion of the remainder": "una parte igual del resto",
     "any": "cualquier",
     "<0>Currency settings</0> affect how amounts are displayed throughout the application. Changing the currency will affect the number format, symbol position, and whether fractions are shown. These can be adjusted after the currency is set.": "Los <0>ajustes de moneda</0> afectan a cómo se muestran las cantidades en toda la aplicación. Cambiar la moneda modificará el formato numérico, la posición del símbolo y si se muestran los decimales. Estos parámetros pueden ajustarse después de establecer la moneda.",
-    "An unknown error occurred while importing. Please report this as a new issue on GitHub.": "Ha ocurrido un error desconocido durante la importación. Por favor, reporta esto como un nuevo \"issue\" en GitHub.",
+    "An unknown error occurred while importing. Please report this as a new issue on GitHub.": "Ha ocurrido un error desconocido mientras se importaba. Por favor, reporta esto como un nuevo issue en GitHub.",
     "Canadian Dollar": "Dólar canadiense",
     "After amount": "Cantidad después",
     "Are you sure you want to delete the transaction?": "¿Estás seguro de que quieres eliminar la transacción?",
@@ -872,5 +872,6 @@
     "Budget set to last month‘s budget.": "Presupuesto ajustado al del mes pasado.",
     "Account not found": "Cuenta no encontrada",
     "Add Query": "Agregar Consulta",
-    "Categories in the group <2>{{group}}</2> are used by existing transactions or it has a positive leftover balance currently.": "Las categorías del grupo <2>{{group}}</2> se usan en transacciones existentes o tienen un saldo positivo restante."
+    "Categories in the group <2>{{group}}</2> are used by existing transactions or it has a positive leftover balance currently.": "Las categorías del grupo <2>{{group}}</2> se usan en transacciones existentes o tienen un saldo positivo restante.",
+    "Change category automations": "Cambiar las automatizaciones de categoría"
 }
