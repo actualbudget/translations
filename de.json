@@ -566,7 +566,6 @@
     "Configure OAuth2 provider": "OAuth2-Provider konfigurieren",
     "Compare {{formattedStartDate}} to {{typeOrFormattedEndDate}}": "Vergleiche {{formattedStartDate}} mit {{typeOrFormattedEndDate}}",
     "Could not search: {{errorReason}}": "Die Suche konnte nicht durchgeführt werden: {{errorReason}}",
-    "Cover from a category:": "Deckung von einer Kategorie:",
     "Create reconciliation transaction": "Abstimmungstransaktion erstellen",
     "New category name": "Neuer Kategorie-Name",
     "Reset to default": "Auf Standard zurücksetzen",

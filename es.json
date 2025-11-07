@@ -114,7 +114,6 @@
     "Budget “{{id}}” not found. Check the ID of your budget in the Advanced section of the settings page.": "Presupuesto \"{{id}}\" no encontrado. Comprueba el ID de tu presupuesto en la sección Avanzado de la pagina de configuración.",
     "Budget name": "Nombre de presupuesto",
     "Could not search: {{errorReason}}": "No se pudo buscar: {{errorReason}}",
-    "Cover from a category:": "Cubrir desde una categoría:",
     "Cover overbudgeted": "Cubrir sobrepresupuestado",
     "Covered overbudgeted from {{categoryName}}": "Cubrir sobrepresupuestado desde {{categoryName}}",
     "Create payee “{{payeeName}}”": "Crear beneficiario \"{{payeeName}}\"",

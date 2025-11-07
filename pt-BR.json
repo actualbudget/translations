@@ -1090,7 +1090,6 @@
     "Budget “{{id}}” not found. Check the ID of your budget in the Advanced section of the settings page.": "Orçamento “{{id}}” não foi encontrado. Verifique o ID do seu orçamento na seção Configurações Avançadas da página de configurações.",
     "Change directory": "Trocar diretório",
     "Could not search: {{errorReason}}": "Não foi possível buscar: {{errorReason}}",
-    "Cover from a category:": "Cobrir com uma categoria:",
     "Cover overbudgeted": "Cobrir orçamento excedido",
     "Create payee “{{payeeName}}”": "Criar beneficiário “{{payeeName}}”",
     "Day: {{dayOfMonth}}": "Dia: {{dayOfMonth}}",

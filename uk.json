@@ -1174,7 +1174,6 @@
     "Connect to an Actual server to set up <2>automatic syncing</2>.": "Підключіться до сервера Actual, щоб налаштувати <2>автоматичну синхронізацію</2>.",
     "Copy a previous month": "Скопіювати з попереднього місяця",
     "Could not search: {{errorReason}}": "Неможливо знайти: {{errorReason}}",
-    "Cover from a category:": "Покрити з категорії:",
     "{{count}} payees_one": "{{count}} отримувач",
     "{{count}} payees_few": "{{count}} отримувачі",
     "{{count}} payees_many": "{{count}} отримувачів",

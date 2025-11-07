@@ -914,7 +914,6 @@
     "{{displayMonth}} budget templates have been overwritten.": "เทมเพลตงบประมาณของ {{displayMonth}} ถูกเขียนทับแล้ว",
     "Create new account (off budget)": "สร้างบัญชีใหม่ (นอกงบประมาณ)",
     "Create new file": "สร้างไฟล์ใหม่",
-    "Cover from a category:": "ครอบคลุมจากหมวดหมู่:",
     "Covered {{toCategoryName}} overspending from {{fromCategoryName}}.": "ครอบคลุมการใช้จ่ายเกินของ {{toCategoryName}} จาก {{fromCategoryName}}",
     "Create new account": "สร้างบัญชีใหม่",
     "Delete split": "ลบการแบ่ง",
