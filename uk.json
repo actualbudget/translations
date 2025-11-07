@@ -1812,5 +1812,13 @@
     "Transaction date in YYYY-MM-DD format. Use with date functions.\n\nExample: `=TEXT(date, \"MMMM\")` to get month name": "Дата транзакції у форматі YYYY-MM-DD. Використовуйте з функціями роботи з датами.\n\nПриклад: `=TEXT(date, \"MMMM\")`, щоб отримати назву місяця",
     "Transaction notes/memo text. Use for string operations.\n\nExample: `=UPPER(notes)` to convert to uppercase": "Текст приміток/нотаток транзакції. Використовуйте для операцій з рядками.\n\nПриклад: `=UPPER(notes)`, щоб перетворити текст у верхній регістр",
     "Truncates number to specified decimals.": "Обрізає число до вказаної кількості десяткових знаків.",
-    "Variable with value: {{value}}": "Змінна зі значенням: {{value}}"
+    "Variable with value: {{value}}": "Змінна зі значенням: {{value}}",
+    "Add transaction and close form": "Додати транзакцію та закрити форму",
+    "Link and unlink accounts": "Зв'язати та розірвати зв'язок між рахунками",
+    "Link or unlink accounts": "Зв'язати або розірвати зв'язок між рахунками",
+    "Linked to:": "Прив'язано до:",
+    "Not linked": "Не прив'язано",
+    "Skip end lines:": "Пропустити кінцеві рядки:",
+    "Skip start lines:": "Пропустити початкові рядки:",
+    "Unlink accounts": "Відв'язати рахунки"
 }
