@@ -45,5 +45,13 @@
     "<0>No server configured</0>": "<0>Palvelinta ei ole määritetty</0>",
     "<0>Read here</0> for instructions on how to migrate your data from YNAB. You need to export your data as JSON, and that page explains how to do that.": "<0>Lue täältä</0> ohjeet miten voit tuoda tietosi YNAB:sta. Sinun täytyy viedä tietosi JSON muodossa, sivu kertoo miten se tehdään.",
     "{{count}} transactions_one": "{{count}} tapahtuma",
-    "{{count}} transactions_other": "{{count}} tapahtumaa"
+    "{{count}} transactions_other": "{{count}} tapahtumaa",
+    "Your SimpleFIN Access Token is no longer valid. Please reset and generate a new token.": "SimpleFin Käyttöoikeustietue ei ole enää voimassa. Ole hyvä resetoi se ja luo uusi.",
+    "and": "ja",
+    "App updated to {{version}}": "Ohjelma päivitetty {{version}}",
+    "append to notes": "Lisää muistiinpanoihin",
+    "Apply": "Aseta",
+    "Apply actions": "Aseta toiminnot",
+    "Apply to all": "Aseta kaikkiin",
+    "Are you sure you want to close <2>{{accountName}}</2>? ": "Oletko varma että haluat sulkea <2>{{accountName}}</2>? "
 }
