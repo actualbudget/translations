@@ -1777,5 +1777,15 @@
     "Rounds up to specified decimals.": "Arrondit par excès au nombre de décimales spécifié.",
     "Searches horizontally in first row and returns value.": "Cherche dans la première ligne et retourne la valeur.",
     "Searches vertically in first column and returns value.": "Cherche dans la première colonne et retourne la valeur.",
-    "Returns the base-10 logarithm.": "Retourne le logarithme décimal."
+    "Returns the base-10 logarithm.": "Retourne le logarithme décimal.",
+    "{{years}} years": "{{years}} années",
+    "Add transaction and close form": "Ajouter la transaction et fermer",
+    "Convert to Schedule": "Convertir en échancier",
+    "Covered {{amount}} {{toCategoryName}} overspending from {{fromCategoryName}}.": "{{amount}} {{toCategoryName}} de dépenses excédentaires couvertes provenant de {{fromCategoryName}}.",
+    "Crossover point": "Point d'indifférence",
+    "Crossover Point": "Point d'indifférence",
+    "Crossover Report": "Rapport de comparaison",
+    "Danish Krone": "Couronne danoise",
+    "Edit Payee": "Modifier le bénéficiaire",
+    "Estimated return (annual %, optional)": "Rendement estimé (en % annuel, optionnel)"
 }
