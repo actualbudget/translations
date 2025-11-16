@@ -17,5 +17,9 @@
     "{{count}} uncategorized transactions_other": "{{count}} transaksi tanpa kategori",
     "(nothing)": "(tidak ada)",
     "{{count}} payees_other": "{{count}} penerima",
-    "{{displayMonth}} budget templates have been overwritten.": "Template anggaran {{displayMonth}} telah ditimpa."
+    "{{displayMonth}} budget templates have been overwritten.": "Template anggaran {{displayMonth}} telah ditimpa.",
+    "{{displayMonth}} budget templates have been applied.": "Template anggaran untuk {{displayMonth}} telah ditimpa.",
+    "{{displayMonth}} end-of-month cleanup templates have been applied.": "Template pembersihan akhir bulan untuk {{displayMonth}} telah diterapkan.",
+    "{{endOccurrences}} times": "{{endOccurrences}} kali",
+    "{{accountName}} bank sync settings": "Pengaturan sinkronisasi bank untuk {{accountName}}"
 }
