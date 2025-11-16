@@ -14,5 +14,6 @@
     "{{categoryGroupName}} expense group categories": "Kategori grup pengeluaran {{categoryGroupName}}",
     "{{categoryName}} shortcuts": "Pintasan {{categoryName}}",
     "{{count}} associated rules_other": "{{count}} aturan terkait",
-    "{{count}} uncategorized transactions_other": "{{count}} transaksi tanpa kategori"
+    "{{count}} uncategorized transactions_other": "{{count}} transaksi tanpa kategori",
+    "(nothing)": "(tidak ada)"
 }
