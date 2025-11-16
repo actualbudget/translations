@@ -15,5 +15,7 @@
     "{{categoryName}} shortcuts": "Pintasan {{categoryName}}",
     "{{count}} associated rules_other": "{{count}} aturan terkait",
     "{{count}} uncategorized transactions_other": "{{count}} transaksi tanpa kategori",
-    "(nothing)": "(tidak ada)"
+    "(nothing)": "(tidak ada)",
+    "{{count}} payees_other": "{{count}} penerima",
+    "{{displayMonth}} budget templates have been overwritten.": "Template anggaran {{displayMonth}} telah ditimpa."
 }
