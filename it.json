@@ -1800,5 +1800,13 @@
     "This transaction has a future date. Would you like to convert it to a single-time schedule instead?": "Questa transazione ha una data futura. Desideri convertirla in una pianificazione singola?",
     "Unlink accounts": "Disconnetti conti",
     "Yes, create schedule": "Si, crea una pianificazione",
-    "yyyy": "aaaa"
+    "yyyy": "aaaa",
+    "(projected)": "(previsto)",
+    "{{years}} years": "{{years}} anni",
+    "<0>Force reload app</0> will clear the cached version of the app and load a fresh one. This is useful if you're experiencing issues with the app after an update or if cached files are causing problems. The app will reload automatically after clearing the cache.": "<0>Forza ricarica app</0> cancellerà la versione memorizzata nella cache dell'app e ne caricherà una nuova. Questa funzione è utile se riscontri problemi con l'app dopo un aggiornamento o se i file memorizzati nella cache causano problemi. L'app si ricaricherà automaticamente dopo aver cancellato la cache.",
+    "Crossover point": "Punto di crossover",
+    "Crossover Point": "Punto di Crossover",
+    "Danish Krone": "Corona Danese",
+    "Estimated return (annual %, optional)": "Rendimento stimato (% annua, facoltativo)",
+    "Expense Projection Type": "Tipo di proiezione delle spese"
 }
