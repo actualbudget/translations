@@ -891,5 +891,8 @@
     "Calculates internal rate of return.": "Calcula la tasa interna de retorno.",
     "Calculates net present value.": "Calcula el valor actual neto.",
     "Calculates payment for a loan.": "Calcula el pago de un préstamo.",
-    "Calculates present value of investment.": "Calcula el valor actual de la inversión."
+    "Calculates present value of investment.": "Calcula el valor actual de la inversión.",
+    "{{years}} years": "{{years}} años",
+    "(projected)": "(previsto)",
+    "Account name (string). The human-readable name of the account.\n\nExample: `=CONCATENATE(\"Paid from \", account_name)`": "Nombre de cuenta (cadena). El nombre legible por humanos de la cuenta.\n\nEjemplo: `=CONCATENATE(\"Pagado de \", account_name) `"
 }
