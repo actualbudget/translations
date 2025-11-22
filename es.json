@@ -900,5 +900,8 @@
     "Delete {{count}} rules_other": "Eliminar {{count}} reglas",
     "Delete {{selectedCount}} users_one": "Borrar {{selectedCount}} usuario",
     "Delete {{selectedCount}} users_many": "Borrar {{selectedCount}} usuarios",
-    "Delete {{selectedCount}} users_other": "Borrar {{selectedCount}} usuarios"
+    "Delete {{selectedCount}} users_other": "Borrar {{selectedCount}} usuarios",
+    "Delete {selectedInst.items.size} tags_one": "Eliminar {selectedInst.items.size} etiqueta",
+    "Delete {selectedInst.items.size} tags_many": "Eliminar {selectedInst.items.size} etiquetas",
+    "Delete {selectedInst.items.size} tags_other": "Eliminar {selectedInst.items.size} etiquetas"
 }
