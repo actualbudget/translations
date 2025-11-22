@@ -1834,5 +1834,10 @@
     "Years to Retire": "Années avant la retraite",
     "Yes, create schedule": "Oui, créer un échéancier",
     "yyyy": "aaaa",
-    "Colombian Peso": "Peso colombien"
+    "Colombian Peso": "Peso colombien",
+    "Indonesian Rupiah": "Roupie indonésienne",
+    "Malaysian Ringgit": "Ringgit malaisien",
+    "Duplicate the selected transactions": "Dupliquer les transactions sélectionnées",
+    "Merge the selected transactions": "Fusionner les transactions sélectionnées",
+    "Set amount for selected transactions": "Définir le montant pour les transactions sélectionnées"
 }
