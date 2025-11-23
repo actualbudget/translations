@@ -1833,5 +1833,14 @@
     "Duplicate the selected transactions": "Дублювати вибрані транзакції",
     "Expense Projection Type": "Тип прогнозу витрат",
     "Expenses categories": "Категорії витрат",
-    "Guatemalan Quetzal": "Гватемальський кетсаль"
+    "Guatemalan Quetzal": "Гватемальський кетсаль",
+    "Covered {{amount}} {{toCategoryName}} overspending from {{fromCategoryName}}.": "Перевитрати в категорії {{toCategoryName}} в розмірі {{amount}} перекрито з категорії {{fromCategoryName}}.",
+    "Crossover Report": "Звіт про перетин",
+    "Edit Payee": "Редагувати отримувача",
+    "Estimated return (annual %, optional)": "Очікувана дохідність (річна, у відсотках, необов'язково)",
+    "Failed to update payee. Please try again.": "Не вдалося оновити отримувача платежу. Будь ласка, спробуйте ще раз.",
+    "Force reload app": "Примусово перезавантажити застосунок",
+    "Force reload app button": "Кнопка примусового перезавантаження застосунку",
+    "Hampel Filtered Median": "Медіана з фільтрацією Гемпеля",
+    "Hide hidden": "Не відображати приховані"
 }
