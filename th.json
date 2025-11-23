@@ -588,7 +588,6 @@
     "Bank Account To Sync": "บัญชีธนาคารที่จะซิงค์",
     "<0>Create a local account</0> if you want to add transactions manually. You can also <3>import QIF/OFX/QFX files into a local account</3>.": "<0>สร้างบัญชีภายในเครื่อง</0> หากคุณต้องการเพิ่มธุรกรรมด้วยตนเอง คุณยังสามารถ <3>นำเข้าไฟล์ QIF/OFX/QFX ไปยังบัญชีภายในเครื่อง</3> ได้ด้วย",
     "<0>Language</0> is the display language of all text. Please note that no warranty is provided for the accuracy or completeness of non-English translations. If you encounter a translation error, feel free to make a suggestion on <3>Weblate</3>.": "<0>ภาษา</0> คือภาษาที่ใช้แสดงข้อความทั้งหมด โปรดทราบว่าไม่มีการรับประกันความถูกต้องหรือความสมบูรณ์ของคำแปลที่ไม่ใช่ภาษาอังกฤษ หากคุณพบข้อผิดพลาดในการแปล คุณสามารถเสนอคำแปลที่ถูกต้องได้ที่ <3>Weblate</3>",
-    "Done reconciling": "กระทบยอดเสร็จสิ้น",
     "logged in as: <2><0>{{userName}}</0></2>": "เข้าสู่ระบบในชื่อ: <2><0>{{userName}}</0></2>",
     "Budget {{monthly}} each month": "ตั้งงบประมาณ {{monthly}} ต่อเดือน",
     "{{count}} transactions_other": "{{count}} รายการธุรกรรม",

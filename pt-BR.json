@@ -1097,7 +1097,6 @@
     "Filter name": "Nome do filtro",
     "Log in with password": "Login com senha",
     "Transferred {{amount}} to {{categoryName}}": "Transferido {{amount}} para {{categoryName}}",
-    "Done reconciling": "Concluir reconciliação",
     "New category name": "Nome da nova categoria",
     "New group name": "Nome do novo grupo",
     "Your cleared balance <2>{{clearedBalance}}</2> needs <5>{{difference}}</5> to match<7></7> your bank's balance of <10>{{bankBalance}}</10>": "Seu saldo reconciliado <2>{{clearedBalance}}</2> precisa <5>{{difference}}</5> para corresponder<7></7> ao seu saldo bancário de <10>{{bankBalance}}</10>",
