@@ -1803,5 +1803,7 @@
     "Income accounts": "Einnahmekonten",
     "Link and unlink accounts": "Konten verknüpfen und lösen",
     "Link or unlink accounts": "Konten verknüpfen oder lösen",
-    "Crossover Report": "Crossover-Bericht"
+    "Crossover Report": "Crossover-Bericht",
+    "<0>Force reload app</0> will clear the cached version of the app and load a fresh one. This is useful if you're experiencing issues with the app after an update or if cached files are causing problems. The app will reload automatically after clearing the cache.": "<0>App-Neuladen erzwingen</0> löscht die zwischengespeicherte Version der App und lädt eine frische Version. Das ist hilfreich, wenn nach einem Update Probleme auftreten oder wenn zwischengespeicherte Dateien Schwierigkeiten verursachen. Die App wird nach dem Löschen des Caches automatisch neu geladen.",
+    "Failed to update payee. Please try again.": "Update des Zahlungsempfängers fehlgeschlagen. Bitte erneut versuchen."
 }
