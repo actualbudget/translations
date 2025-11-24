@@ -1767,7 +1767,7 @@
     "Crossover point": "Crossover-Punkt",
     "Crossover Point": "Crossover-Punkt",
     "<0>Warning:</0> This transaction is {{daysUntilTransaction}} days away, which is beyond your configured upcoming length of {{upcomingDays}} days. The schedule preview will not be visible in your account until it gets closer to the date.": "<0>Warnung:</0> Diese Transaktion liegt {{daysUntilTransaction}} Tage in der Zukunft und damit außerhalb des von dir festgelegten Vorschauzeitraums von {{upcomingDays}} Tagen. Die Vorschau des Terminplans wird in deinem Konto erst sichtbar, wenn das Datum näher rückt.",
-    "Add transaction and close form": "Transaktion hinzufügen und Formular schließen",
+    "Add transaction and close form": "Transaktion hinzufügen und Fenster schließen",
     "Colombian Peso": "Kolumbianischer Peso",
     "Cover this amount:": "Diesen Betrag decken:",
     "Danish Krone": "Dänische Krone",
@@ -1797,13 +1797,16 @@
     "What is the Crossover Point?": "Was ist der Crossover-Punkt?",
     "Yes, create schedule": "Ja, Terminplan erstellen",
     "Convert to Schedule": "In Terminplan konvertieren",
-    "Expense Projection Type": "Ausgabenplanungs-Typ",
+    "Expense Projection Type": "Art der Kostenprognose",
     "Force reload app button": "Button zum App-Neuladen erzwingen",
-    "Hampel Filtered Median": "Hampel-gefilterter Median",
+    "Hampel Filtered Median": "Hampel-Filter-Median",
     "Income accounts": "Einnahmekonten",
     "Link and unlink accounts": "Konten verknüpfen und lösen",
     "Link or unlink accounts": "Konten verknüpfen oder lösen",
     "Crossover Report": "Crossover-Bericht",
     "<0>Force reload app</0> will clear the cached version of the app and load a fresh one. This is useful if you're experiencing issues with the app after an update or if cached files are causing problems. The app will reload automatically after clearing the cache.": "<0>App-Neuladen erzwingen</0> löscht die zwischengespeicherte Version der App und lädt eine frische Version. Das ist hilfreich, wenn nach einem Update Probleme auftreten oder wenn zwischengespeicherte Dateien Schwierigkeiten verursachen. Die App wird nach dem Löschen des Caches automatisch neu geladen.",
-    "Failed to update payee. Please try again.": "Update des Zahlungsempfängers fehlgeschlagen. Bitte erneut versuchen."
+    "Failed to update payee. Please try again.": "Update des Zahlungsempfängers fehlgeschlagen. Bitte erneut versuchen.",
+    "Force reload app": "Neuladen der App erzwingen",
+    "Hide hidden": "Versteckte ausblenden",
+    "Years to Retire": "Jahre bis zum Ruhestand"
 }
