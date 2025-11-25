@@ -1661,7 +1661,7 @@
     "Import Query Configuration": "Importa Configurazione Query",
     "Invalid JSON. Please check your input.": "JSON non valido. Controlla i dati inseriti.",
     "Last sync: {{time}}": "Ultima sincronizzazione: {{time}}",
-    "This transaction will be deleted by Rules": "Questa transazione verrà eliminata dalle Regole.",
+    "This transaction will be deleted by Rules": "Questa transazione verrà eliminata dalle Regole",
     "Paste the JSON configuration below:": "Incolla la configurazione JSON qui sotto:",
     "Query configuration copied to clipboard": "Configurazione query copiata negli appunti",
     "Query Definitions": "Definizioni delle query",
@@ -1833,5 +1833,12 @@
     "Used to estimate your future income.<1></1><2></2>Select the accounts that will be used to fund your retirement.<4></4>Ex: Retirement Accounts, Savings Accounts<6></6><7></7>Exclude accounts that will not.<9></9>Ex: Mortgage Accounts, Child Education Accounts": "Utilizzato per stimare il tuo reddito futuro.<1></1><2></2>Seleziona i conti che saranno utilizzati per finanziare la tua pensione.<4></4>Es.: conti pensione, conti di risparmio<6></6><7></7>Escludi i conti che non saranno utilizzati.<9></9>Es.: conti mutuo, conti per l'istruzione dei figli",
     "Using historical return: {(historicalReturn * 100).toFixed(1)}%": "Utilizzo del rendimento storico: {(historicalReturn * 100).toFixed(1)}%",
     "What is the Crossover Point?": "Cos'è il punto di Crossover?",
-    "Years to Retire": "Anni alla pensione"
+    "Years to Retire": "Anni alla pensione",
+    "Duplicate the selected transactions": "Duplica le transazioni selezionate",
+    "Exit reconciliation": "Riconciliazione di uscita",
+    "How past expenses are projected into the future.<1></1><2></2>Linear Trend: Projects expenses using a linear regression of historical data.<4></4><5></5>Hampel Filtered Median: Filters out outliers before calculating the median expense.": "Come vengono proiettate nel futuro le spese passate.<1></1><2></2>Tendenza lineare: proietta le spese utilizzando una regressione lineare dei dati storici.<4></4><5></5>Mediana filtrata di Hampel: filtra i valori anomali prima di calcolare la mediana delle spese.",
+    "Lock transactions": "Blocca transazioni",
+    "Malaysian Ringgit": "Ringgit malese",
+    "Merge the selected transactions": "Unisci le transazioni selezionate",
+    "Set amount for selected transactions": "Imposta l'importo per le transazioni selezionate"
 }
