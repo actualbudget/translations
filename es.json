@@ -978,5 +978,7 @@
     "Imported Payee": "Beneficiario importado",
     "Indian Rupee": "Rupia india",
     "Invalid amount value": "Monto inválido",
-    "Invalid: unable to parse the value": "Invalido: No se ha podido analizar el valor"
+    "Invalid: unable to parse the value": "Invalido: No se ha podido analizar el valor",
+    "Community support (Discord)": "Soporte de la comunidad (Discord)",
+    "Date format": "Formato de fecha"
 }
