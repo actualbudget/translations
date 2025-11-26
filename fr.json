@@ -1838,5 +1838,6 @@
     "Malaysian Ringgit": "Ringgit malaisien",
     "Duplicate the selected transactions": "Dupliquer les transactions sélectionnées",
     "Merge the selected transactions": "Fusionner les transactions sélectionnées",
-    "Set amount for selected transactions": "Définir le montant pour les transactions sélectionnées"
+    "Set amount for selected transactions": "Définir le montant pour les transactions sélectionnées",
+    "Lock transactions": "Verrouiller les transactions"
 }
