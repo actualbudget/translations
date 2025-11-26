@@ -908,7 +908,7 @@
     "Import {{count}} transactions_other": "Importar {{count}} transacciones",
     "cleared": "finalizada",
     "Enter server password": "Introducir contraseña del servidor",
-    "Every day": "Diario",
+    "Every day": "Cada día",
     "Every month on the {{dateFormatted}}": "Cada mes el {{dateFormatted}}",
     "Expense category groups": "Groups de categoría de gasto",
     "Import notes from file": "Notas de importación del archivo",
@@ -981,5 +981,17 @@
     "Invalid: unable to parse the value": "Invalido: No se ha podido analizar el valor",
     "Community support (Discord)": "Soporte de la comunidad (Discord)",
     "Date format": "Formato de fecha",
-    "Cover the occurrences of the schedule &lsquo;{{name}}&rsquo; this month": "Cubrir las repeticiones de la planificacion &lsquo;{{name}}&rsquo; este mes"
+    "Cover the occurrences of the schedule &lsquo;{{name}}&rsquo; this month": "Cubrir las repeticiones de la planificacion &lsquo;{{name}}&rsquo; este mes",
+    "Every month on the {{range}}": "Cada mes entre {{range}}",
+    "It looks like you're using an outdated version of the Actual client. Your budget data has been updated by another client, but this client is still on the old version. For the best experience, please update Actual to the latest version.": "Parece que estás usando una versión desfasada del cliente de Actual. Tus datos de presupuesto han sido actualizados por otro cliente, pero este cliente aún está en la versión anterior. Para la mejor experiencia, por favor actualiza Actual a la última versión.",
+    "Item Ids (comma separated):": "IDs de ítem (separados por comas):",
+    "Link bank account with Pluggy.ai": "Vincular cuenta bancaria con Pluggy.ai",
+    "More options": "Más opciones",
+    "Next:": "Siguiente:",
+    "Not yet reconciled": "Aún no reconciliado",
+    "Note that the URL depends on your authentik domain and provider slug name.": "Tenga en cuenta que la URL depende de su dominio de Authentik y el nombre de su proveedor.",
+    "Off budget": "Fuera de presupuesto",
+    "Off budget accounts": "Cuentas fuera de presupuesto",
+    "On budget accounts": "Cuentas dentro de presupuesto",
+    "once": "una vez"
 }
