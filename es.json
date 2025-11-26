@@ -905,5 +905,15 @@
     "Delete {selectedInst.items.size} tags_other": "Eliminar {selectedInst.items.size} etiquetas",
     "Import {{count}} transactions_one": "Importar {{count}} transacción",
     "Import {{count}} transactions_many": "Importar {{count}} transacciones",
-    "Import {{count}} transactions_other": "Importar {{count}} transacciones"
+    "Import {{count}} transactions_other": "Importar {{count}} transacciones",
+    "cleared": "finalizada",
+    "Enter server password": "Introducir contraseña del servidor",
+    "Every day": "Diario",
+    "Every month on the {{dateFormatted}}": "Cada mes el {{dateFormatted}}",
+    "Expense category groups": "Groups de categoría de gasto",
+    "Import notes from file": "Notas de importación del archivo",
+    "In order to enable bank sync via GoCardless (only for EU banks) you will need to create access credentials. This can be done by creating an account with <2>GoCardless</2>.": "Para activar la sincronización a través de GoCardless (solo bancos de EU), necesitarás crear credenciales de acceso. Esto se puede hacer creando una cuenta con <2>GoCardless</2>.",
+    "In order to enable bank sync via Pluggy.ai (only for Brazilian banks) you will need to create access credentials. This can be done by creating an account with <2>Pluggy.ai</2>.": "Para activar la sincronización a través de Pluggy.ai (solo para bancos brasileños), necesitarás crear credenciales de acceso. Esto se puede hacer creando una cuenta con <2>Pluggy.ai</2>.",
+    "In order to enable bank sync via SimpleFIN (only for North American banks), you will need to create a token. This can be done by creating an account with <2>SimpleFIN</2>.": "Para activar la sincronización a través de SimpleFin (solo bancos de norte América), necesitarás crear un token de acceso. Esto se puede hacer creando una cuenta con <2>SimpleFIN</2>.",
+    "Institution to Sync": "Institución a sincronizar"
 }
