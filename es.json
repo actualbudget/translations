@@ -980,5 +980,6 @@
     "Invalid amount value": "Monto inválido",
     "Invalid: unable to parse the value": "Invalido: No se ha podido analizar el valor",
     "Community support (Discord)": "Soporte de la comunidad (Discord)",
-    "Date format": "Formato de fecha"
+    "Date format": "Formato de fecha",
+    "Cover the occurrences of the schedule &lsquo;{{name}}&rsquo; this month": "Cubrir las repeticiones de la planificacion &lsquo;{{name}}&rsquo; este mes"
 }
