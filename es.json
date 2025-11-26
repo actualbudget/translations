@@ -723,7 +723,7 @@
     "is before": "antes",
     "Deleting reconciled transactions may bring your reconciliation out of balance.": "Eliminar transacciones conciliadas puede desequilibrar su conciliación.",
     "Item is no longer authorized. You need to login again.": "El ítem ya no está autorizado. Debe iniciar sesión nuevamente.",
-    "Import transaction notes": "Importar notas de transacción",
+    "Import transaction notes": "Importar las notas de las transacciones",
     "Edit fields": "Editar campos",
     "Error when trying to contact Pluggy.ai": "Error al intentar contactar con Pluggy.ai",
     "It is required to provide both the client id, client secret and at least one item id.": "Es obligatorio proporcionar tanto el ID de cliente, el secreto de cliente y al menos un ID de elemento.",
