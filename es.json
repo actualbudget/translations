@@ -796,7 +796,7 @@
     "Add a fixed amount to this category each month.": "Añadir un monto fijo a esta categoría cada mes.",
     "Collapse": "Contraer",
     "Copy a previous month": "Copiar un mes previo",
-    "Cover each occurrence when it occurs": "Cubrir cada evento cuando ocurra",
+    "Cover each occurrence when it occurs": "Cubrir cada transacción cuando ocurra",
     "By default imported transactions that you delete will be re-imported with the next bank sync operation. To disable this behaviour - untick this box.": "Por defecto, las transacciones que sean eliminadas vuelven a ser importadas durante la siguiente operación de sincronización. Para deshabilitar este comportamiento - desactiva esta casilla.",
     "Cover": "Cubrir",
     "Budget for a schedule": "Presupuestar para una planificación",
@@ -809,7 +809,7 @@
     "completed": "completado",
     "{{scheduleName}} is due {{distanceFromNow}} ({{formattedDate}})": "{{scheduleName}} se ejecutará en {{distanceFromNow}} ({{formattedDate}})",
     "Configure your server": "Configurar tu servidor",
-    "Delete template": "Eliminar plantilla",
+    "Delete template": "Eliminar la plantilla",
     "Edit template": "Editar plantilla",
     "due": "pendiente",
     "{{count}} payees_one": "{{count}} beneficiario",
@@ -993,5 +993,14 @@
     "Off budget": "Fuera de presupuesto",
     "Off budget accounts": "Cuentas fuera de presupuesto",
     "On budget accounts": "Cuentas dentro de presupuesto",
-    "once": "una vez"
+    "once": "una vez",
+    "Expand": "Expandir",
+    "Fully Expand": "Totalmente expandido",
+    "Last": "Último",
+    "missed": "omitido",
+    "Mode": "Modo",
+    "No description available": "Descripción no disponible",
+    "No schedules found, create one in the <2>schedules</2> page.": "Planificaciones no encontradas, crea una en la <2>schedules</2> página.",
+    "nothing": "nada",
+    "Number of months back": "Numero de meses atrás"
 }
