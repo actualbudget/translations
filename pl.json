@@ -1067,5 +1067,11 @@
     "Show advanced settings": "Pokaż ustawienia zaawansowane",
     "Wednesday": "Środa",
     "Server online": "Serwer online",
-    "Find Existing Tags": "Znajdź istniejące tagi"
+    "Find Existing Tags": "Znajdź istniejące tagi",
+    "Your SimpleFIN Access Token is no longer valid. Please reset and generate a new token.": "Twój token dostępu SimpleFIN stracił ważność. Zresetuj go i wygeneruj nowy.",
+    "You have budgeted more than your available funds": "Przekroczono dostępne środki finansowe",
+    "You have to be admin to set secrets": "Aby ustawić sekrety, musisz być administratorem",
+    "You need to register it to take advantage of syncing which allows you to use it across devices and never worry about losing your data.": "Musisz to zarejestrować, aby móc korzystać z funkcji synchronizacji, która pozwala na korzystanie z różnych urządzeń i nie martwiąc się o utratę danych.",
+    "You need to revert it to continue syncing. Any unsynced data will be lost. If you like, you can instead [upload this file](#upload) to be the latest version.": "Musisz przywrócić poprzednią wersję, aby kontynuować synchronizację. Wszelkie niesynchronizowane dane zostaną utracone. Jeśli chcesz, możesz zamiast tego [przesłać ten plik](#upload), aby stał się najnowszą wersją.",
+    "Calculates present value of investment.": "Oblicza wartość bieżącą inwestycji."
 }
