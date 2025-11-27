@@ -251,6 +251,7 @@
   "Be aware that other devices may have already created these transactions. If you have multiple devices, make sure you only do this on one device or you will have duplicate transactions.": "Be aware that other devices may have already created these transactions. If you have multiple devices, make sure you only do this on one device or you will have duplicate transactions.",
   "before": "before",
   "Before amount": "Before amount",
+  "Belarusian Ruble": "Belarusian Ruble",
   "Boolean cleared status. TRUE if transaction is cleared, FALSE otherwise.\n\nExample: `=IF(cleared, \"Cleared\", \"Pending\")`": "Boolean cleared status. TRUE if transaction is cleared, FALSE otherwise.\n\nExample: `=IF(cleared, \"Cleared\", \"Pending\")`",
   "Boolean reconciled status. TRUE if transaction is reconciled, FALSE otherwise.": "Boolean reconciled status. TRUE if transaction is reconciled, FALSE otherwise.",
   "Brazilian Real": "Brazilian Real",
