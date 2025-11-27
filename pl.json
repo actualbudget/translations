@@ -1073,5 +1073,6 @@
     "You have to be admin to set secrets": "Aby ustawić sekrety, musisz być administratorem",
     "You need to register it to take advantage of syncing which allows you to use it across devices and never worry about losing your data.": "Musisz to zarejestrować, aby móc korzystać z funkcji synchronizacji, która pozwala na korzystanie z różnych urządzeń i nie martwiąc się o utratę danych.",
     "You need to revert it to continue syncing. Any unsynced data will be lost. If you like, you can instead [upload this file](#upload) to be the latest version.": "Musisz przywrócić poprzednią wersję, aby kontynuować synchronizację. Wszelkie niesynchronizowane dane zostaną utracone. Jeśli chcesz, możesz zamiast tego [przesłać ten plik](#upload), aby stał się najnowszą wersją.",
-    "Calculates present value of investment.": "Oblicza wartość bieżącą inwestycji."
+    "Calculates present value of investment.": "Oblicza wartość bieżącą inwestycji.",
+    "Account ID (string). The ID of the account.\n\nExample: `=CONCATENATE(\"Paid from \", account)`": "ID konta (tekst). Identyfikator konta.\n\nPrzykład: `=CONCATENATE(\"Paid from \", account)`"
 }
