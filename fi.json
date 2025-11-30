@@ -53,5 +53,7 @@
     "Apply": "Aseta",
     "Apply actions": "Aseta toiminnot",
     "Apply to all": "Aseta kaikkiin",
-    "Are you sure you want to close <2>{{accountName}}</2>? ": "Oletko varma että haluat sulkea <2>{{accountName}}</2>? "
+    "Are you sure you want to close <2>{{accountName}}</2>? ": "Oletko varma että haluat sulkea <2>{{accountName}}</2>? ",
+    "{{count}} uncategorized transactions_one": "{{count}} kategorisoimattomat liiketoimet",
+    "{{count}} uncategorized transactions_other": "{{count}} kategorisoimattomat liiketoimet"
 }
