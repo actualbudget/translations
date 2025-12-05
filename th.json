@@ -1146,7 +1146,6 @@
     "Reconciled": "กระทบยอดแล้ว",
     "Reconciled Transaction": "รายการที่กระทบยอดแล้ว",
     "Remove overspending rollover": "ลบการยกยอดเงินที่ใช้จ่ายเกิน",
-    "Schedules (Soon)": "กำหนดการ (เร็วๆ นี้)",
     "Search": "ค้นหา",
     "Select a user from the directory to designate as the new budget owner.": "เลือกผู้ใช้จากไดเรกทอรีเพื่อกำหนดให้เป็นเจ้าของงบประมาณคนใหม่",
     "Search {{accountName}}": "ค้นหา {{accountName}}",
