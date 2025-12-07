@@ -244,5 +244,10 @@
     "Budget {{percent}}% of total income this month": "预算这个月总收入的{{percent}}%",
     "Budget files": "预算文件",
     "Budget for a schedule": "计划预算",
-    "Budget name": "预算名"
+    "Budget name": "预算名",
+    "Budget {{monthly}} each month": "每月预算 {{monthly}}",
+    "Budget {{percent}}% of &lsquo;{{category}}&rsquo; last month": "上个月{{category}}预算的{{percent}}%",
+    "Budgeted MTD": "预算月度总支出",
+    "By default imported transactions that you delete will be re-imported with the next bank sync operation. To disable this behaviour - untick this box.": "默认情况下，您删除的导入交易将在下一次银行同步操作中重新导入。要禁用此行为 - 取消勾选此框。",
+    "By enabling bank sync, you will be granting GoCardless (a third party service) read-only access to your entire account’s transaction history. This service is not affiliated with Actual in any way. Make sure you’ve read and understand GoCardless’s <2>Privacy Policy</2> before proceeding.": "通过启用银行同步，您将授予 GoCardless（第三方服务）对整个帐户交易历史记录的只读访问权限。本服务与 Actual 没有任何关联。在继续之前，请确保您已阅读并理解 GoCardless 的 <2>隐私政策</2>。"
 }
