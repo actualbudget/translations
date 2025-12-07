@@ -220,5 +220,8 @@
     "an equal portion of the remainder": "剩余部分的均等份额",
     "Are you sure you want to edit this transaction?": "您确定要编辑此交易吗？",
     "AVERAGE SPENDING": "平均支出",
-    "Are you sure you want to unlink <1>{accountName}</1>?": "您确定要取消关联 <1>{accountName}</1>吗？"
+    "Are you sure you want to unlink <1>{accountName}</1>?": "您确定要取消关联 <1>{accountName}</1>吗？",
+    "Account not found": "账户不存在",
+    "Add Query": "新增检索",
+    "Argentinian Peso": "阿根廷比索"
 }
