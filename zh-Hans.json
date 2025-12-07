@@ -215,7 +215,7 @@
     "Are you sure you want to delete these {{count}} transactions?_other": "确定要删除{{count}}笔交易？",
     "Are you sure you want to delete this rule?": "确定要删除这条规则？",
     "Are you sure?": "您确定吗？",
-    "Automatically rename these payees in the future_other": "以后自动重命名这些收款人",
+    "Automatically rename these payees in the future_other": "将自动重命名这些收款人",
     "Average per year": "每年平均",
     "an equal portion of the remainder": "剩余部分的均等份额",
     "Are you sure you want to edit this transaction?": "您确定要编辑此交易吗？",
@@ -231,5 +231,18 @@
     "Basic": "基本",
     "Budget": "预算",
     "Budgeted": "预算的",
-    "Budgeted:": "预算:"
+    "Budgeted:": "预算:",
+    "Bank sync": "银行同步",
+    "Bank Sync": "银行同步",
+    "Bank Sync Offline": "银行同步离线",
+    "Bar Graph": "柱状图",
+    "Be aware that other devices may have already created these transactions. If you have multiple devices, make sure you only do this on one device or you will have duplicate transactions.": "请注意，其他设备可能已经创建了这些事务。如果您有多个设备，请确保您只在一个设备上执行此操作，否则您将有重复的事务。",
+    "before": "之前",
+    "Budget “{{id}}” not found. Check the ID of your budget in the Advanced section of the settings page.": "没有找到预算“{{id}}”。在设置页面的高级部分检查预算的ID。",
+    "Budget {{amount}} each week": "每周预算{{amount}}",
+    "Budget {{percent}}% of total income last month": "预算占上个月总收入的{{percent}}%",
+    "Budget {{percent}}% of total income this month": "预算这个月总收入的{{percent}}%",
+    "Budget files": "预算文件",
+    "Budget for a schedule": "计划预算",
+    "Budget name": "预算名"
 }
