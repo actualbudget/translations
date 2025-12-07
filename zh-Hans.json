@@ -208,7 +208,7 @@
     "Already imported transaction. You can skip it, or import it again.": "已导入交易，你可以选择跳过或者重新导入。",
     "any": "任意",
     "App: v{{appVersion}} | Server: {{serverVersion}}": "应用: v{{appVersion}} | 服务器: {{serverVersion}}",
-    "Append": "追加",
+    "Append": "添加",
     "Apply actions": "应用操作",
     "Apply to all": "应用全部",
     "Are you sure you want to delete the transaction?": "确定要删除这笔交易？",
@@ -227,5 +227,9 @@
     "after": "后",
     "Area Graph": "面积图",
     "Average spent": "平均消费",
-    "All time divisor": "所有时间建议"
+    "All time divisor": "所有时间建议",
+    "Basic": "基本",
+    "Budget": "预算",
+    "Budgeted": "预算的",
+    "Budgeted:": "预算:"
 }
