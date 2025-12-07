@@ -1645,5 +1645,15 @@
     "Account name (string). The human-readable name of the account.\n\nExample: `=CONCATENATE(\"Paid from \", account_name)`": "ID da conta (string). O ID da conta.\n\nExemplo: `=CONCATENATE(\"Pago de \", account)`",
     "Boolean cleared status. TRUE if transaction is cleared, FALSE otherwise.\n\nExample: `=IF(cleared, \"Cleared\", \"Pending\")`": "Status booleano de compensação. TRUE se a transação estiver compensada, FALSE caso contrário.\n\nExemplo: `=SE(cleared; \"Compensada\"; \"Pendente\")`",
     "Combines several text strings into one.": "Combina múltiplas strings de texto em uma só.",
-    "Converts value to a number.": "Converte o valor para número."
+    "Converts value to a number.": "Converte o valor para número.",
+    "Account:": "Conta:",
+    "Calculates present value of investment.": "Calcula o valor presente do investimento.",
+    "Create Schedule": "Criar Agendamento",
+    "Edit Schedule": "Editar Agendamento",
+    "Expenses categories": "Categorias de despesas",
+    "Export query configuration": "Exportar configuração da busca",
+    "Failed to copy to clipboard": "Falha ao copiar",
+    "Failed to delete schedule. Please try again.": "Falha ao deletar agendamento. Por favor, tente novamente.",
+    "Filter accounts…": "Filtrar contas…",
+    "Filters:": "Filtros:"
 }
