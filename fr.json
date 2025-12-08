@@ -1838,5 +1838,18 @@
     "Duplicate the selected transactions": "Dupliquer les transactions sélectionnées",
     "Merge the selected transactions": "Fusionner les transactions sélectionnées",
     "Set amount for selected transactions": "Définir le montant pour les transactions sélectionnées",
-    "Lock transactions": "Verrouiller les transactions"
+    "Lock transactions": "Verrouiller les transactions",
+    "Account:": "Compte :",
+    "Belarusian Ruble": "Rouble biélorusse",
+    "Create Schedule": "Créer un échéancier",
+    "Edit Schedule": "Modifier l'échéancier",
+    "Exit reconciliation": "Fermer le rapprochement",
+    "File path copied to clipboard": "Chemin d’accès copié dans le presse papier",
+    "Hide completed schedules": "Masquer les échéanciers terminés",
+    "Loading schedule...": "Chargement de l'échéancier…",
+    "No schedules found. Create your first schedule to get started!": "Aucun échéancier trouvé. Créez votre premier échéancier pour commencer !",
+    "Schedule deleted successfully": "Échéancier supprimé avec succès",
+    "Schedule not found": "Échéancier introuvable",
+    "Schedule saved successfully": "Échéancier sauvegardé avec succès",
+    "Unnamed schedule": "Échéancier sans nom"
 }
