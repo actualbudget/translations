@@ -275,5 +275,20 @@
     "contains": "包含",
     "copy": "复制",
     "Daily": "每日",
-    "Date": "日期"
+    "Date": "日期",
+    "Calendar card": "日历卡片",
+    "Can also assign ownership of a budget to another person, ensuring efficient budget management.": "也可以将预算的所有权分配给另一个人，确保高效预算管理。",
+    "Can do everything that Basic users can. In addition, they have the ability to add new users to the directory and access budget files from all users.": "可以执行基本用户可以做的所有作。此外，他们还可以将新用户添加到目录并访问所有用户的预算文件。",
+    "Canadian Dollar": "加拿大元",
+    "Cannot save: No widget available.": "无法保存：没有可用的部件。",
+    "Cash Flow": "现金流",
+    "Cash flow graph": "现金流量图",
+    "category": "类别",
+    "Category “{{name}}” already exists in group (it may be hidden)": "类别“{{name}}”已存在于组中（可能已隐藏）",
+    "Category group name": "类别组名称",
+    "Choose Color:": "选择颜色：",
+    "Choose the schedule these {{ count }} transactions belong to:_other": "选择这 {{ count }} 笔交易所属的日程：",
+    "Choose your bank:": "选择您的银行：",
+    "Clear all conditions": "清除所有条件",
+    "Clear search term": "清除搜索词"
 }
