@@ -159,5 +159,6 @@
     "Syncing... {{count}} accounts remaining_one": "A sincronizar... {{count}} conta restante",
     "Syncing... {{count}} accounts remaining_many": "A sincronizar... {{count}} contas restantes",
     "Syncing... {{count}} accounts remaining_other": "A sincronizar... {{count}} contas restantes",
-    "<0>Reset sync</0> is only available when syncing is enabled.": "<0>Reiniciar sincronização</0> Só está disponível quando a sincronização está ativada."
+    "<0>Reset sync</0> is only available when syncing is enabled.": "<0>Reiniciar sincronização</0> Só está disponível quando a sincronização está ativada.",
+    "(projected)": "(projetado)"
 }
