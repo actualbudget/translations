@@ -1870,5 +1870,7 @@
     "Lock transactions": "Блокування транзакцій",
     "Unnamed schedule": "Розклад без назви",
     "This transaction has a future date. Would you like to convert it to a single-time schedule instead?": "Ця транзакція запланована на майбутнє. Бажаєте перетворити її на розклад з одноразовим повторенням?",
-    "Exit reconciliation": "Закрити режим звірки"
+    "Exit reconciliation": "Закрити режим звірки",
+    "Belarusian Ruble": "Білоруський рубль",
+    "Save failed: No widget found to save.": "Не вдалося зберегти: віджет для збереження не знайдено."
 }
