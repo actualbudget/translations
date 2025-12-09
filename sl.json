@@ -8,5 +8,6 @@
     "{{count}} transactions_one": "{{count}} transakcija",
     "{{count}} transactions_two": "{{count}} transakciji",
     "{{count}} transactions_few": "{{count}} transakcije",
-    "{{count}} transactions_other": "{{count}} transakcij"
+    "{{count}} transactions_other": "{{count}} transakcij",
+    "(projected)": "(predvideno)"
 }
