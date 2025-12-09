@@ -1867,5 +1867,7 @@
     "Years to Retire": "Роки до виходу на пенсію",
     "Yes, create schedule": "Так, створити розклад",
     "yyyy": "рррр",
-    "Lock transactions": "Блокування транзакцій"
+    "Lock transactions": "Блокування транзакцій",
+    "Unnamed schedule": "Розклад без назви",
+    "This transaction has a future date. Would you like to convert it to a single-time schedule instead?": "Ця транзакція запланована на майбутнє. Бажаєте перетворити її на розклад з одноразовим повторенням?"
 }
