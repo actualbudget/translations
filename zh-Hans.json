@@ -119,7 +119,7 @@
     "Actual field": "实际支出字段",
     "Actual requires access to <1>SharedArrayBuffer</1> in order to function properly. If you’re seeing this error, either your browser does not support <3>SharedArrayBuffer</3>, or your server is not sending the appropriate headers, or you are not using HTTPS. See <6>our troubleshooting documentation</6> to learn more. <9></9>": "Actual 需要访问 <1>SharedArrayBuffer</1> 才能正常运行。如果您看到此错误，则您的浏览器不支持 <3>SharedArrayBuffer</3>，或者您的服务器没有发送适当的标头，或者您没有使用 HTTPS。有关详细信息，请参阅 <6> 我们的故障排除文档 </6>。<9></9>",
     "Actual uses <1>SharedArrayBuffer</1> to allow usage from multiple tabs at once and to ensure correct behavior when switching files. While it can run without access to<3>SharedArrayBuffer</3>, you may encounter data loss or notice multiple budget files being merged with each other.": "Actual 使用 <1>SharedArrayBuffer</1> 可以让多个标签页同时访问，并在切换文件时保持正确的行为。虽然在不使用<3>SharedArrayBuffer</3> 的的情况下程序依然能够运行，但可能会出现数据丢失，或者多个预算文件相互混合的情况。",
-    "Add an amount to this category each month based on the values from previous months. For example, you can copy the amount from a year ago to budget for an annual expense, or budget the average of the last 3 months to account for seasonal changes.": "每月根据前几个月的数值为此类别添加金额。例如，你可以复制一年前的金额用于预算年度支出，或使用过去三个月的平均值来应对季节性变化。",
+    "Add an amount to this category each month based on the values from previous months. For example, you can copy the amount from a year ago to budget for an annual expense, or budget the average of the last 3 months to account for seasonal changes.": "根据前几个月的数值，每月为该类别分配相应金额。例如，可参照一年前的数额以规划年度支出，或采用最近3个月的平均值以更好地反映季节性变化。",
     "Add space between amount and symbol": "在金额和符号之间添加空格",
     "Add Split": "添加拆分",
     "Add user": "添加用户",
