@@ -266,5 +266,14 @@
     "Budget Summary": "预算概要",
     "{{years}} years": "{{years}}年",
     "<0>Force reload app</0> will clear the cached version of the app and load a fresh one. This is useful if you're experiencing issues with the app after an update or if cached files are causing problems. The app will reload automatically after clearing the cache.": "<0>强制重新加载应用</0> 会清除应用的缓存版本并加载一个全新的版本。如果在更新后遇到应用问题，或缓存文件导致问题，这个功能非常有用。在清除缓存后，应用将自动重新加载。",
-    "Budget automations: {{category}}": "预算自动化：{{category}}"
+    "Budget automations: {{category}}": "预算自动化：{{category}}",
+    "Calendar": "日历",
+    "Cancel": "取消",
+    "Cleared": "已结清",
+    "Close": "关闭",
+    "Compare": "比较",
+    "contains": "包含",
+    "copy": "复制",
+    "Daily": "每日",
+    "Date": "日期"
 }
