@@ -697,7 +697,7 @@
     "Set category for selected transactions": "Призначити категорію для вибраних транзакцій",
     "More payees are available, search to find them": "Для отримання додаткових варіантів отримувачів, скористайтеся пошуком",
     "Remove": "видалити",
-    "Net Debts:": "Чисті борги:",
+    "Net Debts:": "Чисті витрати:",
     "Save and continue": "Зберегти та продовжити",
     "Next date": "Наступна дата",
     "Revert changes": "Скасувати зміни",
@@ -1832,7 +1832,7 @@
     "Expenses categories": "Категорії витрат",
     "Guatemalan Quetzal": "Гватемальський кетсаль",
     "Covered {{amount}} {{toCategoryName}} overspending from {{fromCategoryName}}.": "Перевитрати в категорії {{toCategoryName}} в розмірі {{amount}} перекрито з категорії {{fromCategoryName}}.",
-    "Crossover Report": "Звіт про перетин",
+    "Crossover Report": "Звіт про точку перетину",
     "Edit Payee": "Редагувати отримувача платежу",
     "Estimated return (annual %, optional)": "Очікувана дохідність (річна, у відсотках, необов'язково)",
     "Failed to update payee. Please try again.": "Не вдалося оновити отримувача платежу. Будь ласка, спробуйте ще раз.",
@@ -1884,5 +1884,6 @@
     "Payee name": "Отримувач",
     "Schedule deleted successfully": "Розклад успішно видалено",
     "Schedule not found": "Розклад не знайдено",
-    "Schedule saved successfully": "Розклад успішно збережено"
+    "Schedule saved successfully": "Розклад успішно збережено",
+    "The crossover point is when your monthly investment income (from selected accounts using the safe withdrawal rate) meets or exceeds your total monthly expenses (from selected categories). The chart projects into the future using your estimated return until the lines cross.": "Точка перетину - це момент, коли ваш щомісячний інвестиційний дохід (з обраних рахунків із використанням безпечної ставки зняття коштів) дорівнює або перевищує ваші загальні щомісячні витрати (з обраних категорій). Діаграма відображає прогноз на майбутнє з використанням вашої очікуваної дохідності до моменту перетину ліній."
 }
