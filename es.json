@@ -196,7 +196,6 @@
     "Duplicate for all devices": "Duplicar para todos los dispositivos",
     "Apply actions": "Aplicar acciones",
     "Apply budget template": "Aplicar plantilla de presupuesto",
-    "Apply budget templates": "Aplicar plantillas de presupuesto",
     "Are you sure you want to delete the report named ‘<2>{{name}}</2>’?": "¿Está seguro de que desea eliminar el informe denominado «<2>{{name}}</2>»?",
     "Ascending": "Ascendente",
     "Auto login failed - Proxy not trusted": "Error en el inicio de sesión automático - El proxy no es de confianza",

@@ -176,7 +176,6 @@
     "App updated to {{version}}": "应用更新为 {{version}}",
     "append to notes": "追加注释",
     "Apply budget template": "应用预算模板",
-    "Apply budget templates": "应用预算模板",
     "Approximately {{currencyAmount}}": "约{{currencyAmount}}",
     "Are you sure you want to close <2>{{accountName}}</2>? ": "您确定要关闭 <2>{{accountName}}</2>? ",
     "Are you sure you want to delete the report named ‘<2>{{name}}</2>’?": "您确定要删除名为‘<2>{{name}}</2>’的报表吗?",

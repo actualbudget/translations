@@ -605,7 +605,6 @@
     "Disable learning": "ปิดการเรียนรู้",
     "Don’t use a server": "ไม่ใช้เซิร์ฟเวอร์",
     "<0>Experimental features.</0> These features are not fully tested and may not work as expected. THEY MAY CAUSE IRRECOVERABLE DATA LOSS. They may do nothing at all. Only enable them if you know what you are doing.": "<0>ฟีเจอร์ทดลอง</0> ฟีเจอร์เหล่านี้ยังไม่ได้รับการทดสอบอย่างสมบูรณ์ และอาจทำงานไม่ตรงตามที่คาดไว้ อาจทำให้ข้อมูลสูญหายอย่างไม่สามารถกู้คืนได้ หรืออาจไม่ทำงานเลย เปิดใช้งานเฉพาะเมื่อคุณเข้าใจความเสี่ยง",
-    "Apply budget templates": "นำเทมเพลตงบประมาณไปใช้ทั้งหมด",
     "Change:": "เปลี่ยน:",
     "Compare {{formattedStartDate}} to {{typeOrFormattedEndDate}}": "เปรียบเทียบ {{formattedStartDate}} กับ {{typeOrFormattedEndDate}}",
     "Dashboard has been successfully reset to default state. Don’t like what you see? You can always press [ctrl+z](#undo) to undo.": "แดชบอร์ดถูกรีเซ็ตเป็นสถานะเริ่มต้นเรียบร้อยแล้ว ไม่ชอบสิ่งที่คุณเห็นใช่ไหม? คุณสามารถกด [ctrl+z](#undo) เพื่อยกเลิกได้เสมอ",

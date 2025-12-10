@@ -694,7 +694,6 @@
     "amount (inflow)": "bedrag (inkomend)",
     "Amount (inflow)": "Bedrag (inkomend)",
     "amount (outflow)": "bedrag (uitgaand)",
-    "Apply budget templates": "Budgetsjablonen toepassen",
     "Are you sure you want to delete the report named ‘<2>{{name}}</2>’?": "Ben je zeker dat je het rapport ‘<2>{{name}}</2>’ wil verwijderen?",
     "Backups are taken every {{BACKUP_FREQUENCY_MINS}} minutes and stored in <4><0>Actual’s data directory</0></4>. Actual retains a maximum of {{MAX_BACKUPS}} backups at any time.": "Elke {{BACKUP_FREQUENCY_MINS}} minuten wordt er een back-up genomen en bewaard in <4><0>Actual’s gegevensmap</0></4>. Actual bewaard maximaal de laatste {{MAX_BACKUPS}} back-ups.",
     "Bank sync": "Banksynchronisatie",
