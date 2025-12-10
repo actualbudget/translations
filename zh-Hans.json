@@ -290,5 +290,6 @@
     "Choose the schedule these {{ count }} transactions belong to:_other": "选择这 {{ count }} 笔交易所属的日程：",
     "Choose your bank:": "选择您的银行：",
     "Clear all conditions": "清除所有条件",
-    "Clear search term": "清除搜索词"
+    "Clear search term": "清除搜索词",
+    "Budget template applied.": "预算模板已被应用。"
 }
