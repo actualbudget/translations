@@ -1872,5 +1872,17 @@
     "This transaction has a future date. Would you like to convert it to a single-time schedule instead?": "Ця транзакція запланована на майбутнє. Бажаєте перетворити її на розклад з одноразовим повторенням?",
     "Exit reconciliation": "Закрити режим звірки",
     "Belarusian Ruble": "Білоруський рубль",
-    "Save failed: No widget found to save.": "Не вдалося зберегти: віджет для збереження не знайдено."
+    "Save failed: No widget found to save.": "Не вдалося зберегти: віджет для збереження не знайдено.",
+    "Account:": "Рахунок:",
+    "Create Schedule": "Створити розклад",
+    "Edit Schedule": "Змінити розклад",
+    "Failed to delete schedule. Please try again.": "Не вдалося видалити розклад. Спробуйте ще раз.",
+    "File path copied to clipboard": "Шлях до файлу скопійовано в буфер обміну",
+    "Hide completed schedules": "Сховати завершені розклади",
+    "Loading schedule...": "Завантаження розкладу…",
+    "No schedules found. Create your first schedule to get started!": "Розкладів не знайдено. Створіть свій перший розклад, щоб розпочати!",
+    "Payee name": "Отримувач",
+    "Schedule deleted successfully": "Розклад успішно видалено",
+    "Schedule not found": "Розклад не знайдено",
+    "Schedule saved successfully": "Розклад успішно збережено"
 }
