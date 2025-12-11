@@ -213,7 +213,7 @@
     "Are you sure you want to delete these {{count}} transactions?_other": "确定要删除{{count}}笔交易？",
     "Are you sure you want to delete this rule?": "确定要删除这条规则？",
     "Are you sure?": "您确定吗？",
-    "Automatically rename these payees in the future_other": "将自动重命名这些收款人",
+    "Automatically rename these payees in the future": "将自动重命名这些收款人",
     "Average per year": "每年平均",
     "an equal portion of the remainder": "剩余部分的均等份额",
     "Are you sure you want to edit this transaction?": "您确定要编辑此交易吗？",
