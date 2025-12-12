@@ -1120,5 +1120,10 @@
     "Transaction": "Transactie",
     "{{scheduleName}} is due {{distanceFromNow}} ({{formattedDate}})": "{{scheduleName}} is vervallen op {{distanceFromNow}} ({{formattedDate}})",
     "{{num}} more items...": "{{num}} meer...",
-    "Bank field": "Bankveld"
+    "Bank field": "Bankveld",
+    "{{count}} payees_one": "begunstigde",
+    "{{count}} payees_other": "begunstigden",
+    "Fixed {{count}} non-split transactions with split errors._one": "Fixed een niet gesplitste transactie met splitsfouten.",
+    "Fixed {{count}} non-split transactions with split errors._other": "Fixed {{count}} niet gesplitste transacties met splitsfouten.",
+    "For next month": "Voor volgende maand"
 }
