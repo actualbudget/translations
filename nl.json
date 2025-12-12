@@ -1118,7 +1118,7 @@
     "Long": "Lang",
     "Hide": "Verberg",
     "Transaction": "Transactie",
-    "{{scheduleName}} is due {{distanceFromNow}} ({{formattedDate}})": "{{scheduleName}} is vervallen op {{distanceFromNow}} ({{formattedDate}})",
+    "{{scheduleName}} is due {{distanceFromNow}} ({{formattedDate}})": "{{scheduleName}} vervalt op{{distanceFromNow}} ({{formattedDate}})",
     "{{num}} more items...": "{{num}} meer...",
     "Bank field": "Bankveld",
     "{{count}} payees_one": "begunstigde",
