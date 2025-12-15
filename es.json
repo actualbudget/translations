@@ -1001,5 +1001,10 @@
     "No schedules found, create one in the <2>schedules</2> page.": "Planificaciones no encontradas, crea una en la <2>schedules</2> página.",
     "nothing": "nada",
     "Number of months back": "Numero de meses atrás",
-    "Once you have exported your data, select the file and Actual will import it. Budgets may not match up exactly because things work slightly differently, but you should be able to fix up any problems.": "Una vez que haya exportado sus datos, seleccione el archivo y Actual lo importará. Es posible que los presupuestos no coincidan exactamente porque las cosas funcionan ligeramente diferente, pero usted debe ser capaz de solucionar cualquier problema."
+    "Once you have exported your data, select the file and Actual will import it. Budgets may not match up exactly because things work slightly differently, but you should be able to fix up any problems.": "Una vez que haya exportado sus datos, seleccione el archivo y Actual lo importará. Es posible que los presupuestos no coincidan exactamente porque las cosas funcionan ligeramente diferente, pero usted debe ser capaz de solucionar cualquier problema.",
+    "<0>Warning:</0> This transaction is {{daysUntilTransaction}} days away, which is beyond your configured upcoming length of {{upcomingDays}} days. The schedule preview will not be visible in your account until it gets closer to the date.": "<0>Warning:</0> Esta transacción se realizará dentro de {{daysUntilTransaction}} días, lo que supera la duración configurada de {{upcomingDays}} días. La vista previa del calendario no estará visible en su cuenta hasta que se acerque la fecha.",
+    "Cover this amount:": "Cubrir esta cantidad:",
+    "Covered {{amount}} {{toCategoryName}} overspending from {{fromCategoryName}}.": "Cubre {{amount}} {{toCategoryName}} de gasto excesivo de {{fromCategoryName}}.",
+    "Crossover point": "Punto de cruce",
+    "Crossover Point": "Punto de Cruce"
 }
