@@ -303,5 +303,8 @@
     "Delete": "刪除",
     "Deposits": "存款",
     "disabled": "已禁用",
-    "None": "无"
+    "None": "无",
+    "Category is required": "类别为必填项",
+    "Choose Report": "选择报告",
+    "Choose your country:": "选择您所在的国家/地区："
 }
