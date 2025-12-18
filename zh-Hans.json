@@ -258,7 +258,7 @@
     "Boolean cleared status. TRUE if transaction is cleared, FALSE otherwise.\n\nExample: `=IF(cleared, \"Cleared\", \"Pending\")`": "布尔清算状态。如果交易已清算则为TRUE，否则为FALSE。\n\n示例：`=IF(cleared, \"已清算\", \"待处理\")`",
     "Boolean reconciled status. TRUE if transaction is reconciled, FALSE otherwise.": "布尔对账状态。如果交易已对账，则为TRUE；否则为FALSE。",
     "Brazilian Real": "巴西雷亚尔",
-    "Break down less-frequent expenses into monthly expenses": "将不太频繁的支出分解为每月支出",
+    "Break down less-frequent expenses into monthly expenses": "把不太频繁的开支分解成每月的开支",
     "Budget page": "预算页面",
     "Budget page menu": "预算页面菜单",
     "Budget set to {{numberOfMonths}}-month average.": "预算设置为{{numberOfMonths}}个月的平均值。",
