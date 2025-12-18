@@ -291,5 +291,6 @@
     "Clear all conditions": "清除所有条件",
     "Clear search term": "清除搜索词",
     "Budget template applied.": "预算模板已被应用。",
-    "<0>Warning:</0> This transaction is {{daysUntilTransaction}} days away, which is beyond your configured upcoming length of {{upcomingDays}} days. The schedule preview will not be visible in your account until it gets closer to the date.": "<0>警告：</0> 此交易还有 {{daysUntilTransaction}} 天，超出了您配置的即将到来的 {{upcomingDays}} 天的时间长度。在接近日期之前，您的账户中将不会显示日程预览。"
+    "<0>Warning:</0> This transaction is {{daysUntilTransaction}} days away, which is beyond your configured upcoming length of {{upcomingDays}} days. The schedule preview will not be visible in your account until it gets closer to the date.": "<0>警告：</0> 此交易还有 {{daysUntilTransaction}} 天，超出了您配置的即将到来的 {{upcomingDays}} 天的时间长度。在接近日期之前，您的账户中将不会显示日程预览。",
+    "Yuan Renminbi": "人民币"
 }
