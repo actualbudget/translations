@@ -30,7 +30,7 @@
     "<0>Goal:</0><1>{{amount}}</1>": "<0>目标数目：</0><1>{{amount}}</1>",
     "{{categoryGroupName}} expense group categories": "{{categoryGroupName}} 消费组别",
     "{{scheduleName}} is due {{distanceFromNow}} ({{formattedDate}})": "{{scheduleName}}在{{distanceFromNow}}内到期({{formattedDate}}])",
-    "{{status}} (Split)": "{{status}}(拆分)",
+    "{{status}} (Split)": "{{status}} (拆分)",
     "<0>{{category}}</0> is used by existing transactions or it has a positive leftover balance currently.": "<0>{{category}}</0> 已有交易在使用，或当前有正余额。",
     "<0>{{category}}</0> is used by existing transactions.": "<0>{{category}}</0> 正在被已有交易使用。",
     "<0><0>Custom Report:</0></0> <2>{{name}}</2>": "<0><0>自定义报表：</0></0> <2>{{name}}</2>",
@@ -290,5 +290,6 @@
     "Choose your bank:": "选择您的银行：",
     "Clear all conditions": "清除所有条件",
     "Clear search term": "清除搜索词",
-    "Budget template applied.": "预算模板已被应用。"
+    "Budget template applied.": "预算模板已被应用。",
+    "<0>Warning:</0> This transaction is {{daysUntilTransaction}} days away, which is beyond your configured upcoming length of {{upcomingDays}} days. The schedule preview will not be visible in your account until it gets closer to the date.": "<0>警告：</0> 此交易还有 {{daysUntilTransaction}} 天，超出了您配置的即将到来的 {{upcomingDays}} 天的时间长度。在接近日期之前，您的账户中将不会显示日程预览。"
 }
