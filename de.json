@@ -1651,7 +1651,6 @@
     "Paste the JSON configuration below:": "Füge die JSON-Konfiguration unten ein:",
     "Payee ID (string). The ID of the payee.\n\nExample: `=CONCATENATE(\"Payment to \", payee)`": "Zahlungsempfänger-ID (String). Die ID des Zahlungsempfängers.\n\nBeispiel: `=CONCATENATE(\"Zahlung an \", payee)`",
     "Payee name (string). The human-readable name of the payee.\n\nExample: `=UPPER(payee_name)` or `=CONCATENATE(\"Payment to \", payee_name)`": "Zahlungsempfängername (String). Der von Menschen lesbare Name des Zahlungsempfängers.\n\nBeispiel: `=UPPER(payee_name)` oder `=CONCATENATE(\"Zahlung an \", payee_name)`",
-    "Queries allow you to reference filtered transaction data in your formulas using QUERY(‘queryName’)": "Abfragen ermöglichen es dir, in Formeln auf gefilterte Transaktionsdaten zu verweisen, indem du QUERY(‘queryName’) verwendest",
     "Query configuration copied to clipboard": "Abfragenkonfiguration in die Zwischenablage kopiert",
     "Query Definitions": "Abfrage-Definitionen",
     "Query name (e.g., ‘expenses’, ‘income’)": "Abfragename (z.B. ‘Ausgaben’, ‘Einnahmen’)",

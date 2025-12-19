@@ -1708,7 +1708,6 @@
     "Paste the JSON configuration below:": "Вставте конфігурацію JSON нижче:",
     "Payee ID (string). The ID of the payee.\n\nExample: `=CONCATENATE(\"Payment to \", payee)`": "Ідентифікатор отримувача (рядок).\n\nПриклад: `=CONCATENATE(\"Платіж \", payee)`",
     "Payee name (string). The human-readable name of the payee.\n\nExample: `=UPPER(payee_name)` or `=CONCATENATE(\"Payment to \", payee_name)`": "Назва отримувача (рядок).\n\nПриклад: `=UPPER(payee_name)` або `=CONCATENATE(\"Платіж \", payee_name)`",
-    "Queries allow you to reference filtered transaction data in your formulas using QUERY(‘queryName’)": "Запити дозволяють посилатися на відфільтровані дані транзакцій у ваших формулах за допомогою функції QUERY(‘queryName’)",
     "Query configuration copied to clipboard": "Конфігурацію запиту скопійовано до буфера обміну",
     "Query Definitions": "Налаштування запитів",
     "Query name (e.g., ‘expenses’, ‘income’)": "Назва запиту (наприклад, \"витрати\", \"доходи\")",

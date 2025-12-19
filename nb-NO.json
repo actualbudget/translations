@@ -1135,7 +1135,6 @@
     "Projected savings": "Prognostiserte sparepenger",
     "Projected savings:": "Prognostiserte sparepenger:",
     "Qatari Riyal": "Qatarsk riyal",
-    "Queries allow you to reference filtered transaction data in your formulas using QUERY(‘queryName’)": "Spørringer lar deg referere til filtrerte transaksjonsdata i formlene dine ved å bruke QUERY(‘queryName’)",
     "Query configuration copied to clipboard": "Spørringskonfigurasjon kopiert til utklippstavle",
     "Query Definitions": "Spørringsdefinisjoner",
     "Query name (e.g., ‘expenses’, ‘income’)": "Spørringsnavn (f.eks. ‘utgifter’, ‘inntekt’)",

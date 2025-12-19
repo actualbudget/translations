@@ -1673,7 +1673,6 @@
     "Payee ID (string). The ID of the payee.\n\nExample: `=CONCATENATE(\"Payment to \", payee)`": "Identifiant du bénéficiaire (chaîne de caractères). L'identifiant du bénéficiaire.\n\nExemple : `=CONCATENATE(\"Paiement à \", payee)`",
     "Payee name (string). The human-readable name of the payee.\n\nExample: `=UPPER(payee_name)` or `=CONCATENATE(\"Payment to \", payee_name)`": "Nom du bénéficiaire (chaîne de caractères). Le nom du bénéficiaire affiché à l'utilisateur.\n\nExemples : `=UPPER(payee_name)` ou `=CONCATENATE(\"Paiement à \", payee_name)`",
     "Please provide the encryption key to unlock this budget file. You may be unlocking it for the first time, or the key has changed. Enter your password to continue.": "Veuillez saisir la clé de chiffrement pour déverrouiller ce fichier de budget. Il se peut que vous l’ouvriez pour la première fois ou que la clé ait été modifiée. Entrez votre mot de passe pour continuer.",
-    "Queries allow you to reference filtered transaction data in your formulas using QUERY(‘queryName’)": "Les requêtes vous permettent de référencer des données filtrés de transaction dans vos formules en utilisant QUERY(‘nomDeRequete’)",
     "Query configuration copied to clipboard": "Configuration de requête copiée dans le presse-papiers",
     "Query Definitions": "Définitions de requêtes",
     "Query name (e.g., ‘expenses’, ‘income’)": "Nom de la requête (ex. : « depenses », « revenus »)",
