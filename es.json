@@ -726,7 +726,7 @@
     "Edit fields": "Editar campos",
     "Error when trying to contact Pluggy.ai": "Error al intentar contactar con Pluggy.ai",
     "It is required to provide both the client id, client secret and at least one item id.": "Es obligatorio proporcionar tanto el ID de cliente, el secreto de cliente y al menos un ID de elemento.",
-    "Fixed {{count}} non-split transactions with split errors._one": "Se ha corregido {{count}} transacción no divididas con errores de división.",
+    "Fixed {{count}} non-split transactions with split errors._one": "Se ha corregido {{count}} transacción no dividida con errores de división.",
     "Fixed {{count}} non-split transactions with split errors._many": "Se han corregido {{count}} transacciones no divididas con errores de división.",
     "Fixed {{count}} non-split transactions with split errors._other": "",
     "Even though encryption is enabled, the exported zip file will not have any encryption.": "Incluso aunque el cifrado esté habilitado, el archivo zip exportado no tendrá ningún cifrado.",
