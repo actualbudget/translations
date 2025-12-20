@@ -10,7 +10,7 @@
     "{{count}} associated rules_one": "{{count}} susijusi taisyklė",
     "{{count}} associated rules_few": "{{count}} susijusios taisyklės",
     "{{count}} associated rules_other": "{{count}} susijusios taisyklės",
-    "{{displayMonth}} budgets have all been set to last month’s budgeted amounts.": "{{displayMonth}} biudžetai buvo nustatyti pagal praėjusio mėnesio biudžetų sumas.",
+    "{{displayMonth}} budgets have all been set to last month's budgeted amounts.": "{{displayMonth}} biudžetai buvo nustatyti pagal praėjusio mėnesio biudžetų sumas.",
     "{{displayMonth}} budgets have all been set to zero.": "{{displayMonth}} biudžetai buvo anuliuoti.",
     "{{displayMonth}} end-of-month cleanup templates have been applied.": "{{displayMonth}} mėnesio galo valymo šablonai buvo panaudoti.",
     "{{selectedPayeeNames}}, and more": "{{selectedPayeeNames}}, ir daugiau",
