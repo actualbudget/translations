@@ -31,7 +31,7 @@
     "{{count}} uncategorized transactions_other": "{{count}} kategorizálatlan tranzakció",
     "{{displayMonth}} budget templates have been applied.": "{{displayMonth}} költéségkeret sablon alkalmazva lett.",
     "{{displayMonth}} budget templates have been overwritten.": "{{displayMonth}} költségkeret sablon felül lett írva.",
-    "{{displayMonth}} budgets have all been set to last month’s budgeted amounts.": "{{displayMonth}}  költségkeretek mindegyike a múlt havi költségkeret összegekre lett beállítva.",
+    "{{displayMonth}} budgets have all been set to last month's budgeted amounts.": "{{displayMonth}}  költségkeretek mindegyike a múlt havi költségkeret összegekre lett beállítva.",
     "{{displayMonth}} budgets have all been set to zero.": "{{displayMonth}} költségkeretek mindegyike nullára lett állítva.",
     "{{endOccurrences}} times": "{{endOccurrences}} alkalommal",
     "{{scheduleName}} is due {{distanceFromNow}} ({{formattedDate}})": "{{scheduleName}} {{distanceFromNow}} múlva esedékes ({{formattedDate}})"
