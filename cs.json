@@ -26,5 +26,9 @@
     "{{displayMonth}} budgets have all been set to last month's budgeted amounts.": "{{displayMonth}} rozpočty byly nastaveny na částky z minulého měsíce.",
     "{{endOccurrences}} times": "{{endOccurrences}} krát",
     "<0><0>Custom Report:</0></0> <2>{{name}}</2>": "<0><0>Vlastní Přehled:</0></0> <2>{{name}}</2>",
-    "<0>Experimental features.</0> These features are not fully tested and may not work as expected. THEY MAY CAUSE IRRECOVERABLE DATA LOSS. They may do nothing at all. Only enable them if you know what you are doing.": "<0>Experimentální funkce.</0> Tyto funkcionality nejsou plně otestovány a mohou pracovat nepředvídatelně. MOHOU ZPŮSOBIT ZTRÁTU VAŠICH DAT. Nebo nemusí způsobit nic. Povolte je pouze, pokud víte co děláte."
+    "<0>Experimental features.</0> These features are not fully tested and may not work as expected. THEY MAY CAUSE IRRECOVERABLE DATA LOSS. They may do nothing at all. Only enable them if you know what you are doing.": "<0>Experimentální funkce.</0> Tyto funkcionality nejsou plně otestovány a mohou pracovat nepředvídatelně. MOHOU ZPŮSOBIT ZTRÁTU VAŠICH DAT. Nebo nemusí způsobit nic. Povolte je pouze, pokud víte co děláte.",
+    "{{categoryName}} shortcuts": "Zkratky {{categoryName}}",
+    "{{count}} payees_one": "{{count}} příjemce",
+    "{{count}} payees_few": "{{count}} příjemci",
+    "{{count}} payees_other": "{{count}} příjemců"
 }
