@@ -1212,5 +1212,15 @@
     "Romanian Leu": "Leu rumano",
     "Show {{count}} unused payees_one": "Mostrar {{count}} beneficiario no utilizado",
     "Show {{count}} unused payees_many": "Mostrar {{count}} beneficiarios no utilizados",
-    "Show {{count}} unused payees_other": "Mostrar {{count}} beneficiarios no utilizados"
+    "Show {{count}} unused payees_other": "Mostrar {{count}} beneficiarios no utilizados",
+    "Overbudgeted:": "Sobrepresupuestado:",
+    "Percentage of": "Porcentaje de",
+    "Please get <2>in touch</2> for support": "Por favor <2>ponte en contacto</2> para soporte técnico",
+    "Proceed with caution.": "Proceda con precaución.",
+    "Rate limit exceeded for this item. Please try again later.": "Límite de tasa excedido para este ítem. Por favor inténtalo mas tarde.",
+    "reconciled": "conciliado",
+    "Reimport deleted transactions": "Reimportar transacciones eliminadas",
+    "Rename": "Renombrar",
+    "Rename budget": "Renombrar presupuesto",
+    "Reset Pluggy.ai credentials": "Reestablecer credenciales de Pluggy.ai"
 }
