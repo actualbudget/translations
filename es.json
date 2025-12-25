@@ -1378,5 +1378,6 @@
     "The payees <1>{payeeNamesList}</1> have schedules that are due today._other": "Los beneficiarios <1>{payeeNamesList}</1> tiene planificaciones que vencen hoy.",
     "The server returned the following error:": "El servidor devolvió el siguiente error:",
     "Please update Actual!": "¡Por favor, actualice Actual!",
-    "Pluggy.ai menu": "Menú de Pluggy.ai"
+    "Pluggy.ai menu": "Menú de Pluggy.ai",
+    "Reconciliation balance adjustment": "Ajuste de saldo de conciliación"
 }
