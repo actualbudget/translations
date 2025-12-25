@@ -1376,5 +1376,7 @@
     "The payees <1>{payeeNamesList}</1> have schedules that are due today._one": "El beneficiario <1>{payeeNamesList}</1> tiene planificaciones que vencen hoy.",
     "The payees <1>{payeeNamesList}</1> have schedules that are due today._many": "Los beneficiarios <1>{payeeNamesList}</1> tiene planificaciones que vencen hoy.",
     "The payees <1>{payeeNamesList}</1> have schedules that are due today._other": "Los beneficiarios <1>{payeeNamesList}</1> tiene planificaciones que vencen hoy.",
-    "The server returned the following error:": "El servidor devolvió el siguiente error:"
+    "The server returned the following error:": "El servidor devolvió el siguiente error:",
+    "Please update Actual!": "¡Por favor, actualice Actual!",
+    "Pluggy.ai menu": "Menú de Pluggy.ai"
 }
