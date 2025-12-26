@@ -1379,5 +1379,8 @@
     "The server returned the following error:": "El servidor devolvió el siguiente error:",
     "Please update Actual!": "¡Por favor, actualice Actual!",
     "Pluggy.ai menu": "Menú de Pluggy.ai",
-    "Reconciliation balance adjustment": "Ajuste de saldo de conciliación"
+    "Reconciliation balance adjustment": "Ajuste de saldo de conciliación",
+    "Your data is out of sync": "Tus datos no están sincronizados",
+    "Your data is still out of sync": "Tus datos aún no están sincronizados",
+    "Your encryption key need to be reset": "Necesita generar una nueva clave de cifrado"
 }
