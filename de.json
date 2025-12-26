@@ -846,7 +846,7 @@
     "Select category...": "Kategorie auswählen...",
     "Server offline": "Server offline",
     "set": "setze",
-    "Set payee for selected transactions": "Setze Zahlungsempfänger für ausgewählte Transaktionen",
+    "Set payee for selected transactions": "Setze den Zahlungsempfänger für die ausgewählte Transaktionen",
     "Show all payees": "Alle Zahlungsempfänger anzeigen",
     "Set budgets to 3 month average": "Budgets auf 3-Monats-Durchschnitt setzen",
     "Secret ID:": "Secret-ID:",
@@ -1811,7 +1811,7 @@
     "Lock transactions": "Transaktionen sperren",
     "Malaysian Ringgit": "Malaysischer Ringgit",
     "Merge the selected transactions": "Ausgewählte Transaktionen zusammenführen",
-    "Set amount for selected transactions": "Betrag für die ausgewählten Transaktionen setzen",
+    "Set amount for selected transactions": "Setze den Betrag für die ausgewählten Transaktionen",
     "The amount you plan to withdraw from your Income Accounts each year to fund your living expenses.<1></1><2>More info.</2>": "Der Betrag, den du jährlich aus deinen Einnahmekonten entnehmen möchtest, um deine Lebenshaltungskosten zu decken.<1></1><2>Mehr Informationen.</2>",
     "Used to estimate your future income.<1></1><2></2>Select the accounts that will be used to fund your retirement.<4></4>Ex: Retirement Accounts, Savings Accounts<6></6><7></7>Exclude accounts that will not.<9></9>Ex: Mortgage Accounts, Child Education Accounts": "Wird verwendet, um deine zukünftigen Einnahmen zu schätzen.<1></1><2></2>Wähle die Konten aus, die zur Finanzierung deines Ruhestands verwendet werden.<4></4>Zum Beispiel: Rentenkonten, Sparkonten<6></6><7></7>Schließe die Konten aus, die nicht dafür genutzt werden.<9></9>Zum Beispiel: Hypothekenkonten, Bildungskonten für Kinder",
     "yyyy": "jjjj",
@@ -1842,5 +1842,7 @@
     "Target Life Savings": "Zielersparnisse",
     "To add a transaction, you need to <2>create a category first</2>. You can add categories from the budget page.": "Um eine Transaktion hinzuzufügen, musst du zuerst <2>eine Kategorie erstellen</2>. Kategorien kannst du auf der Budget-Seite hinzufügen.",
     "To add a transaction, you need to <2>create an account first</2>. You can add an account from the accounts page.": "Um eine Transaktion hinzuzufügen, musst du zuerst <2>ein Konto erstellen</2>. Konten kannst du auf der Konten-Seite hinzufügen.",
-    "unknown": "unbekannt"
+    "unknown": "unbekannt",
+    "Converts integer amount to decimal amount (e.g., 1234 -> 12.34).": "Konvertiert einen ganzzahligen Betrag in einen Dezimalbetrag (z.B. 1234 -> 12,34).",
+    "Set date for selected transactions": "Setze das Datum für die ausgewählten Transaktionen"
 }
