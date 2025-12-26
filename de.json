@@ -1832,5 +1832,15 @@
     "Overwrite with template": "Mit Vorlage überschreiben",
     "Overwrite with templates": "Mit Vorlagen überschreiben",
     "Transferred {{amount}} from {{fromCategoryName}} to {{toCategoryName}}.": "{{amount}} umgebucht von {{fromCategoryName}} zu {{toCategoryName}}.",
-    "Account balance as of the date of the transaction, excluding the transaction amount. Use for calculations and comparisons.\n\nExample: `=IF(balance < 0, \"Negative Balance\", \"Positive Balance\")`": "Kontensaldo zum Datum der Transaktion, ohne den Transaktionsbetrag. Nutzen für Berechnungen und Vergleiche.\n\nBeispiel: `=IF(balance < 0, \"Negatives Saldo\", \"Positives Saldo\")`"
+    "Account balance as of the date of the transaction, excluding the transaction amount. Use for calculations and comparisons.\n\nExample: `=IF(balance < 0, \"Negative Balance\", \"Positive Balance\")`": "Kontensaldo zum Datum der Transaktion, ohne den Transaktionsbetrag. Nutzen für Berechnungen und Vergleiche.\n\nBeispiel: `=IF(balance < 0, \"Negatives Saldo\", \"Positives Saldo\")`",
+    "Execute a query and return the number of matching rows.": "Führe eine Abfrage aus und gib die Anzahl der gefundenen Zeilen zurück.",
+    "Execute the {{queryName}} query and return the number of matching rows.": "Führe die Abfrage {{queryName}} aus und gib die Anzahl der gefundenen Zeilen zurück.",
+    "Go to budget": "Zum Budget",
+    "Life savings:": "Ersparnisse:",
+    "Parameters:": "Parameter:",
+    "Queries allow you to reference filtered transaction data in your formulas using QUERY('queryName') or QUERY_COUNT('queryName')": "Abfragen ermöglichen es, in Formeln auf gefilterte Transaktionsdaten zuzugreifen, indem du QUERY('queryName') oder QUERY_COUNT('queryName') verwendest",
+    "Target Life Savings": "Zielersparnisse",
+    "To add a transaction, you need to <2>create a category first</2>. You can add categories from the budget page.": "Um eine Transaktion hinzuzufügen, musst du zuerst <2>eine Kategorie erstellen</2>. Kategorien kannst du auf der Budget-Seite hinzufügen.",
+    "To add a transaction, you need to <2>create an account first</2>. You can add an account from the accounts page.": "Um eine Transaktion hinzuzufügen, musst du zuerst <2>ein Konto erstellen</2>. Konten kannst du auf der Konten-Seite hinzufügen.",
+    "unknown": "unbekannt"
 }
