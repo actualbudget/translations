@@ -1497,7 +1497,7 @@
     "an equal portion of the remainder": "une part égale du reliquat",
     "average": "moyen",
     "budgeted": "budgétisé",
-    "{{num}} more items...": "{{num}} autres éléments…",
+    "{{num}} more items...": "{{num}} éléments supplémentaires…",
     "DEFAULT": "DEFAUT",
     "Filter rules…": "Filtrer les règles…",
     "IF": "SI",
@@ -1853,7 +1853,7 @@
     "Converts integer amount to decimal amount (e.g., 1234 -> 12.34).": "Convertit un entier en décimal (ex : 1234 -> 12.34)",
     "Execute a query and return the number of matching rows.": "Exécute une requête et retourne le nombre de lignes correspondantes.",
     "Execute the {{queryName}} query and return the number of matching rows.": "Exécute la requête {{queryName}} et retourne le nombre de lignes correspondantes.",
-    "Failed to delete schedule. Please try again.": "Échec de la suppression de l'échéancier. Veuillez réassayer.",
+    "Failed to delete schedule. Please try again.": "Échec de la suppression de l'échéancier. Veuillez réessayer.",
     "Go to budget": "Aller au budget",
     "Life savings:": "Économies totales :",
     "Overwrite with template": "Écraser avec un modèle",
@@ -1862,5 +1862,6 @@
     "To add a transaction, you need to <2>create a category first</2>. You can add categories from the budget page.": "Pour ajouter une transaction, vous devez d'abord <2>créer une catégorie</2>. Vous pouvez ajouter des catégories depuis la page de budget.",
     "To add a transaction, you need to <2>create an account first</2>. You can add an account from the accounts page.": "Pour ajouter une transaction, vous devez d'abord <2>créer un compte</2>. Vous pouvez ajouter un compte depuis la page des comptes.",
     "Transferred {{amount}} from {{fromCategoryName}} to {{toCategoryName}}.": "{{amount}} transféré depuis {{fromCategoryName}} vers {{toCategoryName}}.",
-    "unknown": "inconnu"
+    "unknown": "inconnu",
+    "Set date for selected transactions": "Définir une date pour les transactions sélectionnées"
 }
