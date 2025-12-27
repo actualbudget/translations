@@ -1848,5 +1848,19 @@
     "Schedule deleted successfully": "Échéancier supprimé avec succès",
     "Schedule not found": "Échéancier introuvable",
     "Schedule saved successfully": "Échéancier sauvegardé avec succès",
-    "Unnamed schedule": "Échéancier sans nom"
+    "Unnamed schedule": "Échéancier sans nom",
+    "Account balance as of the date of the transaction, excluding the transaction amount. Use for calculations and comparisons.\n\nExample: `=IF(balance < 0, \"Negative Balance\", \"Positive Balance\")`": "Solde du compte à la date de la transaction, montant de la transaction exclus. Utilisé pour des calculs et comparaisons.\n\nExemple : `=IF(balance < 0, \"Solde négatif\", \"Solde positif\")`",
+    "Converts integer amount to decimal amount (e.g., 1234 -> 12.34).": "Convertit un entier en décimal (ex : 1234 -> 12.34)",
+    "Execute a query and return the number of matching rows.": "Exécute une requête et retourne le nombre de lignes correspondantes.",
+    "Execute the {{queryName}} query and return the number of matching rows.": "Exécute la requête {{queryName}} et retourne le nombre de lignes correspondantes.",
+    "Failed to delete schedule. Please try again.": "Échec de la suppression de l'échéancier. Veuillez réassayer.",
+    "Go to budget": "Aller au budget",
+    "Life savings:": "Économies totales :",
+    "Overwrite with template": "Écraser avec un modèle",
+    "Parameters:": "Paramètres :",
+    "Queries allow you to reference filtered transaction data in your formulas using QUERY('queryName') or QUERY_COUNT('queryName')": "Les requêtes vous permettent de référencer des données de transactions filtrées dans vos formules en utilisant QUERY('nomDeLaRequête') ou QUERY_COUNT('nomDeLaRequête').",
+    "To add a transaction, you need to <2>create a category first</2>. You can add categories from the budget page.": "Pour ajouter une transaction, vous devez d'abord <2>créer une catégorie</2>. Vous pouvez ajouter des catégories depuis la page de budget.",
+    "To add a transaction, you need to <2>create an account first</2>. You can add an account from the accounts page.": "Pour ajouter une transaction, vous devez d'abord <2>créer un compte</2>. Vous pouvez ajouter un compte depuis la page des comptes.",
+    "Transferred {{amount}} from {{fromCategoryName}} to {{toCategoryName}}.": "{{amount}} transféré depuis {{fromCategoryName}} vers {{toCategoryName}}.",
+    "unknown": "inconnu"
 }
