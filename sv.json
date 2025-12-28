@@ -875,10 +875,12 @@
     "Import {{count}} transactions_one": "Importera {{count}} överföring",
     "Import {{count}} transactions_other": "Importera {{count}} överföringar",
     "{{categoryName}} shortcuts": "{{categoryName}} genvägar",
-    "{{num}} more items...": "{{num}} mer objekt...",
+    "{{num}} more items...": "{{num}} fler objekt…",
     "{{status}} (Split)": "{{status}} (Dela)",
     "<0>{{category}}</0> is used by existing transactions or it has a positive leftover balance currently.": "<0>{{category}}</0> används av befintliga överföringar eller har just nu överflödigt saldo.",
     "<0>{{category}}</0> is used by existing transactions.": "<0>{{category}}</0> används av befintliga överföringar.",
     "{{count}} uncategorized transactions_one": "{{count}} okategoriserad transaktion",
-    "{{count}} uncategorized transactions_other": "{{count}} okategoriserade transaktioner"
+    "{{count}} uncategorized transactions_other": "{{count}} okategoriserade transaktioner",
+    "{{years}} years": "{{years}} år",
+    "<0>Force reload app</0> will clear the cached version of the app and load a fresh one. This is useful if you're experiencing issues with the app after an update or if cached files are causing problems. The app will reload automatically after clearing the cache.": "<0>Ladda om appen</0> rensar den cachade versionen av appen och laddar en ny. Detta är användbart om du har problem med appen efter en uppdatering eller om cachade filer orsakar problem. Appen laddas om automatiskt efter att cachen har rensats."
 }
