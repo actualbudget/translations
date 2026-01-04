@@ -980,5 +980,6 @@
     "Formula card": "Formelkort",
     "Formula that returns a color (e.g., &ldquo;red&rdquo;, &ldquo;#ff0000&rdquo;). Leave blank for default. Use RESULT variable to access the main formula result.": "Formel som returnerar en färg (t.ex. &ldquo;red&rdquo;, &ldquo;#ff0000&rdquo;). Lämna blank för standard. Använd RESULT-variabeln för att komma åt huvudformelresultatet.",
     "Formula:": "Formel:",
-    "Hide balance chart": "Göm saldograf"
+    "Hide balance chart": "Göm saldograf",
+    "Area Graph": "Area-graf"
 }
