@@ -1125,5 +1125,6 @@
     "{{count}} payees_other": "begunstigden",
     "Fixed {{count}} non-split transactions with split errors._one": "Fixed een niet gesplitste transactie met splitsfouten.",
     "Fixed {{count}} non-split transactions with split errors._other": "Fixed {{count}} niet gesplitste transacties met splitsfouten.",
-    "For next month": "Voor volgende maand"
+    "For next month": "Voor volgende maand",
+    "{{years}} years": "{{years}} jaren"
 }
