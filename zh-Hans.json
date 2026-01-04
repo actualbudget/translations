@@ -306,5 +306,8 @@
     "None": "无",
     "Category is required": "类别为必填项",
     "Choose Report": "选择报告",
-    "Choose your country:": "选择您所在的国家/地区："
+    "Choose your country:": "选择您所在的国家/地区：",
+    "After amount": "交易后余额",
+    "Before amount": "交易前余额",
+    "Budget {{percent}}% of &lsquo;{{category}}&rsquo; this month": "本月“{{category}}”的预算是 {{percent}}%"
 }
