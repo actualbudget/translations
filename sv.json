@@ -887,5 +887,7 @@
     "<0>End-to-end encryption</0> is not available when running without a server. Budget files are always kept unencrypted locally, and encryption is only applied when sending data to a server.": "<0>Totalsträckskryptering</0> är inte tillgängligt utan en server. Lokalt sparade budgetfiler är alltid okrypterade och kryptering sker endast när data skickas till en server.",
     "<0>Link a <1>Brazilian</1> bank account</0> to automatically download transactions. Pluggy.ai provides reliable, up-to-date information from hundreds of banks.": "<0>Länka ett <1>Brasilianskt</1> bankkonto</0> för att automatiskt ladda ner transaktioner. Pluggy.ai tillhandahåller tillförlitlig och aktuell information från hundratals banker.",
     "<0>Link a <1>North American</1> bank account</0> to automatically download transactions. SimpleFIN provides reliable, up-to-date information from hundreds of banks.": "<0>Länka ett <1>Nordamerikanskt</1> bankkonto</0> för att automatiskt ladda ner transaktioner. SimpleFIN tillhandahåller tillförlitlig och aktuell information från hundratals banker.",
-    "<0>Move schedule </0><1></1><2> {{beforeOrAfter}} weekend</2>": "<0>Flytta schema </0><1></1><2>{{beforeOrAfter}} helg</2>"
+    "<0>Move schedule </0><1></1><2> {{beforeOrAfter}} weekend</2>": "<0>Flytta schema </0><1></1><2>{{beforeOrAfter}} helg</2>",
+    "(projected)": "(förväntat)",
+    "<0>Category Learning</0> will automatically determine the best category for a transaction and create a rule that sets the category for the payee. <3>Learn more</3>": "<0>Kategoriinlärning</0> avgör automatiskt den bästa kategorin för en transaktion och skapar en regel som sätter kategorin för betalningsmottagaren. <3>Läs mer</3>"
 }
