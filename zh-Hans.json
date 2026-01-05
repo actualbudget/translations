@@ -89,7 +89,7 @@
     "Account linking not opening in a new tab? Click here": "账户链接未在新标签页中打开？点击这里",
     "28+": "28+",
     "Access": "使用权",
-    "{{num}} more items...": "{{num}} 更多项目...",
+    "{{num}} more items...": "{{num}} 更多项目...…",
     "a fixed amount": "固定金额",
     "a fixed percent of the remainder": "剩余部分的固定百分比",
     "Account menu": "账户菜单",
@@ -113,7 +113,7 @@
     "Add entry": "添加记录",
     "Add condition": "添加条件",
     "Add group": "添加组别",
-    "{{count}} payees_other": "收款人",
+    "{{count}} payees_other": "{{count}} 收款人",
     "<0>Currency settings</0> affect how amounts are displayed throughout the application. Changing the currency will affect the number format, symbol position, and whether fractions are shown. These can be adjusted after the currency is set.": "<0>货币设置</0> 会影响应用中金额的显示方式。更改货币将影响数字格式、符号位置以及是否显示小数部分。在设定货币后，这些选项仍可进行调整。",
     "Add new rule": "添加新规则",
     "Actual field": "实际支出字段",
@@ -329,5 +329,12 @@
     "Budget set to last month's budget.": "预算已设置为上月的预算金额。",
     "Category ID (string). The ID of the category.\n\nExample: `=IF(category=\"Groceries\", \"Food\", \"Other\")`": "分类 ID（字符串）。该分类的 ID。\n\n示例：`=IF(分类=\"杂货\", \"食物\", \"其他\")`",
     "Change directory": "更改目录",
-    "Budget {{percent}}% of available funds to budget this month": "将本月可用资金的{{percent}}%分配到预算中"
+    "Budget {{percent}}% of available funds to budget this month": "将本月可用资金的{{percent}}%分配到预算中",
+    "Calculates interest rate per period.": "计算每期利息。",
+    "or": "或者",
+    "Original templates:<1>{templates}</1>": "初始模板:<1>{templates}</1>",
+    "Overbudgeted": "超预算",
+    "Overbudgeted:": "超出预算：",
+    "Opening last budget...": "正在打开最近的预算项目…",
+    "Options": "选项"
 }
