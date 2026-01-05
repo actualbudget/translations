@@ -263,7 +263,7 @@
     "Budget page menu": "预算页面菜单",
     "Budget set to {{numberOfMonths}}-month average.": "预算设置为{{numberOfMonths}}个月的平均值。",
     "Budget Summary": "预算概要",
-    "{{years}} years": "{{years}}年",
+    "{{years}} years": "{{years}} 年",
     "<0>Force reload app</0> will clear the cached version of the app and load a fresh one. This is useful if you're experiencing issues with the app after an update or if cached files are causing problems. The app will reload automatically after clearing the cache.": "<0>强制重新加载应用</0> 会清除应用的缓存版本并加载一个全新的版本。如果在更新后遇到应用问题，或缓存文件导致问题，这个功能非常有用。在清除缓存后，应用将自动重新加载。",
     "Budget automations: {{category}}": "预算自动化：{{category}}",
     "Calendar": "日历",
@@ -310,5 +310,9 @@
     "After amount": "交易后余额",
     "Before amount": "交易前余额",
     "Budget {{percent}}% of &lsquo;{{category}}&rsquo; this month": "本月“{{category}}”的预算是 {{percent}}%",
-    "Budget {{percent}}% of available funds to budget last month": "预算{{percent}}%的可用资金用于上个月的预算"
+    "Budget {{percent}}% of available funds to budget last month": "预算{{percent}}%的可用资金用于上个月的预算",
+    "budget templates have been applied.": "预算模板已被应用。",
+    "Budget the average of the last {{amount}} months": "将预算设定为前{{amount}}个月的平均值",
+    "Budget the same amount as {{amount}} months ago": "将预算设为{{amount}}个月前的数额",
+    "Categories in the group <2>{{group}}</2> are used by existing transactions or it has a positive leftover balance currently.": "<2>{{group}}</2>组中的类别被现有交易使用，或者当前有正的剩余余额。"
 }
