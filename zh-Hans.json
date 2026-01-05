@@ -340,5 +340,17 @@
     "Categorize": "分类",
     "Category Learning": "类别学习",
     "Choose the number of months shown at a time": "选择一次显示的月份数量",
-    "Center": "中心"
+    "Center": "中心",
+    "Field mapping": "字段映射",
+    "File has header row": "文件包含标题行",
+    "File needs upload": "文件需要上传",
+    "File path copied to clipboard": "文件路径已复制到剪贴板",
+    "Files": "文件",
+    "Files in the destination folder with the same name will be overwritten.": "目标文件夹中同名的文件将被覆盖。",
+    "Filter": "过滤",
+    "Filter accounts…": "过滤账号…",
+    "Filter payees...": "过滤收款人...",
+    "Filter payees…": "过滤收款人…",
+    "Filter rules...": "筛选规则...",
+    "Filter rules…": "筛选规则…"
 }
