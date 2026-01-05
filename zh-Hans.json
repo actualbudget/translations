@@ -328,5 +328,6 @@
     "Capitalizes first letter of each word.": "将每个单词的首字母大写。",
     "Budget set to last month's budget.": "预算已设置为上月的预算金额。",
     "Category ID (string). The ID of the category.\n\nExample: `=IF(category=\"Groceries\", \"Food\", \"Other\")`": "分类 ID（字符串）。该分类的 ID。\n\n示例：`=IF(分类=\"杂货\", \"食物\", \"其他\")`",
-    "Change directory": "更改目录"
+    "Change directory": "更改目录",
+    "Budget {{percent}}% of available funds to budget this month": "将本月可用资金的{{percent}}%分配到预算中"
 }
