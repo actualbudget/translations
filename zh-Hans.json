@@ -314,5 +314,19 @@
     "budget templates have been applied.": "预算模板已被应用。",
     "Budget the average of the last {{amount}} months": "将预算设定为前{{amount}}个月的平均值",
     "Budget the same amount as {{amount}} months ago": "将预算设为{{amount}}个月前的数额",
-    "Categories in the group <2>{{group}}</2> are used by existing transactions or it has a positive leftover balance currently.": "<2>{{group}}</2>组中的类别被现有交易使用，或者当前有正的剩余余额。"
+    "Categories in the group <2>{{group}}</2> are used by existing transactions or it has a positive leftover balance currently.": "<2>{{group}}</2>组中的类别被现有交易使用，或者当前有正的剩余余额。",
+    "<0><0>Repair transactions</0> if you are experiencing bugs relating to split transactions or transfers and the \"Reset budget cache\" button above does not help, this tool may fix them. Some examples of bugs include seeing blank payees on splits or incorrect account balances. This tool does four things:</0><1><0>Ensures that deleted split transactions are fully deleted. In previous versions of the app, certain split transactions may appear deleted but not all of them are actually deleted. This causes the transactions list to look correct, but certain balances may be incorrect when filtering.</0><1>Sync the payee and cleared flag of a split transaction to the main or \"parent\" transaction, if appropriate. The payee will only be set if it currently doesn't have one.</1><2>Checks that the sum of all child transactions adds up to the total amount. If not, these will be flagged below to allow you to easily locate and fix the amounts.</2><3>Checks for any non-split transactions with erroneous split errors and removes the errors if found.</3><4>Check if you have any budget transfers that erroneously contain a category, and remove the category.</4><5>Checks for any parent transactions with a category and removes the category if found.</5></1>": "<0><0>修复交易</0> 如果你在拆分交易或转账方面遇到 Bug，并且上方的“重置预算缓存”按钮无效，此工具可能可以修复。常见问题包括：拆分项显示空白的收/付款方，或账户余额不正确。此工具会执行四项操作：</0><1><0>确保已删除的拆分交易被彻底删除。在旧版本应用中，某些拆分交易可能看似已删除，但实际上并未全部删除。这会导致交易列表看起来正常，但在筛选时部分余额可能会不正确。</0><1>在适当情况下，将拆分交易的收/付款方和清算标记同步到主交易（“父交易”）。只有当主交易当前没有收/付款方时，才会设置收/付款方。</1><2>检查所有子交易的金额之和是否等于总金额。如果不相等，会在下方标记出来，方便你快速定位并修正金额。</2><3>检查是否存在被错误标记为拆分错误的非拆分交易，并在发现时移除这些错误。</3><4>检查是否存在错误地包含分类的预算转账，并移除该分类。</4><5>检查是否存在包含分类的父交易，并在发现时移除该分类。</5></1>",
+    "budgeted": "已预算",
+    "Budgeted amount for {{categoryName}} category": "“{{categoryName}}”分类的已预算金额",
+    "Calculates difference between dates in days.": "计算两个日期之间的天数差。",
+    "Calculates distance between dates.": "计算两个日期之间的间隔。",
+    "Calculates future value of investment.": "计算投资的未来价值。",
+    "Calculates internal rate of return.": "计算内部收益率。",
+    "Calculates net present value.": "计算净现值。",
+    "Calculates payment for a loan.": "计算贷款的每期还款额。",
+    "Calculates present value of investment.": "计算投资的现值。",
+    "Capitalizes first letter of each word.": "将每个单词的首字母大写。",
+    "Budget set to last month's budget.": "预算已设置为上月的预算金额。",
+    "Category ID (string). The ID of the category.\n\nExample: `=IF(category=\"Groceries\", \"Food\", \"Other\")`": "分类 ID（字符串）。该分类的 ID。\n\n示例：`=IF(分类=\"杂货\", \"食物\", \"其他\")`",
+    "Change directory": "更改目录"
 }
