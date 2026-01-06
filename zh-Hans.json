@@ -206,7 +206,6 @@
     "Already imported transaction. You can skip it, or import it again.": "已导入交易，你可以选择跳过或者重新导入。",
     "any": "任意",
     "App: v{{appVersion}} | Server: {{serverVersion}}": "应用: v{{appVersion}} | 服务器: {{serverVersion}}",
-    "Append": "添加",
     "Apply actions": "应用操作",
     "Apply to all": "应用全部",
     "Are you sure you want to delete the transaction?": "确定要删除这笔交易？",

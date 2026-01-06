@@ -153,7 +153,6 @@
     "Add an amount to this category each month based on the values from previous months. For example, you can copy the amount from a year ago to budget for an annual expense, or budget the average of the last 3 months to account for seasonal changes.": "Добавить сумму в эту категорию каждый месяц, основываясь на значениях предыдущих месяцев. Например, вы можете скопировать сумму годичной давности, чтобы выделить бюджет для ежегодных расходов, или заложить среднее значение за последние 3 месяца, чтобы учесть колебания расходов.",
     "{{categoryGroupName}} expense group categories": "Категории группы расходов {{categoryGroupName}}",
     "All time divisor": "Делитель за все время",
-    "Append": "Добавить после",
     "Apply budget template": "Применить шаблон бюджета",
     "Are you sure you want to edit this transaction?": "Вы уверены, что хотите редактировать эту транзакцию?",
     "append to notes": "Добавить в конец заметки",

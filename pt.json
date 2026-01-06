@@ -124,7 +124,6 @@
     "<0>Export</0> your data as a zip file containing <3>db.sqlite</3> and <5>metadata.json</5> files. It can be imported into another Actual instance by closing an open file (if any), then clicking the \"Import file\" button, then choosing \"Actual.\"": "<0>Export</0> seus dados para um arquivo zip contendo <3>db.sqlite</3> e <5>metadata.json</5>. Ele pode ser importado para outra instância Actual fechando um arquivo aberto (se houver), em seguida clicando no botão “Importar arquivo” e escolhendo “Actual”.",
     "allocate": "alocar",
     "Amount:": "Montante:",
-    "Append": "Anexar",
     "A category must be transferred to another of the same type (expense or income)": "Uma categoria deve ser transferida para outra do mesmo tipo (despesa ou receita)",
     "An unknown error occurred while exporting. Please report this as a new issue on GitHub.": "Ocorreu um erro desconhecido ao exportar. Por favor, reporte como um novo problema no GitHub.",
     "An internal error occurred, sorry! Visit https://actualbudget.org/contact/ for support. (ref: {{reason}})": "Ocorreu um erro interno, desculpe! Vá a https://actualbudget.org/contact/ para apoio. (ref: {{reason}})",

@@ -71,7 +71,6 @@
     "<0>Read here</0> for instructions on how to migrate your data from YNAB. You need to export your data as JSON, and that page explains how to do that.": "<0>Zapoznaj się</0> z instrukcjami dotyczącymi migracji danych z YNAB. Musisz wyeksportować swoje dane jako JSON, a ta strona wyjaśnia, jak to zrobić.",
     "Actions": "Czynności",
     "Actual has updated the syncing format": "Actual zaktualizował format synchronizacji",
-    "Append": "Załącz",
     "Area Graph": "Wykres powierzchniowy",
     "Balance": "Saldo",
     "Balance must be a number": "Saldo musi być liczbą",
