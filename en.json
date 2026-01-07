@@ -90,6 +90,7 @@
   "28+": "28+",
   "3 months": "3 months",
   "6 months": "6 months",
+  "A category group with this name already exists.": "A category group with this name already exists.",
   "A category must be transferred to another of the same type (expense or income)": "A category must be transferred to another of the same type (expense or income)",
   "A file with id \"{{id}}\" already exists with the name \"{{name}}\". This file will be replaced. This probably happened because files were manually moved around outside of Actual.": "A file with id \"{{id}}\" already exists with the name \"{{name}}\". This file will be replaced. This probably happened because files were manually moved around outside of Actual.",
   "a fixed amount": "a fixed amount",
@@ -1528,6 +1529,8 @@
   "Tag": "Tag",
   "Tag description": "Tag description",
   "Tags": "Tags",
+  "Target Income (% of expenses)": "Target Income (% of expenses)",
+  "Target income:": "Target income:",
   "Target Life Savings": "Target Life Savings",
   "Target Monthly Income": "Target Monthly Income",
   "Template": "Template",
@@ -1837,6 +1840,7 @@
   "Your files won't be moved. You can manually move them to the folder.": "Your files won't be moved. You can manually move them to the folder.",
   "Your password or something else has changed with your bank and you need to login again.": "Your password or something else has changed with your bank and you need to login again.",
   "Your SimpleFIN Access Token is no longer valid. Please reset and generate a new token.": "Your SimpleFIN Access Token is no longer valid. Please reset and generate a new token.",
+  "Your target retirement income as a percentage of projected expenses.<1></1><2></2>100% means you need retirement income equal to your current projected expenses.<4></4>Values above 100% mean you plan to spend more in retirement.<6></6>Values below 100% mean you plan to spend less in retirement.<8></8><9></9>The graph shows both the projected expenses (solid red line) and your target income (dashed red line).": "Your target retirement income as a percentage of projected expenses.<1></1><2></2>100% means you need retirement income equal to your current projected expenses.<4></4>Values above 100% mean you plan to spend more in retirement.<6></6>Values below 100% mean you plan to spend less in retirement.<8></8><9></9>The graph shows both the projected expenses (solid red line) and your target income (dashed red line).",
   "Yuan Renminbi": "Yuan Renminbi",
   "yyyy": "yyyy"
 }
