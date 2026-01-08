@@ -668,7 +668,7 @@
     "Password": "Contraseña",
     "Note that the URL depends on your application domain and region.": "Tenga en cuenta que la URL depende del dominio y la región de su aplicación.",
     "OpenID Connect on the Microsoft identity platform": "OpenID Connect en la plataforma de identidad de Microsoft",
-    "OpenID is": "OpenID es",
+    "OpenID is": "OpenID está",
     "OpenID was enabled but cleanup failed. Please refresh the application.": "OpenID fue habilitado, pero la limpieza falló. Por favor, refresque la aplicación.",
     "Overfunded ({{amount}})": "Sobrefinanciado ({{amount}})",
     "Payee:": "Beneficiario:",
