@@ -1435,7 +1435,7 @@
     "Delete {selectedInst.items.size} tags_many": "Supprimer {selectedInst.items.size} étiquettes",
     "Delete {selectedInst.items.size} tags_other": "Supprimer {selectedInst.items.size} étiquettes",
     "Euro": "Euro",
-    "Filter tags...": "Filtrer les étiquettes…",
+    "Filter tags...": "Filtrer les tags…",
     "has tags": "possède des étiquettes",
     "Hong Kong Dollar": "Dollar hongkongais",
     "If checked below, a rule will be created to do this rename while importing transactions.": "Si la case ci-dessous est cochée, une règle sera créée pour effectuer ce renommage lors de l'importation des transactions.",
