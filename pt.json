@@ -108,7 +108,6 @@
     "Complete": "Completo",
     "Add recurrence": "Adicionar recorrência",
     "Add new schedule": "Adicionar novo agendamento",
-    "Add a new transaction": "Adicionar uma nova transação",
     "<0>Formatting</0> does not affect how budget data is stored, and can be changed at any time.": "<0>Formatting</0> não afeta como os dados do orçamento são armazenados e podem ser alterados a qualquer momento.",
     "<0>Link a <1>Brazilian</1> bank account</0> to automatically download transactions. Pluggy.ai provides reliable, up-to-date information from hundreds of banks.": "<0>Link a <1>Brazilian</1> bank account</0> para baixar automaticamente transações. Pluggy. ai fornece informações confiáveis e atualizadas de centenas de bancos.",
     "<0>Read here</0> for instructions on how to migrate your data from YNAB. You need to export your data as JSON, and that page explains how to do that.": "<0>Ler aqui</0> instruções em como migrar os seus dados do YNAB. Você precisa exportar seus dados como JSON, e essa página explica como fazer.",
