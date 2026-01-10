@@ -432,7 +432,7 @@
     "Covered {{toCategoryName}} overspending from {{fromCategoryName}}.": "Sobre gasto de {{toCategoryName}} cubierto desde {{fromCategoryName}}.",
     "Custom Report:": "Reporte Personalizado:",
     "Deposit": "Ingreso",
-    "<0>Export</0> your data as a zip file containing <3>db.sqlite</3> and <5>metadata.json</5> files. It can be imported into another Actual instance by closing an open file (if any), then clicking the \"Import file\" button, then choosing \"Actual.\"": "<0>Exporta</0> tus datos como un archivo zip que contiene los archivos <3>db.sqlite</3> y <5>metadata.json</5>. Puede ser importado en otra instancia de Actual cerrando el archivo abierto (si hay alguno), haciendo clic en el botón \"Importar archivo\" y seleccionando \"Actual\".",
+    "<0>Export</0> your data as a zip file containing <3>db.sqlite</3> and <5>metadata.json</5> files. It can be imported into another Actual instance by closing an open file (if any), then clicking the \"Import file\" button, then choosing \"Actual.\"": "<0>Exporta</0> tus datos como un archivo zip que contiene archivos <3>db.sqlite</3> y <5>metadata.json</5>. Puede ser importado en otra instancia de Actual cerrando el archivo abierto (si hay alguno), haciendo clic en el botón \"Importar archivo\" y seleccionando \"Actual\".",
     "Change this username with caution; it is the server owner.": "Cambia este nombre de usuario con cuidado; es el dueño del servidor.",
     "Empty": "Vacío",
     "Import my budget": "Importar mi presupuesto",
@@ -1854,5 +1854,6 @@
     "Your files won't be moved. You can manually move them to the folder.": "Sus archivos no serán movidos. Puede moverlos manualmente a la carpeta.",
     "Your password or something else has changed with your bank and you need to login again.": "Su contraseña o algún otro detalle ha cambiado en su banco y necesita iniciar sesión de nuevo.",
     "Yuan Renminbi": "Yuan renminbi",
-    "yyyy": "yyyy"
+    "yyyy": "yyyy",
+    "A category group with this name already exists.": "Ya existe una categoría con este nombre."
 }
