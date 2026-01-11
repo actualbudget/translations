@@ -12,5 +12,9 @@
     "{{accountName}} bank sync settings": "הגדרות סנכרון בנק {{accountName}}",
     "{{categoryGroupName}} expense group categories": "קטגוריות קבוצת הוצאות {{categoryGroupName}}",
     "{{categoryName}} shortcuts": "קיצורי דרך {{categoryName}}",
-    "(+{{numHiddenPayees}} more)": "(עוד {{numHiddenPayees}}  + )"
+    "(+{{numHiddenPayees}} more)": "(עוד {{numHiddenPayees}}  + )",
+    "{{displayMonth}} budgets have all been set to zero.": "תקציבי {{displayMonth}} אותחלו לאפס.",
+    "{{endOccurrences}} times": "{{endOccurrences}} פעמים",
+    "{{selectedPayeeNames}}, and more": "{{selectedPayeeNames}}, ועוד",
+    "<0><0>Custom Report:</0></0> <2>{{name}}</2>": "<0><0>דו\"ח מותאם:</0></0> <2>{{name}}</2>"
 }
