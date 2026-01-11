@@ -1160,5 +1160,11 @@
     "Upcoming dates": "Aanstaande data",
     "Usually we automatically post transactions for these, but you are offline or syncing failed. In order to avoid duplicate transactions, we let you choose whether or not to create transactions for these schedules.": "Normaal gezien plaatsen we automatisch transacties voor deze schema's, maar je bent offline of de synchronisatie is mislukt. Om dubbele transacties te voorkomen, laten we je kiezen of je wel of geen transacties wilt maken voor deze schema's.",
     "Toggle hidden categories": "Schakel verborgen categorieën in/uit",
-    "Transaction direction": "Transactierichting"
+    "Transaction direction": "Transactierichting",
+    "{{status}} (Split)": "{{status}} (Opsplitsen)",
+    "<0>{{category}}</0> is used by existing transactions or it has a positive leftover balance currently.": "<0>{{category}}</0> wordt bij bestaande transacties gebruikt of er is op dit moment een positieve rest balans.",
+    "a fixed amount": "een vast bedrag",
+    "a fixed percent of the remainder": "een vast percentage van het restbedrag",
+    "account": "rekening",
+    "Account is a required field": "Rekening is een verplicht veld"
 }
