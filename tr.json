@@ -100,5 +100,7 @@
     "Amount:": "Miktar:",
     "An error occurred while saving. Please visit https://actualbudget.org/contact/ for support.": "Kaydedilirken bir hata oluştu. Destek için lütfen https://actualbudget.org/contact/ adresini ziyaret edin.",
     "Are you sure you want to delete these {{count}} transactions?_one": "Bu {{count}} işlemi silmek istediğinizden emin misiniz?",
-    "Are you sure you want to delete these {{count}} transactions?_other": "Bu {{count}} işlemi silmek istediğinizden emin misiniz?"
+    "Are you sure you want to delete these {{count}} transactions?_other": "Bu {{count}} işlemi silmek istediğinizden emin misiniz?",
+    "{{count}} payees_one": "{{count}} ödeme bekleyen",
+    "{{count}} payees_other": "{{count}} ödeme bekleyen"
 }
