@@ -34,5 +34,9 @@
     "{{displayMonth}} budgets have all been set to last month's budgeted amounts.": "{{displayMonth}}  költségkeretek mindegyike a múlt havi költségkeret összegekre lett beállítva.",
     "{{displayMonth}} budgets have all been set to zero.": "{{displayMonth}} költségkeretek mindegyike nullára lett állítva.",
     "{{endOccurrences}} times": "{{endOccurrences}} alkalommal",
-    "{{scheduleName}} is due {{distanceFromNow}} ({{formattedDate}})": "{{scheduleName}} {{distanceFromNow}} múlva esedékes ({{formattedDate}})"
+    "{{scheduleName}} is due {{distanceFromNow}} ({{formattedDate}})": "{{scheduleName}} {{distanceFromNow}} múlva esedékes ({{formattedDate}})",
+    "{{categoryName}} shortcuts": "{{categoryName}} gyorsbillentyűk",
+    "{{count}} payees_one": "{{count}} kedvezményezett",
+    "{{count}} payees_other": "{{count}} kedvezményezett",
+    "{{num}} more items...": "{{num}} további elem…"
 }
