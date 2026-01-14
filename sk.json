@@ -1,1 +1,16 @@
-{}
+{
+    "(before weekend)": "(pred víkendom)",
+    "(give feedback)": "(odoslať spätnú väzbu)",
+    "(hidden)": "(schované)",
+    "(modified)": "(upravené)",
+    "(Optional)": "(Voliteľné)",
+    "(please select)": "(prosím vyber možnosť)",
+    "{{count}} associated rules_one": "{{count}} súvisiace pravidlo",
+    "{{count}} associated rules_few": "{{count}} súvisiace pravidlá",
+    "{{count}} associated rules_other": "{{count}} súvisiacich pravidiel",
+    "{{count}} transactions_one": "{{count}} transakcia",
+    "{{count}} transactions_few": "{{count}} transakcie",
+    "{{count}} transactions_other": "{{count}} transakcií",
+    "{{displayMonth}} budget templates have been applied.": "Rozpočtové šablóny pre {{displayMonth}} boli aplikované.",
+    "{{displayMonth}} budget templates have been overwritten.": "Rozpočtové šablóny pre {{displayMonth}} boli prepísané."
+}
