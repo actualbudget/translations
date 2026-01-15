@@ -12,5 +12,21 @@
     "{{count}} transactions_few": "{{count}} transakcie",
     "{{count}} transactions_other": "{{count}} transakcií",
     "{{displayMonth}} budget templates have been applied.": "Rozpočtové šablóny pre {{displayMonth}} boli aplikované.",
-    "{{displayMonth}} budget templates have been overwritten.": "Rozpočtové šablóny pre {{displayMonth}} boli prepísané."
+    "{{displayMonth}} budget templates have been overwritten.": "Rozpočtové šablóny pre {{displayMonth}} boli prepísané.",
+    "{{displayMonth}} end-of-month cleanup templates have been applied.": "Šablóny na upratovanie na konci mesiaca pre {{displayMonth}} boli aplikované.",
+    "{{endOccurrences}} times": "{{endOccurrences}} krát",
+    "{{selectedPayeeNames}}, and more": "{{selectedPayeeNames}}, a ďalší",
+    "<0><0>Custom Report:</0></0> <2>{{name}}</2>": "<0><0>Vlastný Report:</0></0> <2>{{name}}</2>",
+    "<0>Actual</0> is a super fast privacy-focused app for managing your finances.": "<0>Actual</0> je super rýchla a na súkromie zameraná aplikácia pre správu vašich financíi.",
+    "(after weekend)": "(po vikende)",
+    "<0>Authentication method</0> modifies how users log in to the system.": "<0>Metóda autentifikácie</0> upravuje spôsob, akým sa používatelia prihlasujú do systému.",
+    "<0>Balance:</0><1>{{amount}}</1>": "<0>Zostatok:</0><1>{{amount}}</1>",
+    "<0>Budget ID:</0> {{budgetId}}": "<0>ID Rozpočtu:</0> {{budgetId}}",
+    "<0>Budgeted:</0><1>{{amount}}</1>": "<0>Rozpočtované:</0><1>{{amount}}</1>",
+    "<0>Category Learning</0> will automatically determine the best category for a transaction and create a rule that sets the category for the payee. <3>Learn more</3>": "<0>Učenie kategórií</0> automaticky určí najlepšiu kategóriu pre transakciu a vytvorí pravidlo, ktoré nastaví kategóriu pre príjemcu. <3>Viac informácií</3>",
+    "<0>Create a local account</0> if you want to add transactions manually. You can also <3>import QIF/OFX/QFX files into a local account</3>.": "<0>Vytvorte lokálny účet</0>, ak chcete pridávať transakcie manuálne. Môžete tiež <3>importovať súbory QIF/OFX/QFX do lokálneho účtu</3>.",
+    "<0>End-to-end encryption</0> is not available when running without a server. Budget files are always kept unencrypted locally, and encryption is only applied when sending data to a server.": "<0>End-to-end šifrovanie</0> nie je dostupné pri použití aplikácie bez servera. Súbory rozpočtu sú vždy uchovávané nešifrované lokálne a šifrovanie sa aplikuje iba pri odosielaní údajov na server.",
+    "<0>Experimental features.</0> These features are not fully tested and may not work as expected. THEY MAY CAUSE IRRECOVERABLE DATA LOSS. They may do nothing at all. Only enable them if you know what you are doing.": "<0>Experimentálne funkcie.</0> Tieto funkcie nie sú úplne otestované a nemusia fungovať podľa očakávaní. MÔŽU SPÔSOBIŤ NEOPRAVITEĽNÚ STRATU ÚDAJOV. Môžu vôbec nič nerobiť. Povoľte ich iba v prípade, že viete, čo robíte.",
+    "<0>Formatting</0> does not affect how budget data is stored, and can be changed at any time.": "<0>Formátovanie</0> neovplyvňuje spôsob, akým sú uložené údaje rozpočtu, a môže byť kedykoľvek zmenené.",
+    "<0>Goal Type:</0><1>{{type}}</1>": "<0>Typ cieľa:</0><1>{{type}}</1>"
 }
