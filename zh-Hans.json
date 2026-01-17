@@ -348,5 +348,6 @@
     "Filter payees...": "过滤收款人...",
     "Filter payees…": "过滤收款人…",
     "Filter rules...": "筛选规则...",
-    "Filter rules…": "筛选规则…"
+    "Filter rules…": "筛选规则…",
+    "Category Name (string). The human-readable name of the category.\n\nExample: `=IF(category_name=\"Groceries\", \"Food\", \"Other\")`": "分类名称（字符串）。该分类的可读名称。\n\n示例：`=IF(category_name=\"杂货\", \"食物\", \"其他\")`"
 }
