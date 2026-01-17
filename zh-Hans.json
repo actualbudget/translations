@@ -66,7 +66,7 @@
     "<0>Important:</0> if you forget this password <3>and</3> you don't have any local copies of your data, you will lose access to all your data. The data cannot be decrypted without the password.": "<0>重要提示：</0>如果您忘记此密码<3>且</3>未保留任何本地数据副本，您将永久失去所有数据的访问权限。没有密码将无法解密数据。",
     "<0>Link a <1>European</1> bank account</0> to automatically download transactions. GoCardless provides reliable, up-to-date information from hundreds of banks.": "<0>关联<1>欧洲</1> 银行账户<0>, 以便自动下载交易。 GoCardless提供了来自数百家银行的可靠的最新信息.",
     "{{categoryName}} shortcuts": "{{categoryName}} 快捷方式",
-    "{{count}} uncategorized transactions_other": "{{count}}未分类交易",
+    "{{count}} uncategorized transactions_other": "{{count}} 未分类交易",
     "<0>Category Learning</0> will automatically determine the best category for a transaction and create a rule that sets the category for the payee. <3>Learn more</3>": "<0>类别学习</0>会主动选择对一条交易最适合的组别以及 create a rule that sets the category for the payee. <3>更多详情</3>",
     "<0>Create a local account</0> if you want to add transactions manually. You can also <3>import QIF/OFX/QFX files into a local account</3>.": "<0>创建本地账户</0>，如果你想手动添加交易。你也可以<3>将 QIF/OFX/QFX 文件导入本地账户</3>。",
     "<0>Link a <1>Brazilian</1> bank account</0> to automatically download transactions. Pluggy.ai provides reliable, up-to-date information from hundreds of banks.": "<0>链接一个 <1>巴西</1>银行账户</0>，以自动下载交易记录。Pluggy.ai 可从数百家银行提供可靠、最新的信息。",
@@ -349,5 +349,8 @@
     "Filter payees…": "过滤收款人…",
     "Filter rules...": "筛选规则...",
     "Filter rules…": "筛选规则…",
-    "Category Name (string). The human-readable name of the category.\n\nExample: `=IF(category_name=\"Groceries\", \"Food\", \"Other\")`": "分类名称（字符串）。该分类的可读名称。\n\n示例：`=IF(category_name=\"杂货\", \"食物\", \"其他\")`"
+    "Category Name (string). The human-readable name of the category.\n\nExample: `=IF(category_name=\"Groceries\", \"Food\", \"Other\")`": "分类名称（字符串）。该分类的可读名称。\n\n示例：`=IF(category_name=\"杂货\", \"食物\", \"其他\")`",
+    "cleared": "已结清",
+    "A category group with this name already exists.": "类别组名称已存在。",
+    "Account transaction editing": "编辑账户交易"
 }
