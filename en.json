@@ -645,6 +645,7 @@
   "Failed to duplicate budget file.": "Failed to duplicate budget file.",
   "Failed to enable OpenID. Please try again.": "Failed to enable OpenID. Please try again.",
   "Failed to load theme": "Failed to load theme",
+  "Failed to load theme catalog. You can still paste custom CSS below.": "Failed to load theme catalog. You can still paste custom CSS below.",
   "Failed to refresh login methods": "Failed to refresh login methods",
   "Failed to save dashboard widget.": "Failed to save dashboard widget.",
   "Failed to transfer ownership": "Failed to transfer ownership",
