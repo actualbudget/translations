@@ -1847,5 +1847,7 @@
     "To add a transaction, you need to <2>create an account first</2>. You can add an account from the accounts page.": "Pour ajouter une transaction, vous devez d'abord <2>créer un compte</2>. Vous pouvez ajouter un compte depuis la page des comptes.",
     "Transferred {{amount}} from {{fromCategoryName}} to {{toCategoryName}}.": "{{amount}} transféré depuis {{fromCategoryName}} vers {{toCategoryName}}.",
     "unknown": "inconnu",
-    "Set date for selected transactions": "Définir une date pour les transactions sélectionnées"
+    "Set date for selected transactions": "Définir une date pour les transactions sélectionnées",
+    "A category group with this name already exists.": "Un groupe de catégories portant ce nom existe déjà.",
+    "Find": "Chercher"
 }
