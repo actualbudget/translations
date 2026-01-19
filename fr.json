@@ -1881,5 +1881,6 @@
     "Target income:": "Revenu cible :",
     "Target Life Savings": "Objectif d’économies totales",
     "This is a <1>hosted file</1> shared with you. Only the file owner can delete it from the server.": "Ceci est un <1>fichier hébergé</1> partagé avec vous. Seul le propriétaire du fichier peut le supprimer du serveur.",
-    "Use Regular Expressions": "Utiliser des expressions régulières"
+    "Use Regular Expressions": "Utiliser des expressions régulières",
+    "Copy to dashboard": "Copier vers un tableau de bord"
 }
