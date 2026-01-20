@@ -56,7 +56,5 @@
     "{{count}} uncategorized transactions_one": "{{count}} uncategorised transaction",
     "{{count}} uncategorized transactions_other": "{{count}} uncategorised transactions",
     "Capitalizes first letter of each word.": "Capitalises first letter of each word.",
-    "Set up your server below to enable seamless data synchronization across your devices, bank sync and more...": "Set up your server below to enable seamless data synchronisation across your devices, bank sync and more…",
-    "You have {{count}} uncategorized transactions ({{amount}})_one": "You have {{count}} uncategorised transactions ({{amount}})",
-    "You have {{count}} uncategorized transactions ({{amount}})_other": "You have {{count}} uncategorised transaction ({{amount}})"
+    "Set up your server below to enable seamless data synchronization across your devices, bank sync and more...": "Set up your server below to enable seamless data synchronisation across your devices, bank sync and more…"
 }

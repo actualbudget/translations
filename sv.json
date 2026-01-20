@@ -912,7 +912,6 @@
     "Failed to update payee. Please try again.": "Det gick inte att uppdatera betalningsmottagaren. Försök igen.",
     "Guatemalan Quetzal": "Guatemalansk quetzal",
     "Hampel Filtered Median": "Hampelfiltrerad median",
-    "Hide completed schedules": "Dölj slutförda scheman",
     "Hide hidden": "Dölj dolda",
     "Account ID (string). The ID of the account.\n\nExample: `=CONCATENATE(\"Paid from \", account)`": "Konto-ID (sträng). ID:t för kontot.\n\nExempel: `=CONCATENATE(\"Betalat från \", account)`",
     "Account name (string). The human-readable name of the account.\n\nExample: `=CONCATENATE(\"Paid from \", account_name)`": "Kontonamn (sträng). Det läsbara namnet för kontot.\n\nExempel: `=CONCATENATE(\"Betalat från \", account_name)`",
