@@ -1885,5 +1885,7 @@
     "Copy to dashboard": "Copier vers un tableau de bord",
     "Overwrite with templates": "Remplacer avec un modèle de budget",
     "Account transaction management": "Gestion de transaction du compte",
-    "Account transaction selection": "Sélection de transaction du compte"
+    "Account transaction selection": "Sélection de transaction du compte",
+    "Choose from catalog:": "Choisir depuis le catalogue :",
+    "Failed to load theme catalog. You can still paste custom CSS below.": "Échec du chargement du catalogue de thèmes. Vous pouvez toujours coller un CSS personnalisé ci-dessous."
 }
