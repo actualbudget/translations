@@ -93,7 +93,7 @@
     "This happens rarely (if ever again). The internal syncing format has changed and you need to reset sync. This will upload data from this device and revert all other devices. [Learn more about what this means](https://actualbudget.org/docs/getting-started/sync/#what-does-resetting-sync-mean).\n\nOld encryption keys are not migrated. If using encryption, [reset encryption here](#makeKey).": "Cela se produit rarement (voire jamais). Le format de synchronisation interne a changé et vous devez réinitialiser la synchronisation. Cette opération permet de télécharger les données de cet appareil et de réinitialiser tous les autres appareils. (En savoir plus sur ce que cela signifie) (https://actualbudget.org/docs/getting-started/sync/#what-does-resetting-sync-mean).\n\nLes anciennes clés de chiffrement ne sont pas migrées. Si vous utilisez le chiffrement, [réinitialisez le chiffrement ici](#makeKey).",
     "We hit a limit on the local storage available. Edits may not be saved. Please get in touch https://actualbudget.org/contact/ so we can help debug this.": "Nous avons atteint la limite de l'espace de stockage local disponible. Il se peut que les modifications ne soient pas sauvegardées. Veuillez contacter https://actualbudget.org/contact/ afin que nous puissions vous aider à résoudre ce problème.",
     "We were unable to repair your sync state, sorry! You need to reset your sync state.": "Nous n'avons pas pu réparer votre état de synchronisation, désolé ! Vous devez réinitialiser votre état de synchronisation.",
-    "(give feedback)": "(laisser un avis)",
+    "(give feedback)": "(faire un retour)",
     "(hidden)": "(caché)",
     "(modified)": "(modifié)",
     "(none)": "(aucun)",
