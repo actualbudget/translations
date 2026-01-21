@@ -350,5 +350,6 @@
     "Category Name (string). The human-readable name of the category.\n\nExample: `=IF(category_name=\"Groceries\", \"Food\", \"Other\")`": "分类名称（字符串）。该分类的可读名称。\n\n示例：`=IF(category_name=\"杂货\", \"食物\", \"其他\")`",
     "cleared": "已结清",
     "A category group with this name already exists.": "类别组名称已存在。",
-    "Account transaction editing": "编辑账户交易"
+    "Account transaction editing": "编辑账户交易",
+    "Clear transactions on import": "导入时标记为已结清"
 }
