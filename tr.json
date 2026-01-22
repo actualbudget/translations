@@ -6,7 +6,7 @@
     "(Optional)": "(Tercihen)",
     "(please select)": "(lütfen seçin)",
     "{{count}} associated rules_one": "{{count}} adet bağlantılı kural",
-    "{{count}} associated rules_other": "{{count}} adet bağlantılı kurallar",
+    "{{count}} associated rules_other": "{{count}} adet bağlantılı kural",
     "(after weekend)": "(hafta sonundan sonra)",
     "(before weekend)": "(hafta sonundan önce)",
     "(give feedback)": "(görüş bildir)",
@@ -39,11 +39,11 @@
     "Category name": "Kategori adı",
     "{{categoryGroupName}} expense group categories": "{{categoryGroupName}} masraf grup kategorileri",
     "{{count}} uncategorized transactions_one": "{{count}} kategorize edilmemiş işlem",
-    "{{count}} uncategorized transactions_other": "{{count}} kategorize edilmemiş işlemler",
+    "{{count}} uncategorized transactions_other": "{{count}} kategorize edilmemiş işlem",
     "{{displayMonth}} budget templates have been applied.": "{{displayMonth}} bütçe şablonları uygulandı.",
     "{{displayMonth}} budget templates have been overwritten.": "{{displayMonth}} bütçe şablonlarının üzerine yazıldı.",
     "{{displayMonth}} budgets have all been set to last month's budgeted amounts.": "{{displayMonth}} bütçeleri son ayın bütçelenen miktarlarına ayarlandı.",
-    "{{num}} more items...": "{{num}} daha fazla oğe...",
+    "{{num}} more items...": "{{num}} daha fazla öğe…",
     "{{status}} (Split)": "{{status}} (Böl)",
     "{{displayMonth}} budgets have all been set to zero.": "{{displayMonth}} bütçesi tamamen sıfırlandı.",
     "{{categoryName}} shortcuts": "{{categoryName}} kısayolları",
@@ -102,5 +102,7 @@
     "Are you sure you want to delete these {{count}} transactions?_one": "Bu {{count}} işlemi silmek istediğinizden emin misiniz?",
     "Are you sure you want to delete these {{count}} transactions?_other": "Bu {{count}} işlemi silmek istediğinizden emin misiniz?",
     "{{count}} payees_one": "{{count}} ödeme bekleyen",
-    "{{count}} payees_other": "{{count}} ödeme bekleyen"
+    "{{count}} payees_other": "{{count}} ödeme bekleyen",
+    "{{years}} years": "{{years}} yıl",
+    "<0><0>How are \"Average\" and \"Spent Average MTD\" calculated?</0></0><1>They are both the average cumulative spending by day for the three months before the selected \"compare\" month.</1>": "<0><0>\"Ortalama\" ve \"Ay Başından Beri Ortalama Harcama\" nasıl hesaplanır?</0></0><1>Her ikisi de seçilen \"karşılaştırma\" ayından önceki üç ayın günlük ortalama kümülatif harcamasıdır.</1>"
 }
