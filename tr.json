@@ -104,5 +104,11 @@
     "{{count}} payees_one": "{{count}} ödeme bekleyen",
     "{{count}} payees_other": "{{count}} ödeme bekleyen",
     "{{years}} years": "{{years}} yıl",
-    "<0><0>How are \"Average\" and \"Spent Average MTD\" calculated?</0></0><1>They are both the average cumulative spending by day for the three months before the selected \"compare\" month.</1>": "<0><0>\"Ortalama\" ve \"Ay Başından Beri Ortalama Harcama\" nasıl hesaplanır?</0></0><1>Her ikisi de seçilen \"karşılaştırma\" ayından önceki üç ayın günlük ortalama kümülatif harcamasıdır.</1>"
+    "<0><0>How are \"Average\" and \"Spent Average MTD\" calculated?</0></0><1>They are both the average cumulative spending by day for the three months before the selected \"compare\" month.</1>": "<0><0>\"Ortalama\" ve \"Ay Başından Beri Ortalama Harcama\" nasıl hesaplanır?</0></0><1>Her ikisi de seçilen \"karşılaştırma\" ayından önceki üç ayın günlük ortalama kümülatif harcamasıdır.</1>",
+    "<0>Budget ID:</0> {{budgetId}}": "<0>Bütçe Kimliği:</0> {{budgetId}}",
+    "<0>Budgeted:</0><1>{{amount}}</1>": "<0>Bütçelenmiş:</0><1>{{amount}}</1>",
+    "<0>Create a local account</0> if you want to add transactions manually. You can also <3>import QIF/OFX/QFX files into a local account</3>.": "İşlemleri manuel olarak eklemek istiyorsanız <0>yerel bir hesap oluşturun</0>. Ayrıca <3>QIF/OFX/QFX dosyalarını yerel bir hesaba aktarabilirsiniz</3>.",
+    "<0>End-to-end encryption</0> is not available when running without a server. Budget files are always kept unencrypted locally, and encryption is only applied when sending data to a server.": "<0>Uçtan uca şifreleme</0> sunucu olmadan çalıştırıldığında kullanılamaz. Bütçe dosyaları her zaman yerel olarak şifrelenmemiş olarak tutulur ve şifreleme yalnızca veriler sunucuya gönderilirken uygulanır.",
+    "<0>Link a <1>European</1> bank account</0> to automatically download transactions. GoCardless provides reliable, up-to-date information from hundreds of banks.": "<0>Bir <1>Avrupa</1> banka hesabını</0> bağlayarak işlemleri otomatik olarak indirin. GoCardless, yüzlerce bankadan güvenilir ve güncel bilgiler sağlar.",
+    "<0>Link a <1>North American</1> bank account</0> to automatically download transactions. SimpleFIN provides reliable, up-to-date information from hundreds of banks.": "<0>Bir <1>Kuzey Amerika</1> banka hesabını</0> bağlayarak işlemleri otomatik olarak indirin. SimpleFIN, yüzlerce bankadan güvenilir ve güncel bilgiler sağlar."
 }
