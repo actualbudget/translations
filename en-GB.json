@@ -56,5 +56,7 @@
     "{{count}} uncategorized transactions_one": "{{count}} uncategorised transaction",
     "{{count}} uncategorized transactions_other": "{{count}} uncategorised transactions",
     "Capitalizes first letter of each word.": "Capitalises first letter of each word.",
-    "Set up your server below to enable seamless data synchronization across your devices, bank sync and more...": "Set up your server below to enable seamless data synchronisation across your devices, bank sync and more…"
+    "Set up your server below to enable seamless data synchronization across your devices, bank sync and more...": "Set up your server below to enable seamless data synchronisation across your devices, bank sync and more…",
+    "Choose from catalog:": "Choose from catalogue:",
+    "Failed to load theme catalog. You can still paste custom CSS below.": "Failed to load theme catalogue. You can still paste custom CSS below."
 }
