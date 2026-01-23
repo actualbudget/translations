@@ -1640,7 +1640,6 @@
     "Dynamic": "Dinâmico",
     "Edit Payee": "Editar Beneficiário",
     "Enable formula": "Habilitar fórmula",
-    "Estimated return (annual %, optional)": "Retorno estimado (% anual, opcional)",
     "Execute a query and return the result.": "Consultar e retornar o resultado.",
     "Execute the {{queryName}} query and return the result.": "Executar a consulta {{queryName}} e retornar o resultado.",
     "Exit reconciliation": "Sair da reconciliação"
