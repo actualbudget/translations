@@ -11,5 +11,8 @@
     "(deleted)": "(eliminat)",
     "(nothing)": "(res)",
     "(No payee)": "(Cap pagador)",
-    "{{accountName}} bank sync settings": "{{accountName}} paràmetres de sincronització bancaria"
+    "{{accountName}} bank sync settings": "{{accountName}} paràmetres de sincronització bancaria",
+    "{{count}} associated rules_one": "{{count}} regla associada",
+    "{{count}} associated rules_many": "{{count}} regles associades",
+    "{{count}} associated rules_other": "{{count}} regles associades"
 }
