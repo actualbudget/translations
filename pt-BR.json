@@ -822,9 +822,9 @@
     "Fixed {{count}} splits with a blank payee._many": "{{count}} transações divididas com beneficiário em branco foram corrigidas.",
     "Fixed {{count}} splits with a blank payee._other": "{{count}} transações divididas com beneficiário em branco foram corrigidas.",
     "For Actual to be useful, you need to <1>add an account</1>. You can link an account to automatically download transactions, or manage it locally yourself.": "Para que o Actual seja útil, você precisa <1>adicionar uma conta</1>. Você pode criar uma conta e gerenciar manualmente ou pode conectar uma conta para sincronizar transações automaticamente (atualmente disponível para bancos nos EUA e Europa).",
-    "Fixed {{count}} splits with the wrong cleared flag._one": "{{count}} transação dividida com indicador de compensação incorreto foi corrigida.",
-    "Fixed {{count}} splits with the wrong cleared flag._many": "{{count}} transações divididas com indicador de compensação incorreto foram corrigidas.",
-    "Fixed {{count}} splits with the wrong cleared flag._other": "{{count}} transações divididas com indicador de compensação incorreto foram corrigidas.",
+    "Fixed {{count}} splits with the wrong cleared flag._one": "Corrigida {{count}} transação dividida com indicador de confirmação incorreto.",
+    "Fixed {{count}} splits with the wrong cleared flag._many": "Corrigidas {{count}} transações divididas com indicador de confirmação incorreto.",
+    "Fixed {{count}} splits with the wrong cleared flag._other": "Corrigidas {{count}} transações divididas com indicador de confirmação incorreto.",
     "I understand the risks, run Actual in the unsupported fallback mode": "Entendo os riscos, executar o Actual no modo de fallback não suportado",
     "Import a file exported from Actual": "Importar um arquivo exportado do Actual",
     "If checked, the schedule will automatically create transactions for you in the specified account": "Se marcado, o agendamento criará automaticamente transações para você na conta especificada",
@@ -1089,7 +1089,7 @@
     "Transferred {{amount}} to {{categoryName}}": "Transferido {{amount}} para {{categoryName}}",
     "New category name": "Nome da nova categoria",
     "New group name": "Nome do novo grupo",
-    "Your cleared balance <2>{{clearedBalance}}</2> needs <5>{{difference}}</5> to match<7></7> your bank's balance of <10>{{bankBalance}}</10>": "Seu saldo reconciliado <2>{{clearedBalance}}</2> precisa <5>{{difference}}</5> para corresponder<7></7> ao seu saldo bancário de <10>{{bankBalance}}</10>",
+    "Your cleared balance <2>{{clearedBalance}}</2> needs <5>{{difference}}</5> to match<7></7> your bank's balance of <10>{{bankBalance}}</10>": "Seu saldo confirmado <2>{{clearedBalance}}</2> precisa <5>{{difference}}</5> para corresponder<7></7> ao seu saldo bancário de <10>{{bankBalance}}</10>",
     "Create reconciliation transaction": "Criar transação de reconciliação",
     "Show hidden categories": "Exibir categorias ocultas",
     "This cannot be changed later. See <2>Accounts Overview</2> for more information.": "Isto não pode ser alterado depois. Veja <2>Visão geral das contas</2> para mais informações.",
@@ -1619,7 +1619,7 @@
     "Counts the number of numeric values.": "Conta a quantidade de valores numéricos.",
     "Belarusian Ruble": "Rublo Bielorrusso",
     "Account name (string). The human-readable name of the account.\n\nExample: `=CONCATENATE(\"Paid from \", account_name)`": "ID da conta (string). O ID da conta.\n\nExemplo: `=CONCATENATE(\"Pago de \", account)`",
-    "Boolean cleared status. TRUE if transaction is cleared, FALSE otherwise.\n\nExample: `=IF(cleared, \"Cleared\", \"Pending\")`": "Status booleano de compensação. TRUE se a transação estiver compensada, FALSE caso contrário.\n\nExemplo: `=SE(cleared; \"Compensada\"; \"Pendente\")`",
+    "Boolean cleared status. TRUE if transaction is cleared, FALSE otherwise.\n\nExample: `=IF(cleared, \"Cleared\", \"Pending\")`": "Status booleano de status de confirmação. TRUE se a transação estiver confirmada, FALSE caso contrário.\n\nExemplo: `=SE(cleared; \"Compensada\"; \"Pendente\")`",
     "Combines several text strings into one.": "Combina múltiplas strings de texto em uma só.",
     "Converts value to a number.": "Converte o valor para número.",
     "Account:": "Conta:",
@@ -1642,5 +1642,6 @@
     "Enable formula": "Habilitar fórmula",
     "Execute a query and return the result.": "Consultar e retornar o resultado.",
     "Execute the {{queryName}} query and return the result.": "Executar a consulta {{queryName}} e retornar o resultado.",
-    "Exit reconciliation": "Sair da reconciliação"
+    "Exit reconciliation": "Sair da reconciliação",
+    "Toggle cleared status for selected transactions": "Alternar status de confirmado para as transações selecionadas"
 }
