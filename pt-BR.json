@@ -1216,7 +1216,7 @@
     "Update conditions": "Atualizar condições",
     "Pluggy.ai menu": "Menu Pluggy.ai",
     "Every {{interval}} years on {{dateFormatted}}": "A cada {{interval}} anos no dia {{dateFormatted}}",
-    "cleared": "compensado",
+    "cleared": "confirmado",
     "Client Secret:": "Segredo do Cliente:",
     "Every {{interval}} months on the {{dateFormatted}}": "A cada {{interval}} meses no dia {{dateFormatted}}",
     "It looks like you're using an outdated version of the Actual client. Your budget data has been updated by another client, but this client is still on the old version. For the best experience, please update Actual to the latest version.": "Parece que você está usando uma versão desatualizada do cliente Actual. Seus dados de orçamento foram atualizados por outro cliente, mas este cliente ainda está na versão antiga. Para a melhor experiência, atualize o Actual para a versão mais recente.",
