@@ -1165,5 +1165,7 @@
     "Account is a required field": "Rekening is een verplicht veld",
     "Add a fixed amount to this category each month.": "Voeg elke maand een vast bedrag toe aan deze categorie.",
     "<0>{{category}}</0> is used by existing transactions.": "<0>{{category}}</0> is in gebruik bij bestaande transacties.",
-    "Budgeted MTD": "Gebudgetteerd sinds begin van de maand"
+    "Budgeted MTD": "Gebudgetteerd sinds begin van de maand",
+    "New Transaction": "Nieuwe transactie",
+    "Update conditions": "Condities bijwerken"
 }
