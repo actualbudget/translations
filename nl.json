@@ -1167,5 +1167,10 @@
     "<0>{{category}}</0> is used by existing transactions.": "<0>{{category}}</0> is in gebruik bij bestaande transacties.",
     "Budgeted MTD": "Gebudgetteerd sinds begin van de maand",
     "New Transaction": "Nieuwe transactie",
-    "Update conditions": "Condities bijwerken"
+    "Update conditions": "Condities bijwerken",
+    "Show off budget": "Toon buiten budget",
+    "Not yet reconciled": "Nog niet afgestemd",
+    "Client ID:": "Client ID:",
+    "More options": "Meer opties",
+    "Pluggy.ai menu": "Pluggy.ai menu"
 }
