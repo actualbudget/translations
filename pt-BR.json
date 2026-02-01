@@ -1643,5 +1643,6 @@
     "Execute a query and return the result.": "Consultar e retornar o resultado.",
     "Execute the {{queryName}} query and return the result.": "Executar a consulta {{queryName}} e retornar o resultado.",
     "Exit reconciliation": "Sair da reconciliação",
-    "Toggle cleared status for selected transactions": "Alternar status de confirmado para as transações selecionadas"
+    "Toggle cleared status for selected transactions": "Alternar status de confirmado para as transações selecionadas",
+    ":root {\n  --color-sidebarItemSelected: #007bff;\n}": ":root {\n  --color-sidebarItemSelected: #007bff;\n}"
 }
