@@ -4,7 +4,7 @@
     "(after weekend)": "(setelah akhir pekan)",
     "(before weekend)": "(sebelum akhir pekan)",
     "(deleted)": "(dihapus)",
-    "(give feedback)": "(beri umpan balik)",
+    "(give feedback)": "(berikan saran)",
     "(hidden)": "(tersembunyi)",
     "(modified)": "(dimodifikasi)",
     "(No payee)": "(Tidak ada penerima)",
@@ -25,5 +25,6 @@
     "(projected)": "(proyeksi)",
     "{{scheduleName}} is due {{distanceFromNow}} ({{formattedDate}})": "{{scheduleName}} jatuh tempo dalam {{distanceFromNow}} ({{formattedDate}})",
     "{{selectedPayeeNames}}, and more": "{{selectedPayeeNames}}, dan lainnya",
-    ":root {\n  --color-sidebarItemSelected: #007bff;\n}": ":root {\n  --color-sidebarItemSelected: #007bff;\n}"
+    ":root {\n  --color-sidebarItemSelected: #007bff;\n}": ":root {\n  --color-sidebarItemSelected: #007bff;\n}",
+    "<0>Goal Type:</0><1>{{type}}</1>": "<0>Jenis Target:</0><1>{{type}}</1>"
 }
