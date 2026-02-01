@@ -368,5 +368,6 @@
     "Check templates": "检查模板",
     "Checking GoCardless configuration...": "正在检查GoCardless配置…",
     "Checking Header Token Login ...": "正在检查Header令牌登录...",
-    "Checks multiple conditions and returns corresponding values.": "检查多条件并返回相应数值。"
+    "Checks multiple conditions and returns corresponding values.": "检查多条件并返回相应数值。",
+    "Your SimpleFIN Access Token is no longer valid. Please reset and generate a new token.": "您的 SimpleFIN 访问令牌已失效。请重置并生成一个新的令牌。"
 }
