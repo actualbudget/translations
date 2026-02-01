@@ -352,5 +352,21 @@
     "A category group with this name already exists.": "类别组名称已存在。",
     "Account transaction editing": "编辑账户交易",
     "Clear transactions on import": "导入时标记为已结清",
-    "Categories in the group <2>{{group}}</2> are used by existing transactions.": "分组<2>{{group}}</2>中的类别被现有交易使用。"
+    "Categories in the group <2>{{group}}</2> are used by existing transactions.": "分组<2>{{group}}</2>中的类别被现有交易使用。",
+    "Category learning disabled": "已禁用类别学习",
+    "Category learning settings": "类别学习设置",
+    "Category name": "类别名称",
+    "Change": "更改",
+    "Change category automations": "更改类别自动化规则",
+    "Change how many days in advance of the scheduled date a scheduled transaction appears in the account ledger as upcoming.": "更改计划交易提前显示在账户账单中的天数。",
+    "Change interval": "更改间隔",
+    "Change location": "更改位置",
+    "Change password": "更改密码",
+    "Change server password": "更改服务器密码",
+    "Change server URL": "更改服务器URL",
+    "Change this username with caution; it is the server owner.": "谨慎修改这一用户名称；此为服务器所有者。",
+    "Check templates": "检查模板",
+    "Checking GoCardless configuration...": "正在检查GoCardless配置…",
+    "Checking Header Token Login ...": "正在检查Header令牌登录...",
+    "Checks multiple conditions and returns corresponding values.": "检查多条件并返回相应数值。"
 }
