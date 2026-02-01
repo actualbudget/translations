@@ -24,5 +24,6 @@
     "{{accountName}} bank sync settings": "Pengaturan sinkronisasi bank {{accountName}}",
     "(projected)": "(proyeksi)",
     "{{scheduleName}} is due {{distanceFromNow}} ({{formattedDate}})": "{{scheduleName}} jatuh tempo dalam {{distanceFromNow}} ({{formattedDate}})",
-    "{{selectedPayeeNames}}, and more": "{{selectedPayeeNames}}, dan lainnya"
+    "{{selectedPayeeNames}}, and more": "{{selectedPayeeNames}}, dan lainnya",
+    ":root {\n  --color-sidebarItemSelected: #007bff;\n}": ":root {\n  --color-sidebarItemSelected: #007bff;\n}"
 }
