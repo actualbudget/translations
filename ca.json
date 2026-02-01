@@ -47,5 +47,6 @@
     "after": "després",
     "All accounts": "Tots els comptes",
     "All reconciled!": "Tot reconciliat!",
-    "All time": "Tot el temps"
+    "All time": "Tot el temps",
+    ":root {\n  --color-sidebarItemSelected: #007bff;\n}": ":root {\n  --color-sidebarItemSelected: #007bff;\n}"
 }
