@@ -351,5 +351,6 @@
     "cleared": "已结清",
     "A category group with this name already exists.": "类别组名称已存在。",
     "Account transaction editing": "编辑账户交易",
-    "Clear transactions on import": "导入时标记为已结清"
+    "Clear transactions on import": "导入时标记为已结清",
+    "Categories in the group <2>{{group}}</2> are used by existing transactions.": "分组<2>{{group}}</2>中的类别被现有交易使用。"
 }
