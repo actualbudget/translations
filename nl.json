@@ -1173,5 +1173,13 @@
     "Client ID:": "Client ID:",
     "More options": "Meer opties",
     "Pluggy.ai menu": "Pluggy.ai menu",
-    "Account:": "Rekening:"
+    "Account:": "Rekening",
+    "Account sync": "Rekeningsynchronisatie",
+    "AVERAGE NET": "GEMIDDELD NETTO",
+    "Calculates future value of investment.": "Berekent de toekomstige waarde van de investering.",
+    "Calculates present value of investment.": "Berekent de huidige waarde van de investering.",
+    "Canadian Dollar": "Canadese Dollar",
+    "Capitalizes first letter of each word.": "Schrijft woorden met hoofdletter.",
+    "category": "categorie",
+    "Change interval": "Wijzig interval"
 }
