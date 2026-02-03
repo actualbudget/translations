@@ -1838,5 +1838,7 @@
     "yyyy": "yyyy",
     "A category group with this name already exists.": "Ya existe una categoría con este nombre.",
     "Invalid regular expression": "Expresión regular no válida",
-    "Target income:": "Ingresos previstos:"
+    "Target income:": "Ingresos previstos:",
+    "Add new dashboard": "Añadir nuevo panel",
+    "Add new transaction": "Añadir nueva transacción"
 }
