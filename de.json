@@ -1893,5 +1893,7 @@
     "Use custom growth projections": "Benutzerdefinierte Wachstumsprognosen verwenden",
     "Using calculated historical return of {(historicalReturn * 100).toFixed(1)}%": "Verwendung der berechneten historischen Rendite von {(historicalReturn * 100).toFixed(1)}%",
     "Value": "Wert",
-    "Zero amount": "Betrag Null"
+    "Zero amount": "Betrag Null",
+    "Budget <2>{{amount}}</2> each week": "Budgetiere <2>{{amount}}</2> jede Woche",
+    "Enable this to specify custom monthly contribution amounts and investment returns that will be used to project your investments into the future.<1></1><2></2>When disabled, uses historical performance from your Income Accounts (which includes both past contributions and investment growth).": "Aktiviere dies, um benutzerdefinierte monatliche Einzahlungsbeträge und Anlagerenditen festzulegen, die zur Projektion deiner Investitionen in die Zukunft verwendet werden.<1></1><2></2>Wenn deaktiviert, wird die historische Entwicklung aus deinen Einnahmekonten verwendet (die sowohl frühere Einzahlungen als auch das Investitionswachstum umfasst)."
 }
