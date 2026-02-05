@@ -1834,7 +1834,6 @@
     "Transferred {{amount}} from {{fromCategoryName}} to {{toCategoryName}}.": "{{amount}} transféré depuis {{fromCategoryName}} vers {{toCategoryName}}.",
     "unknown": "inconnu",
     "Set date for selected transactions": "Définir une date pour les transactions sélectionnées",
-    "A category group with this name already exists.": "Un groupe de catégories portant ce nom existe déjà.",
     "Find": "Chercher",
     "Add new dashboard": "Ajouter un nouveau tableau de bord",
     "Add new transaction": "Ajouter une nouvelle transaction",

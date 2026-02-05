@@ -1851,7 +1851,6 @@
     "No other dashboard pages available.": "Keine anderen Dashboard-Seiten verfügbar.",
     "or paste CSS directly:": "oder CSS direkt einfügen:",
     ":root {\n  --color-sidebarItemSelected: #007bff;\n}": ":root {\n  --color-sidebarItemSelected: #007bff;\n}",
-    "A category group with this name already exists.": "Es gibt bereits eine Kategoriegruppe mit diesem Namen.",
     "Account page general": "Konten-Seite allgemein",
     "Account transaction editing": "Bearbeiten von Konten-Transaktionen",
     "Account transaction management": "Verwalten von Konten-Transaktionen",
