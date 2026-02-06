@@ -1685,5 +1685,7 @@
     "Category ID (string). The ID of the category.\n\nExample: `=IF(category=\"Groceries\", \"Food\", \"Other\")`": "ID da Categoria (string).\n\nExemplo: `=IF(categoria=\"Supermercado\", \"Alimentos\", \"Outros\")`",
     "Category Name (string). The human-readable name of the category.\n\nExample: `=IF(category_name=\"Groceries\", \"Food\", \"Other\")`": "Nome da categoria (string). O nome legível humano da categoria.\n\nExemplo: `=IF(categoria=\"Supermercado\", \"Alimentos, \"Outros\") \"",
     "Excel formula mode (Formula cards & Rule formulas)": "Modo de Fórmulas Tipo Excel (Cartões de Fórmulas &  Fórmulas de Regra)",
-    "Expense Projection Type": "Tipo de Projeção de Gastos"
+    "Expense Projection Type": "Tipo de Projeção de Gastos",
+    "Yes, create schedule": "Sim, criar agendamento",
+    "yyyy": "aaaa"
 }
