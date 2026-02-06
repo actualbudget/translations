@@ -62,7 +62,7 @@
     "{{displayMonth}} budgets have all been set to zero.": "Els pressupostos de {{displayMonth}} s'han posat a zero.",
     "{{num}} more items...": "{{num}} elements més…",
     "{{scheduleName}} is due {{distanceFromNow}} ({{formattedDate}})": "{{scheduleName}} venç en {{distanceFromNow}} ({{formattedDate}})",
-    "{{selectedPayeeNames}}, and more": "{{selectedPayeeNames}}, i més",
+    "{{selectedPayeeNames}}, and more": "{{selectedPayeeNames}} i més",
     "{{status}} (Split)": "{{status}} (Dividit)",
     "{{years}} years": "{{years}} anys",
     "{isSearching\n                        ? 'No matching shortcuts'\n                        : isInCategory\n                          ? 'No shortcuts in this category'\n                          : 'No matching shortcuts'}": "{isSearching\n                        ? 'Cap drecera coincident'\n                        : isInCategory\n                          ? 'Cap drecera en aquesta categoria'\n                          : 'Cap drecera coincident'}",
