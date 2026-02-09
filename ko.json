@@ -13,7 +13,7 @@
     "{{count}} transactions_other": "{{count}}건의 거래",
     "<0>Balance:</0><1>{{amount}}</1>": "<0>잔액:</0><1>{{amount}}</1>",
     "<0>Budgeted:</0><1>{{amount}}</1>": "<0>이번 달 예산:</0><1>{{amount}}</1>",
-    "(Optional)": "(선택사항)",
+    "(Optional)": "(선택)",
     "{{accountName}} bank sync settings": "{{accountName}} 은행 동기화 설정",
     "{{displayMonth}} budget templates have been applied.": "{{displayMonth}} 예산 템플릿이 적용되었습니다.",
     "{{displayMonth}} budget templates have been overwritten.": "{{displayMonth}} 예산 템플릿을 덮어썼습니다.",
@@ -22,5 +22,6 @@
     "{{count}} payees_other": "{{count}} 건의 지불처",
     "{{count}} uncategorized transactions_other": "{{count}} 건의 미분류 거래",
     "{{displayMonth}} budgets have all been set to last month's budgeted amounts.": "{{displayMonth}} 예산은 모두 지난 달의 예산 금액으로 설정되었습니다.",
-    "(nothing)": "(비어 있음)"
+    "(nothing)": "(비어 있음)",
+    "{{displayMonth}} end-of-month cleanup templates have been applied.": "{{displayMonth}} 월말 정리 템플릿이 적용되었습니다."
 }
