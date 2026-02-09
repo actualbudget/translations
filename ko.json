@@ -21,5 +21,6 @@
     "{{categoryName}} shortcuts": "{{categoryName}} 바로가기",
     "{{count}} payees_other": "{{count}} 건의 지불처",
     "{{count}} uncategorized transactions_other": "{{count}} 건의 미분류 거래",
-    "{{displayMonth}} budgets have all been set to last month's budgeted amounts.": "{{displayMonth}} 예산은 모두 지난 달의 예산 금액으로 설정되었습니다."
+    "{{displayMonth}} budgets have all been set to last month's budgeted amounts.": "{{displayMonth}} 예산은 모두 지난 달의 예산 금액으로 설정되었습니다.",
+    "(nothing)": "(비어 있음)"
 }
