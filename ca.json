@@ -57,7 +57,7 @@
     "{{count}} uncategorized transactions_many": "{{count}} transaccions sense categoria",
     "{{count}} uncategorized transactions_other": "{{count}} transaccions sense categoria",
     "{{displayMonth}} budget templates have been applied.": "Les plantilles de pressupost de {{displayMonth}} s'han aplicat.",
-    "{{displayMonth}} budget templates have been overwritten.": "Les plantilles de pressupost de {{displayMonth}} s'han sobreescrit.",
+    "{{displayMonth}} budget templates have been overwritten.": "S'han sobreescrit les plantilles del pressupost de {{displayMonth}}.",
     "{{displayMonth}} budgets have all been set to last month's budgeted amounts.": "Els pressupostos de {{displayMonth}} s'han establert als imports pressupostats del mes passat.",
     "{{displayMonth}} budgets have all been set to zero.": "Els pressupostos de {{displayMonth}} s'han posat a zero.",
     "{{num}} more items...": "{{num}} elements més…",
