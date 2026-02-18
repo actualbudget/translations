@@ -843,7 +843,6 @@
     "On Budget": "I budgettet",
     "Change server URL": "Skift server URL",
     "$10 a week, up to a maximum of $80": "$10 om ugen, op til $80",
-    "A category must be transferred to another of the same type (expense or income)": "En kategori skal overføres til en anden af samme type (udgift eller indtægt)",
     "An unknown error occurred while importing. Please report this as a new issue on GitHub.": "Der opstod en ukendt fejl under importen. Rapportér det venligst som et nyt problem på Github.",
     "App: v{{appVersion}} | Server: {{serverVersion}}": "App: v{{appVersion}} | Server: {{serverVersion}}",
     "Are you sure you want to delete this rule?": "Er du sikker på, at du vil slette denne regel?",

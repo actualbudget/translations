@@ -78,7 +78,6 @@
     "<0>Sync ID:</0> {{syncId}}": "<0>同步 ID：</0>{{syncId}}",
     "<0>Themes</0> change the user interface colors.": "<0>主题</0> 可更改用户界面的配色。",
     "<allocatedAmount /> <italic>of <totalAmount /></italic>": "<allocatedAmount /> <italic>共 <totalAmount /></italic>",
-    "A category must be transferred to another of the same type (expense or income)": "一个分类必须转移到相同类型的另一个分类（支出或收入）",
     "A file with id \"{{id}}\" already exists with the name \"{{name}}\". This file will be replaced. This probably happened because files were manually moved around outside of Actual.": "ID 为 “{{id}}” 的文件已存在，文件名为 “{{name}}”。该文件将被替换。此情况很可能是由于在 Actual 之外手动移动了文件所致。",
     "A new version of Actual is available!": "有可用的 Actual 新版本！",
     "A new version of Actual is available! Your Pikapods instance will be automatically updated in the next few days - no action needed.": "Actual 有新版本可用！你的 Pikapods 实例将在接下来的几天内自动更新，无需手动操作。",

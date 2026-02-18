@@ -459,7 +459,6 @@
     "until": "จนถึง",
     "<0>Actual</0> is a super fast privacy-focused app for managing your finances.": "<0>Actual</0> เป็นแอปจัดการการเงินที่รวดเร็วและเน้นความเป็นส่วนตัว",
     "<0>Authentication method</0> modifies how users log in to the system.": "<0>วิธีการยืนยันตัวตน</0> จะเปลี่ยนวิธีที่ผู้ใช้เข้าสู่ระบบ",
-    "A category must be transferred to another of the same type (expense or income)": "หมวดหมู่ต้องถูกโอนไปยังหมวดหมู่อื่นที่เป็นประเภทเดียวกัน (รายจ่ายหรือรายรับ)",
     "Add category": "เพิ่มหมวดหมู่",
     "Actual's data directory successfully changed.": "เปลี่ยนไดเรกทอรีข้อมูลของ Actual เรียบร้อยแล้ว",
     "Add category group": "เพิ่มกลุ่มหมวดหมู่",

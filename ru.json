@@ -141,7 +141,6 @@
     "Actual's data directory successfully changed.": "Каталог данных Actual успешно изменен.",
     "account": "счёт",
     "Account list": "Список счетов",
-    "A category must be transferred to another of the same type (expense or income)": "Категория должна быть перенесена в другую категорию того же типа (расход или доход)",
     "Access Revocation Incomplete": "Отзыв доступа не завершён",
     "Actual field": "Поле в Actual",
     "<0>Link a <1>European</1> bank account</0> to automatically download transactions. GoCardless provides reliable, up-to-date information from hundreds of banks.": "<0>Привязать <1>Европейский</1> банковский аккаунт</0> для автоматической загрузки транзакций. GoCardless предоставляет надежную, актуальную информацию из сотни банков.",

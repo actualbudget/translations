@@ -16,7 +16,6 @@
     "You need to register it to take advantage of syncing which allows you to use it across devices and never worry about losing your data.": "Vous devez vous enregistrer pour bénéficier de la synchronisation qui vous permet de l'utiliser sur tous les appareils et de ne jamais vous inquiéter de la perte de vos données.",
     "You need to revert it to continue syncing. Any unsynced data will be lost. If you like, you can instead [upload this file](#upload) to be the latest version.": "Vous devez revenir en arrière pour poursuivre la synchronisation. Toutes les données non synchronisées seront perdues. Si vous le souhaitez, vous pouvez plutôt [télécharger ce fichier](#upload) pour obtenir la dernière version.",
     "Your data is out of sync": "Vos données sont désynchronisées",
-    "A category must be transferred to another of the same type (expense or income)": "Une catégorie doit être transférée vers une autre de même type (dépense ou revenu)",
     "Account": "Compte",
     "Amount": "Montant",
     "Make transfer": "Effectuer un transfert",

@@ -1,7 +1,6 @@
 {
     "{{count}} transactions_one": "{{count}} Transaktion",
     "{{count}} transactions_other": "{{count}} Transaktionen",
-    "A category must be transferred to another of the same type (expense or income)": "Eine Kategorie muss auf den gleichen Typ übertragen werden (Ausgabe oder Einkommen)",
     "A new version of Actual is available!": "Eine neue Version von Actual ist verfügbar!",
     "Actual has updated the syncing format": "Actual hat das Synchronisierungsformat aktualisiert",
     "Account": "Konto",

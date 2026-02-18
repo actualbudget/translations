@@ -27,7 +27,6 @@
     "{{displayMonth}} budgets have all been set to zero.": "Wszystkie budżety {{displayMonth}} zostały wyzerowane.",
     "An unknown error occurred: {{error}}": "Wystąpił nieznany błąd: {{error}}",
     "1 month": "1 miesiąc",
-    "A category must be transferred to another of the same type (expense or income)": "Kategoria musi zostać przeniesiona do innej tego samego typu (wydatek lub przychód)",
     "and": "oraz",
     "App updated to {{version}}": "Aplikacja zaktualizowana do wersji {{version}}",
     "Apply": "Zastosuj",

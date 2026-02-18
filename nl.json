@@ -54,7 +54,6 @@
     "All Accounts": "Alle Rekeningen",
     "all transactions": "alle transacties",
     "<0>Move schedule </0><1></1><2> {{beforeOrAfter}} weekend</2>": "<0>Verplaats schema </0><1></1><2> {{beforeOrAfter}} weekend</2>",
-    "A category must be transferred to another of the same type (expense or income)": "Een categorie moet worden overgezet naar een andere van hetzelfde type (uitgaven of inkomsten)",
     "A file with id \"{{id}}\" already exists with the name \"{{name}}\". This file will be replaced. This probably happened because files were manually moved around outside of Actual.": "Er bestaat al een bestand met id “{{id}}” met de naam “{{name}}”. Dit bestand zal worden vervangen. Dit is waarschijnlijk veroorzaakt door het handmatig verplaatsen van bestanden buiten Actual.",
     "<0>Authentication method</0> modifies how users log in to the system.": "<0>Authenticatiemethode</0> wijzigt hoe gebruikers inloggen op het systeem.",
     "3 months": "3 maanden",

@@ -89,7 +89,6 @@
     "28+": "28+",
     "3 months": "3 måneder",
     "6 months": "6 måneder",
-    "A category must be transferred to another of the same type (expense or income)": "En kategori må overføres til en annen av samme type (utgift eller inntekt)",
     "A file with id \"{{id}}\" already exists with the name \"{{name}}\". This file will be replaced. This probably happened because files were manually moved around outside of Actual.": "En fil med id “{{id}}” eksisterer allerede med navnet “{{name}}”. Denne filen vil bli erstattet. Dette skjedde sannsynligvis fordi filer ble flyttet manuelt utenfor Actual.",
     "a fixed amount": "et fast beløp",
     "a fixed percent of the remainder": "en fast prosentandel av resten",
