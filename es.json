@@ -1858,5 +1858,17 @@
     "Find value required": "Valor de búsqueda requerido",
     "This is a <1>hosted file</1> shared with you. Only the file owner can delete it from the server.": "Este es un <1>archivo alojado</1> compartido con usted. Solo el propietario del archivo puede eliminarlo del servidor.",
     "Use Regular Expressions": "Utilizar expresiones regulares",
-    "Your target retirement income as a percentage of projected expenses.<1></1><2></2>100% means you need retirement income equal to your current projected expenses.<4></4>Values above 100% mean you plan to spend more in retirement.<6></6>Values below 100% mean you plan to spend less in retirement.<8></8><9></9>The graph shows both the projected expenses (solid red line) and your target income (dashed red line).": "Sus ingresos objetivo para la jubilación como porcentaje de los gastos previstos.<1></1><2></2>El 100 % significa que necesita unos ingresos para la jubilación equivalentes a sus gastos previstos actuales.<4></4>Los valores superiores al 100 % significan que tiene previsto gastar más durante la jubilación.<6></6>Los valores inferiores al 100 % significan que tiene previsto gastar menos durante la jubilación. <8></8><9></9>El gráfico muestra tanto los gastos previstos (línea roja continua) como sus ingresos objetivo (línea roja discontinua)."
+    "Your target retirement income as a percentage of projected expenses.<1></1><2></2>100% means you need retirement income equal to your current projected expenses.<4></4>Values above 100% mean you plan to spend more in retirement.<6></6>Values below 100% mean you plan to spend less in retirement.<8></8><9></9>The graph shows both the projected expenses (solid red line) and your target income (dashed red line).": "Sus ingresos objetivo para la jubilación como porcentaje de los gastos previstos.<1></1><2></2>El 100 % significa que necesita unos ingresos para la jubilación equivalentes a sus gastos previstos actuales.<4></4>Los valores superiores al 100 % significan que tiene previsto gastar más durante la jubilación.<6></6>Los valores inferiores al 100 % significan que tiene previsto gastar menos durante la jubilación. <8></8><9></9>El gráfico muestra tanto los gastos previstos (línea roja continua) como sus ingresos objetivo (línea roja discontinua).",
+    "A category group with name \"{{name}}\" already exists.": "Un grupo de categoría con nombre \"{{name}}\" ya existe.",
+    "Zero amount": "Importe cero",
+    "Account page general": "Página general de cuenta",
+    "Account transaction editing": "Edición de transacción de cuenta",
+    "Account transaction management": "Gestión de transacción de cuenta",
+    "Account transaction selection": "Selección de transacción de cuenta",
+    "Balance on that date:": "Saldo en esa fecha:",
+    "Budget <2>{{amount}}</2> each month": "Presupuestar <2>{{amount}}</2> cada mes",
+    "Budget <2>{{amount}}</2> each week": "Presupuestar <2>{{amount}}</2> cada semana",
+    "You have {{count}} overspent categories (<3>{{amount}}</3>)_one": "Usted tiene {{count}} categoría con gastos excedidos (<3>{{amount}}</3>)",
+    "You have {{count}} overspent categories (<3>{{amount}}</3>)_many": "Usted tiene {{count}} categorías con gastos excedidos (<3>{{amount}}</3>)",
+    "You have {{count}} overspent categories (<3>{{amount}}</3>)_other": "Usted tiene {{count}} categorías con gastos excedidos (<3>{{amount}}</3>)"
 }
