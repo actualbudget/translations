@@ -111,5 +111,7 @@
     "<0>End-to-end encryption</0> is not available when running without a server. Budget files are always kept unencrypted locally, and encryption is only applied when sending data to a server.": "<0>Uçtan uca şifreleme</0> sunucu olmadan çalıştırıldığında kullanılamaz. Bütçe dosyaları her zaman yerel olarak şifrelenmemiş olarak tutulur ve şifreleme yalnızca veriler sunucuya gönderilirken uygulanır.",
     "<0>Link a <1>European</1> bank account</0> to automatically download transactions. GoCardless provides reliable, up-to-date information from hundreds of banks.": "<0>Bir <1>Avrupa</1> banka hesabını</0> bağlayarak işlemleri otomatik olarak indirin. GoCardless, yüzlerce bankadan güvenilir ve güncel bilgiler sağlar.",
     "<0>Link a <1>North American</1> bank account</0> to automatically download transactions. SimpleFIN provides reliable, up-to-date information from hundreds of banks.": "<0>Bir <1>Kuzey Amerika</1> banka hesabını</0> bağlayarak işlemleri otomatik olarak indirin. SimpleFIN, yüzlerce bankadan güvenilir ve güncel bilgiler sağlar.",
-    ":root {\n  --color-sidebarItemSelected: #007bff;\n}": ":root {\n  --color-sidebarItemSelected: #007bff;\n}"
+    ":root {\n  --color-sidebarItemSelected: #007bff;\n}": ":root {\n  --color-sidebarItemSelected: #007bff;\n}",
+    "(projected)": "(beklenilen)",
+    "<0>Important:</0> if you forget this password <3>and</3> you don't have any local copies of your data, you will lose access to all your data. The data cannot be decrypted without the password.": "<0>Önemli:</0> Eğer bu şifreyi unutursanız <3>ve</3> verinizin yerel bir kopyası yoksa, bütün verileriniz kaybedersiniz. Verilerin şifresi sizin şifreniz olmadan çözülemez."
 }
