@@ -125,5 +125,7 @@
     "A new version of Actual is available! Your Pikapods instance will be automatically updated in the next few days - no action needed.": "Actual'ın yeni sürümü çıktı! Pikapods sunucunuz önümüzdeki birkaç gün içinde otomatik olarak güncellenecek - hiçbir işlem yapmanız gerekmiyor.",
     "account": "hesap",
     "Account is a required field": "Hesap zorunlu bir alandır",
-    "Account sync": "Hesap eşzamanlama"
+    "Account sync": "Hesap eşzamanlama",
+    "<0>Sync ID:</0> {{syncId}}": "<0>Senkronizasyon kimliği:</0> {{syncId}}",
+    "<allocatedAmount /> <italic>of <totalAmount /></italic>": "<italic><totalAmount />'nın</italic> <allocatedAmount />'sı"
 }
