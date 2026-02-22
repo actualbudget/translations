@@ -56,7 +56,7 @@
     "{{count}} uncategorized transactions_one": "{{count}} transacció sense categoria",
     "{{count}} uncategorized transactions_many": "{{count}} transaccions sense categoria",
     "{{count}} uncategorized transactions_other": "{{count}} transaccions sense categoria",
-    "{{displayMonth}} budget templates have been applied.": "S'han aplicat les plantilles de pressupost de {{displayMonth}}",
+    "{{displayMonth}} budget templates have been applied.": "S'han aplicat les plantilles de pressupost de {{displayMonth}}.",
     "{{displayMonth}} budget templates have been overwritten.": "S'han sobreescrit les plantilles del pressupost de {{displayMonth}}.",
     "{{displayMonth}} budgets have all been set to last month's budgeted amounts.": "Els pressupostos de {{displayMonth}} s'han establert als imports pressupostats del mes passat.",
     "{{displayMonth}} budgets have all been set to zero.": "S'han posat a zero els pressupostos de {{displayMonth}}.",
@@ -85,7 +85,7 @@
     "<0>End-to-end encryption</0> is not enabled. Any data on the server is still protected by the server password, but it's not end-to-end encrypted which means the server owners have the ability to read it. If you want, you can use an additional password to encrypt your data on the server.": "<0>El xifratge d'extrem a extrem</0> no està activat. Totes les dades al servidor encara estan protegides per la contrasenya del servidor, però no estan xifrades d'extrem a extrem, cosa que significa que els propietaris del servidor les poden llegir. Si vols, pots utilitzar una contrasenya addicional per xifrar les teves dades al servidor.",
     "<0>Envelope budgeting</0> (recommended) digitally mimics physical envelope budgeting system by allocating funds into virtual envelopes for different expenses. It helps track spending and ensure you don't overspend in any category.": "<0>Pressupost en sobres</0> (recomanat) imita digitalment el sistema de pressupost en sobres físics assignant fons en sobres virtuals per a diferents despeses. Ajuda a fer un seguiment de les despeses i a garantir que no es gasti massa en cap categoria.",
     "<0>Experimental features.</0> These features are not fully tested and may not work as expected. THEY MAY CAUSE IRRECOVERABLE DATA LOSS. They may do nothing at all. Only enable them if you know what you are doing.": "<0>Funcions experimentals.</0> Aquestes funcions no s'han provat completament i potser no funcionen com s'espera. PODEN CAUSAR PÈRDUA DE DADES IRRECUPERABLE. Pot ser que no facin res de res. Només activa-les si saps què estàs fent.",
-    "<0>Export</0> your data as a zip file containing <3>db.sqlite</3> and <5>metadata.json</5> files. It can be imported into another Actual instance by closing an open file (if any), then clicking the \"Import file\" button, then choosing \"Actual.\"": "<0>Exporta</0> les teves dades com un fitxer zip que conté els fitxers <3>db.sqlite</3> i <5>metadata.json</5>. Es pot importar a una altra instància d'Actual tancant un fitxer obert (si n'hi ha), fent clic al botó «Importar fitxer» i, a continuació, seleccionant «Actual».",
+    "<0>Export</0> your data as a zip file containing <3>db.sqlite</3> and <5>metadata.json</5> files. It can be imported into another Actual instance by closing an open file (if any), then clicking the \"Import file\" button, then choosing \"Actual.\"": "<0>Exporta</0> les teves dades com un fitxer zip que conté els fitxers <3>db.sqlite</3> i <5>metadata.json</5>. Es pot importar a una altra instància d'Actual tancant un fitxer obert (si n'hi ha), fent clic al botó «Importar fitxer» i, a continuació, seleccionant «Actual»",
     "<0>Formatting</0> does not affect how budget data is stored, and can be changed at any time.": "<0>El format</0> no afecta com s'emmagatzemen les dades del pressupost i es pot modificar en qualsevol moment.",
     "<0>Goal Type:</0><1>{{type}}</1>": "<0>Tipus d'objectiu:</0><1>{{type}}</1>",
     "<0>Goal:</0><1>{{amount}}</1>": "<0>Objectiu:</0><1>{{amount}}</1>",
@@ -1523,7 +1523,7 @@
     "Status": "Estat",
     "Stop using a server": "Deixar d'utilitzar un servidor",
     "Subfeature: Budget automations UI": "Subfunció: Interfície d'usuari d'automatitzacions de pressupostos",
-    "Success! Click to continue": "Èxit! Fes clic per continuar.",
+    "Success! Click to continue": "Èxit! Fes clic per continuar",
     "Successfully deleted {{count}} transactions._one": "S'ha eliminat {{count}} transacció correctament.",
     "Successfully deleted {{count}} transactions._many": "S'han eliminat {{count}} transaccions correctament.",
     "Successfully deleted {{count}} transactions._other": "S'han eliminat {{count}} transaccions correctament.",
@@ -1971,5 +1971,8 @@
     "There was an error updating the report. Please try again.": "S'ha produït un error en actualitzar l'informe. Si us plau, torna-ho a provar.",
     "There was an error updating the tag. Please try again.": "S'ha produït un error en actualitzar l'etiqueta. Si us plau, torna-ho a provar.",
     "Update Dates": "Actualitzar les dates",
-    "Vietnamese Dong": "Dong vietnamita"
+    "Vietnamese Dong": "Dong vietnamita",
+    "Dominican Peso": "Peso dominicà",
+    "There was an error creating the account. Please try again.": "S'ha produït un error en crear el compte. Si us plau, torna-ho a provar.",
+    "There was an error creating the payee. Please try again.": "S'ha produït un error en crear el beneficiari. Si us plau, torna-ho a provar."
 }
