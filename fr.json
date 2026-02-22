@@ -1272,7 +1272,6 @@
     "<0>Reset sync</0> is only available when syncing is enabled.": "<0>Réinitialiser la synchronisation</0> n'est disponible que lorsque la synchronisation est activée.",
     "Add a fixed percentage of your income to this category each month. You can choose to take the percentage from the current month or the previous month.": "Ajoute chaque mois un pourcentage fixe de vos revenus à cette catégorie. Vous pouvez choisir de prendre le pourcentage du mois en cours ou du mois précédent.",
     "Add new automation": "Ajouter une nouvelle automatisation",
-    "Add a fixed amount to this category each month.": "Ajoute un montant fixe à cette catégorie chaque mois.",
     "Add a fixed amount to this category for each week in the month. For example, $100 per week would be $400 per month in a 4-week month.": "Ajoute un montant fixe à cette catégorie pour chaque semaine du mois. Par exemple, 100 $ par semaine correspondrait à 400 $ par mois pour un mois de 4 semaines.",
     "Budget {{percent}}% of available funds to budget this month": "Budgétise {{percent}}% des fonds disponibles à budgétiser ce mois-ci",
     "Add enough to this category to cover the selected schedule. If the schedule occurs multiple times in a month, an amount will be added for each occurrence. You can choose to save up for the next occurrence over time (e.g. save $100 each month for a $300 quarterly bill) or cover each occurrence when it occurs (e.g. only add the $300 when the bill is due).": "Ajoutez suffisamment à cette catégorie pour couvrir l'échéancier sélectionné. Si l'échéancier survient plusieurs fois au cours d'un mois, un montant sera ajouté pour chaque occurrence. Vous pouvez choisir d'épargner progressivement en vue de la prochaine échéance (par exemple, mettre de côté 100 $ chaque mois pour une facture trimestrielle de 300 $) ou de couvrir chaque échéance uniquement lorsqu'elle se présente (par exemple, ajouter les 300 $ seulement au moment où la facture est due).",
@@ -1876,6 +1875,5 @@
     "Account page general": "Page comptes - Général",
     "Account transaction editing": "Page comptes - Modification des transactions",
     "Balance on that date:": "Solde à cette date :",
-    "Budget <2>{{amount}}</2> each month": "Budgétiser <2>{{amount}}</2> chaque mois",
     "Budget <2>{{amount}}</2> each week": "Budgétiser <2>{{amount}}</2> chaque semaine"
 }

@@ -120,7 +120,6 @@
     "Actual uses <1>SharedArrayBuffer</1> to allow usage from multiple tabs at once and to ensure correct behavior when switching files. While it can run without access to<3>SharedArrayBuffer</3>, you may encounter data loss or notice multiple budget files being merged with each other.": "Actual bruker <1>SharedArrayBuffer</1> for å tillate bruk fra flere faner samtidig og for å sikre korrekt oppførsel ved bytte av filer. Selv om det kan kjøre uten tilgang til <3>SharedArrayBuffer</3>, kan du oppleve datatap eller merke at flere budsjettfiler slås sammen med hverandre.",
     "Actual's data directory successfully changed.": "Actuals datamappe ble endret.",
     "Add": "Legg til",
-    "Add a fixed amount to this category each month.": "Legg til et fast beløp i denne kategorien hver måned.",
     "Add a fixed amount to this category for each week in the month. For example, $100 per week would be $400 per month in a 4-week month.": "Legg til et fast beløp i denne kategorien for hver uke i måneden. For eksempel vil $100 per uke være $400 per måned i en 4-ukers måned.",
     "Add a fixed percentage of your income to this category each month. You can choose to take the percentage from the current month or the previous month.": "Legg til en fast prosentandel av inntekten din i denne kategorien hver måned. Du kan velge å ta prosentandelen fra nåværende måned eller forrige måned.",
     "Add account": "Legg til konto",

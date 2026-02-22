@@ -100,7 +100,6 @@
     "You are about to change Actual's data directory from:": "คุณกำลังจะเปลี่ยนไดเรกทอรีข้อมูลของ Actual จาก:",
     "You are currently working from a backup.": "คุณกำลังทำงานจากข้อมูลสำรอง",
     "Your data is out of sync": "ข้อมูลของคุณไม่ตรงกัน",
-    "Add a fixed amount to this category each month.": "เพิ่มจำนวนเงินคงที่ในหมวดหมู่นี้ทุกเดือน",
     "Add a fixed amount to this category for each week in the month. For example, $100 per week would be $400 per month in a 4-week month.": "เพิ่มจำนวนเงินคงที่ในหมวดหมู่นี้สำหรับแต่ละสัปดาห์ในเดือน เช่น 100 ดอลลาร์ต่อสัปดาห์ จะเท่ากับ 400 ดอลลาร์ต่อเดือนในเดือนที่มี 4 สัปดาห์",
     "Add a fixed percentage of your income to this category each month. You can choose to take the percentage from the current month or the previous month.": "เพิ่มเปอร์เซ็นต์คงที่ของรายได้ของคุณในหมวดหมู่นี้ทุกเดือน คุณสามารถเลือกใช้เปอร์เซ็นต์จากเดือนปัจจุบันหรือเดือนก่อนหน้าได้",
     "Add account": "เพิ่มบัญชี",
