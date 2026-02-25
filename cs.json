@@ -30,5 +30,11 @@
     "{{categoryName}} shortcuts": "Zkratky {{categoryName}}",
     "{{count}} payees_one": "{{count}} příjemce",
     "{{count}} payees_few": "{{count}} příjemci",
-    "{{count}} payees_other": "{{count}} příjemců"
+    "{{count}} payees_other": "{{count}} příjemců",
+    "{{displayMonth}} end-of-month cleanup templates have been applied.": "Byly použity šablony pro úklid na konci měsíce {{displayMonth}}.",
+    "{{count}} uncategorized transactions_one": "{{count}} transakce bez kategorie",
+    "{{count}} uncategorized transactions_few": "{{count}} transakce bez kategorie",
+    "{{count}} uncategorized transactions_other": "{{count}} transakcí bez kategorie",
+    "{{num}} more items...": "{{num}} dalších položek…",
+    "{{status}} (Split)": "{{status}} (Rozděleno)"
 }
