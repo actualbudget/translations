@@ -1,4 +1,8 @@
 {
     "(deleted)": "محذوف",
-    "(hidden)": "مخفي"
+    "(hidden)": "مخفي",
+    "(+{{numHiddenPayees}} more)": "المزيد",
+    "(after weekend)": "بعد عطلة نهاية الأسبوع",
+    "(before weekend)": "قبل عطلة نهاية الأسبوع",
+    "(modified)": "تم التعديل"
 }
