@@ -1851,5 +1851,7 @@
     "Schedule deleted successfully": "Розклад успішно видалено",
     "Schedule not found": "Розклад не знайдено",
     "Schedule saved successfully": "Розклад успішно збережено",
-    "The crossover point is when your monthly investment income (from selected accounts using the safe withdrawal rate) meets or exceeds your total monthly expenses (from selected categories). The chart projects into the future using your estimated return until the lines cross.": "Точка перетину - це момент, коли ваш щомісячний інвестиційний дохід (з обраних рахунків із використанням безпечної ставки зняття коштів) дорівнює або перевищує ваші загальні щомісячні витрати (з обраних категорій). Діаграма відображає прогноз на майбутнє з використанням вашої очікуваної дохідності до моменту перетину ліній."
+    "The crossover point is when your monthly investment income (from selected accounts using the safe withdrawal rate) meets or exceeds your total monthly expenses (from selected categories). The chart projects into the future using your estimated return until the lines cross.": "Точка перетину - це момент, коли ваш щомісячний інвестиційний дохід (з обраних рахунків із використанням безпечної ставки зняття коштів) дорівнює або перевищує ваші загальні щомісячні витрати (з обраних категорій). Діаграма відображає прогноз на майбутнє з використанням вашої очікуваної дохідності до моменту перетину ліній.",
+    "Overwrite with template": "Застосувати шаблон",
+    "Overwrite with templates": "Застосувати шаблони"
 }
