@@ -370,5 +370,13 @@
     "Your files won't be moved. You can manually move them to the folder.": "您的文件不会被移动。您可以手动将它们移到该文件夹中。",
     "Your encryption key need to be reset": "您的加密密钥需要重置",
     "Your data is out of sync": "您的数据不同步",
-    "Your data is still out of sync": "您的数据仍不同步"
+    "Your data is still out of sync": "您的数据仍不同步",
+    "Open Actual": "打开Actual",
+    "Open changelog": "查看更新日志",
+    "Open the Command Palette": "打开控制面板",
+    "Open the help menu": "打开帮助菜单",
+    "OpenID is": "OpenID是",
+    "OpenID server cannot be empty": "OpenID服务器不能为空",
+    "Overspent": "超支",
+    "Overspent categories": "超支类别"
 }
