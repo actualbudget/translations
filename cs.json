@@ -32,9 +32,12 @@
     "{{count}} payees_few": "{{count}} příjemci",
     "{{count}} payees_other": "{{count}} příjemců",
     "{{displayMonth}} end-of-month cleanup templates have been applied.": "Byly použity šablony pro úklid na konci měsíce {{displayMonth}}.",
-    "{{count}} uncategorized transactions_one": "{{count}} transakce bez kategorie",
-    "{{count}} uncategorized transactions_few": "{{count}} transakce bez kategorie",
-    "{{count}} uncategorized transactions_other": "{{count}} transakcí bez kategorie",
+    "{{count}} uncategorized transactions_one": "{{count}} nezařazená transakce",
+    "{{count}} uncategorized transactions_few": "{{count}} nezařazené transakce",
+    "{{count}} uncategorized transactions_other": "{{count}} nezařazených transakcí",
     "{{num}} more items...": "{{num}} dalších položek…",
-    "{{status}} (Split)": "{{status}} (Rozděleno)"
+    "{{status}} (Split)": "{{status}} (Rozděleno)",
+    "{{years}} years": "{{years}} let",
+    ":root {\n  --color-sidebarItemSelected: #007bff;\n}": ":root {\n  --color-sidebarItemSelected: #007bff;\n}",
+    "(projected)": "(promítnuto)"
 }
