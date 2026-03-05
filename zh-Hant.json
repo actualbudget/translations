@@ -76,7 +76,6 @@
     "Reset key": "重設密鑰",
     "Reset sync": "重設同步",
     "Revert": "復原",
-    "Server is not running at this URL. Make sure you have HTTPS set up properly.": "此URL並無運行中的伺服器端，請檢查HTTPS設定正確與否。",
     "Show": "顯示",
     "There was a problem syncing your data. We can try to repair your sync state to fix it.": "在同步你的資料時發生問題，我們可以重新同步以嘗試解決問題。",
     "This file is not a cloud file": "此檔案並非雲端檔案",

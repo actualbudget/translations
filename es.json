@@ -1268,7 +1268,6 @@
     "Selected role does not exists, possibly a bug? Visit https://actualbudget.org/contact/ for support.": "El rol seleccionado no existe, posiblemente se trate de un error. Visite https://actualbudget.org/contact/ para obtener soporte.",
     "Selected transactions": "Transacciones seleccionadas",
     "Server does not look like an Actual server. Is it set up correctly?": "El servidor no parece ser un servidor Actual. ¿Está configurado correctamente?",
-    "Server is not running at this URL. Make sure you have HTTPS set up properly.": "El servidor no se está ejecutando en esta URL. Asegúrese de tener HTTPS configurado correctamente.",
     "Server offline": "Servidor desconectado",
     "Server online": "Servidor conectado",
     "Server Owner": "Propietario del servidor",

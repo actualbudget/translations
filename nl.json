@@ -503,7 +503,6 @@
     "Actual has updated the syncing format": "Actual heeft het synchronisatieformaat bijgewerkt",
     "Selected balance:": "Geselecteerd saldo:",
     "Selected transactions": "Geselecteerde transacties",
-    "Server is not running at this URL. Make sure you have HTTPS set up properly.": "Server draait niet op deze URL. Zorg dat je HTTPS goed hebt ingesteld.",
     "Set account for selected transactions": "Rekening instellen voor geselecteerde transacties",
     "Set up GoCardless": "GoCardless instellen",
     "Set-up SimpleFIN": "SimpleFIN instellen",

@@ -75,7 +75,6 @@
     "Loading...": "Wird geladen…",
     "Opening last budget...": "Letztes Budget wird eröffnet…",
     "Retrieving remote files...": "Entfernte Dateien werden abgerufen…",
-    "Server is not running at this URL. Make sure you have HTTPS set up properly.": "Der Server läuft nicht unter dieser URL. Stelle sicher, dass du HTTPS richtig eingerichtet hast.",
     "Version {{latestVersion}} of Actual was recently released.": "Version {{latestVersion}} von Actual wurde kürzlich veröffentlicht.",
     "(give feedback)": "(Feedback geben)",
     "Yes": "Ja",

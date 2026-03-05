@@ -312,7 +312,6 @@
     "Select language": "เลือกภาษา",
     "Select one of these compressed files and import it here.": "เลือกหนึ่งในไฟล์บีบอัดเหล่านี้และนำเข้าที่นี่",
     "Server Owner": "เจ้าของเซิร์ฟเวอร์",
-    "Server is not running at this URL. Make sure you have HTTPS set up properly.": "เซิร์ฟเวอร์ไม่ได้ทำงานที่ URL นี้ ตรวจสอบให้แน่ใจว่าคุณตั้งค่า HTTPS อย่างถูกต้อง",
     "Server version: {{version}}": "เวอร์ชันเซิร์ฟเวอร์: {{version}}",
     "Set account for selected transactions": "ตั้งค่าบัญชีสำหรับรายการที่เลือก",
     "Set budgets to 12 month average": "ตั้งงบประมาณเป็นค่าเฉลี่ย 12 เดือน",

@@ -448,7 +448,6 @@
     "Syncing has been reset on this cloud file": "Синхронізацію цього хмарного файлу скинуто",
     "Transfer: ": "Переказ: ",
     "Reset key": "Ключ скидання",
-    "Server is not running at this URL. Make sure you have HTTPS set up properly.": "Сервер не працює за цією URL-адресою. Переконайтеся, що HTTPS налаштовано правильно.",
     "Start fresh": "Почніть заново",
     "There is no server configured. After running the server, specify the URL here to use the app. You can always change this later. We will validate that Actual is running at this URL.": "Сервер не налаштовано. Після запуску сервера вкажіть тут URL-адресу, щоб використовувати застосунок. Ви завжди можете змінити це пізніше. Ми перевіримо, чи Actual працює за цією URL-адресою.",
     "There was a problem syncing your data. We can try to repair your sync state to fix it.": "Виникла проблема із синхронізацією ваших даних. Ми можемо спробувати відновити ваш стан синхронізації, щоб виправити це.",
