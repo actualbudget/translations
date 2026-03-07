@@ -1082,5 +1082,9 @@
     "Show uncategorized": "Pokaż bez kategorii",
     "Show uncategorized transactions": "Pokaż transakcje bez kategorii",
     "Show unchecked": "Pokaż niezaznaczone",
-    "Add Query": "Dodaj zapytanie"
+    "Add Query": "Dodaj zapytanie",
+    "Before amount": "Przed kwotą",
+    "Budget automations: {{category}}": "Automatyzacje budżetu: {{category}}",
+    "Calculates difference between dates in days.": "Oblicza różnicę między datami w dniach.",
+    "Calculates future value of investment.": "Oblicza przyszłą wartość inwestycji."
 }
