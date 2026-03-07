@@ -1081,5 +1081,6 @@
     "Show transactions for {{categoryName}} category": "Pokaż transakcje z kategorii {{categoryName}}",
     "Show uncategorized": "Pokaż bez kategorii",
     "Show uncategorized transactions": "Pokaż transakcje bez kategorii",
-    "Show unchecked": "Pokaż niezaznaczone"
+    "Show unchecked": "Pokaż niezaznaczone",
+    "Add Query": "Dodaj zapytanie"
 }
