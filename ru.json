@@ -965,5 +965,8 @@
     "Account:": "Аккаунт:",
     "Add new dashboard": "Добавить новую сводную панель",
     "Add new transaction": "Добавить новую транзакцию",
-    "Add transaction and close form": "Добавить транзакцию и закрыть форму"
+    "Add transaction and close form": "Добавить транзакцию и закрыть форму",
+    "Boolean cleared status. TRUE if transaction is cleared, FALSE otherwise.\n\nExample: `=IF(cleared, \"Cleared\", \"Pending\")`": "Логическое значение статуса \"очищено\". Значение ИСТИНА, если транзакция очищена, в противном случае значение ЛОЖЬ.\n\nПример: `=ЕСЛИ (очищено, \"Очищено\", \"В ожидании\")`",
+    "Boolean reconciled status. TRUE if transaction is reconciled, FALSE otherwise.": "Логический статус выверки. Значение ИСТИНА , если транзакция выверена, в противном случае значение ЛОЖЬ.",
+    "budgeted": "планируемый"
 }
