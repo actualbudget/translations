@@ -385,5 +385,6 @@
     "Add new dashboard": "添加新仪表盘",
     "Add new transaction": "添加新交易",
     "Client ID": "客户端ID",
-    "A category group with name \"{{name}}\" already exists.": "名为\"{{name}}\"的类别组已存在。"
+    "A category group with name \"{{name}}\" already exists.": "名为\"{{name}}\"的类别组已存在。",
+    "Change mode": "更改模式"
 }
