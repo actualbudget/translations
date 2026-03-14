@@ -384,5 +384,6 @@
     ":root {\n  --color-sidebarItemSelected: #007bff;\n}": ":root {\n  --color-sidebarItemSelected: #007bff;\n}",
     "Add new dashboard": "添加新仪表盘",
     "Add new transaction": "添加新交易",
-    "Client ID": "客户端ID"
+    "Client ID": "客户端ID",
+    "A category group with name \"{{name}}\" already exists.": "名为\"{{name}}\"的类别组已存在。"
 }
