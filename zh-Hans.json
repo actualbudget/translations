@@ -349,7 +349,7 @@
     "cleared": "已结清",
     "Account transaction editing": "编辑账户交易",
     "Clear transactions on import": "导入时标记为已结清",
-    "Categories in the group <2>{{group}}</2> are used by existing transactions.": "分组<2>{{group}}</2>中的类别被现有交易使用。",
+    "Categories in the group <2>{{group}}</2> are used by existing transactions.": "组<2>{{group}}</2>中的类别已被现有交易使用。",
     "Category learning disabled": "已禁用类别学习",
     "Category learning settings": "类别学习设置",
     "Category name": "类别名称",
