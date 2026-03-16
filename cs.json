@@ -184,5 +184,6 @@
     "You can load a different backup or revert to the original version below.": "Můžete načíst jinou zálohu nebo se vrátit k původní verzi níže.",
     "You don't have permission to view this page": "Nemáte oprávnění k zobrazení této stránky",
     "You don't have the required permissions to set up secrets. Please contact an Admin to configure": "Nemáte potřebné oprávnění pro nastavení klíčů. Pro jejich nastavení prosím kontaktuje administrátora",
-    "You don`t have permissions over this file.": "Pro tento soubor nemáte oprávnění."
+    "You don`t have permissions over this file.": "Pro tento soubor nemáte oprávnění.",
+    "Add new widget": "Přidat nový report"
 }
