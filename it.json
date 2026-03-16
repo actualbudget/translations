@@ -1839,5 +1839,8 @@
     "Use Regular Expressions": "Usa le espressioni regolari",
     "Your target retirement income as a percentage of projected expenses.<1></1><2></2>100% means you need retirement income equal to your current projected expenses.<4></4>Values above 100% mean you plan to spend more in retirement.<6></6>Values below 100% mean you plan to spend less in retirement.<8></8><9></9>The graph shows both the projected expenses (solid red line) and your target income (dashed red line).": "Il tuo reddito pensionistico target come percentuale delle spese previste.<1></1><2></2>Il 100% significa che hai bisogno di un reddito pensionistico pari alle spese previste attuali.<4></4>Valori superiori al 100% indicano che prevedi di spendere di più durante la pensione.<6></6>Valori inferiori al 100% indicano che prevedi di spendere meno durante la pensione.<8></8><9></9>Il grafico mostra sia le spese previste (linea rossa continua) sia il tuo reddito target (linea rossa tratteggiata).",
     "Converts integer amount to decimal amount (e.g., 1234 -> 12.34).": "Converte un importo intero in un importo decimale (ad esempio, 1234 -> 12,34).",
-    "Create Schedule": "Crea Pianificazione"
+    "Create Schedule": "Crea Pianificazione",
+    "Add new transaction": "Aggiungi nuova transazione",
+    "Account transaction selection": "Selezione delle transazioni del conto",
+    "Budget Analysis Report": "Report sull'analisi del budget"
 }
