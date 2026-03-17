@@ -1085,5 +1085,6 @@
     "Before amount": "Przed kwotą",
     "Budget automations: {{category}}": "Automatyzacje budżetu: {{category}}",
     "Calculates difference between dates in days.": "Oblicza różnicę między datami w dniach.",
-    "Calculates future value of investment.": "Oblicza przyszłą wartość inwestycji."
+    "Calculates future value of investment.": "Oblicza przyszłą wartość inwestycji.",
+    "Live": "Na żywo"
 }
