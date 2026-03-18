@@ -4,5 +4,12 @@
     "(+{{numHiddenPayees}} more)": "المزيد",
     "(after weekend)": "بعد عطلة نهاية الأسبوع",
     "(before weekend)": "قبل عطلة نهاية الأسبوع",
-    "(modified)": "تم التعديل"
+    "(modified)": "تم التعديل",
+    "{{categoryName}} shortcuts": "اختصارات {{categoryName}}",
+    "{{count}} transactions_zero": "لا توجد عمليات",
+    "{{count}} transactions_one": "عملية واحدة",
+    "{{count}} transactions_two": "عمليتان",
+    "{{count}} transactions_few": "{{count}} عمليات",
+    "{{count}} transactions_many": "{{count}} عملية",
+    "{{count}} transactions_other": "{{count}} عملية"
 }
