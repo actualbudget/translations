@@ -181,5 +181,6 @@
     "Import {{count}} transactions_one": "Tuo {{count}} tapahtuma",
     "Import {{count}} transactions_other": "Tuo {{count}} tapahtumaa",
     "Show {{count}} unused payees_one": "Näytä {{count}} käyttämätön saaja",
-    "Show {{count}} unused payees_other": "Näytä {{count}} käyttämätöntä saajaa"
+    "Show {{count}} unused payees_other": "Näytä {{count}} käyttämätöntä saajaa",
+    "{{categoryName}} shortcuts": "Pikatoiminnot kategoriassa {{categoryName}}"
 }
