@@ -1,9 +1,9 @@
 {
-    "(deleted)": "محذوف",
-    "(hidden)": "مخفي",
+    "(deleted)": "(محذوف)",
+    "(hidden)": "(مخفي)",
     "(+{{numHiddenPayees}} more)": "المزيد",
-    "(after weekend)": "بعد عطلة نهاية الأسبوع",
-    "(before weekend)": "قبل عطلة نهاية الأسبوع",
+    "(after weekend)": "(بعد عطلة نهاية الأسبوع)",
+    "(before weekend)": "(قبل عطلة نهاية الأسبوع)",
     "(modified)": "تم التعديل",
     "{{categoryName}} shortcuts": "اختصارات {{categoryName}}",
     "{{count}} transactions_zero": "لا توجد عمليات",
@@ -27,5 +27,13 @@
     "<0><0>Understanding the Chart</0><1></1>• <3>Budgeted:</3> The amount you allocated each month<5></5>• <7>Spent:</7> Your actual spending<9></9>• <11>Overspending Adjustment:</11> Amounts from categories without rollover that were reset<13></13>• <15>Balance:</15> Your cumulative budget performance, starting with any prior balance. Respects category rollover settings from your budget.</0><1><0>Understanding the Budget Summary</0><1></1>The balance starts from the month before your selected period. Budgeted, spent, and overspending adjustments show totals over the period. Ending balance shows the final balance at period end. You can filter by categories to track changes in a specific area.</1><2>Hint: You can use the icon in the header to toggle between line and bar chart views.</2>": "<0><0>فهم الرسم البياني</0><1></1>• <3>الميزانية المرصودة:</3> المبلغ الذي خصصته لكل شهر<5></5>• <7>الإنفاق الفعلي:</7> المبالغ التي صرفتها فعلياً<9></9>• <11>تسوية تجاوز الإنفاق:</11> المبالغ المستقطعة من الفئات التي لا تدعم \"التدوير\" والتي تمت إعادة ضبطها<13></13>• <15>الرصيد:</15> الأداء التراكمي لميزانيتك، بدءاً من أي رصيد سابق. يخضع هذا الرصيد لإعدادات \"تدوير الفئات\" في ميزانيتك.</0>\n\n<1><0>فهم ملخص الميزانية</0><1></1>يبدأ الرصيد من الشهر الذي يسبق الفترة المحددة. تظهر قيم \"الميزانية المرصودة\"، \"الإنفاق الفعلي\"، و\"تسويات تجاوز الإنفاق\" كإجمالي خلال تلك الفترة. بينما يمثل \"الرصيد النهائي\" الرصيد المتبقي عند نهاية الفترة. يمكنك تصفية النتائج حسب الفئات لتتبع التغيرات في مجال معين.</1>\n\n<2>تلميح: يمكنك استخدام الأيقونة الموجودة في رأس الصفحة للتبديل بين عرض الرسم البياني الخطي أو الأعمدة.</2>",
     "<0>Actual's data directory</0> <2><0>where your files are stored</0></2>": "<0>دليل بيانات Actual</0> <2><0>مكان تخزين ملفاتك</0></2>",
     "<0>Actual</0> is a super fast privacy-focused app for managing your finances.": "تطبيق <0>Actual</0> هو تطبيق فائق السرعة ويركز على الخصوصية لإدارة شؤونك المالية.",
-    "<0>Are you sure you want to delete it?</0> If so, you must select another category to transfer existing transactions and balance to.": "<0>هل أنت متأكد من رغبتك في حذفها؟</0> إذا كنت متأكداً، يجب عليك اختيار فئة أخرى لنقل العمليات والرصيد الحالي إليها."
+    "<0>Are you sure you want to delete it?</0> If so, you must select another category to transfer existing transactions and balance to.": "<0>هل أنت متأكد من رغبتك في حذفها؟</0> إذا كنت متأكداً، يجب عليك اختيار فئة أخرى لنقل العمليات والرصيد الحالي إليها.",
+    "{{count}} uncategorized transactions_zero": "لا توجد عمليات غير مصنفة",
+    "{{count}} uncategorized transactions_one": "عملية واحدة غير مصنفة",
+    "{{count}} uncategorized transactions_two": "عمليتان غير مصنفتين",
+    "{{count}} uncategorized transactions_few": "{{count}} عمليات غير مصنفة",
+    "{{count}} uncategorized transactions_many": "{{count}} عملية غير مصنفة",
+    "{{count}} uncategorized transactions_other": "{{count}} عملية غير مصنفة",
+    "{{displayMonth}} budgets have all been set to last month's budgeted amounts.": "تم ضبط ميزانيات شهر {{displayMonth}} بالكامل بناءً على مبالغ الشهر الماضي.",
+    "{{displayMonth}} end-of-month cleanup templates have been applied.": "تم تطبيق قوالب تسوية نهاية شهر {{displayMonth}}."
 }
