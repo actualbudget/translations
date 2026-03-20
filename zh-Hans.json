@@ -386,5 +386,17 @@
     "Add new transaction": "添加新交易",
     "Client ID": "客户端ID",
     "A category group with name \"{{name}}\" already exists.": "名为\"{{name}}\"的类别组已存在。",
-    "Change mode": "更改模式"
+    "Change mode": "更改模式",
+    "Click the button below to reload and apply the update.": "点击下方按钮重载并更新",
+    "Client ID cannot be empty": "客户端ID不能为空",
+    "Client ID:": "客户端 ID:",
+    "Client-Side plugins (soon)": "客户端插件（即将推出）",
+    "Close account": "关闭账户",
+    "Close Account": "关闭账户",
+    "Close Budget": "关闭预算",
+    "Close the current budget and open another": "关闭当前并打开另一个预算",
+    "Closed": "已关闭",
+    "Closed accounts": "已关闭账户",
+    "Closed Accounts": "已关闭账户",
+    "Closed accounts...": "已关闭的账户..."
 }
