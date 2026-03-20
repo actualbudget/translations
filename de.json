@@ -1844,7 +1844,6 @@
     "New dashboard": "Neues Dashboard",
     "No dashboards available": "Keine Dashboards verfügbar",
     "No other dashboard pages available.": "Keine anderen Dashboard-Seiten verfügbar.",
-    "or paste CSS directly:": "oder CSS direkt einfügen:",
     ":root {\n  --color-sidebarItemSelected: #007bff;\n}": ":root {\n  --color-sidebarItemSelected: #007bff;\n}",
     "Account page general": "Konten-Seite allgemein",
     "Account transaction editing": "Bearbeiten von Konten-Transaktionen",

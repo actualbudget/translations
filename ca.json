@@ -1096,7 +1096,6 @@
     "Opening last budget...": "Obrint l'últim pressupost…",
     "Options": "Opcions",
     "or": "o",
-    "or paste CSS directly:": "o enganxa CSS directament:",
     "Original imported payee name from bank import. Contains the raw text before matching.\n\nExample: `=LEFT(imported_payee, 10)` to get first 10 characters": "Nom del beneficiari importat originalment des de la importació bancària. Conté el text sense processar abans de la coincidència.\n\nExemple: `=LEFT(imported_payee, 10)` per obtenir els primers 10 caràcters",
     "Original templates:<1>{templates}</1>": "Plantilles originals:<1>{templates}</1>",
     "Outflow": "Sortida",
