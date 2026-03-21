@@ -999,5 +999,7 @@
     "Approximately {{currencyAmount}}": "Cirka {{currencyAmount}}",
     "Are you sure you want to delete the transaction?": "Är du säker på att du vill radera denna transaktion?",
     "{isSearching\n                        ? 'No matching shortcuts'\n                        : isInCategory\n                          ? 'No shortcuts in this category'\n                          : 'No matching shortcuts'}": "{isSearching\n                        ? 'Inga passande genvägar'\n                        : isInCategory\n                          ? 'Inga genvägar i denna kategori'\n                          : 'Inga passande genvägar'}",
-    "Account balance as of the date of the transaction, excluding the transaction amount. Use for calculations and comparisons.\n\nExample: `=IF(balance < 0, \"Negative Balance\", \"Positive Balance\")`": "Kontosaldo per transaktionsdatumet, exklusive transaktionsbeloppet. Används för beräkningar och jämförelser.\n\nExempel: `=OM(saldo < 0; \"Negativt saldo\"; \"Positivt saldo\")`"
+    "Account balance as of the date of the transaction, excluding the transaction amount. Use for calculations and comparisons.\n\nExample: `=IF(balance < 0, \"Negative Balance\", \"Positive Balance\")`": "Kontosaldo per transaktionsdatumet, exklusive transaktionsbeloppet. Används för beräkningar och jämförelser.\n\nExempel: `=OM(saldo < 0; \"Negativt saldo\"; \"Positivt saldo\")`",
+    "Apply budget template": "Applicera budgetmall",
+    "Apply to all": "Applicera på allt"
 }
