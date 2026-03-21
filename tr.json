@@ -127,5 +127,6 @@
     "Account is a required field": "Hesap zorunlu bir alandır",
     "Account sync": "Hesap eşzamanlama",
     "<0>Sync ID:</0> {{syncId}}": "<0>Senkronizasyon kimliği:</0> {{syncId}}",
-    "<allocatedAmount /> <italic>of <totalAmount /></italic>": "<italic><totalAmount />'nın</italic> <allocatedAmount />'sı"
+    "<allocatedAmount /> <italic>of <totalAmount /></italic>": "<italic><totalAmount />'nın</italic> <allocatedAmount />'sı",
+    "Account not found": "Hesap bulunamadı"
 }
