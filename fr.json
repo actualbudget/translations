@@ -1871,5 +1871,6 @@
     "Account page general": "Page comptes - Général",
     "Account transaction editing": "Page comptes - Modification des transactions",
     "Balance on that date:": "Solde à cette date :",
-    "Budget <2>{{amount}}</2> each week": "Budgétiser <2>{{amount}}</2> chaque semaine"
+    "Budget <2>{{amount}}</2> each week": "Budgétiser <2>{{amount}}</2> chaque semaine",
+    "Budget analysis": "Analyse du budget"
 }
