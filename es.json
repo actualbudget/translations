@@ -1936,5 +1936,6 @@
     "You have {{count}} uncategorized transactions (<3>{{amount}}</3>)_one": "Usted tiene {{count}} transacción sin categorizar (<3>{{amount}}</3>)",
     "You have {{count}} uncategorized transactions (<3>{{amount}}</3>)_many": "Usted tiene {{count}} transacciones sin categorizar (<3>{{amount}}</3>)",
     "You have {{count}} uncategorized transactions (<3>{{amount}}</3>)_other": "Usted tiene {{count}} transacciones sin categorizar (<3>{{amount}}</3>)",
-    "Rollover overspending": "Exceso de gasto por prórroga"
+    "Rollover overspending": "Exceso de gasto por prórroga",
+    "Add balance limit": "Añade un limite de saldo"
 }
