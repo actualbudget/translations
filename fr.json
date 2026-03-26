@@ -1872,5 +1872,14 @@
     "Account transaction editing": "Page comptes - Modification des transactions",
     "Balance on that date:": "Solde à cette date :",
     "Budget <2>{{amount}}</2> each week": "Budgétiser <2>{{amount}}</2> chaque semaine",
-    "Budget analysis": "Analyse du budget"
+    "Budget analysis": "Analyse du budget",
+    "A category group with name \"{{name}}\" already exists.": "Un groupe de catégories avec le nom \"{{name}}\" existe déjà.",
+    "Failed to download the budget because your device time differs too much from the server. Please check your device time settings and ensure they are correct.": "Échec du téléchargement du budget parce que l'heure ou la date de votre appareil diffèrent trop de celles du serveur. Veuillez vérifier l'heure et la date de votre appareil.",
+    "Failed to sync because your device time differs too much from the server. Please check your device time settings and ensure they are correct.": "Échec de la synchronisation parce que l'heure ou la date de votre appareil diffèrent trop de celles du serveur. Veuillez vérifier l'heure et la date de votre appareil.",
+    "Formats a number to a fixed amount of decimal places.": "Formater un nombre avec une quantité fixe de chiffres après la virgule.",
+    "How past expenses are projected into the future.<1></1><2></2>Hampel Filtered Median: Filters out outliers before calculating the median expense.<4></4><5></5>Median: Uses the median of all historical expenses without filtering.<7></7><8></8>Mean: Uses the average of all historical expenses.": "Comment les dépenses passées servent à prévoir les dépenses futures.<1></1><2></2>Médiane filtrée par la méthode de Hampel : élimine les valeurs aberrantes avant de calculer la dépense médiane.<4></4><5></5>Médiane : basée sur la médiane de l'historique des dépenses sans filtrage.<7></7><8></8>Moyenne : basée sur la moyenne de l'historique des dépenses.",
+    "Server is offline. OpenID settings are unavailable.": "Le serveur est hors-ligne. Les paramètres OpenID sont indisponibles.",
+    "Show filter dropdown when no transactions are selected": "Afficher la liste déroulante des filtres lorsque aucune transaction n'est sélectionnée",
+    "Starting balance:": "Solde de départ :",
+    "Toggle cleared status for selected transactions": "Basculer le statut de réconciliation des transactions sélectionnées"
 }
