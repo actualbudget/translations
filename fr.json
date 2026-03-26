@@ -1886,5 +1886,9 @@
     "Add balance limit": "Ajoutez une limite de solde",
     "Add balance limit automation": "Ajoutez une automatisation de limite de solde",
     "based on a formula": "D'apres une formule",
-    "Cadence": "Cadence"
+    "Cadence": "Cadence",
+    "Move down to next category": "Passer à la catégorie suivante",
+    "Move up to next category": "Passer à la catégorie suivante",
+    "Move up to the next transaction": "Passer à la transaction suivante",
+    "Move up to the next transaction and scroll": "Passer à la transaction suivante et faire défiler"
 }
