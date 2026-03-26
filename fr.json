@@ -1881,5 +1881,10 @@
     "Server is offline. OpenID settings are unavailable.": "Le serveur est hors-ligne. Les paramètres OpenID sont indisponibles.",
     "Show filter dropdown when no transactions are selected": "Afficher la liste déroulante des filtres lorsque aucune transaction n'est sélectionnée",
     "Starting balance:": "Solde de départ :",
-    "Toggle cleared status for selected transactions": "Basculer le statut de réconciliation des transactions sélectionnées"
+    "Toggle cleared status for selected transactions": "Basculer le statut de réconciliation des transactions sélectionnées",
+    "Add a balance limit automation to set the refill target.": "Ajoutez une automatisation de limite de solde pour définir l'objectif de réapprovisionnement.",
+    "Add balance limit": "Ajoutez une limite de solde",
+    "Add balance limit automation": "Ajoutez une automatisation de limite de solde",
+    "based on a formula": "D'apres une formule",
+    "Cadence": "Cadence"
 }
