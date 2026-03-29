@@ -406,7 +406,7 @@
     "Closing...": "关闭中…",
     "Confirm": "确定",
     "Connecting...": "正在连接",
-    "Account balance as of the date of the transaction, excluding the transaction amount. Use for calculations and comparisons.\n\nExample: `=IF(balance < 0, \"Negative Balance\", \"Positive Balance\")`": "账户在该笔交易日期的余额（不包含该交易金额）。用于计算与比较。\n\n示例：`=IF(余额 < 0, \"负余额\", \"正余额\")`",
+    "Account balance as of the date of the transaction, excluding the transaction amount. Use for calculations and comparisons.\n\nExample: `=IF(balance < 0, \"Negative Balance\", \"Positive Balance\")`": "交易发生当日的账户余额（不含该笔交易金额）。用于计算和比较。\n\n示例：=IF(balance < 0, \"负余额\", \"正余额\")",
     "Debts:": "债务",
     "Default": "违约",
     "Deposit": "存入",
