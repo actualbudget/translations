@@ -383,7 +383,7 @@
     ":root {\n  --color-sidebarItemSelected: #007bff;\n}": ":root {\n  --color-sidebarItemSelected: #007bff;\n}",
     "Add new dashboard": "添加新仪表盘",
     "Add new transaction": "添加新交易",
-    "Client ID": "客户端ID",
+    "Client ID": "客户 ID",
     "A category group with name \"{{name}}\" already exists.": "名为\"{{name}}\"的类别组已存在。",
     "Change mode": "更改模式",
     "Click the button below to reload and apply the update.": "点击下方按钮重载并更新",
@@ -575,5 +575,6 @@
     "Failed to transfer ownership": "所有权转移失败",
     "Fatal Error": "致命错误",
     "Fatal error occurred: unable to open import file dialog.": "发生致命错误：无法打开导入文件对话框。",
-    "Favorite": "收藏"
+    "Favorite": "收藏",
+    "Account page general": "账户通用页面"
 }
