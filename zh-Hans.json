@@ -397,5 +397,10 @@
     "Closed": "已关闭",
     "Closed accounts": "已关闭账户",
     "Closed Accounts": "已关闭账户",
-    "Closed accounts...": "已关闭的账户..."
+    "Closed accounts...": "已关闭的账户...",
+    "Change:": "更改：",
+    "Cleared total:": "已结清总计：",
+    "Client secret": "客户端密钥",
+    "Client secret cannot be empty": "客户端密钥不能为空",
+    "Client version: {{version}}": "客户端版本：{{version}}"
 }
