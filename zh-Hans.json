@@ -350,8 +350,8 @@
     "Clear transactions on import": "导入时标记为已结清",
     "Categories in the group <2>{{group}}</2> are used by existing transactions.": "组<2>{{group}}</2>中的类别已被现有交易使用。",
     "Category learning disabled": "已禁用类别学习",
-    "Category learning settings": "类别学习设置",
-    "Category name": "类别名称",
+    "Category learning settings": "分类学习设置",
+    "Category name": "分类名称",
     "Change": "更改",
     "Change category automations": "更改类别自动化规则",
     "Change how many days in advance of the scheduled date a scheduled transaction appears in the account ledger as upcoming.": "更改计划交易提前显示在账户账单中的天数。",
@@ -405,5 +405,6 @@
     "Client version: {{version}}": "客户端版本：{{version}}",
     "Closing...": "关闭中…",
     "Confirm": "确定",
-    "Connecting...": "连接中…"
+    "Connecting...": "连接中…",
+    "Account balance as of the date of the transaction, excluding the transaction amount. Use for calculations and comparisons.\n\nExample: `=IF(balance < 0, \"Negative Balance\", \"Positive Balance\")`": "账户在该笔交易日期的余额（不包含该交易金额）。用于计算与比较。\n\n示例：`=IF(余额 < 0, \"负余额\", \"正余额\")`"
 }
