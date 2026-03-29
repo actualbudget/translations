@@ -352,7 +352,7 @@
     "Category learning disabled": "已禁用类别学习",
     "Category learning settings": "分类学习设置",
     "Category name": "分类名称",
-    "Change": "更改",
+    "Change": "改变",
     "Change category automations": "更改类别自动化规则",
     "Change how many days in advance of the scheduled date a scheduled transaction appears in the account ledger as upcoming.": "更改计划交易提前显示在账户账单中的天数。",
     "Change interval": "更改间隔",
@@ -405,6 +405,12 @@
     "Client version: {{version}}": "客户端版本：{{version}}",
     "Closing...": "关闭中…",
     "Confirm": "确定",
-    "Connecting...": "连接中…",
-    "Account balance as of the date of the transaction, excluding the transaction amount. Use for calculations and comparisons.\n\nExample: `=IF(balance < 0, \"Negative Balance\", \"Positive Balance\")`": "账户在该笔交易日期的余额（不包含该交易金额）。用于计算与比较。\n\n示例：`=IF(余额 < 0, \"负余额\", \"正余额\")`"
+    "Connecting...": "正在连接",
+    "Account balance as of the date of the transaction, excluding the transaction amount. Use for calculations and comparisons.\n\nExample: `=IF(balance < 0, \"Negative Balance\", \"Positive Balance\")`": "账户在该笔交易日期的余额（不包含该交易金额）。用于计算与比较。\n\n示例：`=IF(余额 < 0, \"负余额\", \"正余额\")`",
+    "Debts:": "债务",
+    "Default": "违约",
+    "Deposit": "存入",
+    "Descending": "从大到小",
+    "Description": "说明",
+    "Difference:": "差异:"
 }
