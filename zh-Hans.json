@@ -110,7 +110,7 @@
     "Add entry": "添加记录",
     "Add condition": "添加条件",
     "Add group": "添加组别",
-    "{{count}} payees_other": "{{count}}收款人",
+    "{{count}} payees_other": "收款人",
     "<0>Currency settings</0> affect how amounts are displayed throughout the application. Changing the currency will affect the number format, symbol position, and whether fractions are shown. These can be adjusted after the currency is set.": "<0>货币设置</0> 会影响应用中金额的显示方式。更改货币将影响数字格式、符号位置以及是否显示小数部分。在设定货币后，这些选项仍可进行调整。",
     "Add new rule": "添加新规则",
     "Actual field": "实际支出字段",
@@ -562,5 +562,18 @@
     "Hide decimal places": "隐藏小数位",
     "Hide hidden categories": "隐藏隐藏的类别",
     "Hide reconciled transactions": "隐藏已对账的交易",
-    "Cover overbudgeted": "覆盖超预算"
+    "Cover overbudgeted": "覆盖超预算",
+    "Failed importing the dashboard file.": "仪表板文件导入失败。",
+    "Failed loading available banks: GoCardless access credentials might be misconfigured. Please <2>set them up</2> again.": "加载可用银行失败：GoCardless 访问凭证可能配置错误。请重新<2>设置</2>。",
+    "Failed parsing the imported JSON.": "导入的 JSON 解析失败。",
+    "Failed to complete ownership transfer. Please try again.": "所有权转移失败。请重试。",
+    "Failed to duplicate budget file": "复制预算文件失败",
+    "Failed to duplicate budget file.": "复制预算文件失败",
+    "Failed to enable OpenID. Please try again.": "无法启用 OpenID。请重试。",
+    "Failed to refresh login methods": "登录方式刷新失败",
+    "Failed to save dashboard widget.": "仪表板小部件保存失败。",
+    "Failed to transfer ownership": "所有权转移失败",
+    "Fatal Error": "致命错误",
+    "Fatal error occurred: unable to open import file dialog.": "发生致命错误：无法打开导入文件对话框。",
+    "Favorite": "收藏"
 }
