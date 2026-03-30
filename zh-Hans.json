@@ -578,7 +578,7 @@
     "Favorite": "收藏",
     "Account page general": "账户通用页面",
     "Client Secret:": "客户端Secret:",
-    "Budget <2>{{amount}}</2> each week": "预算 <2>{{amount}}</2> 每周",
+    "Budget <2>{{amount}}</2> each week": "每周预算 <2>{{amount}}</2>",
     "Consider taking our <2>guided tour</2> to help you get your bearings, and check out the rest of the documentation while you're there to learn more about advanced topics.": "建议您参加我们的<2>导览之旅</2>，帮助您熟悉环境，同时浏览其余文档以深入了解高级主题。",
     "Convert to Schedule": "转换为定期任务",
     "Closed: {{accountName}}": "已关闭: {{accountName}}",
