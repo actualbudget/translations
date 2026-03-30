@@ -525,7 +525,7 @@
     "Export budget": "导出预算",
     "Export data": "导出数据",
     "Export transactions": "导出交易",
-    "Filter name": "筛选名称",
+    "Filter name": "过滤器名称",
     "Filter schedules…": "筛选定期任务…",
     "Filter to the selected transactions": "筛选至所选交易",
     "Filter users...": "筛选用户...",
@@ -775,5 +775,12 @@
     "Indonesian Rupiah": "印尼盾",
     "Inflow": "收入",
     "Initializing the connection to the local database...": "正在初始化本地数据库连接…",
-    "Install Custom Theme": "安装自定义主题"
+    "Install Custom Theme": "安装自定义主题",
+    "Failed to delete schedule. Please try again.": "删除定期任务失败。请重试。",
+    "Failed to update payee. Please try again.": "更新收款人失败。请重试。",
+    "Failed saving report name: {{error}}": "保存报告名称失败：{{error}}",
+    "Failed to configure sync server": "无法配置同步服务器",
+    "Failed to copy to clipboard": "复制到剪贴板失败",
+    "Failed to delete payee. Please try again.": "收款人删除失败。请重试。",
+    "Failed to delete rule. Please try again.": "删除规则失败。请重试。"
 }
