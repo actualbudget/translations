@@ -295,7 +295,7 @@
     "Delete": "刪除",
     "Deposits": "存款",
     "disabled": "已禁用",
-    "None": "无",
+    "None": "无(None)",
     "Category is required": "类别为必填项",
     "Choose Report": "选择报告",
     "Choose your country:": "选择您所在的国家/地区：",
@@ -398,7 +398,7 @@
     "Closed accounts": "已关闭账户",
     "Closed Accounts": "已关闭账户",
     "Closed accounts...": "已关闭的账户...",
-    "Change:": "更改:",
+    "Change:": "变更：",
     "Cleared total:": "已结清总计：",
     "Client secret": "客户端 secret",
     "Client secret cannot be empty": "客户端secret不能为空",
@@ -782,5 +782,6 @@
     "Failed to configure sync server": "无法配置同步服务器",
     "Failed to copy to clipboard": "复制到剪贴板失败",
     "Failed to delete payee. Please try again.": "收款人删除失败。请重试。",
-    "Failed to delete rule. Please try again.": "删除规则失败。请重试。"
+    "Failed to delete rule. Please try again.": "删除规则失败。请重试。",
+    "No": "否"
 }
