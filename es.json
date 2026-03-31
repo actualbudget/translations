@@ -1966,5 +1966,7 @@
     "There was an error updating the account. Please try again.": "Hubo un error al actualizar la cuenta. Por favor, inténtelo de nuevo.",
     "There was an error updating the dashboard widget. Please try again.": "Hubo un error al actualizar el dashboard widget. Por favor, inténtelo de nuevo.",
     "There was an error updating the dashboard widgets. Please try again.": "Hubo un error al actualizar los dashboard widgets. Por favor, inténtelo de nuevo.",
-    "There was an error updating the tag. Please try again.": "Hubo un error al actualizar la etiqueta. Por favor, inténtelo de nuevo."
+    "There was an error updating the tag. Please try again.": "Hubo un error al actualizar la etiqueta. Por favor, inténtelo de nuevo.",
+    "based on a formula": "basado en una fórmula",
+    "Cadence": "Cadencia"
 }
