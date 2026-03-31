@@ -246,7 +246,7 @@
     "Account name (string). The human-readable name of the account.\n\nExample: `=CONCATENATE(\"Paid from \", account_name)`": "账户名称（字符串）。账户的可读名称。\n\n示例：`=CONCATENATE(\"从此账户支出  \", account_name)`",
     "Account:": "账户：",
     "Add transaction and close form": "添加交易并关闭表单",
-    "Banners": "横幅",
+    "Banners": "广告横幅",
     "Belarusian Ruble": "白俄罗斯卢布",
     "Boolean cleared status. TRUE if transaction is cleared, FALSE otherwise.\n\nExample: `=IF(cleared, \"Cleared\", \"Pending\")`": "布尔清算状态。如果交易已清算则为TRUE，否则为FALSE。\n\n示例：`=IF(cleared, \"已清算\", \"待处理\")`",
     "Boolean reconciled status. TRUE if transaction is reconciled, FALSE otherwise.": "布尔对账状态。如果交易已对账，则为TRUE；否则为FALSE。",
