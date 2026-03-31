@@ -299,7 +299,7 @@
     "Category is required": "类别为必填项",
     "Choose Report": "选择报告",
     "Choose your country:": "选择您所在的国家/地区：",
-    "After amount": "交易后金额",
+    "After amount": "在金额之后",
     "Before amount": "交易前金额",
     "Budget {{percent}}% of &lsquo;{{category}}&rsquo; this month": "本月“{{category}}”的预算为{{percent}}%。",
     "Budget {{percent}}% of available funds to budget last month": "预算{{percent}}%的可用资金用于上个月的预算",
