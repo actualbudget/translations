@@ -983,5 +983,7 @@
     "Missed {{scheduleName}} due {{distanceFromNow}} ({{formattedDate}})": "{{scheduleName}} 已于 {{distanceFromNow}}（{{formattedDate}}）错过",
     "Missing encryption key": "缺少加密密钥",
     "Modal dialog": "对话框",
-    "Modal logo": "弹窗图标"
+    "Modal logo": "弹窗图标",
+    "On budget accounts": "预算内账户",
+    "Your password or something else has changed with your bank and you need to login again.": "你的银行密码或其他内容发生了更改，请再次登录。"
 }
