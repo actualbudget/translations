@@ -995,5 +995,11 @@
     "Monthly": "每月",
     "<0><0>Understanding the Chart</0><1></1>• <3>Budgeted:</3> The amount you allocated each month<5></5>• <7>Spent:</7> Your actual spending<9></9>• <11>Overspending Adjustment:</11> Amounts from categories without rollover that were reset<13></13>• <15>Balance:</15> Your cumulative budget performance, starting with any prior balance. Respects category rollover settings from your budget.</0><1><0>Understanding the Budget Summary</0><1></1>The balance starts from the month before your selected period. Budgeted, spent, and overspending adjustments show totals over the period. Ending balance shows the final balance at period end. You can filter by categories to track changes in a specific area.</1><2>Hint: You can use the icon in the header to toggle between line and bar chart views.</2>": "<0><0>了解图表</0><1></1>• <3>预算：</3> 您每月分配的金额<5></5>• <7>支出：</7> 您的实际支出<9></9>• <11>超支调整：</11> 来自未设置结转的分类被重置的金额<13></13>• <15>余额：</15> 您的累计预算表现，从任何先前余额开始。遵循预算中分类的结转设置。</0><1><0>了解预算摘要</0><1></1>余额从所选期间前的月份开始。预算、支出和超支调整显示该期间的总额。期末余额显示期间结束时的最终余额。您可以按分类筛选以跟踪特定领域的变动。</1><2>提示：您可以使用标题中的图标在折线图和柱状图视图之间切换。</2>",
     "Looks up values in a vector or array.": "在向量或数组中查找值。",
-    "Mode:": "模式："
+    "Mode:": "模式：",
+    "Monthly expenses:": "月度支出：",
+    "Monthly Spending": "月度支出",
+    "Monthly Templates": "月度模板",
+    "Months": "月",
+    "More": "更多",
+    "More payees are available, search to find them": "还有更多收款人，搜索以找到它们"
 }
