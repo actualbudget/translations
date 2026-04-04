@@ -969,5 +969,7 @@
     "Boolean reconciled status. TRUE if transaction is reconciled, FALSE otherwise.": "Логический статус выверки. Значение ИСТИНА , если транзакция выверена, в противном случае значение ЛОЖЬ.",
     "budgeted": "планируемый",
     "Calculates interest rate per period.": "Вычисляет процентную ставку за период",
-    "Balance on that date:": "Баланс на эту дату:"
+    "Balance on that date:": "Баланс на эту дату:",
+    "Expected monthly contribution": "Предполагаемый ежемесячный платеж",
+    "Expected return (annual %)": "Ожидаемая доходность (% годовых)"
 }
