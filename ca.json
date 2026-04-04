@@ -1966,5 +1966,12 @@
     "Update Dates": "Actualitzar les dates",
     "Dominican Peso": "Peso dominicà",
     "There was an error creating the account. Please try again.": "S'ha produït un error en crear el compte. Si us plau, torna-ho a provar.",
-    "There was an error creating the payee. Please try again.": "S'ha produït un error en crear el beneficiari. Si us plau, torna-ho a provar."
+    "There was an error creating the payee. Please try again.": "S'ha produït un error en crear el beneficiari. Si us plau, torna-ho a provar.",
+    "Cadence": "Cadència",
+    "Failed to save location": "No s'ha pogut desar la ubicació",
+    "forget": "Oblida",
+    "Light": "Clar",
+    "Light theme": "Tema clar",
+    "There was an error forgetting the location. Please try again.": "S'ha produït un error en oblidar la ubicació. Torna-ho a provar.",
+    "There was an error saving the location. Please try again.": "S'ha produït un error en desar la ubicació. Torna-ho a provar."
 }
