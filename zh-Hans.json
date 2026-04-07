@@ -1310,5 +1310,8 @@
     "Transfer To/From": "转入/转出",
     "Try again": "重试",
     "No users available": "无可用用户",
-    "No transactions found with mappable fields, accounts must have been synced at least once for this function to be available.": "未找到可映射字段的交易，账户必须至少同步一次才能使用此功能。"
+    "No transactions found with mappable fields, accounts must have been synced at least once for this function to be available.": "未找到可映射字段的交易，账户必须至少同步一次才能使用此功能。",
+    "Change category limit": "更改类别上限",
+    "Change category sort order": "更改类别排序顺序",
+    "No data available for this period. Try adding transactions or selecting a different period.": "此期间无可用数据。请尝试添加交易或选择其他期间。"
 }
