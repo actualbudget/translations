@@ -329,7 +329,7 @@
     "Opening last budget...": "正在打开最近的预算项目…",
     "Options": "选项",
     "Categorize": "分类",
-    "Category Learning": "类别学习",
+    "Category Learning": "分类学习",
     "Choose the number of months shown at a time": "选择一次显示的月份数量",
     "Center": "中心",
     "Field mapping": "字段映射",
@@ -352,7 +352,7 @@
     "Category learning disabled": "已禁用分类学习",
     "Category learning settings": "分类学习设置",
     "Category name": "分类名称",
-    "Change": "改变",
+    "Change": "更改",
     "Change category automations": "更改类别自动化规则",
     "Change how many days in advance of the scheduled date a scheduled transaction appears in the account ledger as upcoming.": "更改计划交易提前显示在账户账单中的天数。",
     "Change interval": "更改间隔",
@@ -386,7 +386,7 @@
     "Client ID": "客户 ID",
     "A category group with name \"{{name}}\" already exists.": "名为\"{{name}}\"的类别组已存在。",
     "Change mode": "更改模式",
-    "Click the button below to reload and apply the update.": "点击下方按钮重载并更新",
+    "Click the button below to reload and apply the update.": "点击下方按钮重新加载并更新。",
     "Client ID cannot be empty": "客户端ID不能为空",
     "Client ID:": "客户端 ID:",
     "Client-Side plugins (soon)": "客户端插件（即将推出）",
@@ -1308,5 +1308,7 @@
     "Transfer ownership": "转移所有权",
     "Transfer to:": "转账至：",
     "Transfer To/From": "转入/转出",
-    "Try again": "重试"
+    "Try again": "重试",
+    "No users available": "无可用用户",
+    "No transactions found with mappable fields, accounts must have been synced at least once for this function to be available.": "未找到可映射字段的交易，账户必须至少同步一次才能使用此功能。"
 }
