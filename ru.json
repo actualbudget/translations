@@ -115,7 +115,7 @@
     "<0>Sync ID:</0> {{syncId}}": "<0>Идентификатор синхронизации:</0> {{syncId}}",
     "(before weekend)": "(перед выходными)",
     "Add transaction": "Добавить транзакцию",
-    "Add New": "Добавить новую",
+    "Add New": "Добавить новую операцию",
     "all transactions": "все транзакции",
     "amount (inflow)": "сумма (приход)",
     "An unknown error occurred: {{error}}": "Произошла неизвестная ошибка: {{error}}",
