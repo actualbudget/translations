@@ -971,5 +971,7 @@
     "Calculates interest rate per period.": "Вычисляет процентную ставку за период",
     "Balance on that date:": "Баланс на эту дату:",
     "Expected monthly contribution": "Предполагаемый ежемесячный платеж",
-    "Expected return (annual %)": "Ожидаемая доходность (% годовых)"
+    "Expected return (annual %)": "Ожидаемая доходность (% годовых)",
+    "Add balance limit": "Добавить лимит баланса",
+    "Add balance limit automation": "Добавить автоматизацию лимита баланса"
 }
