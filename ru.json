@@ -474,7 +474,7 @@
     "Are you sure you want to delete this rule?": "Вы уверены, что хотите удалить это правило?",
     "AVERAGE DEPOSIT": "СРЕДНИЙ ДЕПОЗИТ",
     "Average per year": "Среднее за год",
-    "Add Split": "Добавить Разбивку",
+    "Add Split": "Разделить",
     "<0>Currency settings</0> affect how amounts are displayed throughout the application. Changing the currency will affect the number format, symbol position, and whether fractions are shown. These can be adjusted after the currency is set.": "<0>Настройки валюты</0> влияют на то, как отображаются суммы во всем приложении. Смена валюты повлияет на формат чисел, положение символа и на отображение дробных частей. Их можно настроить после установки валюты.",
     "After amount": "После суммы",
     "Automatically rename these payees in the future_one": "Автоматически переименовать этого получателя в будущем",
