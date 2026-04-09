@@ -1792,6 +1792,7 @@
   "This transfer has a linked transaction in another account that is reconciled. Duplicating it may bring that account's reconciliation out of balance.": "This transfer has a linked transaction in another account that is reconciled. Duplicating it may bring that account's reconciliation out of balance.",
   "This transfer has a linked transaction in another account that is reconciled. Editing it may bring that account's reconciliation out of balance.": "This transfer has a linked transaction in another account that is reconciled. Editing it may bring that account's reconciliation out of balance.",
   "This week": "This week",
+  "This widget has failed to load.": "This widget has failed to load.",
   "This will change the password for this server instance. All existing sessions will stay logged in.": "This will change the password for this server instance. All existing sessions will stay logged in.",
   "This will generate a new key for encrypting your data. <2>This requires a sync reset</2> and all other devices will have to revert to this version of your data. Actual will take you through that process on those devices.": "This will generate a new key for encrypting your data. <2>This requires a sync reset</2> and all other devices will have to revert to this version of your data. Actual will take you through that process on those devices.",
   "Thursday": "Thursday",
