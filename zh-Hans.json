@@ -1333,5 +1333,13 @@
     "OpenID was enabled but cleanup failed. Please refresh the application.": "已启用 OpenID，但清理失败。请刷新应用程序。",
     "Password cannot be empty": "密码不能为空",
     "Password successfully changed": "密码已成功更改",
-    "Passwords do not match": "密码不一致"
+    "Passwords do not match": "密码不一致",
+    "The username you entered already exists. Please choose a different username.": "您输入的用户名已存在。请选择一个不同的用户名。",
+    "The username registered within the OpenID provider.": "在 OpenID 提供商注册的用户名",
+    "Pin sidebar": "固定侧边栏",
+    "The payees <1>{payeeNamesList}</1> have schedules that are due today._other": "收款人 <1>{payeeNamesList}</1> 有定期任务今天到期。",
+    "The request timed out. Please try again later.": "请求超时。请稍后再试一次。",
+    "The server returned the following error:": "服务器返回了以下错误：",
+    "The stage of a rule allows you to force a specific order. Pre rules always run first, and post rules always run last. Within each stage rules are automatically ordered from least to most specific.": "规则的阶段允许您强制指定顺序。预规则始终首先运行，后规则始终最后运行。在每个阶段中，规则会自动从最不具体到最具体排序。",
+    "The transaction will appear as a schedule preview in your account.": "该交易将在您的账户中显示为定期任务预览。"
 }
