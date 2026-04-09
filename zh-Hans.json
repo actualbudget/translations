@@ -1365,5 +1365,10 @@
     "Returns value from list based on index.": "按索引返回列表值",
     "Returns value if no error, otherwise returns alternative.": "若无错误则返回值，否则返回替代值",
     "Returns value if not #N/A error, otherwise returns alternative.": "若无#N/A error则返回值，否则返回替代值",
-    "Returns week number of year.": "返回年度周数"
+    "Returns week number of year.": "返回年度周数",
+    "{{days}} days": "{{days}} 天",
+    "→ Stable": "→ 稳定",
+    "↑ Improving": "↑ 提高",
+    "↓ Declining": "↓ 下降",
+    "30 days": "30天"
 }
