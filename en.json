@@ -720,6 +720,7 @@
   "Filter users...": "Filter users...",
   "Filtered balance:": "Filtered balance:",
   "Filters": "Filters",
+  "Filters on <1>{ignoredFilterFieldsList}</1> are ignored in <4>Budgeted</4> mode.": "Filters on <1>{ignoredFilterFieldsList}</1> are ignored in <4>Budgeted</4> mode.",
   "Filters:": "Filters:",
   "Financial files": "Financial files",
   "Find": "Find",
