@@ -1478,5 +1478,6 @@
     "Your browser doesn't support IndexedDB in this environment, a feature that Actual requires to run. This might happen if you are in private browsing mode. Please try a different browser or turn off private browsing.": "您的浏览器在此环境下不支持 IndexedDB，而 Actual 运行需要此功能。无痕浏览模式可能会出现这种情况。请尝试使用其他浏览器或关闭无痕浏览模式。",
     "Your budget data is encrypted with a key that only you have before sending it out to the cloud. Local data remains unencrypted so if you forget your password you can re-encrypt it. Note: bank sync operations and secrets stored on the server are not covered by end-to-end encryption.": "在将预算数据发送至云端之前，系统会使用仅您持有的密钥对其进行加密。本地数据保持未加密状态，因此如果您忘记密码，可以重新对其进行加密。注意：银行同步操作以及存储在服务器上的密钥不属于端到端加密的保护范围。",
     "Your budget is hosted on a server, making it accessible for download on your devices.<1></1>Would you like to duplicate this budget for all your devices or keep it stored locally on this device?": "您的预算已托管在服务器上，因此您可以在各设备上下载使用。<1></1>您是想将此预算同步到所有设备，还是仅保存在本设备上？",
-    "No, keep as transaction": "不，保留为交易处理"
+    "No, keep as transaction": "不，保留为交易处理",
+    "Role is required.": "角色是必填项。"
 }
