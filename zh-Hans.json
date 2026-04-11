@@ -694,7 +694,7 @@
     "Fixed {{count}} non-split transactions with split errors._other": "修复了 {{count}} 个存在拆分错误的非拆分交易。",
     "Fixed {{count}} split transactions with non-null category._other": "修复了{{count}}个非空类别的拆分交易",
     "Fixed {{count}} splits that weren't properly deleted._other": "修复了{{count}}个未正确删除的拆分交易",
-    "Font size (px):": "字体大小 (px):",
+    "Font size (px):": "字体大小 (px)：",
     "Font size:": "字体大小:",
     "For next month": "下个月",
     "Formats a number to a fixed amount of decimal places.": "将数字格式化为固定的小数位数。",
