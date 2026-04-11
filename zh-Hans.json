@@ -1480,7 +1480,7 @@
     "Your budget is hosted on a server, making it accessible for download on your devices.<1></1>Would you like to duplicate this budget for all your devices or keep it stored locally on this device?": "您的预算已托管在服务器上，因此您可以在各设备上下载使用。<1></1>您是想将此预算同步到所有设备，还是仅保存在本设备上？",
     "No, keep as transaction": "不，保留为交易处理",
     "Role is required.": "角色是必填项。",
-    "Age of Money Report": "资金账龄",
+    "Age of Money Report": "资金账龄报告",
     "Age of Money shows how many days, on average, your money sits in your budget before you spend it. It measures the gap between when you earn money and when you spend it.": "“资金账龄”显示您的钱在预算中平均停留多少天才被花掉。它衡量您何时获得收入与何时花费之间的时间差。",
     "Age of Money: {{days}} days": "资金账龄：{{days}} 天"
 }
