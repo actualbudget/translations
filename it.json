@@ -1840,5 +1840,6 @@
     "Create Schedule": "Crea Pianificazione",
     "Add new transaction": "Aggiungi nuova transazione",
     "Account transaction selection": "Selezione delle transazioni del conto",
-    "Budget Analysis Report": "Report sull'analisi del budget"
+    "Budget Analysis Report": "Report sull'analisi del budget",
+    "Account transaction management": "Gestione delle transazioni del conto"
 }
