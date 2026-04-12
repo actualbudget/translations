@@ -1482,5 +1482,8 @@
     "Role is required.": "角色是必填项。",
     "Age of Money Report": "资金账龄报告",
     "Age of Money shows how many days, on average, your money sits in your budget before you spend it. It measures the gap between when you earn money and when you spend it.": "“资金账龄”显示您的钱在预算中平均停留多少天才被花掉。它衡量您何时获得收入与何时花费之间的时间差。",
-    "Age of Money: {{days}} days": "资金账龄：{{days}} 天"
+    "Age of Money: {{days}} days": "资金账龄：{{days}} 天",
+    "Change granularity": "更改时间维度",
+    "How is it calculated?": "它是如何计算的？",
+    "Improving": "改进"
 }
