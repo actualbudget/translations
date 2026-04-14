@@ -1835,7 +1835,6 @@
     "We found some possible schedules in your current transactions. Select the ones you want to create.": "Hem trobat algunes programacions possibles a les teves transaccions actuals. Selecciona les que vols crear.",
     "We found the following accounts. Select which ones you want to add:": "Hem trobat els següents comptes. Selecciona els que vols afegir:",
     "We had an unknown problem syncing the account.": "Hem tingut un problema desconegut en sincronitzar el compte.",
-    "We had problems syncing your changes. Please report this as a bug by [opening a GitHub issue]({{githubIssueLink}}).": "Hem tingut problemes en sincronitzar els canvis. Si us plau, informeu d'això com a error [obrint una incidència de GitHub]({{githubIssueLink}}).",
     "We have merged your existing automations with the notes for this category. Please review and edit as needed.": "Hem fusionat les automatitzacions existents amb les notes d'aquesta categoria. Si us plau, revisa-les i edita-les segons calgui.",
     "We hit a limit on the local storage available. Edits may not be saved. Please get in touch https://actualbudget.org/contact/ so we can help debug this.": "Hem arribat al límit d'emmagatzematge local disponible. És possible que les edicions no es desin. Si us plau, posa't en contacte amb https://actualbudget.org/contact/ perquè puguem ajudar-te a depurar-ho.",
     "We were unable to repair your sync state, sorry! You need to reset your sync state.": "No hem pogut reparar el teu estat de sincronització. Ho sentim! Has de restablir el teu estat de sincronització.",

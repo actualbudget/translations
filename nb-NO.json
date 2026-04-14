@@ -1744,7 +1744,6 @@
     "We found the following accounts. Select which ones you want to add:": "Vi fant følgende kontoer. Velg hvilke du vil legge til:",
     "We had an unknown problem opening \"{{id}}\".": "Vi hadde et ukjent problem med å åpne “{{id}}”.",
     "We had an unknown problem syncing the account.": "Vi hadde et ukjent problem med å synkronisere kontoen.",
-    "We had problems syncing your changes. Please report this as a bug by [opening a GitHub issue]({{githubIssueLink}}).": "Vi hadde problemer med å synkronisere endringene dine. Vennligst rapporter dette som en feil ved å [åpne en sak på GitHub]({{githubIssueLink}}).",
     "We have merged your existing automations with the notes for this category. Please review and edit as needed.": "Vi har slått sammen dine eksisterende automatiseringer med notatene for denne kategorien. Vennligst se over og rediger ved behov.",
     "We hit a limit on the local storage available. Edits may not be saved. Please get in touch https://actualbudget.org/contact/ so we can help debug this.": "Vi nådde en grense for tilgjengelig lokal lagringsplass. Endringer blir kanskje ikke lagret. Ta kontakt https://actualbudget.org/contact/ så vi kan hjelpe med å feilsøke dette.",
     "We were unable to repair your sync state, sorry! You need to reset your sync state.": "Vi kunne ikke reparere synkroniseringstilstanden din, beklager! Du må tilbakestille synkroniseringstilstanden.",

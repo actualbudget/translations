@@ -1077,7 +1077,6 @@
     "You have budgeted more than your available funds": "คุณจัดสรรงบประมาณเกินกว่าเงินทุนที่มีอยู่",
     "You're up to date!": "คุณใช้เวอร์ชันล่าสุดแล้ว!",
     "We found the following accounts. Select which ones you want to add:": "เราพบบัญชีต่อไปนี้ โปรดเลือกบัญชีที่คุณต้องการเพิ่ม:",
-    "We had problems syncing your changes. Please report this as a bug by [opening a GitHub issue]({{githubIssueLink}}).": "เราประสบปัญหาในการซิงค์การเปลี่ยนแปลงของคุณ โปรดรายงานปัญหานี้เป็นข้อบกพร่องโดย เปิดปัญหา GitHub",
     "Where's the server?": "เซิร์ฟเวอร์อยู่ที่ไหน?",
     "Years": "ปี",
     "Your data is still out of sync": "ข้อมูลของคุณยังคงไม่ตรงกัน",

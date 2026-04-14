@@ -1783,7 +1783,6 @@
     "We found the following accounts. Select which ones you want to add:": "Hemos encontrado las siguientes cuentas. Seleccione las que desee añadir:",
     "We had an unknown problem opening \"{{id}}\".": "Ha ocurrido un problema desconocido abriendo \"{{id}}\".",
     "We had an unknown problem syncing the account.": "Ha ocurrido un problema desconocido sincronizando la cuenta.",
-    "We had problems syncing your changes. Please report this as a bug by [opening a GitHub issue]({{githubIssueLink}}).": "Ha ocurrido un problema sincronizando sus cambios. Por favor, reporte esto como un bug [abriendo una incidencia en GitHub]({{githubIssueLink}}).",
     "We have merged your existing automations with the notes for this category. Please review and edit as needed.": "Hemos fusionado sus automatizaciones existentes con las notas para esta categoría. Por favor, revíselas y edítelas cuanto sea necesario.",
     "We hit a limit on the local storage available. Edits may not be saved. Please get in touch https://actualbudget.org/contact/ so we can help debug this.": "Ha llegado al límite de almacenamiento local disponible. Sus ediciones podrían no guardarse. Póngase en contacto a través de https://actualbudget.org/contact/ para ayudarle a depurar esto.",
     "We were unable to repair your sync state, sorry! You need to reset your sync state.": "No fue posible reparar su estado de sincronización, ¡perdón! Necesita restablecer su estado de sincronización.",

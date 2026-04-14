@@ -743,7 +743,6 @@
     "We found some possible schedules in your current transactions. Select the ones you want to create.": "Vi fandt nogle mulige tidsplaner i dine transaktioner. Vælg venligst hvilke du vil oprette.",
     "We found the following accounts. Select which ones you want to add:": "Vi fandt de følgende konti. Vælg venligst hvilke du vil tilføje:",
     "We had an unknown problem syncing the account.": "Vi stødte på et ukendt problem i forbindelse med synkronisering af kontoen.",
-    "We had problems syncing your changes. Please report this as a bug by [opening a GitHub issue]({{githubIssueLink}}).": "Vi stødte på problemer med at synkronisere dine ændringer. Rapportere venligst dette ved at åbne et [GitHub issue]({{githubIssueLink}}).",
     "We hit a limit on the local storage available. Edits may not be saved. Please get in touch https://actualbudget.org/contact/ so we can help debug this.": "Der er ikke mere plads på det lokale lager til at gemme ændringerne. Disse er muligvis gået tabt. Kontakt os på https://actualbudget.org/contact/ så vi kan løse dette.",
     "Wednesday": "Onsdag",
     "You can load a different backup or revert to the original version below.": "Du kan hente en anden backup eller tilbageføre ændringerne til den originale version nedenfor.",

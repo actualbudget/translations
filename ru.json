@@ -451,7 +451,6 @@
     "Waiting on GoCardless...": "Ожидание GoCardless...",
     "We had an unknown problem opening \"{{id}}\".": "Произошла неизвестная ошибка при открытии “{{id}}”.",
     "We had an unknown problem syncing the account.": "Произошла неизвестная ошибка при синхронизации счёта.",
-    "We had problems syncing your changes. Please report this as a bug by [opening a GitHub issue]({{githubIssueLink}}).": "Не удалось синхронизировать ваши изменения. Пожалуйста, сообщите об этой ошибке, [создав вопрос на GitHub]({{githubIssueLink}}).",
     "Weekly": "Еженедельно",
     "Weekly Templates": "Еженедельные Шаблоны",
     "Welcome to Actual!": "Добро пожаловать в Actual!",
