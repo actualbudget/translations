@@ -182,5 +182,10 @@
     "Import {{count}} transactions_other": "Tuo {{count}} tapahtumaa",
     "Show {{count}} unused payees_one": "Näytä {{count}} käyttämätön saaja",
     "Show {{count}} unused payees_other": "Näytä {{count}} käyttämätöntä saajaa",
-    "{{categoryName}} shortcuts": "Pikatoiminnot kategoriassa {{categoryName}}"
+    "{{categoryName}} shortcuts": "Pikatoiminnot kategoriassa {{categoryName}}",
+    ":root {\n  --color-sidebarItemSelected: #007bff;\n}": ":root {\n  --color-sidebarItemSelected: #007bff;\n}",
+    "{isSearching\n                        ? 'No matching shortcuts'\n                        : isInCategory\n                          ? 'No shortcuts in this category'\n                          : 'No matching shortcuts'}": "{isSearching\n                        ? 'Ei vastaavia pikanäppäimiä'\n                        : isInCategory\n                          ? 'Ei pikanäppäimiä tässä kategoriassa'\n                          : 'Ei vastaavia pikanäppäimiä'}",
+    "<0>Link a <1>Brazilian</1> bank account</0> to automatically download transactions. Pluggy.ai provides reliable, up-to-date information from hundreds of banks.": "<0>Linkitä <1>brasilialainen</1> pankkitili</0> ladataksesi liiketapahtumia automaattisesti. Pluggy.ai tarjoaa luotettavat ja ajantasaiset tiedot sadoista pankeista.",
+    "<0>Link a <1>European</1> bank account</0> to automatically download transactions. GoCardless provides reliable, up-to-date information from hundreds of banks.": "<0>Linkitä <1>eurooppalainen</1> pankkitili</0> ladataksesi liiketapahtumia automaattisesti. GoCardless tarjoaa luotettavat ja ajantasaiset tiedot sadoista pankeista.",
+    "<0>Link a <1>North American</1> bank account</0> to automatically download transactions. SimpleFIN provides reliable, up-to-date information from hundreds of banks.": "<0>Linkitä <1>pohjois-amerikkalainen</1> pankkitili</0> ladataksesi liiketapahtumia automaattisesti. SimpleFIN tarjoaa luotettavat ja ajantasaiset tiedot sadoista pankeista."
 }
