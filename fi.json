@@ -200,5 +200,6 @@
     "$10 a week, up to a maximum of $80": "$10 viikossa korkeintaan $80 asti",
     "$50 each month": "$50 kuukaudessa",
     "A file with id \"{{id}}\" already exists with the name \"{{name}}\". This file will be replaced. This probably happened because files were manually moved around outside of Actual.": "Tiedosto tunnuksella \"{{id}}\" on jo olemassa nimellä \"{{name}}\". Tämä tiedosto korvataan. Tämä johtui luultavasti siitä, että tiedostoja on siirretty manuaalisesti Actualin ulkopuolella.",
-    "a fixed amount": "kiinteä summa"
+    "a fixed amount": "kiinteä summa",
+    "<0>Move schedule </0><1></1><2> {{beforeOrAfter}} weekend</2>": "<0>Siirrä aikataulu</0><1></1><2> {{beforeOrAfter}} viikonlopuksi</2>"
 }
