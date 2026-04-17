@@ -972,5 +972,6 @@
     "Expected monthly contribution": "Предполагаемый ежемесячный платеж",
     "Expected return (annual %)": "Ожидаемая доходность (% годовых)",
     "Add balance limit": "Добавить лимит баланса",
-    "Add balance limit automation": "Добавить автоматизацию лимита баланса"
+    "Add balance limit automation": "Добавить автоматизацию лимита баланса",
+    "{{days}} days": "{{дней}} дней"
 }
