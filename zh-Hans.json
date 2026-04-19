@@ -1485,5 +1485,21 @@
     "Age of Money: {{days}} days": "资金账龄：{{days}} 天",
     "Change granularity": "更改时间维度",
     "How is it calculated?": "它是如何计算的？",
-    "Improving": "改进"
+    "Improving": "改进",
+    "Declining": "下降",
+    "Filters on <1>{ignoredFilterFieldsList}</1> are ignored in <4>Budgeted</4> mode.": "在 <4>Budgeted</4> 模式下，会忽略 <1>{ignoredFilterFieldsList}</1> 上的筛选器。",
+    "Number of months back": "向前追溯的月份数",
+    "Opening balance with extracted parameters from {{queryName}}.": "期初余额，含从 {{queryName}} 提取的参数。",
+    "Payee name (string). The human-readable name of the payee.\n\nExample: `=UPPER(payee_name)` or `=CONCATENATE(\"Payment to \", payee_name)`": "收款人姓名（字符串）。收款人的可读名称。\n\n示例：`=UPPER(payee_name)` 或 `=CONCATENATE(\"Payment to \", payee_name)`",
+    "Percentage of": "百分比",
+    "Post transaction": "记录交易",
+    "Pound Sterling": "英镑",
+    "Prior year to date": "截至去年同期",
+    "Projected savings": "预计节省",
+    "Qatari Riyal": "卡塔尔里亚尔",
+    "Queries allow you to reference filtered transaction data in your formulas using QUERY('queryName') or QUERY_COUNT('queryName')": "查询允许您在公式中使用 QUERY('queryName') 或 QUERY_COUNT('queryName') 引用已筛选的交易数据",
+    "Query configuration copied to clipboard": "查询配置已复制到剪贴板",
+    "Query Definitions": "查询定义",
+    "Query name (e.g., 'expenses', 'income')": "查询名称（例如，“支出”、“收入”）",
+    "Query with this name already exists": "具有相同名称的查询已存在"
 }
