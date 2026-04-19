@@ -1849,7 +1849,6 @@
     "No dashboards available": "Aucun tableau de bord disponible",
     ":root {\n  --color-sidebarItemSelected: #007bff;\n}": ":root {\n  --color-sidebarItemSelected: #007bff;\n}",
     "Custom theme": "Thème personnalisé",
-    "Custom Theme": "Thème personnalisé",
     "No other dashboard pages available.": "Aucune autre page de tableau de bord disponible.",
     "Please select a dashboard to save the report": "Veuillez sélectionner un tableau de bord pour enregistrer le rapport",
     "Rename dashboard": "Renommer le tableau de bord",
