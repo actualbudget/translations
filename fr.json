@@ -1948,5 +1948,6 @@
     "Split ({{count}})": "Répartir ({{count}})",
     "Stacked": "Empilé",
     "Starting Date": "Date de début",
-    "Starting date:": "Date de début :"
+    "Starting date:": "Date de début :",
+    "Move down to the next transaction": "Aller à la transaction suivante"
 }
