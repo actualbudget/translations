@@ -1840,5 +1840,9 @@
     "Add new transaction": "Aggiungi nuova transazione",
     "Account transaction selection": "Selezione delle transazioni del conto",
     "Budget Analysis Report": "Report sull'analisi del budget",
-    "Account transaction management": "Gestione delle transazioni del conto"
+    "Account transaction management": "Gestione delle transazioni del conto",
+    ":root {\n  --color-sidebarItemSelected: #007bff;\n}": ":root {\n  --color-sidebarItemSelected: #007bff;\n}",
+    "Budget <2>{{amount}}</2> each week": "Budget <2>{{amount}}</2> a settimana",
+    "Budget analysis": "Analisi del budget",
+    "Budget Analysis": "Analisi del budget"
 }
