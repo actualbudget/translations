@@ -1872,5 +1872,10 @@
     "Ending balance:": "Saldo finale:",
     "Excess funds mode": "Modalità fondi in eccesso",
     "Expected monthly contribution": "Contributo mensile previsto",
-    "Expected return (annual %)": "Resa prevista (annuale %)"
+    "Expected return (annual %)": "Resa prevista (annuale %)",
+    "Balance on that date:": "Saldo a quella data:",
+    "Connection failed. If you use a self-signed certificate or were recently offline, try refreshing the page. Otherwise ensure you have HTTPS set up properly.": "Connessione fallita. Se stai usando un certificato autofirmato o sei stato di recente offline, prova ad aggiornare la pagina. In alternativa, assicurati che HTTPS sia configurato correttamente.",
+    "Global": "Globale",
+    "Hungarian Forint": "Fiorino Ungherese",
+    "Light theme": "Tema chiaro"
 }
