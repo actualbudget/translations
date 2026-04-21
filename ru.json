@@ -1010,5 +1010,6 @@
     "Enable this to specify custom monthly contribution amounts and investment returns that will be used to project your investments into the future.<1></1><2></2>When disabled, uses historical performance from your Income Accounts (which includes both past contributions and investment growth).": "Включите эту опцию, чтобы указать собственные суммы ежемесячных взносов и доходность инвестиций, которые будут использоваться для прогнозирования ваших инвестиций в будущем.<1></1><2></2>Когда опция отключена, используется историческая динамика с ваших доходных счетов (которая включает как прошлые взносы, так и инвестиционный рост).",
     "Ending balance:": "Итоговый остаток:",
     "Add a balance limit automation to set the refill target.": "Добавить автоматизацию лимита баланса для установки цели пополнения",
-    "Budget Analysis Report": "Отчет по анализу бюджета"
+    "Budget Analysis Report": "Отчет по анализу бюджета",
+    "→ Stable": "Стабильная"
 }
