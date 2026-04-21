@@ -357,7 +357,7 @@
     "a fixed amount": "фиксированная сумма",
     "a fixed percent of the remainder": "фиксированный процент от остатка",
     "{{num}} more items...": "{{num}} ещё элементы…",
-    "<0>Are you sure you want to delete it?</0> If so, you must select another category to transfer existing transactions and balance to.": "<0>Вы уверены, что хотите удалить это?</0> Если да, то необходимо выбрать другую категорию для переноса существующих транзакций и остатка.",
+    "<0>Are you sure you want to delete it?</0> If so, you must select another category to transfer existing transactions and balance to.": "<0>Вы уверены что хотите ее удалить?</0> В таком случае, вы должны выбрать категорию для переноса текущих транзакций и баланса",
     "{{count}} payees_one": "{{count}} получатель",
     "{{count}} payees_few": "{{count}} получателя",
     "{{count}} payees_many": "{{count}} получателей",
