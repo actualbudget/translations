@@ -20,5 +20,7 @@
     "once": "một lần",
     "one of": "một trong",
     "Open Actual": "Mở Actual",
-    "(+{{numHiddenPayees}} more)": "{{numHiddenPayees}} thêm)"
+    "(+{{numHiddenPayees}} more)": "{{numHiddenPayees}} thêm)",
+    "(hidden)": "(ẩn)",
+    "(Optional)": "(Tùy chọn)"
 }
