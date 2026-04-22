@@ -22,5 +22,7 @@
     "Open Actual": "Mở Actual",
     "(+{{numHiddenPayees}} more)": "{{numHiddenPayees}} thêm)",
     "(hidden)": "(ẩn)",
-    "(Optional)": "(Tùy chọn)"
+    "(Optional)": "(Tùy chọn)",
+    "(give feedback)": "(gửi phản hồi)",
+    "{{years}} years": "{{years}} năm"
 }
