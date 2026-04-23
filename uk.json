@@ -539,7 +539,6 @@
     "Rollover overspending": "Перенести перевитрату",
     "Selected transactions": "Вибрані транзакції",
     "No server": "Немає сервера",
-    "If checked, the schedule will automatically create transactions for you in the specified account": "Якщо позначено, розклад автоматично створюватиме транзакції у зазначеному рахунку",
     "Decide later": "Вирішіть пізніше",
     "Expenses:": "Витрати:",
     "Delete {{fileName}}": "Видалити {{fileName}}",

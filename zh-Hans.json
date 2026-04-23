@@ -725,7 +725,6 @@
     "IF": "如果",
     "If <2></2>{{allOrAny}} of these conditions match:": "如果 <2></2>{{allOrAny}} 个条件匹配：",
     "If checked below, a rule will be created to do this rename while importing transactions.": "如果勾选下方选项，将在导入交易时创建一个规则来执行此重命名操作。",
-    "If checked, the schedule will automatically create transactions for you in the specified account": "如果勾选，定期任务将会在指定账户中自动为您创建交易",
     "If left empty, it will be updated from your OpenID provider on the user's login, if available there.": "如果留空，用户登录时将从 OpenID 提供商获取更新（如可用）。",
     "If the server is using a self-signed certificate <2>select it here</2>.": "如果服务器使用的是自签名证书 <2>选择此处</2>。",
     "If this error persists, please get <2>in touch</2> so it can be investigated.": "如果此错误持续存在，请 <2>联系</2> 我们以便进行调查。",

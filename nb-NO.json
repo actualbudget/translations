@@ -725,7 +725,6 @@
     "IF": "HVIS",
     "If <2></2>{{allOrAny}} of these conditions match:": "Hvis <2></2>{{allOrAny}} av disse betingelsene matcher:",
     "If checked below, a rule will be created to do this rename while importing transactions.": "Hvis avhuket nedenfor, vil en regel opprettes for å gjøre denne omdøpingen under import av transaksjoner.",
-    "If checked, the schedule will automatically create transactions for you in the specified account": "Hvis avhuket, vil planen automatisk opprette transaksjoner for deg på den angitte kontoen",
     "If left empty, it will be updated from your OpenID provider on the user's login, if available there.": "Hvis tomt, oppdateres det fra din OpenID-leverandør ved brukerinnlogging, hvis tilgjengelig der.",
     "If the automation UI isn't working for you, you can temporarily switch back to notes-based automations. Please let us know your feedback about what's not working on the <2>feedback issue</2>.": "Hvis automatiseringsgrensesnittet ikke fungerer for deg, kan du midlertidig bytte tilbake til notatbaserte automatiseringer. Gi oss gjerne tilbakemelding om hva som ikke fungerer på <2>tilbakemeldingssaken</2>.",
     "If the server is using a self-signed certificate <2>select it here</2>.": "Hvis serveren bruker et selvsignert sertifikat <2>velg det her</2>.",

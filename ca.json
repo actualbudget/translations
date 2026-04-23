@@ -1910,7 +1910,6 @@
     "GitHub does not support discovery. You need to configure it in the server.": "GitHub no admet la detecció. Cal configurar-la al servidor.",
     "I understand the risks, run Actual in the unsupported fallback mode": "Entenc els riscos, executar Actual en el mode de reserva sense suport",
     "IF": "SI",
-    "If checked, the schedule will automatically create transactions for you in the specified account": "Si està marcat, la programació crearà automàticament transaccions al compte especificat",
     "Multi-user will not work after disabling": "El mode multiusuari no funcionarà després de desactivar-lo",
     "Payee \"{{name}}\" deleted successfully": "El beneficiari «{{name}}» s'ha suprimit correctament",
     "Please get <2>in touch</2> for support": "Si us plau, posa't en contacte amb nosaltres per obtenir ajuda",

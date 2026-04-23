@@ -436,7 +436,6 @@
     "Encrypting the file failed. You have the correct key so this is an internal bug. To fix this, generate a new key in the next step.": "Kunde inte kryptera filen. Du har rätt nyckel så detta är en intern bug. För att åtgärda detta, generera en ny nyckel i nästa steg.",
     "Favorite": "Favorit",
     "Happy budgeting!": "Ha kul med din budget!",
-    "If checked, the schedule will automatically create transactions for you in the specified account": "Ifall ikryssat så kommer schemat att automatiskt skapa överföringar åt dig i det specifierade kontot",
     "If you've already downloaded your data on other devices, you will need to reset them. Actual will automatically take you through this process.": "Om du redan laddat ned din data på andra enheter kommer du att behöva återställa dem. Actual kommer att automatiskt vägleda dig genom detta.",
     "Last month": "Förra månaden",
     "Months": "Månader",

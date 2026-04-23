@@ -825,7 +825,6 @@
     "Fixed {{count}} splits with the wrong cleared flag._other": "Corrigidas {{count}} transações divididas com indicador de confirmação incorreto.",
     "I understand the risks, run Actual in the unsupported fallback mode": "Entendo os riscos, executar o Actual no modo de fallback não suportado",
     "Import a file exported from Actual": "Importar um arquivo exportado do Actual",
-    "If checked, the schedule will automatically create transactions for you in the specified account": "Ao ativar, o agendamento cria transações automaticamente na conta selecionada",
     "If left empty, it will be updated from your OpenID provider on the user's login, if available there.": "Se deixado em branco, será atualizado pelo seu provedor OpenID no login do usuário, caso esteja disponível lá.",
     "If you can't update Actual at this time you can find the latest release at <2>app.actualbudget.org</2>. You can use it until your client is updated.": "Se você não puder atualizar o Actual neste momento, pode encontrar a versão mais recente em <2>app.actualbudget.org</2>. Você pode usá-la até que seu cliente seja atualizado.",
     "If you expected a schedule here and don't see it, it might be because the payees of the transactions don't match. Make sure you rename payees on all transactions for a schedule to be the same payee.": "Se você esperava um agendamento aqui e não o vê, pode ser porque os beneficiários das transações não coincidem. Certifique-se de renomear os beneficiários em todas as transações para que o agendamento tenha o mesmo beneficiário.",

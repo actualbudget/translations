@@ -459,7 +459,6 @@
     "If you use a backup, you will have to set up all your devices to sync from the new budget.": "Hvis du bruger en backup, skal du indstille alle dine enheder til at synkronisere fra det nye budget.",
     "If this error persists, please get <2>in touch</2> so it can be investigated.": "Hvis fejlen fortsætter, bedes du <2>kontakte os</2>, så fejlen kan undersøges.",
     "If left empty, it will be updated from your OpenID provider on the user's login, if available there.": "Hvis ikke udfyldt, bliver dette felt udfyldt af din OpenID leverandør med brugerens login-information, hvis disse er tilgængelige.",
-    "If checked, the schedule will automatically create transactions for you in the specified account": "Hvis krydset af, vil tidsplanen automatisk oprette transaktioner med det angivne beløb",
     "If <2></2>{{allOrAny}} of these conditions match:": "Hvis <2></2>{{allOrAny}} af disse betingelser matcher:",
     "Hold this amount:": "Tilbagehold dette beløb:",
     "Hold for next month": "Tilbagehold til næste måned",

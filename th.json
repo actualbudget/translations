@@ -1225,7 +1225,6 @@
     "Editing reconciled transactions may bring your reconciliation out of balance.": "การแก้ไขรายการที่กระทบยอดแล้วอาจทำให้ยอดกระทบดุลของคุณไม่ตรง",
     "Enable": "เปิดใช้งาน",
     "enabled": "เปิดใช้งานแล้ว",
-    "If checked, the schedule will automatically create transactions for you in the specified account": "หากเลือก กำหนดการจะสร้างรายการให้คุณโดยอัตโนมัติในบัญชีที่ระบุ",
     "Income categories": "หมวดหมู่รายได้",
     "It looks like you're using an outdated version of the Actual client. Your budget data has been updated by another client, but this client is still on the old version. For the best experience, please update Actual to the latest version.": "ดูเหมือนว่าคุณกำลังใช้ Actual client เวอร์ชันที่ล้าสมัย ข้อมูลงบประมาณของคุณได้รับการอัปเดตโดยไคลเอ็นต์อื่น แต่ไคลเอ็นต์นี้ยังคงใช้เวอร์ชันเก่า เพื่อประสบการณ์ที่ดีที่สุด โปรดอัปเดต Actual เป็นเวอร์ชันล่าสุด",
     "Manage and view users who can create new budgets or be invited to access existing ones.": "จัดการและดูผู้ใช้ที่สามารถสร้างงบประมาณใหม่หรือได้รับเชิญให้เข้าถึงงบประมาณที่มีอยู่",

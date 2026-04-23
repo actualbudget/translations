@@ -617,7 +617,6 @@
     "I understand the risks, show experimental features": "Comprendo i rischi, mostra le funzionalità sperimentali",
     "If <2></2>{{allOrAny}} of these conditions match:": "Se <2></2>{{allOrAny}} di queste condizioni corrispondono:",
     "If checked below, a rule will be created to do this rename while importing transactions.": "Se selezionato qui sotto, verrà creata una regola per eseguire questa operazione di rinominazione durante l'importazione delle transazioni.",
-    "If checked, the schedule will automatically create transactions for you in the specified account": "Se selezionata, la pianificazione creerà automaticamente le transazioni per te nel conto specificato",
     "If left empty, it will be updated from your OpenID provider on the user's login, if available there.": "Se lasciato vuoto, verrà aggiornato dal tuo provider OpenID al momento del login utente, se disponibile.",
     "If the server is using a self-signed certificate <2>select it here</2>.": "Se il server utilizza un certificato autofirmato <2>selezionarlo qui</2>.",
     "If this error persists, please get <2>in touch</2> so it can be investigated.": "Se l'errore persiste, <2>contattaci</2> per consentirci di indagare.",
