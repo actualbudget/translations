@@ -26,5 +26,6 @@
     "(give feedback)": "(gửi phản hồi)",
     "{{years}} years": "{{years}} năm",
     "(none)": "(không có)",
-    "{{days}} days": "{{days}} ngày"
+    "{{days}} days": "{{days}} ngày",
+    "{{displayMonth}} budget templates have been applied.": "Các mẫu ngân sách của {{displayMonth}} đã được áp dụng."
 }
