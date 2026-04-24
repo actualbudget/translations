@@ -1966,5 +1966,11 @@
     "based on a formula": "basado en una fórmula",
     "Cadence": "Cadencia",
     "{{days}} days": "{{days}} días",
-    "AVERAGE BUDGETED": "PRESUPUESTADO PROMEDIO"
+    "AVERAGE BUDGETED": "PRESUPUESTADO PROMEDIO",
+    "Add a balance limit automation to set the refill target.": "Añade una automatización de límite de saldo para establecer el objetivo de recarga.",
+    "Additional CSS overrides:": "Modificaciones CSS adicionales:",
+    "Category+Group": "Categoría+Grupo",
+    "Clear": "Borrar",
+    "Closing balance with extracted parameters from {{queryName}}.": "Saldo final con los parámetros extraídos de {{queryName}}.",
+    "Confirm Merge": "Confirmar fusión"
 }
