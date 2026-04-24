@@ -1972,5 +1972,6 @@
     "Category+Group": "Categoría+Grupo",
     "Clear": "Borrar",
     "Closing balance with extracted parameters from {{queryName}}.": "Saldo final con los parámetros extraídos de {{queryName}}.",
-    "Confirm Merge": "Confirmar fusión"
+    "Confirm Merge": "Confirmar fusión",
+    "Budget Analysis": "Análisis presupuestario"
 }
