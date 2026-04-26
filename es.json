@@ -1973,5 +1973,13 @@
     "Clear": "Borrar",
     "Closing balance with extracted parameters from {{queryName}}.": "Saldo final con los parámetros extraídos de {{queryName}}.",
     "Confirm Merge": "Confirmar fusión",
-    "Budget Analysis": "Análisis presupuestario"
+    "Budget Analysis": "Análisis presupuestario",
+    "→ Stable": "→ Estable",
+    "↑ Improving": "↑ Mejorando",
+    "↓ Declining": "↓ Disminuyendo",
+    "30 days": "30 días",
+    "Automatically create transactions in the specified account": "Crear transacciones automáticamente en la cuenta especificada",
+    "Change category limit": "Cambiar límite de categoría",
+    "Change granularity": "Cambiar grado de detalle",
+    "Chilean Peso": "Peso chileno"
 }
