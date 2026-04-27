@@ -1589,5 +1589,7 @@
     "Payee ID (string). The ID of the payee.\n\nExample: `=CONCATENATE(\"Payment to \", payee)`": "收款方 ID（字符串）。 收款方的 ID。\n\n示例：`=CONCATENATE(\"Payment to \", payee)`",
     "Returns the cosine of an angle.": "返回角度的余弦值。",
     "Returns the day from a date.": "返回日期中的天数。",
-    "Returns the k-th percentile.": "返回第 k 个百分位数。"
+    "Returns the k-th percentile.": "返回第 k 个百分位数。",
+    "Automatically create transactions in the specified account": "在指定的账户中自动创建交易记录",
+    "from": "来自于"
 }
