@@ -976,7 +976,6 @@
     "Add condition": "Lägg till villkor",
     "Add enough to this category to cover the selected schedule. If the schedule occurs multiple times in a month, an amount will be added for each occurrence. You can choose to save up for the next occurrence over time (e.g. save $100 each month for a $300 quarterly bill) or cover each occurrence when it occurs (e.g. only add the $300 when the bill is due).": "Lägg till tillräckligt i denna kategori för att täcka det valda schemat. Om schemat upprepas flera gånger under en månad kommer ett belopp att läggas till för varje tillfälle. Du kan välja att spara upp till nästa tillfälle över tid (t.ex. spara $100 varje månad för en kvartalsvis räkning på $300) eller att täcka varje tillfälle när det inträffar (t.ex. lägg bara till $300 när räkningen förfaller).",
     "Add entry": "Lägg till post",
-    "Add new automation": "Lägg till ny automatisering",
     "Add new rule": "Lägg till ny regel",
     "Add new split - {{amount}} left": "Lägg till ny delning - {{amount}} kvar",
     "Add new transaction": "Lägg till ny transaktion",
