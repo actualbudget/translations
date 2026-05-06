@@ -5,5 +5,8 @@
     "(give feedback)": "フィードバック",
     "Add": "追加",
     "(please select)": "（選択してください）",
-    "(+{{numHiddenPayees}} more)": "(他{{numHiddenPayees}} 件)"
+    "(+{{numHiddenPayees}} more)": "(他{{numHiddenPayees}} 件)",
+    "Yuan Renminbi": "人民元",
+    "Year": "年",
+    "Weekly": "毎週"
 }
