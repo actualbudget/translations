@@ -1566,5 +1566,11 @@
     "Returns the day from a date.": "返回日期中的天数。",
     "Returns the k-th percentile.": "返回第 k 个百分位数。",
     "Automatically create transactions in the specified account": "在指定的账户中自动创建交易记录",
-    "from": "来自于"
+    "from": "来自于",
+    "How far in advance this schedule appears as upcoming": "此日程会提前多长时间显示为即将到来",
+    "Income category": "收入类别",
+    "Returns the logarithm to specified base.": "返回指定底数的对数。",
+    "Returns the logical value FALSE.": "返回逻辑值 FALSE。",
+    "Returns the logical value TRUE.": "返回逻辑值 TRUE。",
+    "Returns the maximum value, including text and logical values.": "返回包含文本和逻辑值在内的最大值。"
 }
