@@ -1031,7 +1031,6 @@
     "Search {{budgetName}}...": "Cerca {{budgetName}}…",
     "Duplicate file \"{{newName}}\" created.": "Duplicato del file “{{newName}}” creato.",
     "Duplicate for all devices": "Duplica per tutti i dispositivi",
-    "Duplicating reconciled transactions may bring your reconciliation out of balance.": "La duplicazione delle transazioni riconciliate può compromettere il saldo della riconciliazione.",
     "Duplicating: {{oldName}} to: {{newName}}": "Duplicazione: da {{oldName}} a: {{newName}}",
     "Edit": "Modifica",
     "Edit account name": "Modifica il nome del conto",

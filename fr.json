@@ -179,7 +179,6 @@
     "Deposits": "Dépôts",
     "Description": "Description",
     "Duplicate \"{{fileName}}\"": "Dupliquer « {{fileName}} »",
-    "Duplicating reconciled transactions may bring your reconciliation out of balance.": "La duplication des transactions rapprochées peut déséquilibrer votre rapprochement.",
     "<0>Important:</0> if you forget this password <3>and</3> you don't have any local copies of your data, you will lose access to all your data. The data cannot be decrypted without the password.": "<0>Important :</0> si vous oubliez ce mot de passe <3>et</3> que vous n’avez aucune copie locale de vos données, vous perdrez l’accès à toutes vos données. Les données ne pourront pas être déchiffrées sans le mot de passe.",
     "1 week": "1 semaine",
     "Account linking not opening in a new tab? Click here": "La liaison de compte ne s'ouvre pas dans un nouvel onglet ? Cliquez ici",

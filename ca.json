@@ -535,7 +535,6 @@
     "Duplicate for all devices": "Duplicar per a tots els dispositius",
     "Duplicate locally": "Duplicar localment",
     "Duplicate the selected transactions": "Duplicar les transaccions seleccionades",
-    "Duplicating reconciled transactions may bring your reconciliation out of balance.": "La duplicació de transaccions conciliades pot desequilibrar la teva conciliació.",
     "Duplicating: {{oldName}} to: {{newName}}": "Duplicant: {{oldName}} a: {{newName}}",
     "Dynamic": "Dinàmic",
     "e.g.": "per exemple",

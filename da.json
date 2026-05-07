@@ -216,7 +216,6 @@
     "Duplicate file \"{{newName}}\" created.": "Duplikeret fil \"{{newName}}\" oprettet.",
     "Duplicate for all devices": "Kopier for alle enheder",
     "Duplicate locally": "Kopier lokalt",
-    "Duplicating reconciled transactions may bring your reconciliation out of balance.": "Kopiering af afstemte transaktioner kan forårsage, at det afstemte beløb ikke længere passer.",
     "Edit": "Rediger",
     "Edit account name": "Rediger kontonavn",
     "Edit as rule": "Rediger som regel",

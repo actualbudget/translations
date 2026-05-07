@@ -632,7 +632,6 @@
     "is between": "está entre",
     "It is recommended for the encryption password to be different than the log-in password in order to better protect your data.": "Se recomienda que la contraseña de encriptación sea diferente que la contraseña de inicio de sesión para proteger mejor sus datos.",
     "Deleting it will remove it and all of its backups permanently.": "Borrar este archivo significa borrar también todas sus copias de seguridad de manera permanente.",
-    "Duplicating reconciled transactions may bring your reconciliation out of balance.": "Duplicar transacciones conciliadas puede desequilibrar su conciliación.",
     "Editing reconciled transactions may bring your reconciliation out of balance.": "Editar transacciones conciliadas puede desequilibrar la conciliación.",
     "Budgeted MTD": "MTD presupuestado",
     "is greater than or equals": "es mayor o igual a",

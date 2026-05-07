@@ -442,7 +442,6 @@
     "Debts:": "Należności:",
     "Edit dashboard": "Edytuj Dashboard",
     "Duplicate file \"{{newName}}\" created.": "Utworzono duplikat pliku “{{newName}}”.",
-    "Duplicating reconciled transactions may bring your reconciliation out of balance.": "Duplikowanie rozliczonych transakcji może spowodować brak zgodności.",
     "Edit this widget to change the **markdown** content.": "Edytuj ten widżet, aby zmienić zawartość **markdown**.",
     "Enable": "Włącz",
     "Encrypting the file failed. You have the correct key so this is an internal bug. To fix this, generate a new key in the next step.": "Szyfrowanie pliku nie powiodło się. Masz prawidłowy klucz, więc jest to wewnętrzny błąd. Aby to naprawić, wygeneruj nowy klucz w następnym kroku.",

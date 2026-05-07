@@ -618,7 +618,6 @@
     "Duplicate file \"{{newName}}\" created.": "Дубликат файла “{{newName}}” создан.",
     "Duplicate for all devices": "Дублировать для всех устройств",
     "Duplicate locally": "Дублировать локально",
-    "Duplicating reconciled transactions may bring your reconciliation out of balance.": "Дублирование сверенных транзакций может привести к расхождению в вашей сверке.",
     "Duplicating: {{oldName}} to: {{newName}}": "Дублирование: {{oldName}} на {{newName}}",
     "e.g.": "например",
     "Edit": "Править",

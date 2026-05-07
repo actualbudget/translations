@@ -633,7 +633,6 @@
     "Mark as completed": "Markera som slutförd",
     "There was a problem loading one of the chunks of the application. Please reload the page and try again. If the issue persists - there might be an issue with either your internet connection and/or the server where the app is hosted.": "Det uppstod ett problem när en del av denna applikation laddades. Var god ladda om denna sida och försök igen. Om problemet kvarstår kan det vara ett problem med din internetanslutning och/eller den server där appen körs.",
     "Duplicate locally": "Duplicera lokalt",
-    "Duplicating reconciled transactions may bring your reconciliation out of balance.": "Att duplicera avstämda överföringar kan få din avstämning ur balans.",
     "Link schedule": "Koppla schema",
     "Integrating Google Sign-In into your web app": "Integrering av Google Sign-In i din web-app",
     "Merge with existing transactions": "Slå samman med existerande överföringar",

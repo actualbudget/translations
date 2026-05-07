@@ -475,7 +475,6 @@
     "Duplicate": "复制",
     "Duplicate for all devices": "为所有设备复制",
     "Duplicate locally": "本地复制",
-    "Duplicating reconciled transactions may bring your reconciliation out of balance.": "复制对账后的交易可能导致对账结果失衡。",
     "Duplicating: {{oldName}} to: {{newName}}": "正在复制: {{oldName}} 至: {{newName}}",
     "Edit": "编辑",
     "Edit account name": "编辑账户名称",

@@ -1017,7 +1017,6 @@
     "Post transactions?": "Boek transacties?",
     "Reconcile": "Reconciliëren",
     "Reconciled": "Afgestemd",
-    "Duplicating reconciled transactions may bring your reconciliation out of balance.": "Het dupliceren van gereconcilieerde transacties kan de reconciliatie uit balans brengen.",
     "Unable to disable OpenID. Please update the config.json file in this case.": "OpenID kan niet worden uitgeschakeld. Pas in dit geval het config.json bestand aan.",
     "Unable to enable OpenID. Please update the config.json file in this case.": "OpenID kan niet worden ingeschakeld. Pas in dit geval het config.json bestand aan.",
     "Create reconciliation transaction": "Maak reconciliatietransactie",

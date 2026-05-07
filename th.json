@@ -1201,7 +1201,6 @@
     "Display": "การแสดงผล",
     "does not contain": "ไม่มี",
     "Downloading the file failed. Check your network connection.": "การดาวน์โหลดไฟล์ล้มเหลว กรุณาตรวจสอบการเชื่อมต่อเครือข่ายของคุณ",
-    "Duplicating reconciled transactions may bring your reconciliation out of balance.": "การทำซ้ำรายการที่กระทบยอดแล้วอาจทำให้ยอดกระทบดุลของคุณไม่ตรง",
     "Edit user {{userName}}": "แก้ไขผู้ใช้ {{userName}}",
     "Editing reconciled transactions may bring your reconciliation out of balance.": "การแก้ไขรายการที่กระทบยอดแล้วอาจทำให้ยอดกระทบดุลของคุณไม่ตรง",
     "Enable": "เปิดใช้งาน",
