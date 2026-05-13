@@ -72,5 +72,7 @@
     "Missing authorization parameters.": "Missing authorisation parameters.",
     "Center": "Centre",
     "Favorite": "Favourite",
-    "Unfavorite": "Unfavourite"
+    "Unfavorite": "Unfavourite",
+    "{{count}} payees_one": "{{count}} payee",
+    "{{count}} payees_other": "{{count}} payees"
 }
