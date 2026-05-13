@@ -1772,7 +1772,6 @@
     "Expenses categories": "Категорії витрат",
     "Guatemalan Quetzal": "Гватемальський кетсаль",
     "Covered {{amount}} {{toCategoryName}} overspending from {{fromCategoryName}}.": "Покрито перевитрату {{amount}} у категорії {{toCategoryName}} за рахунок категорії {{fromCategoryName}}.",
-    "Crossover Report": "Звіт про точку перетину",
     "Edit Payee": "Редагувати отримувача платежу",
     "Failed to update payee. Please try again.": "Не вдалося оновити отримувача платежу. Будь ласка, спробуйте ще раз.",
     "Hampel Filtered Median": "Медіана з фільтрацією Гемпеля",

@@ -1724,7 +1724,6 @@
     "Covered {{amount}} {{toCategoryName}} overspending from {{fromCategoryName}}.": "{{amount}} {{toCategoryName}} de dépenses excédentaires couvertes provenant de {{fromCategoryName}}.",
     "Crossover point": "Point d'indifférence",
     "Crossover Point": "Point d'indifférence",
-    "Crossover Report": "Rapport de comparaison",
     "Danish Krone": "Couronne danoise",
     "Edit Payee": "Modifier le bénéficiaire",
     "<0>Warning:</0> This transaction is {{daysUntilTransaction}} days away, which is beyond your configured upcoming length of {{upcomingDays}} days. The schedule preview will not be visible in your account until it gets closer to the date.": "<0>Attention</0> : cette transaction est prévue dans {{daysUntilTransaction}} jours, ce qui est au-delà de la durée configurée de {{upcomingDays}} jours. L'échéancier prévisionnel ne sera visible sur votre compte que lorsque la date approchera.",
