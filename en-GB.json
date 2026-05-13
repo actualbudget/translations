@@ -53,7 +53,7 @@
     "Conditional color (optional):": "Conditional colour (optional):",
     "Formula that returns a color (e.g., &ldquo;red&rdquo;, &ldquo;#ff0000&rdquo;). Leave blank for default. Use RESULT variable to access the main formula result.": "Formula that returns a colour (e.g., &ldquo;red&rdquo;, &ldquo;#ff0000&rdquo;). Leave blank for default. Use RESULT variable to access the main formula result.",
     "User defined tags with color and description.": "User defined tags with colour and description.",
-    "{{count}} uncategorized transactions_one": "{{count}} uncategorised transaction",
+    "{{count}} uncategorized transactions_one": "{{count}} uncategorised transactions",
     "{{count}} uncategorized transactions_other": "{{count}} uncategorised transactions",
     "Capitalizes first letter of each word.": "Capitalises first letter of each word.",
     "Set up your server below to enable seamless data synchronization across your devices, bank sync and more...": "Set up your server below to enable seamless data synchronisation across your devices, bank sync and more…",
@@ -69,5 +69,8 @@
     "Authorization was denied or failed: {{error}}": "Authorisation was denied or failed: {{error}}",
     "Completing authorization...": "Completing authorisation...",
     "Failed to complete authorization.": "Failed to complete authorisation.",
-    "Missing authorization parameters.": "Missing authorisation parameters."
+    "Missing authorization parameters.": "Missing authorisation parameters.",
+    "Center": "Centre",
+    "Favorite": "Favourite",
+    "Unfavorite": "Unfavourite"
 }
