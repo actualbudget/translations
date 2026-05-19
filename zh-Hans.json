@@ -1346,7 +1346,6 @@
     "↑ Improving": "↑ 提高",
     "↓ Declining": "↓ 下降",
     "30 days": "30天",
-    "<0><0>What is a Sankey plot?</0></0><1>A Sankey plot visualizes the flow of quantities between multiple categories, emphasizing the distribution and proportional relationships of data streams.</1><2><0>View options:</0></2><3><0><0>Spent:</0> Displays actual spending by category from transactions.</0><1><0>Budgeted:</0> Shows how your budget is allocated across categories.</1></3>": "<0><0>什么是桑基图(Sankey Plot)？</0></0><1>桑基图通过可视化方式展示多个类别之间的数据流，重点突出数据流的分布及比例关系。</1><2><0>查看选项：</0></2><3><0><0>支出：</0> 显示交易中各分类的实际支出情况。</0><1><0>预算：</0> 显示预算在各分类中的分配情况。</1></3>",
     "A higher Age of Money means you're spending older money, which indicates you're living on last month's income rather than paycheck-to-paycheck. An age of 30 days or more is considered ideal—it means you're typically spending money you earned a month ago.": "“资金账龄”越高，意味着你花的是更早赚来的钱，这表明你靠的是上个月的收入生活而非月光族。30天或更长的周转天数被视为理想状态——这意味着你通常花的是一个月前赚来的钱。",
     "Age of Money": "资金账龄",
     "Chilean Peso": "智利比索",
