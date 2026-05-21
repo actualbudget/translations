@@ -1859,5 +1859,6 @@
     "Czech Koruna": "Tschechische Krone",
     "→ Stable": "→ Unverändert",
     "↑ Improving": "↑ Steigt",
-    "↓ Declining": "↓ Sinkt"
+    "↓ Declining": "↓ Sinkt",
+    "By enabling this, the transaction date will be overwritten by the one provided by the bank.": "Wenn Sie diese Option aktivieren, wird das Transaktionsdatum durch das von der Bank angegebene Datum überschrieben."
 }
