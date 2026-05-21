@@ -1856,5 +1856,8 @@
     "A category group with name \"{{name}}\" already exists.": "Eine Kategoriegruppe namens \"{{name}}\" existiert bereits.",
     "Balance on that date:": "Saldo an diesem Datum:",
     "by": "bis",
-    "Czech Koruna": "Tschechische Krone"
+    "Czech Koruna": "Tschechische Krone",
+    "→ Stable": "→ Unverändert",
+    "↑ Improving": "↑ Steigt",
+    "↓ Declining": "↓ Sinkt"
 }
