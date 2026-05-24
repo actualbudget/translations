@@ -1013,5 +1013,7 @@
     "{{amount}} / week": "{{amount}} / неделя",
     "(decreased by {{amount}})": "(уменьшилось на {{amount}})",
     "(decreased by {{percent}}%)": "(уменьшилось на {{percent}}%)",
-    "(beta)": "(бета)"
+    "(beta)": "(бета)",
+    "% of income": "% от дохода",
+    "A share of this month's or last month's income.": "Доля дохода за этот или прошлый месяц"
 }
