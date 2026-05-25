@@ -1861,5 +1861,9 @@
     "↑ Improving": "↑ Steigt",
     "↓ Declining": "↓ Sinkt",
     "By enabling this, the transaction date will be overwritten by the one provided by the bank.": "Wenn Sie diese Option aktivieren, wird das Transaktionsdatum durch das von der Bank angegebene Datum überschrieben.",
-    "{{days}} days": "{{days}} Tage"
+    "{{days}} days": "{{days}} Tage",
+    "30 days": "30 Tage",
+    "Add a note (optional)": "Notiz hinzufügen (optional)",
+    "Category+Group": "Kategorie+Gruppe",
+    "All": "Alle"
 }
