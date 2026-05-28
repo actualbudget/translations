@@ -1821,5 +1821,7 @@
     "You have {{count}} overspent categories (<3>{{amount}}</3>)_many": "У вас {{count}} категорій з перевитратою (<3>{{amount}}</3>)",
     "Overspending adj:": "Корекція перевитрати:",
     "Overspending Adjustment": "Корекція перевитрати",
-    "Overspending Adjustment:": "Корекція перевитрати:"
+    "Overspending Adjustment:": "Корекція перевитрати:",
+    "(beta)": "(бета)",
+    "(filtered running total)": "(відфільтрований підсумок)"
 }
