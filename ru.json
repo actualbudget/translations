@@ -764,7 +764,6 @@
     "Find Existing Tags": "Найти Существующие Теги",
     "For Actual to be useful, you need to <1>add an account</1>. You can link an account to automatically download transactions, or manage it locally yourself.": "Для полноценной работы с Actual необходимо <1>добавить счёт</1>. Вы можете привязать счёт для автоматической загрузки транзакций или вести его локально самостоятельно.",
     "Get started by importing an existing budget file from Actual or another budgeting app, create a demo budget file, or start fresh with an empty budget. You can always create or import another budget later.": "Начните работу, импортировав существующий файл бюджета из Actual или другого приложения для ведения бюджета, создайте демонстрационный файл бюджета или начните с чистого листа. Вы всегда сможете создать или импортировать другой бюджет позже.",
-    "has tags": "имеет теги",
     "Hold for next month": "Удержать до следующего месяца",
     "Hold this amount:": "Удержать эту сумму:",
     "Link account": "Привязать счёт",

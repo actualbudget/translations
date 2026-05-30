@@ -1382,7 +1382,6 @@
     "Delete {selectedInst.items.size} tags_other": "Lösche {selectedInst.items.size} Tags",
     "Euro": "Euro",
     "Filter tags...": "Tags filtern…",
-    "has tags": "hat Tags",
     "Hong Kong Dollar": "Hongkong-Dollar",
     "If checked below, a rule will be created to do this rename while importing transactions.": "Wenn unten ausgewählt, wird eine Regel erstellt, die diese Umbenennung beim Import von Transaktionen durchführt.",
     "New tag": "Neuer Tag",

@@ -1339,7 +1339,6 @@
     "Fixed {{count}} split transactions with non-null category._many": "{{count}} transações divididas corrigidas com categorias não nulas.",
     "Fixed {{count}} split transactions with non-null category._other": "{{count}} transações divididas corrigidas com categorias não nulas.",
     "From:": "De:",
-    "has tags": "possui tags",
     "Hong Kong Dollar": "Dólar de Hong Kong",
     "If checked below, a rule will be created to do this rename while importing transactions.": "Se você marcar abaixo, a regra será criada para renomear durante a importação de transações.",
     "Import {{count}} transactions_one": "Importar {{count}} transação",

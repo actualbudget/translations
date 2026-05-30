@@ -875,7 +875,6 @@
     "Export": "Eksporter",
     "Failed saving report name: {{error}}": "Kunne ikke gemme rapportnavnet: {{error}}",
     "Field mapping": "Felttilknytning",
-    "has tags": "markeret",
     "IF": "HVIS",
     "In order to enable bank sync via GoCardless (only for EU banks) you will need to create access credentials. This can be done by creating an account with <2>GoCardless</2>.": "For at kunne aktivere banksynkronisering med GoCardless (kun for EU-banker) skal du have lavet adgangsbeviser. Det kan gøres ved at lave en konto hos <2>GoCardless</2>.",
     "In order to enable bank sync via Pluggy.ai (only for Brazilian banks) you will need to create access credentials. This can be done by creating an account with <2>Pluggy.ai</2>.": "For at kunne aktivere banksynkronisering med Pluggy.ai (kun for brasilianske banker) skal du have lavet adgangsbeviser. Det kan gøres ved at lave en konto hos <2>Pluggy.ai</2>.",
