@@ -1563,5 +1563,6 @@
     "Returns the logarithm to specified base.": "返回指定底数的对数。",
     "Returns the logical value FALSE.": "返回逻辑值 FALSE。",
     "Returns the logical value TRUE.": "返回逻辑值 TRUE。",
-    "Returns the maximum value, including text and logical values.": "返回包含文本和逻辑值在内的最大值。"
+    "Returns the maximum value, including text and logical values.": "返回包含文本和逻辑值在内的最大值。",
+    "(beta)": "（测试）"
 }
