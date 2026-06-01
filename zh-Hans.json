@@ -1565,5 +1565,6 @@
     "Returns the logical value TRUE.": "返回逻辑值 TRUE。",
     "Returns the maximum value, including text and logical values.": "返回包含文本和逻辑值在内的最大值。",
     "(beta)": "（测试）",
-    "Reset layers": "重置图层"
+    "Reset layers": "重置图层",
+    "Revert to server password": "还原至服务器密码"
 }
