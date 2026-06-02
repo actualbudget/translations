@@ -1072,5 +1072,6 @@
     "Calculates future value of investment.": "Oblicza przyszłą wartość inwestycji.",
     "Live": "Na żywo",
     ":root {\n  --color-sidebarItemSelected: #007bff;\n}": ":root {\n  --color-sidebarItemSelected: #007bff;\n}",
-    "{{years}} years": "{{years}} lat"
+    "{{years}} years": "{{years}} lat",
+    "(projected)": "(przewidywane)"
 }
