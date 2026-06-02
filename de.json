@@ -1866,5 +1866,7 @@
     "Category+Group": "Kategorie+Gruppe",
     "All": "Alle",
     "Hungarian Forint": "Ungarische Forint",
-    "(beta)": "(beta)"
+    "(beta)": "(beta)",
+    "{{amount}} / day": "{{amount}} / Tag",
+    "{{amount}} / month": "{{amount}} / Monat"
 }
