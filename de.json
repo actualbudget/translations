@@ -1868,5 +1868,7 @@
     "Hungarian Forint": "Ungarische Forint",
     "(beta)": "(beta)",
     "{{amount}} / day": "{{amount}} / Tag",
-    "{{amount}} / month": "{{amount}} / Monat"
+    "{{amount}} / month": "{{amount}} / Monat",
+    "(decreased by {{amount}})": "(verringert um {{amount}})",
+    "(decreased by {{percent}}%)": "(verringert um {{percent}}%)"
 }
