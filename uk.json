@@ -942,7 +942,6 @@
     "Unlocking this transaction means you won't be warned about changes that can impact your reconciled balance. (Changes to amount, account, payee, etc).": "Якщо розблокувати цю транзакцію, ви не будете отримувати попередження про зміни, які можуть вплинути на ваш звірений баланс. (Зміни суми, рахунку, отримувача тощо).",
     "Waiting on GoCardless...": "Очікування GoCardless...",
     "We had an unknown problem opening \"{{id}}\".": "У нас виникла невідома проблема з відкриттям «{{id}}”.",
-    "We had an unknown problem syncing the account.": "Під час синхронізації рахунку виникла невідома проблема.",
     "We found some possible schedules in your current transactions. Select the ones you want to create.": "Ми знайшли можливі розклади у ваших поточних транзакціях. Виберіть ті, які хочете створити.",
     "You are currently working from a backup.": "Зараз ви працюєте з резервної копії.",
     "You are not logged in.": "Ви не ввійшли в систему.",

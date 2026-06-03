@@ -1030,7 +1030,6 @@
     "Unable to duplicate a budget that is not located on your device.<1></1>Please download the budget from the server before duplicating.": "Es ist nicht möglich, ein Budget zu duplizieren, das sich nicht auf deinem Gerät befindet.<1></1>Bitte lade das Budget vor dem Duplizieren vom Server herunter.",
     "Unlink account": "Kontoverknüpfung aufheben",
     "We couldn't apply changes from the server. This probably means you need to update the app to support the latest database.": "Wir konnten die Änderungen vom Server nicht anwenden. Das bedeutet wahrscheinlich, dass du die App aktualisieren musst, damit die neueste Datenbank unterstützt wird.",
-    "We had an unknown problem syncing the account.": "Wir hatten ein unbekanntes Problem beim Synchronisieren des Kontos.",
     "You are currently working from a backup.": "Du arbeitest derzeit mit einem Backup.",
     "Unable to enable OpenID. Please update the config.json file in this case.": "OpenID konnte nicht aktiviert werden. Bitte aktualisiere in diesem Fall die config.json-Datei.",
     "You can also <2>force close</2> the account which will delete it and all its transactions permanently. Doing so may change your budget unexpectedly since money in it may vanish.": "Du kannst die Schließung des Kontos auch <2>erzwingen</2>, wodurch es und alle damit verbundenen Transaktionen dauerhaft gelöscht werden. Dies könnte dein Budget unerwartet ändern, da darin enthaltenes Geld verschwinden könnte.",
