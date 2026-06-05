@@ -161,8 +161,6 @@
     "Delete {{count}} rules_other": "Poista {{count}} sääntöä",
     "Delete {{selectedCount}} users_one": "Poista {{selectedCount}} käyttäjä",
     "Delete {{selectedCount}} users_other": "Poista {{selectedCount}} käyttäjää",
-    "Delete {selectedInst.items.size} tags_one": "Poista {selectedInst.items.size} tunniste",
-    "Delete {selectedInst.items.size} tags_other": "Poista {selectedInst.items.size} tunnistetta",
     "Fixed {{count}} non-split transactions with split errors._one": "Korjattu {{count}} jakamaton tapahtuma, jossa oli jakovirhe.",
     "Fixed {{count}} non-split transactions with split errors._other": "Korjattu {{count}} jakamatonta tapahtumaa, joissa oli jakovirheitä.",
     "Fixed {{count}} split transactions with non-null category._one": "Korjattu {{count}} jaettu tapahtuma, jonka kategoria ei ollut null.",

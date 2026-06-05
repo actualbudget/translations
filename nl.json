@@ -1200,8 +1200,6 @@
     "Are you sure you want to delete these {{count}} transactions?_other": "Weet u zeker dat u deze {{count}} transacties wilt verwijderen?",
     "Delete {{count}} rules_one": "Verwijder regel",
     "Delete {{count}} rules_other": "Verwijder {{count}} regels",
-    "Delete {selectedInst.items.size} tags_one": "Verwijder {selectedInst.items.size} tag",
-    "Delete {selectedInst.items.size} tags_other": "Verwijder {selectedInst.items.size} tags",
     ":root {\n  --color-sidebarItemSelected: #007bff;\n}": ":root {\n  --color-sidebarItemSelected: #007bff;\n}",
     "<0>Currency settings</0> affect how amounts are displayed throughout the application. Changing the currency will affect the number format, symbol position, and whether fractions are shown. These can be adjusted after the currency is set.": "<0>Valuta instellingen</0> bepalen hoe bedragen worden weergegeven binnen de applicatie. Het aanpassen van de valuta heeft invloed op de representatie, de positie van het symbool en de weergave van het duizendtal. Deze kunnen nog worden aanpast nadat de valuta is geselecteerd.",
     "<0>Warning:</0> This transaction is {{daysUntilTransaction}} days away, which is beyond your configured upcoming length of {{upcomingDays}} days. The schedule preview will not be visible in your account until it gets closer to the date.": "<0>Waarschuwing:</0> Deze transactie volgt over {{daysUntilTransaction}} dagen en valt daarmee buiten uw ingestelde aankomende tijdvak van {{upcomingDays}} dagen. De voorbeeldweergave van het schema zal niet zichtbaar zijn binnen uw rekening totdat deze in het tijdvak valt.",

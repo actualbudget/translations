@@ -305,7 +305,6 @@
     "By default imported transactions that you delete will be re-imported with the next bank sync operation. To disable this behaviour - untick this box.": "بشكل افتراضي، سيتم إعادة استيراد المعاملات التي تحذفها مع عملية مزامنة البنك التالية. لتعطيل هذا السلوك، أزل تحديد هذا الخيار",
     "By enabling bank sync, you will be granting GoCardless (a third party service) read-only access to your entire account's transaction history. This service is not affiliated with Actual in any way. Make sure you've read and understand GoCardless's <2>Privacy Policy</2> before proceeding.": "عند تفعيل مزامنة البنك، سيتم منح GoCardless (خدمة طرف ثالث) وصولًا للقراءة فقط إلى سجل معاملات حسابك بالكامل. هذه الخدمة غير مرتبطة بـ Actual. تأكد من قراءة وفهم <2>سياسة الخصوصية</2> الخاصة بـ GoCardless قبل المتابعة",
     "By enabling this, the transaction date will be overwritten by the one provided by the bank.": "عند تفعيل هذا الخيار، سيتم استبدال تاريخ المعاملة بالتاريخ المقدم من البنك",
-    "Cadence": "التكرار",
     "Calculates difference between dates in days.": "يحسب الفرق بين التواريخ بالأيام",
     "Calculates distance between dates.": "يحسب المسافة بين التواريخ",
     "Calculates future value of investment.": "يحسب القيمة المستقبلية للاستثمار",

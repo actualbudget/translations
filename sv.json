@@ -845,8 +845,6 @@
     "Delete {{count}} rules_other": "Ta bort {{count}} regler",
     "Delete {{selectedCount}} users_one": "Ta bort {{selectedCount}} användare",
     "Delete {{selectedCount}} users_other": "Ta bort {{selectedCount}} användare",
-    "Delete {selectedInst.items.size} tags_one": "Ta bort {selectedInst.items.size} tagg",
-    "Delete {selectedInst.items.size} tags_other": "Ta bort {selectedInst.items.size} taggar",
     "Fixed {{count}} non-split transactions with split errors._one": "Rättade {{count}} icke-delad överföring med delningsfel.",
     "Fixed {{count}} non-split transactions with split errors._other": "Rättade {{count}} icke-delade överföringar med delningsfel.",
     "Fixed {{count}} split transactions with non-null category._one": "Rättade {{count}} delad överföring som har en kategori.",
