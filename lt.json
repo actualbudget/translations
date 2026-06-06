@@ -19,7 +19,6 @@
     "{{count}} transactions_one": "{{count}} transakcija",
     "{{count}} transactions_few": "{{count}} transakcijos",
     "{{count}} transactions_other": "{{count}} transakcijos",
-    "<0><0>How are \"Average\" and \"Spent Average MTD\" calculated?</0></0><1>They are both the average cumulative spending by day for the three months before the selected \"compare\" month.</1>": "<0><0>Kaip skaičiuojamas \"Vidurkis\" ir \"Išlaidų vidurkis nuo mėnesio pradžios\"?</0></0><1>Jie abu yra vidutinių išlaidų vidurkis nuo trijų mėnesių iki pasirinkti \"lyginamojo\" mėnesio</1>",
     "(+{{numHiddenPayees}} more)": "(+{{numHiddenPayees}} daugiau)",
     "(after weekend)": "(po savaitgalio)",
     "(before weekend)": "(prieš savaitgalį)",

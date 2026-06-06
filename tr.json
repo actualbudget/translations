@@ -104,7 +104,6 @@
     "{{count}} payees_one": "{{count}} ödeme bekleyen",
     "{{count}} payees_other": "{{count}} ödeme bekleyen",
     "{{years}} years": "{{years}} yıl",
-    "<0><0>How are \"Average\" and \"Spent Average MTD\" calculated?</0></0><1>They are both the average cumulative spending by day for the three months before the selected \"compare\" month.</1>": "<0><0>\"Ortalama\" ve \"Ay Başından Beri Ortalama Harcama\" nasıl hesaplanır?</0></0><1>Her ikisi de seçilen \"karşılaştırma\" ayından önceki üç ayın günlük ortalama kümülatif harcamasıdır.</1>",
     "<0>Budget ID:</0> {{budgetId}}": "<0>Bütçe Kimliği:</0> {{budgetId}}",
     "<0>Budgeted:</0><1>{{amount}}</1>": "<0>Bütçelenmiş:</0><1>{{amount}}</1>",
     "<0>Create a local account</0> if you want to add transactions manually. You can also <3>import QIF/OFX/QFX files into a local account</3>.": "İşlemleri manuel olarak eklemek istiyorsanız <0>yerel bir hesap oluşturun</0>. Ayrıca <3>QIF/OFX/QFX dosyalarını yerel bir hesaba aktarabilirsiniz</3>.",

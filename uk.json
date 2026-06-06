@@ -76,7 +76,6 @@
     "Average": "Середнє",
     "Average per month": "Середнє на місяць",
     "Average per transaction": "Середнє на транзакцію",
-    "Average spent": "Середні витрати",
     "Average:": "Середнє:",
     "Back": "Назад",
     "Balance": "Баланс",
@@ -467,9 +466,6 @@
     "Transfer": "Переказ",
     "Transfer this amount:": "Перенести цю суму:",
     "View current month": "Переглянути поточний місяць",
-    "<0><0>How are \"Average\" and \"Spent Average MTD\" calculated?</0></0><1>They are both the average cumulative spending by day for the three months before the selected \"compare\" month": {
-        "</1>": "<0><0>Як розраховуються показники «Середнє» та «Середні витрати з початку місяця»?</0></0><1>Обидва показники – це середні сукупні витрати за день за три місяці до вибраного місяця «порівняння».</1>"
-    },
     "When": "Коли",
     "Add category group": "Додати групу категорій",
     "<0><0>How is cash flow calculated?</0></0><1>Cash flow shows the balance of your budgeted accounts over time, and the amount of expenses/income each day or month": {
@@ -1291,8 +1287,6 @@
     "Start using OpenID": "Розпочати роботу з OpenID",
     "Split {{num}}": "Розділення {{num}}",
     "Split (no payee)": "Розділення (без отримувача)",
-    "Spent Average {{monthYearFormatted}}:": "Середні витрати за {{monthYearFormatted}}:",
-    "Spent Average {{monthYearFormatted}} MTD:": "Середні витрати з початку {{monthYearFormatted}}:",
     "Spent {{monthYearFormatted}} MTD:": "Витрати з початку {{monthYearFormatted}}:",
     "Spent {{monthYearFormatted}} MTD": "Витрати з початку {{monthYearFormatted}}",
     "Special categories": "Спеціальні категорії",
