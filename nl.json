@@ -1231,7 +1231,7 @@
     "Add entry": "Regel toevoegen",
     "{{count}} scheduled transactions included in this date range_one": "{{count}} geplande transactie in deze periode",
     "{{count}} scheduled transactions included in this date range_other": "{{count}} geplande transacties in deze periode",
-    "{{provider}} menu": "{{provider}} menu",
+    "{{provider}} menu": "{{provider}}-menu",
     "Available funds to budget": "Beschikbare middelen om te budgetteren",
     "You have {{count}} uncategorized transactions (<3>{{amount}}</3>)_one": "U heeft {{count}} ongecategoriseerde transactie (<3>{{amount}}</3>)",
     "You have {{count}} uncategorized transactions (<3>{{amount}}</3>)_other": "U heeft {{count}} ongecategoriseerde transacties (<3>{{amount}}</3>)",
@@ -1330,5 +1330,8 @@
     "POST": "POST",
     "Post transaction": "Transactie plaatsen",
     "Pound Sterling": "Britse pond",
-    "PRE": "VOOR"
+    "PRE": "VOOR",
+    "30 days": "30 dagen",
+    "→ Stable": "→ Stabiel",
+    "A percentage decrease must be under 100% and an increase at most 1000%.": "Een procentuele daling moet minder dan 100% zijn, en een stijging maximaal 1000%."
 }
