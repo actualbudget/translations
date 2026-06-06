@@ -1222,11 +1222,14 @@
     "{{amount}} / month": "{{amount}} / maand",
     "{{amount}} / week": "{{amount}} / week",
     "{{categoryName}} budget copied until year end.": "Budget van {{categoryName}} gekopieerd tot het einde van het jaar.",
-    "{{count}} scheduled transactions included_one": "Inclusief {{count}} geplande transacties",
-    "{{count}} scheduled transactions included_other": "",
+    "{{count}} scheduled transactions included_one": "Inclusief {{count}} geplande transactie",
+    "{{count}} scheduled transactions included_other": "Inclusief {{count}} geplande transacties",
     "{{days}} days": "{{days}} dagen",
     "{{month}} has already passed": "{{month}} is al voorbij",
     "% of income": "% van inkomen",
     "Overbudgeted:": "Teveel begroot:",
-    "Add entry": "Transactie toevoegen"
+    "Add entry": "Transactie toevoegen",
+    "{{count}} scheduled transactions included in this date range_one": "{{count}} geplande transactie in deze periode",
+    "{{count}} scheduled transactions included in this date range_other": "{{count}} geplande transacties in deze periode",
+    "{{provider}} menu": "{{provider}} menu"
 }
