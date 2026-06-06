@@ -1226,5 +1226,7 @@
     "{{count}} scheduled transactions included_other": "",
     "{{days}} days": "{{days}} dagen",
     "{{month}} has already passed": "{{month}} is al voorbij",
-    "% of income": "% van inkomen"
+    "% of income": "% van inkomen",
+    "Overbudgeted:": "Teveel begroot:",
+    "Add entry": "Transactie toevoegen"
 }
