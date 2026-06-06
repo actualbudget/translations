@@ -1246,7 +1246,7 @@
     "Calculates net present value.": "Berekent de huidige netto waarde",
     "Calculates payment for a loan.": "Berekent de betaling voor een lening",
     "Categories in the group <2>{{group}}</2> are used by existing transactions or it has a positive leftover balance currently.": "Categorieen in de groep <2>{{group}}</2> worden gebruikt door bestaande transacties of bevatten momenteel nog een positief saldo.",
-    "Categories in the group <2>{{group}}</2> are used by existing transactions.": "Categorieën in de groep <2>{{group}}</2> worden gebruikt door bestaande transacties.",
+    "Categories in the group <2>{{group}}</2> are used by existing transactions.": "Categorie in de groep <2>{{group}}</2> in gebruik door bestaande transactie.",
     "Category ID (string). The ID of the category.\n\nExample: `=IF(category=\"Groceries\", \"Food\", \"Other\")`": "Categorie ID (tekst). Het ID van de categorie.\n\nVoorbeeld: `=IF(category=\"Boodschappen\", \"Eten\", \"Anders\")`",
     "Change mode": "Wijzig modus",
     "Checking GoCardless configuration...": "GoCardless configuratie wordt gecontroleerd…",
@@ -1333,5 +1333,7 @@
     "PRE": "VOOR",
     "30 days": "30 dagen",
     "→ Stable": "→ Stabiel",
-    "A percentage decrease must be under 100% and an increase at most 1000%.": "Een procentuele daling moet minder dan 100% zijn, en een stijging maximaal 1000%."
+    "A percentage decrease must be under 100% and an increase at most 1000%.": "Een procentuele daling moet minder dan 100% zijn, en een stijging maximaal 1000%.",
+    "Banners": "Banners",
+    "e.g.": "bv."
 }
