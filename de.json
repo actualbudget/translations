@@ -1866,5 +1866,7 @@
     "{{amount}} / day": "{{amount}} / Tag",
     "{{amount}} / month": "{{amount}} / Monat",
     "(decreased by {{amount}})": "(verringert um {{amount}})",
-    "(decreased by {{percent}}%)": "(verringert um {{percent}}%)"
+    "(decreased by {{percent}}%)": "(verringert um {{percent}}%)",
+    "(increased by {{amount}})": "(erhöht um {{amount}})",
+    "(increased by {{percent}}%)": "(erhöht um {{percent}}%)"
 }
