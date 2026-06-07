@@ -1448,5 +1448,14 @@
     "saved": "bespaard",
     "Savings mode": "Bespaar modus",
     "Schedule deleted successfully": "Schema succesvol verwijderd",
-    "Schedule not found": "Schema niet gevonden"
+    "Schedule not found": "Schema niet gevonden",
+    "transfer": "overboeken",
+    "Transfer: {{name}}": "Overboeking: {{name}}",
+    "Turkish Lira": "Turkse lira",
+    "Type": "Type",
+    "TOTAL DEPOSITS": "TOTAAL GESTORT",
+    "TOTAL SPENDING": "TOTAAL UITGEGEVEN",
+    "to ": "naar ",
+    "To Budget": "Naar budget",
+    "To Budget:": "Naar budget:"
 }
