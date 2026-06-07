@@ -1864,5 +1864,19 @@
     "(decreased by {{amount}})": "(verringert um {{amount}})",
     "(decreased by {{percent}}%)": "(verringert um {{percent}}%)",
     "(increased by {{amount}})": "(erhöht um {{amount}})",
-    "(increased by {{percent}}%)": "(erhöht um {{percent}}%)"
+    "(increased by {{percent}}%)": "(erhöht um {{percent}}%)",
+    "{{amount}} / week": "{{amount}} / Woche",
+    "AVERAGE BUDGETED": "DURCHSCHNITT BUDGETIERT",
+    "Chilean Peso": "Chilenischer Peso",
+    "days": "Tage",
+    "Dominican Peso": "Dominikanischer Peso",
+    "Last 30 days": "Letzte 30 Tage",
+    "months": "Monate",
+    "Next 3 months": "Nächste 3 Monate",
+    "Next 6 months": "Nächste 6 Monate",
+    "Next year": "Nächstes Jahr",
+    "Not configured": "Nicht konfiguriert",
+    "Priority": "Priorität",
+    "Priority: {{priority}}": "Priorität: {{priority}}",
+    "years": "Jahre"
 }
