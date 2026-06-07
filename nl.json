@@ -951,7 +951,7 @@
     "Show unchecked": "Niet aangevinkt tonen",
     "Something went wrong trying to create a key, sorry! Visit https://actualbudget.org/contact/ for support.": "Er is iets fout gegaan bij het maken van een sleutel, sorry! Ga naar https://actualbudget.org/contact/ voor ondersteuning.",
     "Something went wrong when registering your encryption key id. You need to recreate your key. ": "Er is iets misgegaan bij het registreren van je encryptiesleutel id. Je moet je sleutel opnieuw aanmaken. ",
-    "There are payees that have schedules that are due today._one": "Er is een begunstigde met een schema die vandaag betaald moet worden.",
+    "There are payees that have schedules that are due today._one": "Er is een begunstigde met een schema dat vandaag betaald moet worden.",
     "There are payees that have schedules that are due today._other": "Er zijn begunstigden met schema's die vandaag betaald moeten worden.",
     "GitHub does not support discovery. You need to configure it in the server.": "GitHub ondersteunt ontdekken niet. Je moet het configureren in de server.",
     "Cover overspending": "Overbesteding dekken",
@@ -1458,5 +1458,6 @@
     "to ": "naar ",
     "To Budget": "Te budgetteren",
     "To Budget:": "Naar budget:",
-    "Toggle selection of current transaction": "Selectie van huidige transactie omkeren"
+    "Toggle selection of current transaction": "Selectie van huidige transactie omkeren",
+    "THEN": "DAN"
 }
