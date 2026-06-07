@@ -1897,5 +1897,11 @@
     "Budget copied until year end.": "Budget bis zum Jahresende kopiert.",
     "category group": "Kategoriegruppe",
     "Category group": "Kategoriegruppe",
-    "Change category limit": "Kategorielimit ändern"
+    "Change category limit": "Kategorielimit ändern",
+    "Spent {{monthYearFormatted}}": "Ausgegeben im {{monthYearFormatted}}",
+    "Starting balance:": "Anfangssaldo:",
+    "Starting Date": "Startdatum",
+    "Starting date:": "Startdatum:",
+    "Time sync issue": "Fehler bei der Zeitsynchronisierung",
+    "Update Dates": "Daten aktualisieren"
 }
