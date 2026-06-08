@@ -1926,5 +1926,8 @@
     "Goal": "Ziel",
     "Low": "Niedrig",
     "Mexican Peso": "Mexikanischer Peso",
-    "Note": "Notiz"
+    "Note": "Notiz",
+    "Iranian Rial": "Iranischer Rial",
+    "Last {{count}} months_one": "Letzter Monat",
+    "Last {{count}} months_other": "Letzte {{count}} Monate"
 }
