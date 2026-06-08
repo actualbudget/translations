@@ -24,5 +24,6 @@
     "{{displayMonth}} budgets have all been set to last month's budgeted amounts.": "{{displayMonth}} 예산은 모두 지난 달의 예산 금액으로 설정되었습니다.",
     "(nothing)": "(비어 있음)",
     "{{displayMonth}} end-of-month cleanup templates have been applied.": "{{displayMonth}} 월말 정리 템플릿이 적용되었습니다.",
-    "(projected)": "(예상)"
+    "(projected)": "(예상)",
+    "{{displayMonth}} budgets have all been set to zero.": "{{displayMonth}} 예산이 모두 0으로 설정되었습니다."
 }
