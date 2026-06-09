@@ -1067,5 +1067,6 @@
     "Live": "Na żywo",
     ":root {\n  --color-sidebarItemSelected: #007bff;\n}": ":root {\n  --color-sidebarItemSelected: #007bff;\n}",
     "{{years}} years": "{{years}} lat",
-    "(projected)": "(przewidywane)"
+    "(projected)": "(przewidywane)",
+    "(beta)": "(beta)"
 }
