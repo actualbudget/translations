@@ -1994,5 +1994,14 @@
     "Incomplete data": "Unvollständige Daten",
     "Enable Banking integration has not yet been configured.": "Enable Banking-Integration wurde noch nicht konfiguriert.",
     "Enable Banking requires HTTPS for the redirect URL. Your current connection is not secure.": "Enable Banking erfordert HTTPS für die Weiterleitungs-URL. Deine aktuelle Verbindung ist nicht sicher.",
-    "Enable Banking sync (EU banks)": "Enable Bank-Synchronisierung (EU-Banken)"
+    "Enable Banking sync (EU banks)": "Enable Banking-Synchronisierung (EU-Banken)",
+    "There was an error importing the dashboard page. Please try again.": "Beim Importieren des Dashboards ist ein Fehler aufgetreten. Bitte versuche es erneut.",
+    "There was an error renaming the dashboard page. Please try again.": "Beim Umbenennen des Dashboards ist ein Fehler aufgetreten. Bitte versuche es erneut.",
+    "There was an error resetting the dashboard page. Please try again.": "Beim Zurücksetzen des Dashboards ist ein Fehler aufgetreten. Bitte versuche es erneut.",
+    "Change category sort order": "Sortierreihenfolge der Kategorien ändern",
+    "Sort A to Z": "Von A bis Z sortieren",
+    "Sort all": "Alle sortieren",
+    "Sort as budget": "Als Budget sortieren",
+    "Sort per group": "Nach Gruppe sortieren",
+    "Sort Z to A": "Von Z bis A sortieren"
 }
