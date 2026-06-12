@@ -504,7 +504,7 @@
     "{{count}} uncategorized transactions_one": "{{count}} nieskategoryzowana transakcja",
     "{{count}} uncategorized transactions_few": "{{count}} nieskategoryzowane transakcje",
     "{{count}} uncategorized transactions_many": "{{count}} nieskategoryzowanych transakcji",
-    "<0>{{category}}</0> is used by existing transactions or it has a positive leftover balance currently.": "<0>{{category}}</0> jest obecnie wykorzystana przez istniejące transakcje lub ma dodatnie saldo",
+    "<0>{{category}}</0> is used by existing transactions or it has a positive leftover balance currently.": "<0>{{category}}</0> jest obecnie wykorzystana przez istniejące transakcje lub ma dodatnie saldo.",
     "<0>{{category}}</0> is used by existing transactions.": "<0>{{category}}</0> jest wykorzystana przez istniejące transakcje.",
     "<0>Are you sure you want to delete it?</0> If so, you must select another category to transfer existing transactions and balance to.": "<0>Jesteś pewny, że chcesz to usunąć?</0> Jeśli tak, musisz wybrać inną kategorię do której zostaną przeniesione istniejące transakcje i saldo.",
     "<0>Reset sync</0> is only available when syncing is enabled.": "<0>Reset synchronizacji</0> jest dostępny tylko wtedy, gdy synchronizacja jest włączona.",
