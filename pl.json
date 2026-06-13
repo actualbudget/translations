@@ -1068,5 +1068,9 @@
     ":root {\n  --color-sidebarItemSelected: #007bff;\n}": ":root {\n  --color-sidebarItemSelected: #007bff;\n}",
     "{{years}} years": "{{years}} lat",
     "(projected)": "(przewidywane)",
-    "(beta)": "(beta)"
+    "(beta)": "(beta)",
+    "(decreased by {{amount}})": "(zmniejszone o {{amount}})",
+    "(decreased by {{percent}}%)": "(zmniejszone o {{percent}}%)",
+    "(increased by {{amount}})": "(zwiększone o {{amount}})",
+    "(increased by {{percent}}%)": "(zwiększone o {{percent}}%)"
 }
