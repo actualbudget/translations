@@ -1072,5 +1072,6 @@
     "(decreased by {{amount}})": "(zmniejszone o {{amount}})",
     "(decreased by {{percent}}%)": "(zmniejszone o {{percent}}%)",
     "(increased by {{amount}})": "(zwiększone o {{amount}})",
-    "(increased by {{percent}}%)": "(zwiększone o {{percent}}%)"
+    "(increased by {{percent}}%)": "(zwiększone o {{percent}}%)",
+    "{{days}} days": "{{days}} dni"
 }
