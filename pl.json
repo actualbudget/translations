@@ -1073,5 +1073,9 @@
     "(decreased by {{percent}}%)": "(zmniejszone o {{percent}}%)",
     "(increased by {{amount}})": "(zwiększone o {{amount}})",
     "(increased by {{percent}}%)": "(zwiększone o {{percent}}%)",
-    "{{days}} days": "{{days}} dni"
+    "{{days}} days": "{{days}} dni",
+    "Account page general": "Ogólne informacje o koncie",
+    "Account:": "Konto:",
+    "Add balance limit": "Dodaj limit salda",
+    "Add transaction and close form": "Dodaj transakcję i zamknij formularz"
 }
