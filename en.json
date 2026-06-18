@@ -38,6 +38,7 @@
   "{{count}} transactions_other": "{{count}} transactions",
   "{{count}} uncategorized transactions_one": "{{count}} uncategorized transaction",
   "{{count}} uncategorized transactions_other": "{{count}} uncategorized transactions",
+  "{{currency1}} to {{currency2}}": "{{currency1}} to {{currency2}}",
   "{{days}} days": "{{days}} days",
   "{{displayMonth}} budget templates have been applied.": "{{displayMonth}} budget templates have been applied.",
   "{{displayMonth}} budget templates have been overwritten.": "{{displayMonth}} budget templates have been overwritten.",
