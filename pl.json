@@ -1081,5 +1081,6 @@
     "(filtered running total)": "(filtrowana suma bieżąca)",
     "{{amount}} / day": "{{amount}} / dzień",
     "{{amount}} / month": "{{amount}} / miesiąc",
-    "{{amount}} / week": "{{amount}} / tydzień"
+    "{{amount}} / week": "{{amount}} / tydzień",
+    "{{categoryName}} budget copied until year end.": "Budżet kategorii {{categoryName}} skopiowany do końca roku."
 }
