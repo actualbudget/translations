@@ -1000,5 +1000,7 @@
     "(decreased by {{percent}}%)": "(уменьшилось на {{percent}}%)",
     "(beta)": "(бета)",
     "% of income": "% от дохода",
-    "A share of this month's or last month's income.": "Доля дохода за этот или прошлый месяц"
+    "A share of this month's or last month's income.": "Доля дохода за этот или прошлый месяц",
+    "(increased by {{percent}}%)": "(увеличено на {{percent}}%)",
+    "{{provider}} menu": "{{provider}} меню"
 }
