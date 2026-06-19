@@ -1002,5 +1002,6 @@
     "% of income": "% от дохода",
     "A share of this month's or last month's income.": "Доля дохода за этот или прошлый месяц",
     "(increased by {{percent}}%)": "(увеличено на {{percent}}%)",
-    "{{provider}} menu": "{{provider}} меню"
+    "{{provider}} menu": "{{provider}} меню",
+    "{{month}} has already passed": "Просрочен"
 }
