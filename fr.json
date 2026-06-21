@@ -1861,5 +1861,22 @@
     "Stacked": "Empilé",
     "Starting Date": "Date de début",
     "Starting date:": "Date de début :",
-    "Move down to the next transaction": "Aller à la transaction suivante"
+    "Move down to the next transaction": "Aller à la transaction suivante",
+    "Sum of budgeted amounts with extracted parameters from {{queryName}}.": "Somme des montants budgétés avec les paramètres extraits de {{queryName}}.",
+    "Sum of spending with extracted parameters from {{queryName}}.": "Somme des dépenses avec les paramètres extraits de {{queryName}}.",
+    "No data available for this period. Try adding transactions or selecting a different period.": "Aucune donnée disponible pour cette période. Essayez d'ajouter des transactions ou de sélectionner une période différente.",
+    "No data available for this period. Try budgeting categories or selecting a different period.": "Aucune donnée disponible pour cette période. Essayez d'ajouter des transactions ou de sélectionner une période différente.",
+    "Sankey report": "Rapport Sankey",
+    "Chilean Peso": "Peso chilien",
+    "30 days": "30 jours",
+    "Age of Money": "Âge de l'argent",
+    "Age of Money Report": "Rapport sur l'âge de l'argent",
+    "Age of Money shows how many days, on average, your money sits in your budget before you spend it. It measures the gap between when you earn money and when you spend it.": "L'âge de l'argent montre combien de jours, en moyenne, votre argent reste dans votre budget avant que vous ne le dépensiez. Il mesure l'écart entre le moment où vous gagnez de l'argent et le moment où vous le dépensez.",
+    "Incomplete data": "Données incomplètes",
+    "No data available": "Aucune donnée disponible",
+    "Note: Some expenses could not be matched to income (spending exceeded income in this period)": "Remarque : Certaines dépenses n'ont pas pu être imputées au revenu (les dépenses ont dépassé le revenu pendant cette période)",
+    "Stable": "Stable",
+    "Custom CSS is active": "Le CSS personnalisé est actif",
+    "Custom CSS override active — click to edit": "Remplacement CSS personnalisé actif — cliquez pour modifier",
+    "Income category": "Catégorie de revenus"
 }
