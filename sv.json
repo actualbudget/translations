@@ -975,5 +975,20 @@
     "{{days}} days": "{{days}} dagar",
     "{{percent}}% must be between 0 and 100": "{{percent}}% måste vara mellan 0 och 100",
     "% of income": "% av inkomst",
-    "30 days": "30 dagar"
+    "30 days": "30 dagar",
+    "a fixed percent of the remainder": "en fast procent av det resterande",
+    "Post transaction": "Bokför transaktion",
+    "Post transaction today": "Lägg ut överföring idag",
+    "Post transactions": "Lägg ut överföringar",
+    "Rate limit exceeded for this item. Please try again later.": "Gränsen för tillåtna förfrågningar har uppnåtts. Var god försök igen senare.",
+    "reconciled": "avstämd",
+    "Reconciled {{ relativeTimeAgo }} ({{ absoluteDate }})": "Förlikade {{ relativeTimeAgo }} {{ absoluteDate }}",
+    "Recurring error": "Återkommande fel",
+    "Refresh": "Uppdatera",
+    "Register": "Registrera",
+    "Remove overspending rollover": "Avaktivera framflytt av överspendering",
+    "Reopen": "Återöppna",
+    "Result:": "Resultat:",
+    "Are you sure you want to delete this rule?": "Är du säker på att du vill radera denna regel?",
+    "Available funds": "Tillgängliga medel"
 }
