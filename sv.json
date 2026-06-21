@@ -971,5 +971,9 @@
     "Are you sure you want to delete the transaction?": "Är du säker på att du vill radera denna transaktion?",
     "{isSearching\n                        ? 'No matching shortcuts'\n                        : isInCategory\n                          ? 'No shortcuts in this category'\n                          : 'No matching shortcuts'}": "{isSearching\n                        ? 'Inga passande genvägar'\n                        : isInCategory\n                          ? 'Inga genvägar i denna kategori'\n                          : 'Inga passande genvägar'}",
     "Apply budget template": "Applicera budgetmall",
-    "Apply to all": "Applicera på allt"
+    "Apply to all": "Applicera på allt",
+    "{{days}} days": "{{days}} dagar",
+    "{{percent}}% must be between 0 and 100": "{{percent}}% måste vara mellan 0 och 100",
+    "% of income": "% av inkomst",
+    "30 days": "30 dagar"
 }
