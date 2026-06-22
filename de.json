@@ -1963,5 +1963,9 @@
     "Sort all": "Alle sortieren",
     "Sort as budget": "Als Budget sortieren",
     "Sort per group": "Nach Gruppe sortieren",
-    "Sort Z to A": "Von Z bis A sortieren"
+    "Sort Z to A": "Von Z bis A sortieren",
+    "There was an error deleting the dashboard page. Please try again.": "Beim Löschen des Dashboards ist ein Fehler aufgetreten. Bitte versuche es erneut.",
+    "There was an error creating the dashboard page. Please try again.": "Beim Erstellen des Dashboards ist ein Fehler aufgetreten. Bitte versuche es erneut.",
+    "There was an error updating the dashboard widgets. Please try again.": "Beim Aktualisieren des Dashboard-Widgets ist ein Fehler aufgetreten. Bitte versuche es erneut.",
+    "There was an error moving the category group. Please try again.": "Beim Verschieben der Kategoriegruppe ist ein Fehler aufgetreten. Bitte versuche es erneut."
 }
