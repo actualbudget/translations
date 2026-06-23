@@ -1,12 +1,12 @@
 {
     "(after weekend)": "(다음 주)",
     "(before weekend)": "(이전 주)",
-    "(please select)": "(선택해 주세요)",
+    "(please select)": "(선택하세요)",
     "{{count}} associated rules_other": "{{count}}개 관련 규칙",
     "(hidden)": "(숨김)",
     "(none)": "(없음)",
     "(give feedback)": "(피드백 주기)",
-    "(+{{numHiddenPayees}} more)": "(+{{numHiddenPayees}} 더보기)",
+    "(+{{numHiddenPayees}} more)": "(+{{numHiddenPayees}}개 더보기)",
     "(No payee)": "(수취인 없음)",
     "(deleted)": "(삭제됨)",
     "(modified)": "(수정됨)",
@@ -23,8 +23,11 @@
     "{{count}} uncategorized transactions_other": "{{count}} 건의 미분류 거래",
     "{{displayMonth}} budgets have all been set to last month's budgeted amounts.": "{{displayMonth}} 예산은 모두 지난 달의 예산 금액으로 설정되었습니다.",
     "(nothing)": "(비어 있음)",
-    "{{displayMonth}} end-of-month cleanup templates have been applied.": "{{displayMonth}} 월말 정리 템플릿이 적용되었습니다.",
+    "{{displayMonth}} end-of-month cleanup templates have been applied.": "{{displayMonth}} 월말 정리 템플릿을 적용했습니다.",
     "(projected)": "(예상)",
-    "{{displayMonth}} budgets have all been set to zero.": "{{displayMonth}} 예산이 모두 0으로 설정되었습니다.",
-    "<0>No server configured</0>": "<0>설정된 서버 없음</0>"
+    "{{displayMonth}} budgets have all been set to zero.": "{{displayMonth}} 예산을 전부 0으로 설정했습니다.",
+    "<0>No server configured</0>": "<0>설정된 서버 없음</0>",
+    "<0>Budget ID:</0> {{budgetId}}": "<0>예산 ID:</0> {{budgetId}}",
+    "<0>Category Learning</0> will automatically determine the best category for a transaction and create a rule that sets the category for the payee. <3>Learn more</3>": "<0>카테고리 학습</0>은 거래에 가장 적합한 카테고리를 자동으로 판단하고 해당 수취인에 대해 카테고리를 설정하는 규칙을 생성합니다. <3>더 알아보기</3>",
+    "2 weeks": "2주"
 }
