@@ -970,7 +970,7 @@
     "{{count}} payees_one": "{{count}} płatnik",
     "{{count}} payees_few": "{{count}} płatników",
     "{{count}} payees_many": "{{count}} płatników",
-    "{{num}} more items...": "{{num}} więcej pozycji...",
+    "{{num}} more items...": "{{num}} więcej pozycji…",
     "a fixed amount": "stała kwota",
     "a fixed percent of the remainder": "stały procent pozostałej kwoty",
     "Add new rule": "Dodaj nową regułę",
