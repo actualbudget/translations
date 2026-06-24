@@ -1074,5 +1074,9 @@
     "{{amount}} / day": "{{amount}} / dzień",
     "{{amount}} / month": "{{amount}} / miesiąc",
     "{{amount}} / week": "{{amount}} / tydzień",
-    "{{categoryName}} budget copied until year end.": "Budżet kategorii {{categoryName}} skopiowany do końca roku."
+    "{{categoryName}} budget copied until year end.": "Budżet kategorii {{categoryName}} skopiowany do końca roku.",
+    "{{count}} scheduled transactions included_one": "{{count}} zaplanowana transakcja włączona.",
+    "{{count}} scheduled transactions included_few": "{{count}} zaplanowanych transakcji włączone.",
+    "{{count}} scheduled transactions included_many": "{{count}} zaplanowanych transakcji włączone.",
+    "{{month}} has already passed": "{{month}} już minął"
 }
