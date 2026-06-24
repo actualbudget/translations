@@ -1218,5 +1218,6 @@
     "Positive amount: {{amount}}": "Kwota dodatnia: {{amount}}",
     "Projected savings": "Przewidywane oszczędności",
     "See schedule details": "Zobacz szczegóły harmonogramu",
-    "Budget {{percent}}% of total income last month": "Przeznacz {{percent}}% całkowitego dochodu za zeszły miesiąc"
+    "Budget {{percent}}% of total income last month": "Przeznacz {{percent}}% całkowitego dochodu za zeszły miesiąc",
+    "Disable auto hold": "Wyłącz automatyczne wstrzymanie"
 }
