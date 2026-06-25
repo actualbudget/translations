@@ -203,7 +203,7 @@
     "Change upcoming length": "Zmień nadchodzącą długość",
     "Click the button below to reload and apply the update.": "Kliknij poniższy przycisk, aby ponownie wczytać i zastosować aktualizację.",
     "Cleared total:": "Wyczyszczono łącznie:",
-    "Choose the schedule these {{ count }} transactions belong to:_one": "Wybierz harmonogram, do którego należy ta {{ count }} transakcja:",
+    "Choose the schedule these {{ count }} transactions belong to:_one": "Wybierz harmonogram, do którego należy ta transakcja:",
     "Choose the schedule these {{ count }} transactions belong to:_few": "Wybierz harmonogram, do którego należą te {{ count }} transakcje:",
     "Choose the schedule these {{ count }} transactions belong to:_many": "Wybierz harmonogram, do którego należy tych {{ count }} transakcji:",
     "Client ID": "ID klienta",
@@ -1219,5 +1219,6 @@
     "Projected savings": "Przewidywane oszczędności",
     "See schedule details": "Zobacz szczegóły harmonogramu",
     "Budget {{percent}}% of total income last month": "Przeznacz {{percent}}% całkowitego dochodu za zeszły miesiąc",
-    "Disable auto hold": "Wyłącz automatyczne wstrzymanie"
+    "Disable auto hold": "Wyłącz automatyczne wstrzymanie",
+    "Yuan Renminbi": "Renminbi chiński"
 }
