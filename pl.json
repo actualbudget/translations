@@ -1220,5 +1220,7 @@
     "See schedule details": "Zobacz szczegóły harmonogramu",
     "Budget {{percent}}% of total income last month": "Przeznacz {{percent}}% całkowitego dochodu za zeszły miesiąc",
     "Disable auto hold": "Wyłącz automatyczne wstrzymanie",
-    "Yuan Renminbi": "Renminbi chiński"
+    "Yuan Renminbi": "Renminbi chiński",
+    "A percentage decrease must be under 100% and an increase at most 1000%.": "Spadek procentowy musi wynosić mniej niż 100%, a wzrost – nie więcej niż 1000%.",
+    "A weekly or daily cap is multiplied by the number of weeks or days in the month, so the effective monthly cap changes with each month. For example, a {{weekly}}/week cap caps the balance at {{fourWeeks}} in months with 4 weeks and {{fiveWeeks}} in months with 5.": "Limit tygodniowy lub dzienny mnoży się przez liczbę tygodni lub dni w miesiącu, więc rzeczywisty limit miesięczny zmienia się z miesiąca na miesiąc. Na przykład limit {{weekly}}/tydzień ogranicza saldo do {{fourWeeks}} w miesiącach mających 4 tygodnie i do {{fiveWeeks}} w miesiącach mających 5 tygodni."
 }
