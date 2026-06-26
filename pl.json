@@ -1270,5 +1270,6 @@
     "Category group": "Grupa kategorii",
     "<0>Warning:</0> This transaction is {{daysUntilTransaction}} days away, which is beyond your configured upcoming length of {{upcomingDays}} days. The schedule preview will not be visible in your account until it gets closer to the date.": "<0>Ostrzeżenie:</0> Ta transakcja przypada za {{daysUntilTransaction}} dni, czyli później niż skonfigurowany przez Ciebie okres nadchodzących transakcji wynoszący {{upcomingDays}} dni. Podgląd harmonogramu nie będzie widoczny na Twoim koncie, dopóki termin transakcji się nie zbliży.",
     "Convert to Schedule": "Konwertuj na harmonogram",
-    "Cover each occurrence when it occurs": "Pokrywaj każde wystąpienie w momencie jego wystąpienia"
+    "Cover each occurrence when it occurs": "Pokrywaj każde wystąpienie w momencie jego wystąpienia",
+    "Dominican Peso": "Peso dominikańskie"
 }
