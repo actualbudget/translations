@@ -1268,5 +1268,6 @@
     "Budget Analysis Report": "Raport analizy budżetu",
     "By enabling this, the transaction date will be overwritten by the one provided by the bank.": "Po włączeniu tej opcji data transakcji zostanie nadpisana datą podaną przez bank.",
     "Category group": "Grupa kategorii",
-    "<0>Warning:</0> This transaction is {{daysUntilTransaction}} days away, which is beyond your configured upcoming length of {{upcomingDays}} days. The schedule preview will not be visible in your account until it gets closer to the date.": "<0>Ostrzeżenie:</0> Ta transakcja przypada za {{daysUntilTransaction}} dni, czyli później niż skonfigurowany przez Ciebie okres nadchodzących transakcji wynoszący {{upcomingDays}} dni. Podgląd harmonogramu nie będzie widoczny na Twoim koncie, dopóki termin transakcji się nie zbliży."
+    "<0>Warning:</0> This transaction is {{daysUntilTransaction}} days away, which is beyond your configured upcoming length of {{upcomingDays}} days. The schedule preview will not be visible in your account until it gets closer to the date.": "<0>Ostrzeżenie:</0> Ta transakcja przypada za {{daysUntilTransaction}} dni, czyli później niż skonfigurowany przez Ciebie okres nadchodzących transakcji wynoszący {{upcomingDays}} dni. Podgląd harmonogramu nie będzie widoczny na Twoim koncie, dopóki termin transakcji się nie zbliży.",
+    "Convert to Schedule": "Konwertuj na harmonogram"
 }
