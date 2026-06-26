@@ -1245,7 +1245,7 @@
     "% of income": "% dochodu",
     "Budget {{percent}}% of total income this month": "Przeznacz {{percent}}% całkowitego dochodu w tym miesiącu",
     "Budget for a schedule": "Zaplanuj według harmonogramu",
-    "budget templates have been applied.": "zastosowano szablony budżetu.",
+    "budget templates have been applied.": "szablony budżetu zostały zastosowane.",
     "budgeted": "zaplanowano",
     "Calculates interest rate per period.": "Oblicza stopę procentową przypadającą na jeden okres.",
     "Calculates payment for a loan.": "Oblicza spłatę kredytu.",
@@ -1269,5 +1269,6 @@
     "By enabling this, the transaction date will be overwritten by the one provided by the bank.": "Po włączeniu tej opcji data transakcji zostanie nadpisana datą podaną przez bank.",
     "Category group": "Grupa kategorii",
     "<0>Warning:</0> This transaction is {{daysUntilTransaction}} days away, which is beyond your configured upcoming length of {{upcomingDays}} days. The schedule preview will not be visible in your account until it gets closer to the date.": "<0>Ostrzeżenie:</0> Ta transakcja przypada za {{daysUntilTransaction}} dni, czyli później niż skonfigurowany przez Ciebie okres nadchodzących transakcji wynoszący {{upcomingDays}} dni. Podgląd harmonogramu nie będzie widoczny na Twoim koncie, dopóki termin transakcji się nie zbliży.",
-    "Convert to Schedule": "Konwertuj na harmonogram"
+    "Convert to Schedule": "Konwertuj na harmonogram",
+    "Cover each occurrence when it occurs": "Pokrywaj każde wystąpienie w momencie jego wystąpienia"
 }
