@@ -489,9 +489,9 @@
     "amount": "kwota",
     "Amount (outflow)": "Kwota (wydatek)",
     "Are you sure?": "Na pewno?",
-    "Budgeted:": "Zabudżetowane:",
+    "Budgeted:": "Zaplanowane:",
     "Can do everything that Basic users can. In addition, they have the ability to add new users to the directory and access budget files from all users.": "Ma wszystkie uprawnienia użytkownika Podstawowego. Ponadto, ma możliwość dodawania nowych użytkowników do katalogu oraz ma dostęp do plików budżetu wszystkich użytkowników.",
-    "Budgeted amount for {{categoryName}} category": "Zabudżetowana kwota dla kategori {{categoryName}}",
+    "Budgeted amount for {{categoryName}} category": "Zaplanowana kwota dla kategorii {{categoryName}}",
     "Budgeted MTD": "Zabudżetowane od początku miesiąca do dziś",
     "Actual is a personal finance tool that focuses on beautiful design and a slick user experience. <2>Editing your data should be as fast as possible.</2> On top of that, we want to provide powerful tools to allow you to do whatever you want with your data.": "Actual to narzędzie do finansów osobistych, które kładzie nacisk na atrakcyjny wygląd i wygodę użytkowania. <2>Edytowanie danych powinno być tak szybkie, jak to tylko możliwe.</2> Ponadto chcemy zapewnić rozbudowane narzędzia, które pozwolą ci zrobić wszystko, co chcesz ze swoimi danymi.",
     "Actual field": "Pole Actual",
@@ -1281,5 +1281,8 @@
     "Adjustment": "Korekta",
     "Allow early spending": "Zezwól na wcześniejsze wydatki",
     "Authorization was denied or failed: {{error}}": "Odmówiono autoryzacji lub autoryzacja nie powiodła się: {{error}}",
-    "Automatically create transactions in the specified account": "Automatyczne tworzenie transakcji na wskazanym koncie"
+    "Automatically create transactions in the specified account": "Automatyczne tworzenie transakcji na wskazanym koncie",
+    "Calculates internal rate of return.": "Oblicza wewnętrzną stopę zwrotu.",
+    "Calculates net present value.": "Oblicza wartość bieżącą netto.",
+    "Closed: {{accountName}}": "Zamknięte: {{accountName}}"
 }
