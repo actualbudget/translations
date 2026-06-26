@@ -1242,5 +1242,21 @@
     "An unexpected error occurred.": "Wystąpił nieoczekiwany błąd.",
     "App ID Token:": "Token identyfikacyjny aplikacji:",
     "Authorization state mismatch. Please try again.": "Niezgodność stanu autoryzacji. Spróbuj ponownie.",
-    "% of income": "% dochodu"
+    "% of income": "% dochodu",
+    "Budget {{percent}}% of total income this month": "Przeznacz {{percent}}% całkowitego dochodu w tym miesiącu",
+    "Budget for a schedule": "Zaplanuj według harmonogramu",
+    "budget templates have been applied.": "zastosowano szablony budżetu.",
+    "budgeted": "zaplanowano",
+    "Calculates interest rate per period.": "Oblicza stopę procentową za dany okres.",
+    "Calculates payment for a loan.": "Oblicza spłatę kredytu.",
+    "Capitalizes first letter of each word.": "Ustawia pierwszą literę każdego słowa na wielką.",
+    "Change interval": "Zmień interwał",
+    "Checks multiple conditions and returns corresponding values.": "Sprawdza wiele warunków i zwraca odpowiednie wartości.",
+    "Client-Side plugins (soon)": "Niestandardowe wtyczki (wkrótce)",
+    "Create Rule": "Stwórz regułę",
+    "Currency support": "Wsparcie dotyczące walut",
+    "DEFAULT": "DOMYŚLNE",
+    "Display a notification when updates are available": "Wyświetl powiadomienie, gdy dostępne są aktualizacje",
+    "Failed to delete rule. Please try again.": "Nie udało się usunąć reguły. Spróbuj ponownie.",
+    "Filter rules…": "Filtruj reguły…"
 }
