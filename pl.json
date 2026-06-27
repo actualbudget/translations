@@ -1453,5 +1453,6 @@
     "You can also delete just the local copy. This will remove all local data and the file will be listed as available for download.": "Możesz również usunąć tylko kopię lokalną. Spowoduje to usunięcie wszystkich danych lokalnych, a plik zostanie wyświetlony jako dostępny do pobrania.",
     "You can import data from another Actual account or instance. First export your data from a different account, and it will give you a compressed file. This file is a simple zip file that contains the <1>db.sqlite</1> and <4>metadata.json</4> files.": "Możesz zaimportować dane z innego konta lub instancji Actual. Najpierw wyeksportuj dane z innego konta, a otrzymasz skompresowany plik. Jest to prosty plik zip zawierający pliki <1>db.sqlite</1> i <4>metadata.json</4>.",
     "Your encryption key need to be reset": "Twój klucz szyfrujący musi zostać zresetowany",
-    "Your password or something else has changed with your bank and you need to login again.": "Twoje hasło lub inne dane w banku uległy zmianie i musisz zalogować się ponownie."
+    "Your password or something else has changed with your bank and you need to login again.": "Twoje hasło lub inne dane w banku uległy zmianie i musisz zalogować się ponownie.",
+    "Find": "Znajdź"
 }
