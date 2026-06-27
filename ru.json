@@ -1013,5 +1013,9 @@
     "Authorization successful! This window will close automatically.": "Авторизация прошла успешно! Это окно закроется автоматически.",
     "Authorization was denied or failed: {{error}}": "Авторизация была отклонена или не удалась: {{error}}",
     "Automation": "Автоматизация",
-    "Balance Forecast": "Прогнозируемый баланс"
+    "Balance Forecast": "Прогнозируемый баланс",
+    "Add a note (optional)": "Примечание (опционально)",
+    "Add a set amount every month, week, day, or year.": "Добавлять фиксированную сумму каждый месяц, неделю, день или год.",
+    "Add an automation": "Добавить автоматизацию",
+    "Automation type": "Тип автоматизации"
 }
