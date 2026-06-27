@@ -1284,5 +1284,6 @@
     "Automatically create transactions in the specified account": "Automatyczne tworzenie transakcji na wskazanym koncie",
     "Calculates internal rate of return.": "Oblicza wewnętrzną stopę zwrotu.",
     "Calculates net present value.": "Oblicza wartość bieżącą netto.",
-    "Closed: {{accountName}}": "Zamknięte: {{accountName}}"
+    "Closed: {{accountName}}": "Zamknięte: {{accountName}}",
+    "category group": "grupa kategorii"
 }
