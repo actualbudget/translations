@@ -346,7 +346,7 @@
     "In our user directory, each user is assigned a specific role that determines their permissions and capabilities within the system.": "W naszym katalogu każdy użytkownik ma przypisaną określoną rolę, która określa jego uprawnienia i możliwości w systemie.",
     "Expand month summary": "Rozwiń podsumowanie miesiąca",
     "Edit user {{userName}}": "Edytuj {{userName}}",
-    "Covered overbudgeted from {{categoryName}}": "Pokryj nadmierny budżet z {{categoryName}}",
+    "Covered overbudgeted from {{categoryName}}": "Pokryto nadmierny budżet z {{categoryName}}",
     "Actual uses <1>SharedArrayBuffer</1> to allow usage from multiple tabs at once and to ensure correct behavior when switching files. While it can run without access to<3>SharedArrayBuffer</3>, you may encounter data loss or notice multiple budget files being merged with each other.": "Actual używa <1>SharedArrayBuffer</1>, aby umożliwić korzystanie z wielu kart jednocześnie i zapewnić prawidłowe zachowanie podczas przełączania plików. Chociaż może działać bez dostępu do<3>SharedArrayBuffer</3>, możesz spotkać się z utratą danych lub zauważyć, że wiele plików budżetowych jest ze sobą scalanych.",
     "Cash Flow": "Przepływ środków",
     "Choose Report": "Wybierz raport",
