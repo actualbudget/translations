@@ -1886,5 +1886,6 @@
     "Change category limit": "Cambiar límite de categoría",
     "Change granularity": "Cambiar grado de detalle",
     "Chilean Peso": "Peso chileno",
-    "Age of Money Report": "Informe de edad del dinero"
+    "Age of Money Report": "Informe de edad del dinero",
+    "There was an error discovering the tags. Please try again.": "Se ha producido un error al detectar las etiquetas. Inténtalo de nuevo."
 }
