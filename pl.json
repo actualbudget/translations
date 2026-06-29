@@ -1581,5 +1581,6 @@
     "All <1>cover schedule</1> and <3>save by date</3> automations must use the same priority": "Wszystkie automatyzacje typu <1>harmonogram pokrycia</1> i <3>termin zapisu</3> muszą mieć ten sam priorytet",
     "Add a balance limit automation to set the refill target.": "Dodaj automatyzację limitu salda, aby ustawić docelową kwotę zasilenia.",
     "Calculates distance between dates.": "Oblicza odstęp między datami.",
-    "Boolean reconciled status. TRUE if transaction is reconciled, FALSE otherwise.": "Status rozliczenia transakcji. PRAWDA, jeżeli transakcja została zaksięgowana, FAŁSZ w przeciwnym wypadku"
+    "Boolean reconciled status. TRUE if transaction is reconciled, FALSE otherwise.": "Status rozliczenia transakcji. PRAWDA, jeżeli transakcja została zaksięgowana, FAŁSZ w przeciwnym wypadku",
+    "Budget {{percent}}% of available funds to budget this month": "Przeznacz {{percent}}% dostępnych środków do budżetu w tym miesiącu"
 }
