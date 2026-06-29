@@ -1456,5 +1456,6 @@
     "Your password or something else has changed with your bank and you need to login again.": "Twoje hasło lub inne dane w banku uległy zmianie i musisz zalogować się ponownie.",
     "Find": "Znajdź",
     "Light": "Jasny",
-    "Light theme": "Jasny motyw"
+    "Light theme": "Jasny motyw",
+    "{{percent}}% must be between 0 and 100": "{{percent}}% musi być wartością między 0 a 100"
 }
