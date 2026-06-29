@@ -1566,5 +1566,17 @@
     "Crossover Point": "Punkt Przecięcia",
     "Custom CSS is active": "Niestandardowy CSS jest aktywny",
     "Custom CSS override active — click to edit": "Aktywne niestandardowe nadpisanie CSS — kliknij, aby edytować",
-    "Custom theme": "Motyw niestandardowy"
+    "Custom theme": "Motyw niestandardowy",
+    "→ Stable": "→ Stabilne",
+    "↑ Improving": "↑ Poprawa",
+    "↓ Declining": "↓ Spadek",
+    "<0><0>What is a Sankey plot?</0></0><1>A Sankey plot visualizes the flow of quantities between multiple categories, emphasizing the distribution and proportional relationships of data streams.</1><2><0>View options:</0></2><3><0><0><0>Spent:</0> Displays actual spending by category from transactions.</0><1><0>Budgeted:</0> Shows how your budget is allocated across categories.</1></0><1>Disclaimer:</1> A Sankey chart cannot directly represent negative numbers. In some cases, such as when funds are reallocated from categories with negative budgeting (e.g. using savings to cover overspending), the chart structure may differ from the main budget overview. As a result, some category totals and flows in this diagram may not exactly match the summary figures elsewhere in the app.</3>": "<0><0>Czym jest wykres Sankeya?</0></0><1>Wykres Sankeya wizualizuje przepływ wielkości między wieloma kategoriami, podkreślając rozkład i relacje proporcjonalne strumieni danych.</1><2><0>Opcje widoku:</0></2><3><0><0><0>Wydane:</0> Wyświetla rzeczywiste wydatki według kategorii na podstawie transakcji.</0><1><0>Budżetowane:</0> Pokazuje, jak Twój budżet jest rozdzielony między kategorie.</1></0><1>Zastrzeżenie:</1> Wykres Sankeya nie może bezpośrednio przedstawiać liczb ujemnych. W niektórych przypadkach, na przykład gdy środki są przeksięgowywane z kategorii z ujemnym budżetem (np. używanie oszczędności na pokrycie przekroczeń), struktura wykresu może różnić się od głównego przeglądu budżetu. W rezultacie niektóre sumy kategorii i przepływy na tym diagramie mogą nie dokładnie odpowiadać wartościom podsumowującym w innych miejscach aplikacji.</3>",
+    "A balance cap on its own does nothing. Add a contributing automation (such as a fixed amount, save by date, or whatever is left) so the cap has something to clamp.": "Sam limit salda nic nie daje. Należy dodać odpowiednią funkcję automatyczną (np. stałą kwotę, kwotę do daty lub pozostałą kwotę), aby limit miał co ograniczać.",
+    "A higher Age of Money means you're spending older money, which indicates you're living on last month's income rather than paycheck-to-paycheck. An age of 30 days or more is considered ideal—it means you're typically spending money you earned a month ago.": "Wyższy wskaźnik „wieku pieniędzy” oznacza, że wydajesz pieniądze, które zarobiłeś wcześniej, co wskazuje, że żyjesz z dochodów z poprzedniego miesiąca, a nie z wypłaty do wypłaty. Za idealny uważa się wskaźnik wynoszący 30 dni lub więcej – oznacza to, że zazwyczaj wydajesz pieniądze zarobione miesiąc temu.",
+    "Actual couldn't load a critical backend worker. Reload the page to try again; if the problem persists, do a hard refresh to clear any stale cached assets.": "Nie udało się załadować kluczowego modułu roboczego. Odśwież stronę, aby spróbować ponownie; jeśli problem nadal występuje, wykonaj twarde odświeżenie, aby usunąć nieaktualne zasoby z pamięci podręcznej.",
+    "Adjustment out of range": "Wartość poza zakresem",
+    "Age of Money": "Wiek pieniądza",
+    "Age of Money Report": "Raport „Wiek pieniądza”",
+    "All": "Wszystkie",
+    "All <1>cover schedule</1> and <3>save by date</3> automations must use the same priority": "Wszystkie automatyzacje typu <1>harmonogram pokrycia</1> i <3>termin zapisu</3> muszą mieć ten sam priorytet"
 }
