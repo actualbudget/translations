@@ -1578,5 +1578,7 @@
     "Age of Money": "Wiek pieniądza",
     "Age of Money Report": "Raport „Wiek pieniądza”",
     "All": "Wszystkie",
-    "All <1>cover schedule</1> and <3>save by date</3> automations must use the same priority": "Wszystkie automatyzacje typu <1>harmonogram pokrycia</1> i <3>termin zapisu</3> muszą mieć ten sam priorytet"
+    "All <1>cover schedule</1> and <3>save by date</3> automations must use the same priority": "Wszystkie automatyzacje typu <1>harmonogram pokrycia</1> i <3>termin zapisu</3> muszą mieć ten sam priorytet",
+    "Add a balance limit automation to set the refill target.": "Dodaj automatyzację limitu salda, aby ustawić docelową kwotę zasilenia.",
+    "Calculates distance between dates.": "Oblicza odstęp między datami."
 }
