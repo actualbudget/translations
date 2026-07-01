@@ -1633,7 +1633,6 @@
     "Returns the product of all numbers.": "Restituisce il prodotto di tutti i numeri.",
     "Returns the sine of an angle.": "Restituisce il seno di un angolo.",
     "Returns the sum of all numbers in a range.": "Restituisce la somma di tutti i numeri in un intervallo.",
-    "Returns the sum of all numbers.": "Restituisce la somma di tutti i numeri.",
     "Returns the tangent of an angle.": "Restituisce la tangente di un angolo.",
     "Returns the year from a date.": "Restituisce l'anno da una data.",
     "Returns TRUE if all arguments are TRUE.": "Restituisce TRUE se tutti gli argomenti sono TRUE.",
