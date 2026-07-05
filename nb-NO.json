@@ -1068,7 +1068,6 @@
     "Query Definitions": "Spørringsdefinisjoner",
     "Query name (e.g., 'expenses', 'income')": "Spørringsnavn (f.eks. ‘utgifter’, ‘inntekt’)",
     "Query with this name already exists": "Spørring med dette navnet eksisterer allerede",
-    "QUERY('{queryName}')": "QUERY(‘{queryName}’)",
     "Range:": "Område:",
     "Rate limit exceeded for this item. Please try again later.": "Hastighetsgrense overskredet for dette elementet. Vennligst prøv igjen senere.",
     "Reauthorize": "Reautoriser",

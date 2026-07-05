@@ -1722,8 +1722,6 @@
     "Paste the JSON configuration below:": "Cole a configuração JSON abaixo:",
     "Payee {{oldName}} renamed to {{newName}}": "Beneficiário {{oldName}} renomeado para {{newName}}",
     "Please select a dashboard to save the report": "Por favor selecione um dashboard para salvar o relatório",
-    "Queries allow you to reference filtered transaction data in your formulas using QUERY('queryName') or QUERY_COUNT('queryName')": "Consultas permitem que você referencie dados de transações filtradas em suas fórmulas usando QUERY(‘queryName’) ou QUERY_COUNT(‘queryName’)",
-    "QUERY('{queryName}')": "CONSULTA('{queryName}')",
     "Refill to balance limit": "Completar até o limite de saldo",
     "Returns current date.": "Mostra a data atual.",
     "Returns date as number of days since null date.": "Mostra a data como número de dias desde a data base.",
