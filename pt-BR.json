@@ -1852,7 +1852,7 @@
     "Stacked": "Acumulado",
     "Guatemalan Quetzal": "Quetzal Guatemalteco",
     "How past expenses are projected into the future.<1></1><2></2>Hampel Filtered Median: Filters out outliers before calculating the median expense.<4></4><5></5>Median: Uses the median of all historical expenses without filtering.<7></7><8></8>Mean: Uses the average of all historical expenses.": "Como as despesas passadas são projetadas para o futuro.<1></1><2></2>Mediana Filtrada de Hampel: Remove valores atípicos antes de calcular a mediana das despesas.<4></4><5></5>Mediana: Usa a mediana de todas as despesas históricas sem filtragem.<7></7><8></8>Média: Usa a média de todas as despesas históricas.",
-    "Target Life Savings": "Meta de Poupança da Vida",
+    "Target Life Savings": "Meta de Investimentos na Vida",
     "South Korean Won": "Won Sul-Coreano",
     "{{days}} days": "{{days}} dias",
     "→ Stable": "→ Estável",
@@ -2042,5 +2042,7 @@
     "{{categoryName}} budget copied until year end.": "{{categoryName}} orçamento copiado até o final do ano.",
     "{{count}} scheduled transactions included_one": "{{count}} transações agendadas incluídas",
     "{{count}} scheduled transactions included_many": "{{count}} transações agendadas incluídas",
-    "{{count}} scheduled transactions included_other": "{{count}} transações agendadas incluídas"
+    "{{count}} scheduled transactions included_other": "{{count}} transações agendadas incluídas",
+    "Cover schedule": "Cobrir agendamento",
+    "Divisor": "Divisor"
 }
