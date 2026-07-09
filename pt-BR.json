@@ -2035,5 +2035,12 @@
     "Ending": "Final",
     "Ending Balance": "Saldo final",
     "Every": "A cada",
-    "Example: budget for Christmas presents by December, with shopping starting in March.": "Exemplo: orçar presentes de Natal até dezembro, começando as compras em março."
+    "Example: budget for Christmas presents by December, with shopping starting in March.": "Exemplo: orçar presentes de Natal até dezembro, começando as compras em março.",
+    "{{amount}} / day": "{{amount}} / dia",
+    "{{amount}} / month": "{{amount}} / mês",
+    "{{amount}} / week": "{{amount}} / semana",
+    "{{categoryName}} budget copied until year end.": "{{categoryName}} orçamento copiado até o final do ano.",
+    "{{count}} scheduled transactions included_one": "{{count}} transações agendadas incluídas",
+    "{{count}} scheduled transactions included_many": "{{count}} transações agendadas incluídas",
+    "{{count}} scheduled transactions included_other": "{{count}} transações agendadas incluídas"
 }
