@@ -1723,7 +1723,7 @@
     "Payee {{oldName}} renamed to {{newName}}": "Beneficiário {{oldName}} renomeado para {{newName}}",
     "Please select a dashboard to save the report": "Por favor selecione um dashboard para salvar o relatório",
     "Refill to balance limit": "Completar até o limite de saldo",
-    "Returns current date.": "Mostra a data atual.",
+    "Returns current date.": "Retorna a data atual.",
     "Returns date as number of days since null date.": "Mostra a data como número de dias desde a data base.",
     "Returns date shifted by specified months.": "Mostra a data ajustada pelo número de meses especificado.",
     "Returns day of week (1-7).": "Mostra o dia da semana (1-7).",
