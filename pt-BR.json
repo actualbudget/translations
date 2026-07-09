@@ -1956,5 +1956,14 @@
     "Your budget data is encrypted with a key that only you have before sending it out to the cloud. Local data remains unencrypted so if you forget your password you can re-encrypt it. Note: bank sync operations and secrets stored on the server are not covered by end-to-end encryption.": "Seus dados de orçamento são criptografados com uma chave que só você possui antes de serem enviados para a nuvem. Os dados locais permanecem descriptografados para que, se você esquecer sua senha, possa criptografá-los novamente. Observação: as operações de sincronização bancária e os segredos armazenados no servidor não são cobertos pela criptografia de ponta a ponta.",
     "Filters on <1>{ignoredFilterFieldsList}</1> are ignored in <4>Budgeted</4> mode.": "Filtros em <1>{ignoredFilterFieldsList}</1> são ignorados no modo <4>Orçado</4>.",
     "(beta)": "(fase de testes)",
-    "(filtered running total)": "(total acumulado filtrado)"
+    "(filtered running total)": "(total acumulado filtrado)",
+    "{{month}} has already passed": "{{month}} já passou",
+    "{{percent}}% must be between 0 and 100": "{{percent}}% deve estar entre 0 e 100",
+    "{{provider}} menu": "{{provider}} menu",
+    "% of income": "% da renda",
+    "Add a note (optional)": "Adicionar uma nota (opcional)",
+    "Add an automation": "Adicionar uma automação",
+    "Automation type": "Tipo de automação",
+    "Automations": "Automações",
+    "Balance cap": "Limite de balanço"
 }
