@@ -1887,5 +1887,10 @@
     "There was an error discovering the tags. Please try again.": "Se ha producido un error al detectar las etiquetas. Inténtalo de nuevo.",
     "(decreased by {{amount}})": "(reducido en {{amount}})",
     "(decreased by {{percent}}%)": "(reducido un {{percent}}%)",
-    "(beta)": "(beta)"
+    "(beta)": "(beta)",
+    "(increased by {{amount}})": "(incrementado en {{amount}})",
+    "(increased by {{percent}}%)": "(incrementado un {{percent}}%)",
+    "{{amount}} / day": "{{amount}} / día",
+    "{{amount}} / month": "{{amount}} / mes",
+    "{{amount}} / week": "{{amount}} / semana"
 }
