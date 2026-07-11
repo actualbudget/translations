@@ -155,5 +155,6 @@
     "<0>Reset sync</0> is only available when syncing is enabled.": "<0>Reiniciar sincronização</0> Só está disponível quando a sincronização está ativada.",
     "(projected)": "(projetado)",
     "{{years}} years": "{{years}} anos",
-    ":root {\n  --color-sidebarItemSelected: #007bff;\n}": ":root {\n  --color-sidebarItemSelected: #007bff;\n}"
+    ":root {\n  --color-sidebarItemSelected: #007bff;\n}": ":root {\n  --color-sidebarItemSelected: #007bff;\n}",
+    "<0>{{category}}</0> is used by existing transactions.": "<0>{{category}}</0> é usado por transações existentes."
 }
