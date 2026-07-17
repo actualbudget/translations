@@ -151,5 +151,7 @@
     "Amount left: {{amount}}": "Kalan miktar: {{amount}}",
     "After disabling OpenID all sessions will be closed": "OpenID'yi devre dışı bıraktıktan sonra tüm oturumlar kapatılacaktır",
     "After enabling OpenID all sessions will be closed": "OpenID'yi etkinleştirdikten sonra tüm oturumlar kapatılacaktır",
-    "allocate": "ayır"
+    "allocate": "ayır",
+    "Category learning disabled": "Kategori öğrenme devre dışı",
+    "Category learning settings": "Kategori öğrenme ayarları"
 }
