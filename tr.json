@@ -124,5 +124,7 @@
     "Account sync": "Hesap eşzamanlama",
     "<0>Sync ID:</0> {{syncId}}": "<0>Senkronizasyon kimliği:</0> {{syncId}}",
     "<allocatedAmount /> <italic>of <totalAmount /></italic>": "<italic><totalAmount />'nın</italic> <allocatedAmount />'sı",
-    "Account not found": "Hesap bulunamadı"
+    "Account not found": "Hesap bulunamadı",
+    "\"before\" or \"after\" (optional, uses app settings)": "“önce” veya “sonra” (isteğe bağlı, uygulama ayarlarını kullanır)",
+    "(beta)": "(beta)"
 }
