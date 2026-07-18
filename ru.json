@@ -1017,5 +1017,10 @@
     "Bar chart": "Столбчатая диаграмма",
     "Budget <2>{{amount}}</2> every {{count}} days_one": "Бюджет <2>{{amount}}</2> каждый {{count}} день",
     "Budget <2>{{amount}}</2> every {{count}} days_few": "Бюджет <2>{{amount}}</2> каждые {{count}} дня",
-    "Budget <2>{{amount}}</2> every {{count}} days_many": "Бюджет <2>{{amount}}</2> каждые {{count}} дней"
+    "Budget <2>{{amount}}</2> every {{count}} days_many": "Бюджет <2>{{amount}}</2> каждые {{count}} дней",
+    "Add long-term goal": "Добавить долгосрочную цель",
+    "Add to a pool": "Добавить в пул",
+    "All future": "Все будущие",
+    "Balance cap needs a contributing automation": "Для установки лимита баланса необходимо создать правило автоматизации",
+    "Balance forecast": "Прогнозируемый баланс"
 }
