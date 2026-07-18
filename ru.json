@@ -1022,5 +1022,6 @@
     "Add to a pool": "Добавить в пул",
     "All future": "Все будущие",
     "Balance cap needs a contributing automation": "Для установки лимита баланса необходимо создать правило автоматизации",
-    "Balance forecast": "Прогнозируемый баланс"
+    "Balance forecast": "Прогнозируемый баланс",
+    "AVERAGE BUDGETED": "СРЕДНЕЕ В БЮДЖЕТЕ"
 }
