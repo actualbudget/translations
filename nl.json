@@ -1675,5 +1675,19 @@
     "Your budget data is encrypted with a key that only you have before sending it out to the cloud. Local data remains unencrypted so if you forget your password you can re-encrypt it. Note: bank sync operations and secrets stored on the server are not covered by end-to-end encryption.": "Uw budgetgegevens worden versleuteld met een sleutel die alleen u bezit, voordat ze naar de cloud worden verzonden. Lokale gegevens blijven onversleuteld, zodat u ze opnieuw kunt versleutelen als u uw wachtwoord bent vergeten. Let op: banksynchronisaties en op de server opgeslagen geheimen vallen niet onder end-to-end-versleuteling.",
     "Your percent automations add up to more than 100% and will be capped at 100%.": "Je automatiseringspercentages komen samen uit op meer dan 100% en worden beperkt tot 100%.",
     "Your target retirement income as a percentage of projected expenses.<1></1><2></2>100% means you need retirement income equal to your current projected expenses.<4></4>Values above 100% mean you plan to spend more in retirement.<6></6>Values below 100% mean you plan to spend less in retirement.<8></8><9></9>The graph shows both the projected expenses (solid red line) and your target income (dashed red line).": "Uw beoogde pensioeninkomen als percentage van de verwachte uitgaven.<1></1><2></2>100% betekent dat u een pensioeninkomen nodig hebt dat gelijk is aan uw huidige verwachte uitgaven.<4></4>Waarden boven 100% betekenen dat u van plan bent om tijdens uw pensioen meer uit te geven.<6></6>Waarden onder 100% betekenen dat u van plan bent om tijdens uw pensioen minder uit te geven. <8></8><9></9>De grafiek toont zowel de verwachte uitgaven (doorlopende rode lijn) als uw streefinkomen (gestreepte rode lijn).",
-    "Yuan Renminbi": "Chinese yuan"
+    "Yuan Renminbi": "Chinese yuan",
+    "Add new dashboard": "Voeg nieuw dashboard toe",
+    "Add new split - {{amount}} left": "Voeg nieuwe splitsing toe - {{amount}} over",
+    "Add new transaction": "Voeg nieuwe transactie toe",
+    "Add Query": "Voeg query toe",
+    "Add Split": "Voeg splitsing toe",
+    "After amount": "Na bedrag",
+    "An unknown error occurred while importing. Please report this as a new issue on GitHub.": "Er is een onbekende fout opgetreden bij het importeren. Meldt dit probleem a.u.b. op GitHub.",
+    "Converts text to a number.": "Converteert tekst naar een getal.",
+    "Converts text to lowercase.": "Converteert tekst naar kleine letters.",
+    "Converts text to uppercase.": "Converteert tekst naar hoofdletters.",
+    "Converts value to a number.": "Converteert waarde naar een getal.",
+    "Copy a previous month": "Kopieer een voorgaande maand",
+    "Copy to dashboard": "Kopieer naar dashboard",
+    "Costa Rican Colón": "Costa Ricaanse Colón"
 }
