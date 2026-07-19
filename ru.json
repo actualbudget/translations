@@ -1253,5 +1253,11 @@
     "Include current Month in live range": "Включить текущий месяц в активный период",
     "Include current period in live range": "Включить текущий период в активный диапазон данных",
     "Include current Year in live range": "Включить текущий год в активный период данных",
-    "Income": "Доход"
+    "Income": "Доход",
+    "Imported Payee": "Импортированный получатель",
+    "In order to enable bank sync via GoCardless (only for EU banks) you will need to create access credentials. This can be done by creating an account with <2>GoCardless</2>.": "Для синхронизации банков через GoCardless (только для банков ЕС) вам необходимо будет создать учетные данные доступа. Это может быть сделано путем создания учетной записи с <2>GoCardless</2>.",
+    "In order to enable bank sync via Pluggy.ai (only for Brazilian banks) you will need to create access credentials. This can be done by creating an account with <2>Pluggy.ai</2>.": "Для синхронизации банка через Pluggy.ai (только для бразильских банков) вам нужно будет создать учетные данные доступа. Это можно сделать, создав учетную запись с <2>Pluggy.ai</2>.",
+    "In order to enable bank sync via SimpleFIN (only for North American banks), you will need to create a token. This can be done by creating an account with <2>SimpleFIN</2>.": "Для синхронизации банков через SimpleFIN (только для североамериканских банков) вам нужно будет создать токен. Это может быть сделано путем создания учетной записи с <2>SimpleFIN</2>.",
+    "In our user directory, each user is assigned a specific role that determines their permissions and capabilities within the system.": "В нашем пользовательском каталоге каждому пользователю назначается определенная роль, которая определяет его права и возможности в системе.",
+    "Include current Month": "Включая текущий месяц"
 }
