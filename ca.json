@@ -1876,7 +1876,6 @@
     "New Taiwan Dollar": "Nou dòlar taiwanès",
     "No payee": "Sense beneficiari",
     "Opening balance with extracted parameters from {{queryName}}.": "Saldo inicial amb paràmetres extrets de {{queryName}}.",
-    "Payee Locations": "Ubicacions dels beneficiaris",
     "Refill to balance limit": "Reomplir fins al límit de saldo",
     "Server Sync": "Sincronització del servidor",
     "Set a balance limit of {{daily}}/day (hard cap)": "Definir un límit de saldo de {{daily}}/dia (límit màxim)",

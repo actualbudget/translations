@@ -1334,7 +1334,6 @@
     "Paste the JSON configuration below:": "在下面粘贴JSON配置：",
     "Payee \"{{name}}\" deleted successfully": "收款人 \"{{name}}\" 删除成功",
     "Payee {{oldName}} renamed to {{newName}}": "收款人 {{oldName}} 重命名为 {{newName}}",
-    "Payee Locations": "收款人地址",
     "Payee name": "收款人名称",
     "Philippine Peso": "菲律宾比索",
     "Please enter a value for the username; the field cannot be empty.": "请输入一个用户名值；该字段不能为空。",

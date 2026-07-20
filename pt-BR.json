@@ -1891,7 +1891,6 @@
     "Note: Some expenses could not be matched to income (spending exceeded income in this period)": "Nota: Não foi possível associar todas as despesas a uma fonte de renda, pois os gastos foram maiores do que o valor recebido neste período",
     "Only import transactions since:": "Somente importar transações desde:",
     "Opening balance with extracted parameters from {{queryName}}.": "Saldo inicial com parâmetros extraídos de {{queryName}}.",
-    "Payee Locations": "Localização dos Beneficiários",
     "Quoted account id or exact account name": "ID da conta entre aspas ou nome exato",
     "Redacted Script": "Script com Dados Ocultos",
     "Returns the value of PI.": "Fornece o valor de PI.",
