@@ -1562,7 +1562,6 @@
     "Actual couldn't load a critical backend worker. Reload the page to try again; if the problem persists, do a hard refresh to clear any stale cached assets.": "Nie udało się załadować kluczowego modułu roboczego. Odśwież stronę, aby spróbować ponownie; jeśli problem nadal występuje, wykonaj twarde odświeżenie, aby usunąć nieaktualne zasoby z pamięci podręcznej.",
     "Adjustment out of range": "Wartość poza zakresem",
     "Age of Money": "Wiek pieniądza",
-    "Age of Money Report": "Raport „Wiek pieniądza”",
     "All": "Wszystkie",
     "All <1>cover schedule</1> and <3>save by date</3> automations must use the same priority": "Wszystkie automatyzacje typu <1>harmonogram pokrycia</1> i <3>termin zapisu</3> muszą mieć ten sam priorytet",
     "Add a balance limit automation to set the refill target.": "Dodaj automatyzację limitu salda, aby ustawić docelową kwotę zasilenia.",

@@ -971,7 +971,6 @@
     "30 days": "30 дней",
     "Additional CSS overrides:": "Дополнительные переопределения CSS:",
     "Age of Money": "Эпоха денег",
-    "Age of Money Report": "Отчет об эпохе денег",
     "Age of Money shows how many days, on average, your money sits in your budget before you spend it. It measures the gap between when you earn money and when you spend it.": "«Возраст денег» показывает, сколько дней в среднем ваши деньги лежат в бюджете, прежде чем вы их потратите. Этот показатель отражает разницу во времени между получением и расходованием денег.",
     "Age of Money: {{days}} days": "Возраст денег: {{days}} дней",
     "Automatically create transactions in the specified account": "Автоматическое создание транзакций в указанном аккаунте",
