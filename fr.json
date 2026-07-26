@@ -1869,5 +1869,6 @@
     "A share of this month's or last month's income.": "Une part de revenu de ce mois-ci ou du mois dernier.",
     "An unexpected error occurred.": "Une erreur inattendue s'est produite.",
     "{{month}} has already passed": "{{month}} est déjà passé",
-    "{{percent}}% must be between 0 and 100": "{{percent}}% doit être compris entre 0 et 100"
+    "{{percent}}% must be between 0 and 100": "{{percent}}% doit être compris entre 0 et 100",
+    "Automatically create transactions in the specified account": "Créer automatiquement des transactions dans le compte spécifié"
 }
