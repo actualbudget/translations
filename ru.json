@@ -1257,5 +1257,6 @@
     "In order to enable bank sync via SimpleFIN (only for North American banks), you will need to create a token. This can be done by creating an account with <2>SimpleFIN</2>.": "Для синхронизации банков через SimpleFIN (только для североамериканских банков) вам нужно будет создать токен. Это может быть сделано путем создания учетной записи с <2>SimpleFIN</2>.",
     "In our user directory, each user is assigned a specific role that determines their permissions and capabilities within the system.": "В нашем пользовательском каталоге каждому пользователю назначается определенная роль, которая определяет его права и возможности в системе.",
     "Include current Month": "Включая текущий месяц",
-    "\"before\" or \"after\" (optional, uses app settings)": "\"до\" или \"после\" (необязательное, используются настройки приложения)"
+    "\"before\" or \"after\" (optional, uses app settings)": "\"до\" или \"после\" (необязательное, используются настройки приложения)",
+    "An error occurred while setting the secret. Please try again. (ref: {{error}})": "Возникла ошибка при установке значения секрета. Повторите попытку. (см: {{error}}"
 }
