@@ -809,7 +809,6 @@
     "Fixed {{count}} splits with the wrong cleared flag._other": "Fixade {{count}} felaktigt flaggade delningar.",
     "Fixed {{count}} transfers._one": "Fixade {{count}} överföring.",
     "Fixed {{count}} transfers._other": "Fixade {{count}} överföringar.",
-    "Hide \"cleared\" checkboxes": "Göm kryssrutor för ”avstämning”",
     "If this error persists, please get <2>in touch</2> so it can be investigated.": "Ifall felet kvarstår, var god <2>kontakta oss</2> så det kan undersökas.",
     "If you can't update Actual at this time you can find the latest release at <2>app.actualbudget.org</2>. You can use it until your client is updated.": "Ifall du inte kan uppdatera Actual nu hittar du den senaste uppdateringen på <2>app.actualbudget.org</2>. Du kan använda den tills att din klient har uppdaterats.",
     "If you lost your password, you likely still have access to your server to manually reset it.": "Ifall du glömt ditt lösenord kan du återställa det manuellt genom din server, som du troligen har åtkomst till.",
