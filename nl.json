@@ -1685,5 +1685,6 @@
     "Copy a previous month": "Kopieer een voorgaande maand",
     "Copy to dashboard": "Kopieer naar dashboard",
     "Costa Rican Colón": "Costa Ricaanse Colón",
-    "Thai Baht": "Thaise baht"
+    "Thai Baht": "Thaise baht",
+    "{{percent}}% must be between 0 and 100": "{{percent}}% moet tussen 0 en 100 zijn"
 }
