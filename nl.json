@@ -1189,7 +1189,7 @@
     "Account transaction management": "Rekeningtransactiebeheer",
     "Account transaction selection": "Rekeningtransactie selectie",
     "<0>Are you sure you want to delete it?</0> If so, you must select another category to transfer existing transactions and balance to.": "<0>Weet je zeker dat je dit wilt verwijderen?</0> Zo ja dan moet je een andere categorie selecteren waar de bestaande transacties en balans naar worden overgeboekt.",
-    "(projected)": "(verwachte)",
+    "(projected)": "(voorzien)",
     "(beta)": "(bèta)",
     "(decreased by {{amount}})": "(verminderd met {{amount}})",
     "(decreased by {{percent}}%)": "(verminderd met {{percent}}%)",
