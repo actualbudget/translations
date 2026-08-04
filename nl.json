@@ -1066,8 +1066,8 @@
     "(after weekend)": "(na het weekend)",
     "{{categoryGroupName}} expense group categories": "{{categoryGroupName}} uitgave groep categorieën",
     "{{categoryName}} shortcuts": "{{categoryName}} snelkoppelingen",
-    "{{count}} uncategorized transactions_one": "{{count}} transactie zonder categorie",
-    "{{count}} uncategorized transactions_other": "{{count}} transacties zonder categorie",
+    "{{count}} uncategorized transactions_one": "{{count}} niet gecategoriseerde transactie",
+    "{{count}} uncategorized transactions_other": "{{count}} niet gecategoriseerde transacties",
     "Hide": "Verberg",
     "Transaction": "Transactie",
     "{{scheduleName}} is due {{distanceFromNow}} ({{formattedDate}})": "{{scheduleName}} vervalt op{{distanceFromNow}} ({{formattedDate}})",
@@ -1213,7 +1213,7 @@
     "Available funds to budget": "Beschikbare middelen om te budgetteren",
     "You have {{count}} uncategorized transactions (<3>{{amount}}</3>)_one": "U heeft {{count}} ongecategoriseerde transactie (<3>{{amount}}</3>)",
     "You have {{count}} uncategorized transactions (<3>{{amount}}</3>)_other": "U heeft {{count}} ongecategoriseerde transacties (<3>{{amount}}</3>)",
-    "an equal portion of the remainder": "een gelijk deel van het restant",
+    "an equal portion of the remainder": "een gelijk deel van wat overblijft",
     "An error occurred while linking your account, sorry! The potential issue could be: {{ message }}": "Er is een fout opgetreden bij het koppelen van uw account, sorry! Een mogelijke oorzaak is: {{ message }}",
     "Average of previous months": "Gemiddelde van voorgaande maanden",
     "Budget {{percent}}% of available funds to budget this month": "Budget {{percent}}% van beschikbare middelen om te budgetteren deze maand",
@@ -1686,5 +1686,8 @@
     "Copy to dashboard": "Kopieer naar dashboard",
     "Costa Rican Colón": "Costa Ricaanse Colón",
     "Thai Baht": "Thaise baht",
-    "{{percent}}% must be between 0 and 100": "{{percent}}% moet tussen 0 en 100 zijn"
+    "{{percent}}% must be between 0 and 100": "{{percent}}% moet tussen 0 en 100 zijn",
+    "Are you sure you want to delete the transaction?": "Weet je zeker dat je de transactie wilt verwijderen?",
+    "Are you sure you want to delete this rule?": "Weet je zeker dat je deze regel wilt verwijderen?",
+    "Are you sure you want to unlink <1>{accountName}</1>?": "Weet je zeker dat je <1>{Account name}</> wilt ontkoppelen?"
 }
