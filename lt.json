@@ -36,5 +36,6 @@
     "<0>{{category}}</0> is used by existing transactions.": "<0>{{category}}</0> yra naudojamas egzistuojančio pervedimo.",
     "<0><0>How is cash flow calculated?</0></0><1>Cash flow shows the balance of your budgeted accounts over time, and the amount of expenses/income each day or month. Your budgeted accounts are considered to be \"cash on hand,\" so this gives you a picture of how available money fluctuates.</1>": "<0><0>Kaip apskaičiuojamas pinigų srautas?</0></0><1>Pinigų srautas parodo jūsų biudžeto sąskaitų likutį per tam tikrą laiką ir išlaidų / pajamų sumą kiekvieną dieną arba mėnesį. Jūsų biudžeto sąskaitos yra laikomos „turimais grynaisiais pinigais“, todėl tai suteikia jums vaizdą, kaip kinta turimų pinigų kiekis.</1>",
     "<0>Actual</0> is a super fast privacy-focused app for managing your finances.": "<0>Actual</0> yra labai greita, į privatumą orientuota programėlė skirta valdyti savo finansus.",
-    "<0>Are you sure you want to delete it?</0> If so, you must select another category to transfer existing transactions and balance to.": "<0>Ar tikrai norite ištrinti?</0> Jei taip, privalote pasirinkti kitą kategoriją į kurią pervesite egzituojančias operacijas ir likutį."
+    "<0>Are you sure you want to delete it?</0> If so, you must select another category to transfer existing transactions and balance to.": "<0>Ar tikrai norite ištrinti?</0> Jei taip, privalote pasirinkti kitą kategoriją į kurią pervesite egzituojančias operacijas ir likutį.",
+    "(projected)": "(numatytas)"
 }
