@@ -1869,5 +1869,8 @@
     "{{month}} has already passed": "{{month}} est déjà passé",
     "{{percent}}% must be between 0 and 100": "{{percent}}% doit être compris entre 0 et 100",
     "Automatically create transactions in the specified account": "Créer automatiquement des transactions dans le compte spécifié",
-    "(filtered running total)": "(résultat provisoire filtré)"
+    "(filtered running total)": "(résultat provisoire filtré)",
+    "\"before\" or \"after\" (optional, uses app settings)": "« avant » ou « après » (facultatif, utilise les paramètres de l'application)",
+    "{{amount}} remained locked in pots that had not reached their access age.": "{{amount}} sont restés bloqués dans des enveloppes n'ayant pas atteint l'âge d'accès.",
+    "{{failedCount}} of {{total}} scenarios ran out of money at age {{age}}": "{{failedCount}} fde  {{total}} les scénarios ont épuisé leurs fonds à l'âge de {{age}}"
 }
