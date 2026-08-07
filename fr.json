@@ -1872,5 +1872,8 @@
     "(filtered running total)": "(résultat provisoire filtré)",
     "\"before\" or \"after\" (optional, uses app settings)": "« avant » ou « après » (facultatif, utilise les paramètres de l'application)",
     "{{amount}} remained locked in pots that had not reached their access age.": "{{amount}} sont restés bloqués dans des enveloppes n'ayant pas atteint l'âge d'accès.",
-    "{{failedCount}} of {{total}} scenarios ran out of money at age {{age}}": "{{failedCount}} fde  {{total}} les scénarios ont épuisé leurs fonds à l'âge de {{age}}"
+    "{{failedCount}} of {{total}} scenarios ran out of money at age {{age}}": "{{failedCount}} fde  {{total}} les scénarios ont épuisé leurs fonds à l'âge de {{age}}",
+    "{{count}} scheduled transactions included in this date range_one": "{{count}} transaction programmée inclue dans cette plage de dates",
+    "{{count}} scheduled transactions included in this date range_many": "{{count}} transactions programmées incluses dans cette plage de dates",
+    "{{count}} scheduled transactions included in this date range_other": "{{count}} transactions programmées incluses dans cette plage de dates"
 }
