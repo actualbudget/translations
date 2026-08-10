@@ -865,7 +865,7 @@
     "Schedule Name": "Terminplanname",
     "Secret Key:": "Geheimer Schlüssel:",
     "Link to schedule": "Mit Terminplan verbinden",
-    "Show balance": "Zeige Saldo",
+    "Show balance": "Saldo anzeigen",
     "Something went wrong while resetting your file. Please try again.": "Beim Zurücksetzen deiner Datei ist ein Problem aufgetreten. Bitte versuche es erneut.",
     "Syncing... {{count}} accounts remaining_one": "Synchronisiere... ein Konto verbleibend",
     "Syncing... {{count}} accounts remaining_other": "Synchronisiere... {{count}} Konten verbleibend",
