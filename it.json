@@ -1768,5 +1768,7 @@
     "Dashboard not found": "Dashboard non trovata",
     "Delete dashboard": "Cancella dashboard",
     "Install Custom Theme": "Installa un tema personalizzato",
-    "(beta)": "(beta)"
+    "(beta)": "(beta)",
+    "{{month}} has already passed": "{{month}} è già passato",
+    "Automations": "Automazioni"
 }
