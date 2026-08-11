@@ -1767,5 +1767,6 @@
     "Add a balance limit automation to set the refill target.": "Aggiungi un'automazione del limite del saldo per definire l'obiettivo di ricarica.",
     "Dashboard not found": "Dashboard non trovata",
     "Delete dashboard": "Cancella dashboard",
-    "Install Custom Theme": "Installa un tema personalizzato"
+    "Install Custom Theme": "Installa un tema personalizzato",
+    "(beta)": "(beta)"
 }
