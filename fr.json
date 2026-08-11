@@ -1922,5 +1922,15 @@
     "Week": "Semaine",
     "Weekday": "Jour de la semaine",
     "weeks": "semaines",
-    "years": "années"
+    "years": "années",
+    "Change category limit": "Modifier la limite de catégorie",
+    "Change category sort order": "Modifier l'ordre de tri des catégories",
+    "Change granularity": "Changer la granularité",
+    "How is it calculated?": "Comment est-ce calculé ?",
+    "Sankey": "Sankey",
+    "Show as percentages": "Afficher en pourcentages",
+    "Something went wrong loading this section.": "Une erreur s'est produite lors du chargement de cette section.",
+    "Sort all": "Tout trier",
+    "Sort as budget": "Trier par budget",
+    "from": "de"
 }
