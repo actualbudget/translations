@@ -1932,5 +1932,6 @@
     "Something went wrong loading this section.": "Une erreur s'est produite lors du chargement de cette section.",
     "Sort all": "Tout trier",
     "Sort as budget": "Trier par budget",
-    "from": "de"
+    "from": "de",
+    "{{provider}} menu": "Menu {{provider}}"
 }
