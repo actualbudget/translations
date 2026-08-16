@@ -138,7 +138,7 @@
     "Account list": "Список счетов",
     "Access Revocation Incomplete": "Отзыв доступа не завершён",
     "Actual field": "По факту",
-    "<0>Reset sync</0> will remove all local data used to track changes for syncing, and create a fresh sync ID on the server. This file on other devices will have to be re-downloaded to use the new sync ID. Use this if there is a problem with syncing and you want to start fresh.": "<0>Сброс синхронизации</0> удалит все локальные данные, используемые для отслеживания изменений при синхронизации, и создаст новый ID синхронизации на сервере. Этот файл на других устройствах придется загрузить заново, чтобы использовать новый ID синхронизации. Используйте эту функцию, если возникли проблемы с синхронизацией и вы хотите начать с нуля.",
+    "<0>Reset sync</0> will remove all local data used to track changes for syncing, and create a fresh sync ID on the server. This file on other devices will have to be re-downloaded to use the new sync ID. Use this if there is a problem with syncing and you want to start fresh.": "<0>Сбросить синхронизацию</0> Удаляет все локальные данные, используемые для отслеживания изменений для синхронизации, и создаст свежий идентификатор синхронизации на сервере. Этот файл на других устройствах должен быть повторно загружен, чтобы использовать новый идентификатор синхронизации. Используйте это, если есть проблема с синхронизацией, и вы хотите начать все сначала.",
     "{{categoryGroupName}} expense group categories": "Категории группы расходов {{categoryGroupName}}",
     "All time divisor": "Делитель всего времени",
     "Apply budget template": "Применение шаблона бюджета",
