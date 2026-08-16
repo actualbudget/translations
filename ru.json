@@ -112,7 +112,7 @@
     "2 weeks": "2 недели",
     "<0>Sync ID:</0> {{syncId}}": "<0>ID синхронизации:</0> {{syncId}}",
     "(before weekend)": "(перед выходными)",
-    "Add transaction": "Добавить транзакцию",
+    "Add transaction": "Добавить операцию",
     "Add New": "Добавить новую операцию",
     "all transactions": "все транзакции",
     "amount (inflow)": "сумма (приток)",
