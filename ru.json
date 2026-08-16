@@ -501,7 +501,7 @@
     "Syncing... {{count}} accounts remaining_many": "Синхронизация... осталось {{count}} счетов",
     "{isSearching\n                        ? 'No matching shortcuts'\n                        : isInCategory\n                          ? 'No shortcuts in this category'\n                          : 'No matching shortcuts'}": "{isSearching\n                        ? 'Нет подходящих сочетаний клавиш'\n                        : isInCategory\n                          ? 'В этой категории нет сочетаний клавиш'\n                          : 'Нет подходящих сочетаний клавиш'}",
     "App: v{{appVersion}} | Server: {{serverVersion}}": "Версия приложения: {{appVersion}} | Версия сервера: {{serverVersion}}",
-    "Argentinian Peso": "Аргентинское песо",
+    "Argentinian Peso": "Аргентинское Песо",
     "AVERAGE NET": "СРЕДНИЙ ЧИСТЫЙ ДОХОД",
     "AVERAGE SPENDING": "СРЕДНИЙ РАСХОД",
     "Before amount": "До суммы",
