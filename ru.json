@@ -985,7 +985,7 @@
     "(increased by {{percent}}%)": "(увеличено на  {{percent}}%)",
     "{{provider}} menu": "{{provider}} меню",
     "{{month}} has already passed": "{{month}} уже закончился",
-    "(increased by {{amount}})": "(увеличено на {{amount}})",
+    "(increased by {{amount}})": "(вырост на {{amount}})",
     "{{categoryName}} budget copied until year end.": "{{categoryName}} бюджет скопирован до конца года.",
     "{{percent}}% must be between 0 and 100": "{{percent}}% должно быть в диапазоне от 0 до 100",
     "{{currency1}} to {{currency2}}": "{{currency1}} в {{currency2}}",
