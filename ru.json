@@ -1256,5 +1256,17 @@
     "In our user directory, each user is assigned a specific role that determines their permissions and capabilities within the system.": "В нашем пользовательском каталоге каждому пользователю назначается определенная роль, которая определяет его права и возможности в системе.",
     "Include current Month": "Включая текущий месяц",
     "\"before\" or \"after\" (optional, uses app settings)": "\"до\" или \"после\" (необязательное, используются настройки приложения)",
-    "An error occurred while setting the secret. Please try again. (ref: {{error}})": "Возникла ошибка при установке значения секрета. Повторите попытку. (см: {{error}}"
+    "An error occurred while setting the secret. Please try again. (ref: {{error}})": "Возникла ошибка при установке значения секрета. Повторите попытку. (см: {{error}}",
+    "<0>Let's add your first account.</0> Accounts hold your transactions, like everyday spending, savings, credit cards, or cash. You can connect to your bank to import transactions automatically, or add them yourself.": "<0>Давайте добавим ваш первый счёт.</0> Счета содержат ваши транзакции — повседневные расходы, сбережения, кредитные карты или наличные. Вы можете подключиться к своему банку для автоматического импорта транзакций или добавить их вручную.",
+    "Accounts hold your transactions, like everyday spending, savings, credit cards, or cash. Add one to start tracking your money.": "Счета содержат ваши транзакции — повседневные расходы, сбережения, кредитные карты или наличные. Добавьте счёт, чтобы начать отслеживать свои деньги.",
+    "Active in {{count}} scopes_one": "Активна в {{count}} области",
+    "Active in {{count}} scopes_few": "Активны в {{count}} областях",
+    "Active in {{count}} scopes_many": "Активно в {{count}} областях",
+    "active in a pool": "Активно в пуле",
+    "Add your first account": "Добавьте свой первый счёт",
+    "All templates passed! 🎉": "Все шаблоны пройдены! 🎉",
+    "All time transactions": "Все транзакции за всё время",
+    "Allow early spending": "Разрешить досрочное списание",
+    "Angle": "Угол",
+    "Apply to all transaction tables": "Применить все таблицы транзакций"
 }
