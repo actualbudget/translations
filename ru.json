@@ -1269,9 +1269,9 @@
     "Allow early spending": "Разрешить ранние траты",
     "Angle": "Угол",
     "Apply to all transaction tables": "Применить все таблицы транзакций",
-    "{{count}} scheduled transactions included_one": "Включена {{count}} запланированная транзакция",
-    "{{count}} scheduled transactions included_few": "Включено {{count}} запланированные транзакции",
-    "{{count}} scheduled transactions included_many": "Включено {{count}} запланированных транзакций",
+    "{{count}} scheduled transactions included_one": "включено запланированных транзакции {{count}}",
+    "{{count}} scheduled transactions included_few": "включено запланированных транзакции {{count}}",
+    "{{count}} scheduled transactions included_many": "включено запланированных транзакции {{count}}",
     "{{count}} scheduled transactions included in this date range_one": "{{count}} запланированная транзакция включена в этот период",
     "{{count}} scheduled transactions included in this date range_few": "{{count}} запланированные транзакции включены в этот период",
     "{{count}} scheduled transactions included in this date range_many": "{{count}} запланированных транзакций включено в этот период"
