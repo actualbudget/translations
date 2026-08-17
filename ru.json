@@ -1009,7 +1009,7 @@
     "Automation type": "Тип автоматизации",
     "Active in {{scope}}": "Подключен к {{scope}}",
     "Akahu Bank Sync (NZ banks)": "Синхронизация с Akahu Bank (банки Новой Зеландии)",
-    "Balance Forecast Report": "Отчёт о прогнозе баланса",
+    "Balance Forecast Report": "Отчёт о прогнозе остатка средств",
     "Bar chart": "Столбчатая диаграмма",
     "Budget <2>{{amount}}</2> every {{count}} days_one": "Бюджет <2>{{amount}}</2> каждый {{count}} день",
     "Budget <2>{{amount}}</2> every {{count}} days_few": "Бюджет <2>{{amount}}</2> каждые {{count}} дня",
@@ -1362,5 +1362,17 @@
     "Capital preservation trigger (%)": "Триггер сохранения капитала (%)",
     "Cash / money market": "Наличный/денежный рынок",
     "Categories": "Категории",
-    "Categories in {{appName}} work like virtual envelopes: you assign the money you already have to them, then spend from each envelope. This approach is called <4>envelope budgeting</4>. If you prefer, you can switch to <7>tracking budgeting</7> in the settings.": "Категории в {{appName}} работают как виртуальные конверты: вы распределяете по ним уже имеющиеся деньги, а затем тратите из каждого конверта. Такой подход называется <4>конвертным бюджетированием</4>. При желании в настройках можно переключиться на <7>бюджетирование с отслеживанием</7>."
+    "Categories in {{appName}} work like virtual envelopes: you assign the money you already have to them, then spend from each envelope. This approach is called <4>envelope budgeting</4>. If you prefer, you can switch to <7>tracking budgeting</7> in the settings.": "Категории в {{appName}} работают как виртуальные конверты: вы распределяете по ним уже имеющиеся деньги, а затем тратите из каждого конверта. Такой подход называется <4>конвертным бюджетированием</4>. При желании в настройках можно переключиться на <7>бюджетирование с отслеживанием</7>.",
+    "Budget copied until year end.": "Бюджет скопирован до конца года.",
+    "Budget the same amount as {{count}} months ago_one": "Бюджет такой же как {{count}} месяц назад",
+    "Budget the same amount as {{count}} months ago_few": "Бюджет такой же как {{count}} месяца назад",
+    "Budget the same amount as {{count}} months ago_many": "Бюджет такой же как {{count}} месяцев назад",
+    "Completing authorization...": "Выполняется завершение авторизации...",
+    "Configuration": "Конфигурация",
+    "Configured": "Настроено",
+    "Copy until year end": "Скопировать до конца года",
+    "Could not validate the credentials. Please check your Application ID and secret key.": "Не удалось пройти аутентификацию. Проверьте идентификатор приложения и секретный ключ.",
+    "Create \"{{name}}\"": "Создать «{{name}}»",
+    "Delete automation": "Удалить автоматизацию",
+    "Deprecated: this feature will be removed in a future release. Use Excel formula mode (Rule formulae) instead.": "старевший функционал: Эта функция будет удалена в будущей версии. Вместо неё используйте режим формул Excel"
 }
