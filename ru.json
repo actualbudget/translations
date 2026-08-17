@@ -987,7 +987,7 @@
     "{{month}} has already passed": "{{month}} уже закончился",
     "(increased by {{amount}})": "(вырост на {{amount}})",
     "{{categoryName}} budget copied until year end.": "{{categoryName}} бюджет скопирован до конца года.",
-    "{{percent}}% must be between 0 and 100": "{{percent}}% должно быть в диапазоне от 0 до 100",
+    "{{percent}}% must be between 0 and 100": "От 0 до 100%",
     "{{currency1}} to {{currency2}}": "{{currency1}} в {{currency2}}",
     "A balance cap on its own does nothing. Add a contributing automation (such as a fixed amount, save by date, or whatever is left) so the cap has something to clamp.": "Лимит баланса не имеет эффекта сам по себе. Добавьте автоматическое поступление средств (например, фиксированная сумма, сбережение к дате или оставшаяся сумма), чтобы ограничение заработало.",
     "A percentage decrease must be under 100% and an increase at most 1000%.": "Процентное снижение должно быть менее 100%, а увеличение не более 1000%.",
@@ -1338,7 +1338,7 @@
     "Amounts are yearly taxable income in today's money - the thresholds rise with inflation. Set each pot's Taxable portion (%) on the Investment pots tab.": "Суммы ежегодно облагаются налогом в сегодняшних деньгах - пороги растут с инфляцией. Установить на вкладке Инвестиционные горшки налогооблагаемую часть каждого банка (%).",
     "App ID Token:": "Токен App ID:",
     "Automation note": "Примечание автоматизации",
-    "Automations": "Автоматизация",
+    "Automations": "Автоматизации",
     "Automations will demand more than income": "Автоматизации потребуют больше, чем сумма дохода",
     "Balance cap": "Лимит баланса",
     "Balance for an account. In rule formulas, this is the running balance (in cents) at this transaction, same cutoff as balance (use the balance variable instead for the current account). In report/query formulas, this is the account's current balance (in money/display units). Use a quoted account id for a deterministic match, or a quoted account name.": "Баланс на счет. В формулах правил это беговой баланс (в центов) на этой сделке, такой же отрезок, как и баланс (использовать переменную баланса вместо текущего счета). В формулах отчета/запроса это текущий баланс счета (в денежных единицах/дисплеях). Используйте цитированный аккаунт id для детерминистического матча или цитируемое имя учетной записи.",
@@ -1403,5 +1403,6 @@
     "Dividend": "Дивиденд",
     "Divisor": "Делитель",
     "Don't show hidden tags": "Не показывать скрытые метки",
-    "e.g. Bank, Savings, Credit Card, Cash": "напр. Банк, Сбережения, Кредитная карта, Наличные"
+    "e.g. Bank, Savings, Credit Card, Cash": "напр. Банк, Сбережения, Кредитная карта, Наличные",
+    "Budget automations keep this category funded with one click each month. Start with one of these.": "Автоматизация бюджета позволяет наполнять эту категорию одним нажатием каждый месяц. Начните с одного из этих шаблонов."
 }
