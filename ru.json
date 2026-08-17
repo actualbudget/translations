@@ -1269,10 +1269,16 @@
     "Allow early spending": "Разрешить ранние траты",
     "Angle": "Угол",
     "Apply to all transaction tables": "Применить все таблицы транзакций",
-    "{{count}} scheduled transactions included_one": "включено запланированных транзакции {{count}}",
-    "{{count}} scheduled transactions included_few": "включено запланированных транзакции {{count}}",
-    "{{count}} scheduled transactions included_many": "включено запланированных транзакции {{count}}",
+    "{{count}} scheduled transactions included_one": "{{count}} запланированная транзакция включена",
+    "{{count}} scheduled transactions included_few": "{{count}} запланированные транзакции включено",
+    "{{count}} scheduled transactions included_many": "{{count}} запланированных транзакций включено",
     "{{count}} scheduled transactions included in this date range_one": "{{count}} запланированная транзакция включена в этот период",
     "{{count}} scheduled transactions included in this date range_few": "{{count}} запланированные транзакции включены в этот период",
-    "{{count}} scheduled transactions included in this date range_many": "{{count}} запланированных транзакций включено в этот период"
+    "{{count}} scheduled transactions included in this date range_many": "{{count}} запланированных транзакций включено в этот период",
+    "Budget <2>{{amount}}</2> every {{count}} months_one": "Бюджет <2>{{amount}}</2> каждый {{count}} месяц",
+    "Budget <2>{{amount}}</2> every {{count}} months_few": "Бюджет <2>{{amount}}</2> каждые {{count}} месяца",
+    "Budget <2>{{amount}}</2> every {{count}} months_many": "Бюджет <2>{{amount}}</2> каждые {{count}} месяца",
+    "Budget <2>{{amount}}</2> every {{count}} weeks_one": "Бюджет <2>{{amount}}</2> каждую {{count}} неделю",
+    "Budget <2>{{amount}}</2> every {{count}} weeks_few": "Бюджет <2>{{amount}}</2> каждые {{count}} недели",
+    "Budget <2>{{amount}}</2> every {{count}} weeks_many": "Бюджет <2>{{amount}}</2> каждые {{count}} недель"
 }
