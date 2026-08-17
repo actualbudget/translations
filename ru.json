@@ -114,7 +114,7 @@
     "(before weekend)": "(перед выходными)",
     "Add transaction": "Добавить операцию",
     "Add New": "Добавить новую операцию",
-    "all transactions": "все транзакции",
+    "all transactions": "все операции",
     "amount (inflow)": "сумма (приток)",
     "An unknown error occurred: {{error}}": "Неизвестная ошибка произошла: {{error}}",
     "after": "после",
