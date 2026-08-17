@@ -1404,5 +1404,14 @@
     "Divisor": "Делитель",
     "Don't show hidden tags": "Не показывать скрытые метки",
     "e.g. Bank, Savings, Credit Card, Cash": "напр. Банк, Сбережения, Кредитная карта, Наличные",
-    "Budget automations keep this category funded with one click each month. Start with one of these.": "Автоматизация бюджета позволяет наполнять эту категорию одним нажатием каждый месяц. Начните с одного из этих шаблонов."
+    "Budget automations keep this category funded with one click each month. Start with one of these.": "Автоматизация бюджета позволяет наполнять эту категорию одним нажатием каждый месяц. Начните с одного из этих шаблонов.",
+    "Confirm Merge": "Подтвердите слияние",
+    "Connection failed. If you use a self-signed certificate or were recently offline, try refreshing the page. Otherwise ensure you have HTTPS set up properly.": "Не удалось установить соединение. Если вы используете самоподписанный сертификат или недавно были офлайн, попробуйте обновить страницу. В противном случае убедитесь, что у вас правильно настроен HTTPS.",
+    "Converts integer amount to decimal amount (e.g., 1234 -> 12.34).": "Преобразует целое число в десятичную дробь (например, 1234 -> 12,34).",
+    "Converts number to character.": "Преобразует число в символ.",
+    "Converts number to text with format.": "Преобразует число в текст с заданным форматом.",
+    "Converts text to a number.": "Преобразует текст в число.",
+    "Converts value to a number.": "Преобразует значение в число.",
+    "Copy to dashboard": "Скопировать на панель управления",
+    "Custom CSS override active — click to edit": "Пользовательский CSS с активным переопределением — нажмите, чтобы отредактировать"
 }
