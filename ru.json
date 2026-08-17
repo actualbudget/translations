@@ -118,7 +118,7 @@
     "amount (inflow)": "сумма (приток)",
     "An unknown error occurred: {{error}}": "Неизвестная ошибка произошла: {{error}}",
     "after": "после",
-    "<0>Read here</0> for instructions on how to migrate your data from YNAB. You need to export your data as JSON, and that page explains how to do that.": "<0>Прочитайте здесь</0> для инструкций о том, как перенести ваши данные из YNAB. Вы должны экспортировать свои данные в JSON, и эта страница объясняет, как это сделать.",
+    "<0>Read here</0> for instructions on how to migrate your data from YNAB. You need to export your data as JSON, and that page explains how to do that.": "<0>Прочитайте здесь</0> для инструкций о том, как перенести ваши данные из YNAB. Вы должны экспортировать свои данные как JSON, и эта страница объясняет, как это сделать.",
     "After disabling OpenID all sessions will be closed": "После отключения OpenID все сессии будут закрыты",
     "After enabling OpenID all sessions will be closed": "После включения OpenID все сессии будут закрыты",
     "Amount (inflow)": "Сумма (приток)",
