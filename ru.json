@@ -1446,5 +1446,21 @@
     "Goals by date need a target month. Pick when you want this fully funded.": "Цели с датой требуют указания месяца достижения цели. Выберите, когда вы планируете полностью накопить средства.",
     "Group accounts in Spent view": "Объединить счета в режиме трат",
     "Guatemalan Quetzal": "Гватемальский Кецаль",
-    "Hampel Filtered Median": "Медиана фильтра Хампля"
+    "Hampel Filtered Median": "Медиана фильтра Хампля",
+    "Failed to download the budget because your device time differs too much from the server. Please check your device time settings and ensure they are correct.": "Не удалось загрузить бюджет, поскольку время на вашем устройстве слишком сильно отличается от времени на сервере. Проверьте настройки времени на устройстве и убедитесь, что они верны.",
+    "Failed to load theme": "Не удалось загрузить тему",
+    "Failed to load theme catalog. You can still paste custom CSS below.": "Не удалось загрузить каталог тем. Вы можете вставить свой CSS-код ниже.",
+    "Failed to save location": "Ошибка сохранения местоположения",
+    "Failed to sync because your device time differs too much from the server. Please check your device time settings and ensure they are correct.": "Не удалось выполнить синхронизацию, поскольку время на вашем устройстве слишком сильно отличается от времени на сервере. Проверьте настройки времени на устройстве и убедитесь, что они верны.",
+    "Failed to update payee. Please try again.": "Не удалось обновить получателя. Пожалуйста, попробуйте снова.",
+    "Failed to validate theme CSS": "Не удалось проверить CSS-код темы",
+    "Field mapping": "Сопоставление полей",
+    "File path copied to clipboard": "Путь к файлу скопирован в буфер обмена",
+    "Find": "Найти",
+    "Find value required": "Необходимо указать значение для поиска",
+    "For next month": "На следующий месяц",
+    "For this time period": "За данный период",
+    "forget": "Забыть",
+    "Formats a number to a fixed amount of decimal places.": "Приводит число к формату с заданным числом знаков после запятой.",
+    "Formula that returns a color (e.g., &ldquo;red&rdquo;, &ldquo;#ff0000&rdquo;). Leave blank for default. Use RESULT variable to access the main formula result.": "Формула, возвращающая цвет (например, &ldquo;red&rdquo;, &ldquo;#ff0000&rdquo;). Оставьте пустым для значения по умолчанию. Используйте переменную RESULT для доступа к результату основной формулы."
 }
