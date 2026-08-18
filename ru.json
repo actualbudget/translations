@@ -1418,5 +1418,21 @@
     "Current quarter transactions": "Текущие квартальные операции",
     "Discount rate": "Скидка",
     "Each contribution is paid in at the start of every year in its age window (both ages inclusive), so it earns that year's return. Leave the ages blank for &ldquo;now&rdquo; and &ldquo;the end of the plan&rdquo;. Tick Adjust by inflation to keep the amount's buying power constant; untick it for a fixed amount that shrinks in real terms. A pot can receive any number of contributions - even one that is still locked for withdrawals.": "Каждый взнос вносится в начале каждого года своего возрастного диапазона (включая оба возраста), поэтому приносит доход за этот год. Оставьте возраст пустым, чтобы использовать «сейчас» и «конец плана». Установите флажок «Корректировать на инфляцию», чтобы покупательная способность суммы не менялась; снимите его для фиксированной суммы, которая в реальном выражении уменьшается. Копилка может получать любое число взносов — даже если она всё ещё заблокирована для снятия средств.",
-    "Each row in the budget is a category. Click the <2>Budgeted</2> amount to assign money to a category, and keep an eye on the <4>Balance</4> column to see how much is left to spend.": "Каждая строка бюджета — это категория. Нажмите сумму <2>Заложено в бюджет</2>, чтобы распределить деньги по категории, и следите за столбцом <4>Баланс</4>, чтобы видеть, сколько осталось потратить."
+    "Each row in the budget is a category. Click the <2>Budgeted</2> amount to assign money to a category, and keep an eye on the <4>Balance</4> column to see how much is left to spend.": "Каждая строка бюджета — это категория. Нажмите сумму <2>Заложено в бюджет</2>, чтобы распределить деньги по категории, и следите за столбцом <4>Баланс</4>, чтобы видеть, сколько осталось потратить.",
+    "Export as CSV": "Экспорт в CSV",
+    "Export budget analysis": "Экспорт анализа бюджета",
+    "Expression": "Выражение",
+    "First condition": "Первое условие",
+    "First result": "Первый результат",
+    "First text value": "Первое текстовое значение",
+    "First value": "Первое значение",
+    "For this budget only": "Только для этого бюджета",
+    "Forecast = starting balance + budgeted income - budgeted expenses": "Прогноз = начальный баланс + запланированные доходы − запланированные расходы",
+    "Format": "Формат",
+    "Formats a number as currency. Uses your app currency and number format settings by default.": "Форматирует число как валюту. По умолчанию используются настройки валюты и формата чисел приложения.",
+    "Formats a number with thousands separators. Uses your app number format settings by default.": "Форматирует число с разделителями тысяч. По умолчанию используются настройки формата чисел приложения.",
+    "global": "глобальный",
+    "Global: Funds not available:": "Глобально: Средства недоступны:",
+    "has all tags": "имеет все метки",
+    "has any tag": "имеет любую метку"
 }
