@@ -725,7 +725,7 @@
     "Unable to decrypt file with this password. Please try again.": "Не удалось расшифровать файл с помощью этого пароля. Повторите попытку.",
     "Uncleared": "Не сверено",
     "Uncleared total:": "Несверенная сумма:",
-    "Undo": "Вернуть",
+    "Undo": "Отменить",
     "We don't have a key that encrypts or decrypts this file. Enter the password for this file to create the key for encryption.": "У нас нет ключа, который шифрует или расшифровывает этот файл. Введите пароль для этого файла, чтобы создать ключ для шифрования.",
     "You're up to date!": "У вас последняя версия!",
     "Disable learning": "Отключить обучение",
