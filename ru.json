@@ -1434,5 +1434,17 @@
     "global": "глобальный",
     "Global: Funds not available:": "Глобально: Средства недоступны:",
     "has all tags": "имеет все метки",
-    "has any tag": "имеет любую метку"
+    "has any tag": "имеет любую метку",
+    "Export from automations UI:": "Экспорт из интерфейса автоматизаций:",
+    "Failed loading available banks: Enable Banking access credentials might be misconfigured. Please <2>set them up</2> again.": "Не удалось загрузить список банков: проверьте настройки доступа в Enable Banking. Возможно, потребуется повторная настройка.",
+    "Failed to load forecast": "Не удалось получить прогноз",
+    "Failed to read the key file. Please try again.": "Не удалось прочитать файл ключа. Пожалуйста, повторите попытку.",
+    "Failed to reset {{provider}}": "Не удалось сбросить {{provider}}",
+    "Fixed amount": "Фиксированная сумма",
+    "From history": "Из истории",
+    "Goal": "Цель",
+    "Goals by date need a target month. Pick when you want this fully funded.": "Цели с датой требуют указания месяца достижения цели. Выберите, когда вы планируете полностью накопить средства.",
+    "Group accounts in Spent view": "Объединить счета в режиме трат",
+    "Guatemalan Quetzal": "Гватемальский Кецаль",
+    "Hampel Filtered Median": "Медиана фильтра Хампля"
 }
