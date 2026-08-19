@@ -1625,5 +1625,8 @@
     "How far in advance this schedule appears as upcoming": "Насколько заблаговременно это расписание отображается как предстоящее",
     "Category Name (string). The human-readable name of the category.\n\nExample: =IF(category_name=\"Groceries\", \"Food\", \"Other\")": "Название категории (строка). Человекочитаемое название категории.\n\nПример: =IF(category_name=\"Groceries\", \"Food\", \"Other\")",
     "Category+Group": "Категория+Группа",
-    "Change category limit": "Изменить лимит категории"
+    "Change category limit": "Изменить лимит категории",
+    "Chance of running out of money": "Вероятность остаться без денег",
+    "Contributions": "Взносы",
+    "Contributions: {{amount}}, added at the start of the year.": "Взносы: {{amount}}, добавленные в начале года."
 }
