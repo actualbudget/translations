@@ -1873,5 +1873,7 @@
     "{{count}} scheduled transactions included_other": "{{count}} transacciones planificadas incluidas",
     "{{currency1}} to {{currency2}}": "{{currency1}} a {{currency2}}",
     "{{percent}}% must be between 0 and 100": "{{percent}}% debe estar entre 0 y 100",
-    "% of income": "% de ingreso"
+    "% of income": "% de ingreso",
+    "\"before\" or \"after\" (optional, uses app settings)": "«antes» o «después» (opcional; utiliza la configuración de la aplicación)",
+    "(filtered running total)": "(total acumulado filtrado)"
 }
