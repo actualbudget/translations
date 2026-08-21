@@ -1875,5 +1875,9 @@
     "(increased by {{percent}}%)": "(incrementado un {{percent}}%)",
     "{{amount}} / day": "{{amount}} / día",
     "{{amount}} / month": "{{amount}} / mes",
-    "{{amount}} / week": "{{amount}} / semana"
+    "{{amount}} / week": "{{amount}} / semana",
+    "{{categoryName}} budget copied until year end.": "Presupuesto de {{categoryName}} copiado hasta final de año.",
+    "{{count}} scheduled transactions included_one": "{{count}} transacción planificada incluida",
+    "{{count}} scheduled transactions included_many": "{{count}} transacciones planificadas incluidas",
+    "{{count}} scheduled transactions included_other": "{{count}} transacciones planificadas incluidas"
 }
