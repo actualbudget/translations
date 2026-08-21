@@ -101,7 +101,7 @@
     "{{selectedPayeeNames}}, and more": "{{selectedPayeeNames}} 及其他",
     "{{status}} (Split)": "{{status}} (拆分)",
     "<0><0>Custom Report:</0></0> <2>{{name}}</2>": "<0><0>自訂報表：</0></0> <2>{{name}}</2>",
-    "(deleted)": "(已刪除)",
+    "(deleted)": "（已刪除）",
     "(nothing)": "（無）",
     "<0>{{category}}</0> is used by existing transactions or it has a positive leftover balance currently.": "仍有分類在<0>{{category}}</0> 的交易或該分類仍有餘額。",
     "(+{{numHiddenPayees}} more)": "(+{{numHiddenPayees}} 更多)",
@@ -109,5 +109,10 @@
     "Compare": "比較",
     "Confirm": "確認",
     "Confirm Delete": "確認刪除",
-    "Confirm password": "確認密碼"
+    "Confirm password": "確認密碼",
+    "1 month": "一個月",
+    "3 months": "3 個月",
+    "6 months": "6 個月",
+    "28+": "28+",
+    "A valid amount is required": "請輸入有效金額"
 }
