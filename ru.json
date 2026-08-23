@@ -1622,5 +1622,8 @@
     "Change category limit": "Изменить лимит категории",
     "Chance of running out of money": "Вероятность остаться без денег",
     "Contributions": "Взносы",
-    "Contributions: {{amount}}, added at the start of the year.": "Взносы: {{amount}}, добавленные в начале года."
+    "Contributions: {{amount}}, added at the start of the year.": "Взносы: {{amount}}, добавленные в начале года.",
+    "Back to all runs": "Вернуться ко всем запускам",
+    "Balance threshold multiple": "Множитель порогового значения баланса",
+    "Bottom quartile:": "Нижний квартиль:"
 }
