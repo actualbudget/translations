@@ -70,5 +70,8 @@
     "↓ Declining": "↓ Đang giảm",
     "<0>{{category}}</0> is used by existing transactions or it has a positive leftover balance currently.": "<0>{{category}}</0> đang được sử dụng bởi các giao dịch hiện có hoặc hiện đang có số dư thừa dương.",
     "<0>{{category}}</0> is used by existing transactions.": "<0>{{category}}</0> đang được sử dụng bởi các giao dịch hiện có.",
-    "<0><0>Custom Report:</0></0> <2>{{name}}</2>": "<0><0>Báo cáo tùy chỉnh:</0></0> <2>{{name}}</2>"
+    "<0><0>Custom Report:</0></0> <2>{{name}}</2>": "<0><0>Báo cáo tùy chỉnh:</0></0> <2>{{name}}</2>",
+    "Average per month": "Trung bình tháng",
+    "Average per transaction": "Trung bình giao dịch",
+    "Back": "Trở về"
 }
