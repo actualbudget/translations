@@ -29,5 +29,12 @@
     "{{days}} days": "{{days}} ngày",
     "{{displayMonth}} budget templates have been applied.": "Các mẫu ngân sách của {{displayMonth}} đã được áp dụng.",
     "(No payee)": "(Không người nhận)",
-    "(nothing)": "(không có)"
+    "(nothing)": "(không có)",
+    "(please select)": "(Vui lòng chọn)",
+    "(projected)": "(dự kiến)",
+    "{{accountName}} bank sync settings": "{{accountName}} cài đặt đồng bộ ngân hàng",
+    "{{categoryGroupName}} expense group categories": "{{categoryGroupName}} nhóm các loại chi phí",
+    "{{count}} payees_other": "{{count}} người nhận",
+    "{{displayMonth}} budget templates have been overwritten.": "Các mẫu ngân sách của {{displayMonth}} đã bị ghi đè.",
+    "{{displayMonth}} budgets have all been set to zero.": "Tất cả các ngân sách của {{displayMonth}} đã được đặt về không."
 }
