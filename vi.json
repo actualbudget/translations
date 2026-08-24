@@ -27,5 +27,7 @@
     "{{years}} years": "{{years}} năm",
     "(none)": "(không có)",
     "{{days}} days": "{{days}} ngày",
-    "{{displayMonth}} budget templates have been applied.": "Các mẫu ngân sách của {{displayMonth}} đã được áp dụng."
+    "{{displayMonth}} budget templates have been applied.": "Các mẫu ngân sách của {{displayMonth}} đã được áp dụng.",
+    "(No payee)": "(Không người nhận)",
+    "(nothing)": "(không có)"
 }
