@@ -58,5 +58,17 @@
     "Account transaction selection": "Lựa chọn giao dịch tài khoản",
     "Account:": "Tài khoản:",
     "Add": "Thêm",
-    "Add account": "Thêm tài khoản"
+    "Add account": "Thêm tài khoản",
+    "{{displayMonth}} budgets have all been set to last month's budgeted amounts.": "Tất cả các ngân sách của {{displayMonth}} đã được đặt theo số tiền ngân sách của tháng trước.",
+    "{{displayMonth}} end-of-month cleanup templates have been applied.": "Các mẫu dọn dẹp cuối tháng {{displayMonth}} đã được áp dụng.",
+    "{{endOccurrences}} times": "{{endOccurrences}} lần",
+    "{{num}} more items...": "thêm {{num}} mục nữa…",
+    "{{scheduleName}} is due {{distanceFromNow}} ({{formattedDate}})": "{{scheduleName}} sẽ đến hạn vào {{distanceFromNow}} ({{formattedDate}})",
+    "{{status}} (Split)": "{{status}} (Chia ra)",
+    "→ Stable": "→ Ổn định",
+    "↑ Improving": "↑ Đang cải thiện",
+    "↓ Declining": "↓ Đang giảm",
+    "<0>{{category}}</0> is used by existing transactions or it has a positive leftover balance currently.": "<0>{{category}}</0> đang được sử dụng bởi các giao dịch hiện có hoặc hiện đang có số dư thừa dương.",
+    "<0>{{category}}</0> is used by existing transactions.": "<0>{{category}}</0> đang được sử dụng bởi các giao dịch hiện có.",
+    "<0><0>Custom Report:</0></0> <2>{{name}}</2>": "<0><0>Báo cáo tùy chỉnh:</0></0> <2>{{name}}</2>"
 }
