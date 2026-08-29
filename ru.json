@@ -1625,5 +1625,6 @@
     "Contributions: {{amount}}, added at the start of the year.": "Взносы: {{amount}}, добавленные в начале года.",
     "Back to all runs": "Вернуться ко всем запускам",
     "Balance threshold multiple": "Множитель порогового значения баланса",
-    "Bottom quartile:": "Нижний квартиль:"
+    "Bottom quartile:": "Нижний квартиль:",
+    "Budget automation": "Автобюджет"
 }
