@@ -2080,5 +2080,11 @@
     "Date range": "Zeitraum",
     "Date string": "Datumstext",
     "Date value": "Datumswert",
-    "Dividend": "Dividende"
+    "Dividend": "Dividende",
+    "<0>Warning:</0> This transaction is {{count}} days away,_one": "<0>Warnung:</0> Diese Transaktion liegt {{count}} Tag in der Zukunft,",
+    "<0>Warning:</0> This transaction is {{count}} days away,_other": "<0>Warnung:</0> Diese Transaktion liegt {{count}} Tage in der Zukunft,",
+    "30% of scenarios stayed above this line.": "30% der Szenarien bleiben über dieser Linie.",
+    "70% of scenarios stayed above this line.": "70% der Szenarien bleiben über dieser Linie.",
+    "95% of scenarios stayed above this line.": "95% der Szenarien bleiben über dieser Linie.",
+    "A sync server keeps your budget up to date across all your devices and unlocks features like bank syncing. It is completely optional: Actual works great on just this device too.": "Ein Synchronisations-Server hält dein Budget auf allen deinen Geräten aktuell und schaltet Funktionen wie die Bank-Synchronisierung frei. Dies ist völlig optional: Actual funktioniert auch nur mit diesem Gerät hervorragend."
 }
