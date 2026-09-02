@@ -1629,5 +1629,10 @@
     "Budget automation": "Автобюджет",
     "Budget <2>{{amount}}</2> every {{count}} years_one": "Бюджет <2>{{amount}}</2> каждый {{count}} год",
     "Budget <2>{{amount}}</2> every {{count}} years_few": "Бюджет <2>{{amount}}</2> каждые {{count}} года",
-    "Budget <2>{{amount}}</2> every {{count}} years_many": "Бюджет <2>{{amount}}</2> каждые {{count}} лет"
+    "Budget <2>{{amount}}</2> every {{count}} years_many": "Бюджет <2>{{amount}}</2> каждые {{count}} лет",
+    "By enabling bank sync, you will be granting Enable Banking (a third party service) read-only access to your entire account's transaction history. This service is not affiliated with Actual in any way. Make sure you've read and understand Enable Banking's <2>Privacy Policy</2> before proceeding.": "Включая синхронизацию с банком, вы предоставляете Enable Banking (стороннему сервису) доступ только для чтения ко всей истории операций вашего счёта. Этот сервис никоим образом не связан с Actual. Перед продолжением убедитесь, что вы ознакомились с <2>Политикой конфиденциальности Enable Banking</2> и понимаете её содержание.",
+    "Category ID (string). The ID of the category.\n\nExample: =IF(category=\"Groceries\", \"Food\", \"Other\")": "ID категории (строка). Идентификатор категории.\n\nПример: =IF(category=\"Groceries\", \"Food\", \"Other\")",
+    "Ceiling above planned amount (%)": "Верхний предел сверх запланированной суммы (%)",
+    "Change category sort order": "Изменить порядок сортировки категорий",
+    "Change granularity": "Изменить детализацию"
 }
