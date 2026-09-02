@@ -1637,5 +1637,6 @@
     "Change granularity": "Изменить детализацию",
     "Categories result from QUERY_EXTRACT_CATEGORIES() (array)": "Категории — результат QUERY_EXTRACT_CATEGORIES() (массив)",
     "Clear transaction": "Очистить транзакцию",
-    "Categories with higher weights get a bigger share of the leftover To Budget.": "Чем выше вес (приоритет), тем больше доля в бюджете."
+    "Categories with higher weights get a bigger share of the leftover To Budget.": "Чем выше вес (приоритет), тем больше доля в бюджете.",
+    "Change layer {{direction}}": "Изменить слой {{direction}}"
 }
