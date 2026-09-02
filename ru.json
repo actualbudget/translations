@@ -1634,5 +1634,7 @@
     "Category ID (string). The ID of the category.\n\nExample: =IF(category=\"Groceries\", \"Food\", \"Other\")": "ID категории (строка). Идентификатор категории.\n\nПример: =IF(category=\"Groceries\", \"Food\", \"Other\")",
     "Ceiling above planned amount (%)": "Верхний предел сверх запланированной суммы (%)",
     "Change category sort order": "Изменить порядок сортировки категорий",
-    "Change granularity": "Изменить детализацию"
+    "Change granularity": "Изменить детализацию",
+    "Categories result from QUERY_EXTRACT_CATEGORIES() (array)": "Категории — результат QUERY_EXTRACT_CATEGORIES() (массив)",
+    "Clear transaction": "Очистить транзакцию"
 }
