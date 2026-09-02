@@ -1643,5 +1643,7 @@
     "Chart": "Диаграмма",
     "Checking Enable Banking configuration...": "Проверяется конфигурация сервиса Enable Banking...",
     "Choose a bank sync provider to connect this account.": "Для подключения счёта выберите сервис синхронизации.",
-    "Configure Enable Banking integration": "Настройка интеграции с Enable Banking"
+    "Configure Enable Banking integration": "Настройка интеграции с Enable Banking",
+    "Chilean Peso": "Чилийское песо",
+    "Clear": "Очистить"
 }
