@@ -1626,5 +1626,8 @@
     "Back to all runs": "Вернуться ко всем запускам",
     "Balance threshold multiple": "Множитель порогового значения баланса",
     "Bottom quartile:": "Нижний квартиль:",
-    "Budget automation": "Автобюджет"
+    "Budget automation": "Автобюджет",
+    "Budget <2>{{amount}}</2> every {{count}} years_one": "Бюджет <2>{{amount}}</2> каждый {{count}} год",
+    "Budget <2>{{amount}}</2> every {{count}} years_few": "Бюджет <2>{{amount}}</2> каждые {{count}} года",
+    "Budget <2>{{amount}}</2> every {{count}} years_many": "Бюджет <2>{{amount}}</2> каждые {{count}} лет"
 }
