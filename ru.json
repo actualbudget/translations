@@ -1640,5 +1640,8 @@
     "Categories with higher weights get a bigger share of the leftover To Budget.": "Чем выше вес (приоритет), тем больше доля в бюджете.",
     "Change layer {{direction}}": "Изменить слой {{direction}}",
     "Charged at the end of the year, on the pot's balance after that year's growth but before the fee itself is deducted - so the end balance is the post-growth balance minus this fee.": "Взимается в конце года с остатка в копилке после роста за этот год, но до вычета самой комиссии; таким образом, конечный остаток равен остатку после роста за вычетом этой комиссии.",
-    "Chart": "Диаграмма"
+    "Chart": "Диаграмма",
+    "Checking Enable Banking configuration...": "Проверяется конфигурация сервиса Enable Banking...",
+    "Choose a bank sync provider to connect this account.": "Для подключения счёта выберите сервис синхронизации.",
+    "Configure Enable Banking integration": "Настройка интеграции с Enable Banking"
 }
