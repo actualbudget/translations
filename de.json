@@ -2086,5 +2086,7 @@
     "30% of scenarios stayed above this line.": "30% der Szenarien bleiben über dieser Linie.",
     "70% of scenarios stayed above this line.": "70% der Szenarien bleiben über dieser Linie.",
     "95% of scenarios stayed above this line.": "95% der Szenarien bleiben über dieser Linie.",
-    "A sync server keeps your budget up to date across all your devices and unlocks features like bank syncing. It is completely optional: Actual works great on just this device too.": "Ein Synchronisations-Server hält dein Budget auf allen deinen Geräten aktuell und schaltet Funktionen wie die Bank-Synchronisierung frei. Dies ist völlig optional: Actual funktioniert auch nur mit diesem Gerät hervorragend."
+    "A sync server keeps your budget up to date across all your devices and unlocks features like bank syncing. It is completely optional: Actual works great on just this device too.": "Ein Synchronisations-Server hält dein Budget auf allen deinen Geräten aktuell und schaltet Funktionen wie die Bank-Synchronisierung frei. Dies ist völlig optional: Actual funktioniert auch nur mit diesem Gerät hervorragend.",
+    "{{appName}} is a budgeting app that helps you understand exactly where your money goes. This short tour walks you through the basics. It only takes a couple of minutes, and you can leave at any time and replay it later from the Help menu.": "{{appName}} ist eine Budgeting-App, die dir hilft genau zu verstehen, wohin dein Geld fließt. Diese kurze Tour führt dich durch die Grundlagen. Es dauert nur ein paar Minuten, und du kannst jederzeit abbrechen und es später im Hilfe-Menü erneut abspielen.",
+    "{{current}} of {{total}}": "{{current}} von {{total}}"
 }
