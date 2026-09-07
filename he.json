@@ -16,5 +16,6 @@
     "{{displayMonth}} budgets have all been set to zero.": "תקציבי {{displayMonth}} אותחלו לאפס.",
     "{{endOccurrences}} times": "{{endOccurrences}} פעמים",
     "{{selectedPayeeNames}}, and more": "{{selectedPayeeNames}}, ועוד",
-    "<0><0>Custom Report:</0></0> <2>{{name}}</2>": "<0><0>דו\"ח מותאם:</0></0> <2>{{name}}</2>"
+    "<0><0>Custom Report:</0></0> <2>{{name}}</2>": "<0><0>דו\"ח מותאם:</0></0> <2>{{name}}</2>",
+    "(beta)": "(בטא)"
 }
