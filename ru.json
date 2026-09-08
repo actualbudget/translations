@@ -1645,5 +1645,9 @@
     "Choose a bank sync provider to connect this account.": "Для подключения счёта выберите сервис синхронизации.",
     "Configure Enable Banking integration": "Настройка интеграции с Enable Banking",
     "Chilean Peso": "Чилийское песо",
-    "Clear": "Очистить"
+    "Clear": "Очистить",
+    "<0>Warning:</0> This transaction is {{count}} days away,_one": "<0>Предупреждение:</0> До этой транзакции остался {{count}} день,",
+    "<0>Warning:</0> This transaction is {{count}} days away,_few": "<0>Предупреждение:</0> До этой транзакции осталось {{count}} дня,",
+    "<0>Warning:</0> This transaction is {{count}} days away,_many": "<0>Предупреждение:</0> До этой транзакции осталось {{count}} дней,",
+    "Collapse all years": "Свернуть все года"
 }
