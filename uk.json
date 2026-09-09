@@ -1770,5 +1770,8 @@
     "{{current}} of {{total}}": "{{current}} із {{total}}",
     "{{failedCount}} of {{total}} scenarios ran out of money at age {{age}}": "{{failedCount}} із {{total}} сценаріїв вичерпали кошти у віці {{age}}",
     "{{name}} (closed)": "{{name}} (закрито)",
-    "<0><0>How are \"Average\" and \"Spent Average MTD\" calculated?</0></0><1>They are both the average cumulative spending by day for the selected average range before the selected \"compare\" month.</1>": "<0><0>Як розраховуються «Середнє» та «Середні витрати з початку місяця (MTD)»?</0></0><1>Обидва показники — це середні щоденні витрати (з урахуванням накопичення) за обраний період до місяця, який ви порівнюєте.</1>"
+    "<0><0>How are \"Average\" and \"Spent Average MTD\" calculated?</0></0><1>They are both the average cumulative spending by day for the selected average range before the selected \"compare\" month.</1>": "<0><0>Як розраховуються «Середнє» та «Середні витрати з початку місяця (MTD)»?</0></0><1>Обидва показники — це середні щоденні витрати (з урахуванням накопичення) за обраний період до місяця, який ви порівнюєте.</1>",
+    "Account transaction editing": "Редагування транзакцій рахунку",
+    "Account transaction management": "Управління транзакціями рахунку",
+    "Account transaction selection": "Вибір транзакції з рахунку"
 }
