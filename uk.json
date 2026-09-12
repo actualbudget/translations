@@ -1011,7 +1011,7 @@
     "Fixed {{count}} transfers._one": "Виправлено {{count}} переказ.",
     "Fixed {{count}} transfers._few": "Виправлено {{count}} перекази.",
     "Fixed {{count}} transfers._many": "Виправлено {{count}} переказів.",
-    "Account is a required field": "Рахунок - обов'язкове поле",
+    "Account is a required field": "Рахунок є обов'язковим полем",
     "Monday": "Понеділок",
     "Months": "Місяці",
     "Add entry": "Додати запис",
@@ -1751,7 +1751,7 @@
     "{{percent}}% must be between 0 and 100": "{{percent}}% має бути між 0 та 100",
     "{{provider}} menu": "{{provider}} меню",
     "% of income": "% від доходу",
-    "→ Stable": "→ Стабільно",
+    "→ Stable": "→ Стабільна",
     "↑ Improving": "↑ Покращення",
     "30 days": "30 днів",
     "A category group with name \"{{name}}\" already exists.": "Група категорії з назвою \"{{name}}\" вже існує.",
@@ -1773,5 +1773,10 @@
     "<0><0>How are \"Average\" and \"Spent Average MTD\" calculated?</0></0><1>They are both the average cumulative spending by day for the selected average range before the selected \"compare\" month.</1>": "<0><0>Як розраховуються «Середнє» та «Середні витрати з початку місяця (MTD)»?</0></0><1>Обидва показники — це середні щоденні витрати (з урахуванням накопичення) за обраний період до місяця, який ви порівнюєте.</1>",
     "Account transaction editing": "Редагування транзакцій рахунку",
     "Account transaction management": "Управління транзакціями рахунку",
-    "Account transaction selection": "Вибір транзакції з рахунку"
+    "Account transaction selection": "Вибір транзакції з рахунку",
+    "Add an automation": "Додати автоматизацію",
+    "A share of this month's or last month's income.": "Частка надходжень цього місяця або останнього місяця.",
+    "Add a note (optional)": "Додати нотатку (за бажанням)",
+    "Confirm Merge": "Підтвердити об'єднання",
+    "Light theme": "Світла тема"
 }
