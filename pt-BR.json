@@ -2016,5 +2016,7 @@
     "{{count}} scheduled transactions included_many": "{{count}} transações agendadas incluídas",
     "{{count}} scheduled transactions included_other": "{{count}} transações agendadas incluídas",
     "Cover schedule": "Cobrir agendamento",
-    "Divisor": "Divisor"
+    "Divisor": "Divisor",
+    "{{appName}} is a budgeting app that helps you understand exactly where your money goes. This short tour walks you through the basics. It only takes a couple of minutes, and you can leave at any time and replay it later from the Help menu.": "{{appName}} é um aplicativo de orçamento que te ajuda a entender exatamente aonde seu dinheiro vai. Esse curto tour te mostrará o básico. Ele demora apenas alguns minutos, e você pode sair a qualquer hora e revê-lo mais tarde pelo menu de Ajuda.",
+    "{{current}} of {{total}}": "{{current}} de {{total}}"
 }
