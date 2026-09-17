@@ -39,6 +39,6 @@
     "{{count}} payees_one": "{{count}} kedvezményezett",
     "{{count}} payees_other": "{{count}} kedvezményezett",
     "{{num}} more items...": "{{num}} további elem…",
-    "(projected)": "(várható)",
+    "(projected)": "(előrevetített)",
     "(beta)": "(béta)"
 }
