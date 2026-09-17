@@ -40,5 +40,9 @@
     "{{count}} payees_other": "{{count}} kedvezményezett",
     "{{num}} more items...": "{{num}} további elem…",
     "(projected)": "(előrevetített)",
-    "(beta)": "(béta)"
+    "(beta)": "(béta)",
+    ":root {\n  --color-sidebarItemSelected: #007bff;\n}": ":root {\n--color-sidebarItemSelected: #007bff;\n\n}",
+    "(decreased by {{amount}})": "(csökkentve ennyivel: {{amount}})",
+    "(decreased by {{percent}}%)": "({{percent}}%-kal csökkent)",
+    "(filtered running total)": "(szűrt halmozott összeg)"
 }
