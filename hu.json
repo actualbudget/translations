@@ -38,5 +38,6 @@
     "{{categoryName}} shortcuts": "{{categoryName}} gyorsbillentyűk",
     "{{count}} payees_one": "{{count}} kedvezményezett",
     "{{count}} payees_other": "{{count}} kedvezményezett",
-    "{{num}} more items...": "{{num}} további elem…"
+    "{{num}} more items...": "{{num}} további elem…",
+    "(projected)": "(várható)"
 }
