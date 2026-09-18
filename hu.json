@@ -45,5 +45,6 @@
     "(decreased by {{amount}})": "(csökkentve ennyivel: {{amount}})",
     "(decreased by {{percent}}%)": "({{percent}}%-kal csökkent)",
     "(filtered running total)": "(szűrt halmozott összeg)",
-    "(give feedback)": "(visszajelzés küldése)"
+    "(give feedback)": "(visszajelzés küldése)",
+    "{isSearching\n                        ? 'No matching shortcuts'\n                        : isInCategory\n                          ? 'No shortcuts in this category'\n                          : 'No matching shortcuts'}": "{isSearching\n                        ? 'Nincs egyező gyorsbillentyű'\n                        : isInCategory\n                          ? 'Nincsenek gyorsbillentyűk ebben a kategóriában'\n                          : 'Nincs egyező gyorsbillentyű'}"
 }
