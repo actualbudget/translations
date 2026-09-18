@@ -44,5 +44,6 @@
     ":root {\n  --color-sidebarItemSelected: #007bff;\n}": ":root {\n--color-sidebarItemSelected: #007bff;\n\n}",
     "(decreased by {{amount}})": "(csökkentve ennyivel: {{amount}})",
     "(decreased by {{percent}}%)": "({{percent}}%-kal csökkent)",
-    "(filtered running total)": "(szűrt halmozott összeg)"
+    "(filtered running total)": "(szűrt halmozott összeg)",
+    "(give feedback)": "(visszajelzés küldése)"
 }
