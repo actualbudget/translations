@@ -1958,5 +1958,6 @@
     "A percentage decrease must be under 100% and an increase at most 1000%.": "Una disminución porcentual debe ser inferior al 100 % y un aumento porcentual no puede superar el 1000 %.",
     "A share of this month's or last month's income.": "Una parte de los ingresos de este mes o del mes anterior.",
     "Add a note (optional)": "Añadir una nota (opcional)",
-    "Add a set amount every month, week, day, or year.": "Añadir un importe cada mes, semana, día o año."
+    "Add a set amount every month, week, day, or year.": "Añadir un importe cada mes, semana, día o año.",
+    "Add balance limit automation": "Agregar automatización al límite de saldo"
 }
