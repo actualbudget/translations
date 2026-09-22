@@ -12,7 +12,7 @@
     "(Optional)": "(Valgfritt)",
     "(please select)": "(vennligst velg)",
     "(projected)": "(prognose)",
-    "{{accountName}} bank sync settings": "{{accountName}} banksynkroniseringsinnstillinger",
+    "{{accountName}} bank sync settings": "Banksynkroniseringsinnstillinger for {{accountName}}",
     "{{categoryGroupName}} expense group categories": "{{categoryGroupName}} utgiftsgruppekategorier",
     "{{categoryName}} shortcuts": "{{categoryName}} snarveier",
     "{{count}} associated rules_one": "{{count}} tilknyttet regel",
