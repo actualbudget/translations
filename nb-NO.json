@@ -1675,5 +1675,12 @@
     "Your password or something else has changed with your bank and you need to login again.": "Passordet ditt eller noe annet er endret hos banken din, og du må logge inn på nytt.",
     "Your SimpleFIN Access Token is no longer valid. Please reset and generate a new token.": "Din SimpleFIN-tilgangstoken er ikke lenger gyldig. Vennligst tilbakestill og generer en ny token.",
     "Yuan Renminbi": "Yuan Renminbi",
-    "yyyy": "åååå"
+    "yyyy": "åååå",
+    "(beta)": "(beta)",
+    "(filtered running total)": "(filtrert løpende totalsum)",
+    "(increased by {{amount}})": "(økt med {{amount}})",
+    "(increased by {{percent}}%)": "(steget med {{percent}}%)",
+    "(decreased by {{percent}}%)": "(sunket {{percent}}%)",
+    "(decreased by {{amount}})": "(sunket {{amount}})",
+    "\"before\" or \"after\" (optional, uses app settings)": "\"før\" eller \"etter\" (valgfritt, bruker appens innstillinger)"
 }
