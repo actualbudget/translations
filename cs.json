@@ -232,5 +232,6 @@
     "Category Learning": "Učení kategorií",
     "Category learning disabled": "Učení kategorií zakázáno",
     "Change": "Změnit",
-    "Assets:": "Aktiva:"
+    "Assets:": "Aktiva:",
+    "{{categoryName}} budget copied until year end.": "Rozpočet kategorie {{categoryName}} byl zkopírován až do konce roku."
 }
