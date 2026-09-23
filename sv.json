@@ -970,5 +970,10 @@
     "Reopen": "Återöppna",
     "Result:": "Resultat:",
     "Are you sure you want to delete this rule?": "Är du säker på att du vill radera denna regel?",
-    "Available funds": "Tillgängliga medel"
+    "Available funds": "Tillgängliga medel",
+    "Bank sync": "Banksynkronisering",
+    "Bank Sync": "Banksynkronisering",
+    "Check templates": "Kontrollera mallar",
+    "Display Name": "Visningsnamn",
+    "Filtered balance:": "Filtrerat saldo:"
 }
