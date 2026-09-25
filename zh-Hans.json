@@ -1509,5 +1509,14 @@
     "Returns the logical value TRUE.": "返回逻辑值 TRUE。",
     "(beta)": "（测试）",
     "Reset layers": "重置图层",
-    "Revert to server password": "还原至服务器密码"
+    "Revert to server password": "还原至服务器密码",
+    "(decreased by {{percent}}%)": "(减少了 {{percent}} %)",
+    "(filtered running total)": "（过滤后的累计总额）",
+    "(increased by {{amount}})": "（增加 {{amount}}）",
+    "(increased by {{percent}}%)": "(增加了 {{percent}} %)",
+    "{{amount}} / day": "{{amount}} / 天",
+    "{{amount}} / month": "{{amount}} / 月",
+    "{{amount}} / week": "{{amount}} / 周",
+    "(decreased by {{amount}})": "(减少了 {{amount}})",
+    "{{categoryName}} budget copied until year end.": "{{categoryName}} 预算已复制到年底。"
 }
