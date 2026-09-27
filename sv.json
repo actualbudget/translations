@@ -980,5 +980,6 @@
     "{{amount}} / day": "{{amount}} / dag",
     "{{amount}} / month": "{{amount}} / månad",
     "{{amount}} / week": "{{amount}} / vecka",
-    "{{currency1}} to {{currency2}}": "{{currency1}} till {{currency2}}"
+    "{{currency1}} to {{currency2}}": "{{currency1}} till {{currency2}}",
+    "{{month}} has already passed": "{{month}} har redan passerat"
 }
