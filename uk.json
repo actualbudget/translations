@@ -657,7 +657,7 @@
     "No budget files": "Немає бюджетних файлів",
     "Set category for selected transactions": "Призначити категорію для вибраних транзакцій",
     "More payees are available, search to find them": "Для отримання додаткових варіантів отримувачів, скористайтеся пошуком",
-    "Remove": "видалити",
+    "Remove": "Видалити",
     "Net Debts:": "Чисті витрати:",
     "Save and continue": "Зберегти та продовжити",
     "Next date": "Наступна дата",
@@ -1827,5 +1827,6 @@
     "Add a balance cap": "Додати ліміт балансу",
     "Add end of month cleanup": "Додати очищення залишків (закриття місяця)",
     "The projection shows the most that these automations could budget on their own. The actual amount may be smaller when To Budget is empty or when higher-priority categories run first.": "Це максимальна сума, яку автоматизація бюджету може розподілити. Реальний залишок може бути меншим, якщо у блоці \"Нерозподілено\" бракуватиме коштів або першими заповняться пріоритетніші категорії.",
-    "This month&rsquo;s automations ask for around {{total}} but only {{income}} is available to budget. Lower amounts or switch one to &ldquo;Whatever is left&rdquo;.": "Цього місяця автоматизація бюджету потребує близько {{total}}, але в блоці \"Нерозподілено\" є лише {{income}}. Зменште суми або переведіть один із варіантів у режим \"Усе, що залишиться\" ."
+    "This month&rsquo;s automations ask for around {{total}} but only {{income}} is available to budget. Lower amounts or switch one to &ldquo;Whatever is left&rdquo;.": "Цього місяця автоматизація бюджету потребує близько {{total}}, але в блоці \"Нерозподілено\" є лише {{income}}. Зменште суми або переведіть один із варіантів у режим \"Усе, що залишиться\" .",
+    "An unexpected error occurred.": "Сталася неочікувана помилка."
 }
