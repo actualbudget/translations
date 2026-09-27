@@ -975,5 +975,10 @@
     "Bank Sync": "Banksynkronisering",
     "Check templates": "Kontrollera mallar",
     "Display Name": "Visningsnamn",
-    "Filtered balance:": "Filtrerat saldo:"
+    "Filtered balance:": "Filtrerat saldo:",
+    "(beta)": "(beta)",
+    "{{amount}} / day": "{{amount}} / dag",
+    "{{amount}} / month": "{{amount}} / månad",
+    "{{amount}} / week": "{{amount}} / vecka",
+    "{{currency1}} to {{currency2}}": "{{currency1}} till {{currency2}}"
 }
