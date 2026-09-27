@@ -862,7 +862,7 @@
     "Saving your changes to this reconciled transaction may bring your reconciliation out of balance.": "Збереження змін у цій звіреній транзакції може порушити баланс вашої звірки.",
     "Select a user from the directory to designate as the new budget owner.": "Виберіть користувача з каталогу, щоб призначити його новим власником бюджету.",
     "Select account...": "Виберіть рахунок...",
-    "Select category...": "Виберіть категорію...",
+    "Select category...": "Обрати категорію...",
     "Select new file...": "Виберіть новий файл...",
     "Some access permissions were not revoked successfully.": "Деякі дозволи на доступ не вдалося скасувати.",
     "Something went wrong trying to create a key, sorry! Visit https://actualbudget.org/contact/ for support.": "Під час створення ключа сталася помилка. Вибачте! Відвідайте https://actualbudget.org/contact/ для підтримки.",
@@ -1828,5 +1828,8 @@
     "Add end of month cleanup": "Додати очищення залишків (закриття місяця)",
     "The projection shows the most that these automations could budget on their own. The actual amount may be smaller when To Budget is empty or when higher-priority categories run first.": "Це максимальна сума, яку автоматизація бюджету може розподілити. Реальний залишок може бути меншим, якщо у блоці \"Нерозподілено\" бракуватиме коштів або першими заповняться пріоритетніші категорії.",
     "This month&rsquo;s automations ask for around {{total}} but only {{income}} is available to budget. Lower amounts or switch one to &ldquo;Whatever is left&rdquo;.": "Цього місяця автоматизація бюджету потребує близько {{total}}, але в блоці \"Нерозподілено\" є лише {{income}}. Зменште суми або переведіть один із варіантів у режим \"Усе, що залишиться\" .",
-    "An unexpected error occurred.": "Сталася неочікувана помилка."
+    "An unexpected error occurred.": "Сталася неочікувана помилка.",
+    "Select a category": "Оберіть категорію",
+    "Select an account": "Оберіть рахунок",
+    "Who did you pay?": "Оберіть отримувача"
 }
