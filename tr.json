@@ -147,5 +147,6 @@
     "After enabling OpenID all sessions will be closed": "OpenID'yi etkinleştirdikten sonra tüm oturumlar kapatılacaktır",
     "allocate": "ayır",
     "Category learning disabled": "Kategori öğrenme devre dışı",
-    "Category learning settings": "Kategori öğrenme ayarları"
+    "Category learning settings": "Kategori öğrenme ayarları",
+    "(decreased by {{amount}})": "({{amount}} kadar azaldı)"
 }
