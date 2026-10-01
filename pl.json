@@ -1699,5 +1699,6 @@
     "Modal logo": "Modalne logo",
     "Monthly expenses:": "Miesięczne wydatki:",
     "Monthly investment income:": "Miesięczny dochód z inwestycji:",
-    "months": "miesiące"
+    "months": "miesiące",
+    "Decimal separator (optional, uses app settings)": "Separator dziesiętny (opcjonalny, korzysta z ustawień aplikacji)"
 }
