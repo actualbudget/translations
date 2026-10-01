@@ -1267,7 +1267,7 @@
     "Calculates net present value.": "Oblicza wartość bieżącą netto.",
     "Closed: {{accountName}}": "Zamknięte: {{accountName}}",
     "category group": "grupa kategorii",
-    "Cover the occurrences of the schedule &lsquo;{{name}}&rsquo; this month": "Pokryj wystąpienia według harmonogramu &lsquo;{{name}}&rsquo; w tym miesiącu",
+    "Cover the occurrences of the schedule &lsquo;{{name}}&rsquo; this month": "Pokryj wystąpienia harmonogramu &lsquo;{{name}}&rsquo; w tym miesiącu",
     "Hide balance chart": "Ukryj wykres salda",
     "IF": "JEŚLI",
     "If checked below, a rule will be created to do this rename while importing transactions.": "Jeśli zaznaczysz poniższą opcję, zostanie utworzona reguła, która zmieni nazwę transakcji podczas jej importowania.",
