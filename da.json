@@ -1220,5 +1220,8 @@
     "Failed to duplicate budget file": "Fejl: Kunne ikke kopiere budgetfil",
     "Failed to duplicate budget file.": "Fejl: Kunne ikke kopiere budgetfil.",
     "Financial files": "Finansielle filer",
-    "Account not found": "Kontoen blev ikke fundet"
+    "Account not found": "Kontoen blev ikke fundet",
+    ":root {\n  --color-sidebarItemSelected: #007bff;\n}": ":root {\n  --color-sidebarItemSelected: #007bff;\n}",
+    "(beta)": "(beta)",
+    "(decreased by {{amount}})": "(nedsat med {{amount}})"
 }
