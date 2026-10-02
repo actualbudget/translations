@@ -1225,5 +1225,9 @@
     "(beta)": "(beta)",
     "(decreased by {{amount}})": "(reduceret med {{amount}})",
     "\"before\" or \"after\" (optional, uses app settings)": "\"før\" eller \"efter\" (valgfrit, bruger app indstillinger)",
-    "(decreased by {{percent}}%)": "(reduceret med {{percent}}%)"
+    "(decreased by {{percent}}%)": "(reduceret med {{percent}}%)",
+    "(filtered running total)": "(filtreret løbende total)",
+    "(increased by {{amount}})": "(øget med {{amount}})",
+    "(increased by {{percent}}%)": "(øget med {{percent}}%)",
+    "{{amount}} / day": "{{amount}} / dag"
 }
