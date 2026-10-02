@@ -8,5 +8,7 @@
     "(+{{numHiddenPayees}} more)": "(他{{numHiddenPayees}} 件)",
     "Yuan Renminbi": "人民元",
     "Year": "年",
-    "Weekly": "毎週"
+    "Weekly": "毎週",
+    "Bank": "銀行",
+    "Backups": "バックアップ"
 }
