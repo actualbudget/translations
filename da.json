@@ -1229,5 +1229,6 @@
     "(filtered running total)": "(filtreret løbende total)",
     "(increased by {{amount}})": "(øget med {{amount}})",
     "(increased by {{percent}}%)": "(øget med {{percent}}%)",
-    "{{amount}} / day": "{{amount}} / dag"
+    "{{amount}} / day": "{{amount}} / dag",
+    "(projected)": "(forventet)"
 }
