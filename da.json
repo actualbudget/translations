@@ -1223,5 +1223,7 @@
     "Account not found": "Kontoen blev ikke fundet",
     ":root {\n  --color-sidebarItemSelected: #007bff;\n}": ":root {\n  --color-sidebarItemSelected: #007bff;\n}",
     "(beta)": "(beta)",
-    "(decreased by {{amount}})": "(nedsat med {{amount}})"
+    "(decreased by {{amount}})": "(reduceret med {{amount}})",
+    "\"before\" or \"after\" (optional, uses app settings)": "\"før\" eller \"efter\" (valgfrit, bruger app indstillinger)",
+    "(decreased by {{percent}}%)": "(reduceret med {{percent}}%)"
 }
