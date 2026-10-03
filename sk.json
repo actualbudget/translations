@@ -51,7 +51,7 @@
     "<0>Sync ID:</0> {{syncId}}": "<0>Synchronizačné ID:</0> {{syncId}}",
     "<0>Themes</0> change the user interface colors.": "<0>Témy</0> menia farby používateľského rozhrania.",
     "<allocatedAmount /> <italic>of <totalAmount /></italic>": "<allocatedAmount /> <italic>z <totalAmount /></italic>",
-    "$10 a week": "10€ na týždeň",
+    "$10 a week": "$10 na týždeň",
     "$10 a week, up to a maximum of $80": "10€ týždenne, maximálne do 80€",
     "$50 each month": "50€ každý mesiac",
     "1 month": "1 mesiac",
@@ -89,7 +89,7 @@
     "Add specific days": "pridať špecifické dni",
     "Add transaction": "Pridať transakciu",
     "Admin": "Administrátor",
-    "Advanced options": "Pokročilé možnosti",
+    "Advanced options": "Pokročilé nastavenia",
     "Advanced Settings": "Pokročilé nastavenia",
     "after": "po",
     "After disabling OpenID all sessions will be closed": "Po deaktivácii OpenID budú všetky relácie ukončené",
@@ -325,5 +325,8 @@
     "Your files won't be moved. You can manually move them to the folder.": "Vaše súbory nebudú presunuté. Môžete ich presunúť do priečinka manuálne.",
     "Your target retirement income as a percentage of projected expenses.<1></1><2></2>100% means you need retirement income equal to your current projected expenses.<4></4>Values above 100% mean you plan to spend more in retirement.<6></6>Values below 100% mean you plan to spend less in retirement.<8></8><9></9>The graph shows both the projected expenses (solid red line) and your target income (dashed red line).": "Váš cieľový dôchodkový príjem ako percento z očakávaných výdavkov.<1></1><2></2>100 % znamená, že potrebujete dôchodkový príjem rovný vašim aktuálnym očakávaným výdavkom.<4></4>Hodnoty nad 100 % znamenajú, že plánujete v dôchodku míňať viac.<6></6>Hodnoty pod 100 % znamenajú, že plánujete v dôchodku míňať menej.<8></8><9></9>Graf zobrazuje ako očakávané výdavky (plná červená čiara), tak aj váš cieľový príjem (čiarkovaná červená čiara).",
     "Zero amount": "Nulová suma",
-    "(beta)": "(beta)"
+    "(beta)": "(beta)",
+    "Choose the schedule these {{ count }} transactions belong to:_one": "Vyberte plán, ku ktorému patrí táto {{ count }} transakcia:",
+    "Choose the schedule these {{ count }} transactions belong to:_few": "Vyberte plán, ku ktorému patria tieto {{ count }} transakcie:",
+    "Choose the schedule these {{ count }} transactions belong to:_other": "Vyberte plán, ku ktorému patrí týchto {{ count }} transakcií:"
 }
