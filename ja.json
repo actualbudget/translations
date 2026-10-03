@@ -103,5 +103,11 @@
     "Yearly": "毎年",
     "Connecting...": "接続中…",
     "Downloading...": "ダウンロード中…",
-    "Loading...": "読み込み中…"
+    "Loading...": "読み込み中…",
+    "(hidden)": "（非表示）",
+    "(modified)": "（変更済み）",
+    "(No payee)": "（支払先なし）",
+    "(none)": "（なし）",
+    "(nothing)": "（なし）",
+    "(projected)": "（予測）"
 }
