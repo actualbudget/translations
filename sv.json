@@ -1003,5 +1003,13 @@
     "Add a balance cap": "Lägg till saldogräns",
     "Add a trend line per series (line graphs only)": "Lägg till en trendlinje per serie (endast linjediagram)",
     "Add long-term goal": "Lägg till långsiktigt mål",
-    "Adjustment": "Justering"
+    "Adjustment": "Justering",
+    "A new version of Actual is available! Your Pikapods instance will be automatically updated in the next few days - no action needed.": "En ny version av Actual är tillgänglig! Din Pikapods-instans kommer att uppdateras automatiskt inom de närmaste dagarna – ingen åtgärd krävs.",
+    "Account transaction management": "Hantering av kontotransaktioner",
+    "Account transaction selection": "Val av kontotransaktion",
+    "Add a balance limit automation to set the refill target.": "Lägg till en automatisering av saldogräns för att ställa in påfyllningsmålet.",
+    "Add balance limit": "Lägg till saldogräns",
+    "Add balance limit automation": "Lägg till automatisering av saldogränser",
+    "Add new dashboard": "Lägg till ny infopanel",
+    "Additional CSS overrides:": "Ytterligare CSS-överskrivningar:"
 }
