@@ -1012,5 +1012,7 @@
     "Add balance limit automation": "Lägg till automatisering av saldogränser",
     "Add new dashboard": "Lägg till ny infopanel",
     "Additional CSS overrides:": "Ytterligare CSS-överskrivningar:",
-    "Access Revocation Incomplete": "Återkallande av åtkomst är inte slutfört"
+    "Access Revocation Incomplete": "Återkallande av åtkomst är inte slutfört",
+    "Add a set amount every month, week, day, or year.": "Lägg till ett fast belopp varje månad, vecka, dag eller år.",
+    "Age of Money": "Ålder av pengar"
 }
