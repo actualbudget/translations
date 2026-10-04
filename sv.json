@@ -1011,5 +1011,6 @@
     "Add balance limit": "Lägg till saldogräns",
     "Add balance limit automation": "Lägg till automatisering av saldogränser",
     "Add new dashboard": "Lägg till ny infopanel",
-    "Additional CSS overrides:": "Ytterligare CSS-överskrivningar:"
+    "Additional CSS overrides:": "Ytterligare CSS-överskrivningar:",
+    "Access Revocation Incomplete": "Återkallande av åtkomst är inte slutfört"
 }
