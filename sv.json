@@ -989,5 +989,19 @@
     "{{name}}: {{amount}}": "{{name}}: {{amount}}",
     "{{stream}} pays <3><0>{{amount}}</0></3> a year, so no more than that - less any tax, unless Before tax is ticked - can be paid in from it.": "{{stream}} betalar ut <3><0>{{amount}}</0></3> om året, så maximalt det beloppet – minus eventuell skatt, såvida inte \"Före skatt\" är ikryssat – kan betalas in från den.",
     "{{value}} (historical)": "{{value}} (historiskt)",
-    "→ Stable": "→ Stabil"
+    "→ Stable": "→ Stabil",
+    "(decreased by {{percent}}%)": "(minskat med {{percent}}%)",
+    "(filtered running total)": "(filtrerad ackumulerad summa)",
+    "(increased by {{amount}})": "(ökat med {{amount}})",
+    "(increased by {{percent}}%)": "(ökat med {{percent}}%)",
+    "{{categoryName}} budget copied until year end.": "Budget för {{categoryName}} kopierades till slutet av året.",
+    "{{provider}} menu": "{{provider}}-meny",
+    ":root {\n  --color-sidebarItemSelected: #007bff;\n}": ":root {\n  --color-sidebarItemSelected: #007bff;\n}",
+    "A percentage decrease must be under 100% and an increase at most 1000%.": "En procentuell minskning måste vara mindre än 100% och en ökning får inte överstiga 1000%.",
+    "active globally": "aktiv globalt",
+    "Active globally": "Aktiv globalt",
+    "Add a balance cap": "Lägg till saldogräns",
+    "Add a trend line per series (line graphs only)": "Lägg till en trendlinje per serie (endast linjediagram)",
+    "Add long-term goal": "Lägg till långsiktigt mål",
+    "Adjustment": "Justering"
 }
