@@ -981,5 +981,13 @@
     "{{amount}} / month": "{{amount}} / månad",
     "{{amount}} / week": "{{amount}} / vecka",
     "{{currency1}} to {{currency2}}": "{{currency1}} till {{currency2}}",
-    "{{month}} has already passed": "{{month}} har redan passerat"
+    "{{month}} has already passed": "{{month}} har redan passerat",
+    "\"before\" or \"after\" (optional, uses app settings)": "\"före\" eller \"efter\" (valfritt, använder appens inställningar)",
+    "(decreased by {{amount}})": "(minskade med {{amount}})",
+    "{{failedCount}} of {{total}} scenarios ran out of money at age {{age}}": "{{failedCount}} av {{total}} scenarier fick slut på pengar vid ålder {{age}}",
+    "{{name}} (closed)": "{{name}} (stängd)",
+    "{{name}}: {{amount}}": "{{name}}: {{amount}}",
+    "{{stream}} pays <3><0>{{amount}}</0></3> a year, so no more than that - less any tax, unless Before tax is ticked - can be paid in from it.": "{{stream}} betalar ut <3><0>{{amount}}</0></3> om året, så maximalt det beloppet – minus eventuell skatt, såvida inte \"Före skatt\" är ikryssat – kan betalas in från den.",
+    "{{value}} (historical)": "{{value}} (historiskt)",
+    "→ Stable": "→ Stabil"
 }
