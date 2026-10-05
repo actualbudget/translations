@@ -1766,5 +1766,6 @@
     "\"before\" or \"after\" (optional, uses app settings)": "\"prima\" o \"dopo\" (facoltativo, usa le impostazioni dell'app)",
     "(decreased by {{amount}})": "(diminuisci di {{amount}})",
     "(decreased by {{percent}}%)": "(ridotto del {{percent}}%)",
-    "(increased by {{percent}}%)": "(aumentato del {{percent}}%)"
+    "(increased by {{percent}}%)": "(aumentato del {{percent}}%)",
+    "{{categoryName}} budget copied until year end.": "Budget per {{categoryName}} copiato fino alla fine dell'anno."
 }
