@@ -1781,7 +1781,6 @@
     "Light theme": "Світла тема",
     ":root {\n  --color-sidebarItemSelected: #007bff;\n}": ":root {\n  --color-sidebarItemSelected: #007bff;\n}",
     "<0>Let's add your first account.</0> Accounts hold your transactions, like everyday spending, savings, credit cards, or cash. You can connect to your bank to import transactions automatically, or add them yourself.": "<0>Додаймо ваш перший рахунок.</0> На рахунках зберігаються ваші транзакції, наприклад, повсякденні витрати, заощадження, кредитні картки чи готівка. Ви можете підключитися до банку для автоматичного імпорту транзакцій або додавати їх самостійно.",
-    "<0>The latest news isn't available right now.</0> Actual couldn't reach actualbudget.org, which usually means you're offline. That's fine - everything else in Actual keeps working, and the news will load next time you're connected.": "<0>Останні новини наразі недоступні.</0> Actual не вдалося з'єднатися з actualbudget.org, що зазвичай означає відсутність інтернет-з'єднання. Усе гаразд — решта функцій Actual продовжує працювати, а новини завантажаться, коли ви знову підключитеся до мережі.",
     "<0>Warning:</0> This transaction is {{count}} days away,_one": "<0>Попередження:</0> До цієї транзакції залишається {{count}} день,",
     "<0>Warning:</0> This transaction is {{count}} days away,_few": "<0>Попередження:</0> До цієї транзакції залишається {{count}} дні,",
     "<0>Warning:</0> This transaction is {{count}} days away,_many": "<0>Попередження:</0> До цієї транзакції залишається {{count}} днів,",
