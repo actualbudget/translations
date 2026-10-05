@@ -1765,5 +1765,6 @@
     "% of income": "% del reddito",
     "\"before\" or \"after\" (optional, uses app settings)": "\"prima\" o \"dopo\" (facoltativo, usa le impostazioni dell'app)",
     "(decreased by {{amount}})": "(diminuisci di {{amount}})",
-    "(decreased by {{percent}}%)": "(ridotto del {{percent}}%)"
+    "(decreased by {{percent}}%)": "(ridotto del {{percent}}%)",
+    "(increased by {{percent}}%)": "(aumentato del {{percent}}%)"
 }
