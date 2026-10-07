@@ -2049,7 +2049,6 @@
     "There was an error discovering the tags. Please try again.": "Beim Entdecken der Tags ist ein Fehler aufgetreten. Bitte versuche es erneut.",
     "0 = end of period, 1 = start of period": "0 = Periodenende, 1 = Periodenanfang",
     "Accessible from age": "Verfügbar ab einem Alter von",
-    "Transaction amount in cents. Use for calculations and comparisons.\n\nExample: =amount / 100 to get dollar value": "Transaktionsbetrag in Cent. Nutze ihn für Berechnungen und Vergleiche.\n\nBeispiel: =amount / 100 um den Euro-Wert zu erhalten",
     "Transaction date in YYYY-MM-DD format. Use with date functions.\n\nExample: =TEXT(date, \"MMMM\") to get month name": "Transaktionsdatum im Format YYYY-MM-DD. Nutze es mit Datumsfunktionen.\n\nBeispiel: =TEXT(date, \"MMMM\") um den Monatsnamen zu erhalten",
     "Usage type:": "Verwendungsart:",
     "Weight": "Gewichtung",
