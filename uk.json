@@ -1732,8 +1732,8 @@
     "You have {{count}} overspent categories (<3>{{amount}}</3>)_few": "У вас {{count}} категорії з перевитратою (<3>{{amount}}</3>)",
     "You have {{count}} overspent categories (<3>{{amount}}</3>)_many": "У вас {{count}} категорій з перевитратою (<3>{{amount}}</3>)",
     "Overspending adj:": "Корекція перевитрати:",
-    "Overspending Adjustment": "Корекція перевитрати",
-    "Overspending Adjustment:": "Корекція перевитрати:",
+    "Overspending Adjustment": "Коригування перевитрат",
+    "Overspending Adjustment:": "Коригування перевитрат:",
     "(beta)": "(бета)",
     "(filtered running total)": "(відфільтрований підсумок)",
     "{{amount}} / day": "{{amount}} / день",
@@ -1830,5 +1830,15 @@
     "An unexpected error occurred.": "Сталася неочікувана помилка.",
     "Select a category": "Оберіть категорію",
     "Select an account": "Оберіть рахунок",
-    "Who did you pay?": "Оберіть отримувача"
+    "Who did you pay?": "Оберіть отримувача",
+    "Add a set amount every month, week, day, or year.": "Додавати фіксовану суму щомісяця, щотижня, щодня або щороку.",
+    "Cover schedule": "Покривати за розкладом",
+    "Save up for a scheduled transaction.": "Накопичувати на заплановані транзакції.",
+    "Pick an existing schedule, or create one in Schedules. This automation can&rsquo;t run until it&rsquo;s linked to a schedule.": "Оберіть існуючий розклад або створіть новий у розділі \"Розклади\". Ця автоматизація не зможе працювати, доки її не буде зв'язано з розкладом.",
+    "Adjustment": "Коригування",
+    "Adjustment out of range": "Коригування поза допустимим діапазоном",
+    "No adjustment": "Без коригування",
+    "Delete automation": "Видалити автоматизацію",
+    "Note": "Примітка",
+    "notes_release notes": "примітки"
 }
