@@ -1840,5 +1840,7 @@
     "No adjustment": "Без коригування",
     "Delete automation": "Видалити автоматизацію",
     "Note": "Примітка",
-    "notes_release notes": "примітки"
+    "notes_release notes": "примітки",
+    "Save by date": "Накопичувати до дати",
+    "Spread a target amount across the months until a deadline.": "Розподіляти цільову суму за місяцями до настання дедлайну."
 }
