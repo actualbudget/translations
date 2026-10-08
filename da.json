@@ -1230,5 +1230,7 @@
     "(increased by {{amount}})": "(øget med {{amount}})",
     "(increased by {{percent}}%)": "(øget med {{percent}}%)",
     "{{amount}} / day": "{{amount}} / dag",
-    "(projected)": "(forventet)"
+    "(projected)": "(forventet)",
+    "{{amount}} / month": "{{amount}} / måned",
+    "{{amount}} / week": "{{amount}} / uge"
 }
