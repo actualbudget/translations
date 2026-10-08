@@ -1232,5 +1232,6 @@
     "{{amount}} / day": "{{amount}} / dag",
     "(projected)": "(forventet)",
     "{{amount}} / month": "{{amount}} / måned",
-    "{{amount}} / week": "{{amount}} / uge"
+    "{{amount}} / week": "{{amount}} / uge",
+    "{{years}} years": "{{years}} år"
 }
