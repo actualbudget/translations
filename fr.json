@@ -1035,7 +1035,6 @@
     "Unable to connect to the server. We need to access the server to get some information about your keys.": "Impossible de se connecter au serveur. Nous devons accéder au serveur pour obtenir des informations sur vos clés.",
     "Synced field to map to {{field}}": "Champ synchronisé à associer à {{field}}",
     "This configuration is not valid. Please check it again.": "Cette configuration n'est pas valide. Veuillez la vérifier à nouveau.",
-    "This will change the password for this server instance. All existing sessions will stay logged in.": "Cette action changera le mot de passe pour cette instance de serveur. Les sessions actuellement ouvertes resteront actives.",
     "This schedule has custom conditions and actions": "Cette échéance a des conditions et des actions personnalisées",
     "Single month": "Mois unique",
     "This budget cannot be loaded with this version of the app. Make sure the app is up-to-date.": "Ce budget ne peut pas être chargé avec cette version de l'application. Assurez-vous que l'application est à jour.",

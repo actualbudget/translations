@@ -1557,7 +1557,6 @@
     "This rule could not be deleted because it is linked to a schedule.": "No s'ha pogut eliminar aquesta regla perquè està vinculada a una programació.",
     "This schedule has custom conditions and actions": "Aquesta programació té condicions i accions personalitzades",
     "This week": "Aquesta setmana",
-    "This will change the password for this server instance. All existing sessions will stay logged in.": "Això canviarà la contrasenya d'aquesta instància de servidor. Totes les sessions existents romandran iniciades.",
     "This will generate a new key for encrypting your data. <2>This requires a sync reset</2> and all other devices will have to revert to this version of your data. Actual will take you through that process on those devices.": "Això generarà una nova clau per xifrar les teves dades. <2>Això requereix un restabliment de la sincronització</2> i tots els altres dispositius hauran de tornar a aquesta versió de les teves dades. Actual us guiarà a través d'aquest procés en aquests dispositius.",
     "Thursday": "Dijous",
     "Time": "Temps",

@@ -891,7 +891,6 @@
     "Change upcoming length": "Alterar duração futura",
     "This rule applies to these transactions:": "Esta regra se aplica às seguintes transações:",
     "This role is ideal for users who primarily need to manage their own budgets and participate in shared budget activities.": "Essa função é ideal para usuários que precisam principalmente gerenciar seus próprios orçamentos e participar de atividades de orçamento compartilhado.",
-    "This will change the password for this server instance. All existing sessions will stay logged in.": "Isso mudará a senha para esta instância do servidor. Todas as sessões existentes permanecerão logadas.",
     "This will generate a new key for encrypting your data. <2>This requires a sync reset</2> and all other devices will have to revert to this version of your data. Actual will take you through that process on those devices.": "Isso gerará uma nova chave para criptografar seus dados. <2>Isso requer uma redefinição de sincronização</2> e todos os outros dispositivos terão que reverter para esta versão dos seus dados. O Actual o guiará por esse processo nesses dispositivos.",
     "Toggle the privacy filter": "Alternar o filtro de privacidade",
     "Unable to decrypt file with this password. Please try again.": "Não é possível descriptografar o arquivo com esta senha. Tente novamente.",

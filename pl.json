@@ -1116,7 +1116,6 @@
     "This a <1>local file</1> which is not stored on a server.": "Jest to <1>plik lokalny</1>, który nie jest przechowywany na serwerze.",
     "This action is irreversible, ownership of this budget file will only be able to be transferred by the server administrator or new owner.": "Ta czynność jest nieodwracalna, a prawa własności do tego pliku budżetu będzie mógł przenieść wyłącznie administrator serwera lub nowy właściciel.",
     "This custom report has been deleted.": "Ten niestandardowy raport został usunięty.",
-    "This will change the password for this server instance. All existing sessions will stay logged in.": "Spowoduje to zmianę hasła dla tej instancji serwera. Wszystkie istniejące sesje pozostaną zalogowane.",
     "to": "do",
     "to ": "do ",
     "To Budget": "Do zaplanowania",

@@ -1510,7 +1510,6 @@
     "This schedule has custom conditions and actions": "Esta planificación tiene condiciones y acciones personalizadas",
     "This transaction will be deleted by Rules": "Esta transacción se eliminará por las reglas",
     "This week": "Esta semana",
-    "This will change the password for this server instance. All existing sessions will stay logged in.": "Esto cambiará la contraseña para esta instancia del servidor. Todas las demás sesiones existentes mantendrán su sesión iniciada.",
     "This will generate a new key for encrypting your data. <2>This requires a sync reset</2> and all other devices will have to revert to this version of your data. Actual will take you through that process on those devices.": "Esto generará una nueva clave para encriptar sus datos. <2>Esto requiere un restablecimiento de la sincronización</2> y todos los demás dispositivos deberán revertir a esta versión de sus datos. Actual le guiará a través del proceso en esos dispositivos.",
     "Thursday": "Jueves",
     "Time": "Tiempo",

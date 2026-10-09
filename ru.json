@@ -1055,7 +1055,6 @@
     "This schedule has custom conditions and actions": "В этом расписании предусмотрены пользовательские условия и действия",
     "This transaction will be deleted by Rules": "Эта транзакция будет удалена в соответствии с правилами",
     "This widget has failed to load.": "Этот виджет не удалось загрузить.",
-    "This will change the password for this server instance. All existing sessions will stay logged in.": "Это приведет к смене пароля для данного экземпляра сервера. Все существующие сеансы сохранятся.",
     "This will generate a new key for encrypting your data. <2>This requires a sync reset</2> and all other devices will have to revert to this version of your data. Actual will take you through that process on those devices.": "Это позволит сгенерировать новый ключ для шифрования ваших данных. <2>Для этого потребуется сбросить синхронизацию</2>, и все остальные устройства должны будут вернуться к этой версии ваших данных. Actual поможет вам выполнить эту процедуру на всех устройствах.",
     "Time": "Время",
     "Time sync issue": "Проблема с синхронизацией времени",

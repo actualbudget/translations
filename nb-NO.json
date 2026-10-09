@@ -1475,7 +1475,6 @@
     "This schedule has custom conditions and actions": "Denne planen har egendefinerte betingelser og handlinger",
     "This transaction will be deleted by Rules": "Denne transaksjonen vil bli slettet av Regler",
     "This week": "Denne uken",
-    "This will change the password for this server instance. All existing sessions will stay logged in.": "Dette vil endre passordet for denne serverinstansen. Alle eksisterende økter vil forbli innlogget.",
     "This will generate a new key for encrypting your data. <2>This requires a sync reset</2> and all other devices will have to revert to this version of your data. Actual will take you through that process on those devices.": "Dette vil generere en ny nøkkel for å kryptere dataene dine. <2>Dette krever en synkroniseringsnullstilling</2> og alle andre enheter må gå tilbake til denne versjonen av dataene dine. Actual vil ta deg gjennom den prosessen på de enhetene.",
     "Thursday": "Torsdag",
     "Time": "Tid",
