@@ -1885,5 +1885,7 @@
     "Budget the average of the last {{count}} complete months_few": "Призначити середню суму за останні {{count}} повні місяці",
     "Budget the average of the last {{count}} complete months_many": "Призначити середню суму за останні {{count}} повних місяців",
     "Share remaining funds to budget (weight {{weight}})": "Розподілити нерозподілене (пріоритет {{weight}})",
-    "Budget automation": "Автоматизація бюджету"
+    "Budget automation": "Автоматизація бюджету",
+    "Who paid you?": "Это вам заплатив?",
+    "Request Location": "Запросити локацію"
 }
