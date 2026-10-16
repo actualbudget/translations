@@ -219,5 +219,15 @@
     "Category learning disabled": "Učení kategorií zakázáno",
     "Change": "Změnit",
     "Assets:": "Aktiva:",
-    "{{categoryName}} budget copied until year end.": "Rozpočet kategorie {{categoryName}} byl zkopírován až do konce roku."
+    "{{categoryName}} budget copied until year end.": "Rozpočet kategorie {{categoryName}} byl zkopírován až do konce roku.",
+    "(beta)": "(beta)",
+    "(decreased by {{amount}})": "(sníženo o {{amount}})",
+    "(decreased by {{percent}}%)": "(sníženo o {{percent}}%)",
+    "(filtered running total)": "(filtrovaný průběžný součet)",
+    "(increased by {{amount}})": "(zvýšeno o {{amount}})",
+    "(increased by {{percent}}%)": "(zvýšeno o {{percent}}%)",
+    "{{amount}} / day": "{{amount}} / den",
+    "{{amount}} / month": "{{amount}} / měsíc",
+    "{{amount}} / week": "{{amount}} / týden",
+    "{{amount}} remained locked in pots that had not reached their access age.": "{{amount}} zůstalo uzamčeno v obálkách, které nedosáhly věku přístupu."
 }
