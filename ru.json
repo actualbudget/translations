@@ -948,7 +948,7 @@
     "{{amount}} / day": "{{amount}} / день",
     "{{amount}} / month": "{{amount}} / месяц",
     "{{amount}} / week": "{{amount}} / неделя",
-    "(decreased by {{amount}})": "(уменьшено на {{количество}})",
+    "(decreased by {{amount}})": "(уменьшено на {{amount}})",
     "(decreased by {{percent}}%)": "(умсеньшено на {{процент}}%)",
     "(beta)": "(бета)",
     "% of income": "% от дохода",
