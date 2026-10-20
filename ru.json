@@ -1612,5 +1612,8 @@
     "<0>Warning:</0> This transaction is {{count}} days away,_many": "<0>Предупреждение:</0> До этой транзакции осталось {{count}} дней,",
     "Collapse all years": "Свернуть все года",
     "Contribution name": "Название вклада",
-    "Decimals": "Десятичные знаки"
+    "Decimals": "Десятичные знаки",
+    "{{count}} tags_one": "{{count}} тег",
+    "{{count}} tags_few": "{{count}} тега",
+    "{{count}} tags_many": "{{count}} тегов"
 }
