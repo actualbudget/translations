@@ -2053,5 +2053,6 @@
     "{{appName}} is a budgeting app that helps you understand exactly where your money goes. This short tour walks you through the basics. It only takes a couple of minutes, and you can leave at any time and replay it later from the Help menu.": "{{appName}} ist eine Budgeting-App, die dir hilft genau zu verstehen, wohin dein Geld fließt. Diese kurze Tour führt dich durch die Grundlagen. Es dauert nur ein paar Minuten, und du kannst jederzeit abbrechen und es später im Hilfe-Menü erneut abspielen.",
     "{{current}} of {{total}}": "{{current}} von {{total}}",
     "{{name}}: {{amount}}": "{{name}}: {{amount}}",
-    "{{value}} (historical)": "{{value}} (historisch)"
+    "{{value}} (historical)": "{{value}} (historisch)",
+    "<0>Update Actual to see the latest notifications.</0> This version can't read the newest notifications format.": "<0>Aktualisieren Sie Actual, um die neuesten Benachrichtigungen anzuzeigen.</0> Diese Version kann das neueste Benachrichtigungsformat nicht lesen."
 }
