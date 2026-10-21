@@ -342,6 +342,7 @@
   "Authorization state mismatch. Please try again.": "Authorization state mismatch. Please try again.",
   "Authorization successful! This window will close automatically.": "Authorization successful! This window will close automatically.",
   "Authorization was denied or failed: {{error}}": "Authorization was denied or failed: {{error}}",
+  "Auto": "Auto",
   "Auto (detect)": "Auto (detect)",
   "Auto login failed - No header sent": "Auto login failed - No header sent",
   "Auto login failed - Proxy not trusted": "Auto login failed - Proxy not trusted",
@@ -979,6 +980,7 @@
   "Extract the end month from a named query timeframe.": "Extract the end month from a named query timeframe.",
   "Extract the start month from a named query timeframe.": "Extract the start month from a named query timeframe.",
   "Failed importing the dashboard file.": "Failed importing the dashboard file.",
+  "Failed loading available banks: {{reason}}. If this is a credentials problem, you can <5>set them up</5> again.": "Failed loading available banks: {{reason}}. If this is a credentials problem, you can <5>set them up</5> again.",
   "Failed loading available banks: Enable Banking access credentials might be misconfigured. Please <2>set them up</2> again.": "Failed loading available banks: Enable Banking access credentials might be misconfigured. Please <2>set them up</2> again.",
   "Failed loading available banks: GoCardless access credentials might be misconfigured. Please <2>set them up</2> again.": "Failed loading available banks: GoCardless access credentials might be misconfigured. Please <2>set them up</2> again.",
   "Failed parsing the imported JSON.": "Failed parsing the imported JSON.",
@@ -996,6 +998,9 @@
   "Failed to duplicate budget file": "Failed to duplicate budget file",
   "Failed to duplicate budget file.": "Failed to duplicate budget file.",
   "Failed to enable OpenID. Please try again.": "Failed to enable OpenID. Please try again.",
+  "Failed to export budget analysis.": "Failed to export budget analysis.",
+  "Failed to export the dashboard file.": "Failed to export the dashboard file.",
+  "Failed to export transactions.": "Failed to export transactions.",
   "Failed to load forecast": "Failed to load forecast",
   "Failed to load theme": "Failed to load theme",
   "Failed to load theme catalog. You can still paste custom CSS below.": "Failed to load theme catalog. You can still paste custom CSS below.",
@@ -2933,5 +2938,6 @@
   "YTD": "YTD",
   "Yuan Renminbi": "Yuan Renminbi",
   "yyyy": "yyyy",
-  "Zero amount": "Zero amount"
+  "Zero amount": "Zero amount",
+  "Zero-Based": "Zero-Based"
 }
