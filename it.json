@@ -1734,5 +1734,6 @@
     "(decreased by {{amount}})": "(diminuisci di {{amount}})",
     "(decreased by {{percent}}%)": "(ridotto del {{percent}}%)",
     "(increased by {{percent}}%)": "(aumentato del {{percent}}%)",
-    "{{categoryName}} budget copied until year end.": "Budget per {{categoryName}} copiato fino alla fine dell'anno."
+    "{{categoryName}} budget copied until year end.": "Budget per {{categoryName}} copiato fino alla fine dell'anno.",
+    "{{amount}} / day": "{{amount}} / giorno"
 }
