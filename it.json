@@ -1735,5 +1735,8 @@
     "(decreased by {{percent}}%)": "(ridotto del {{percent}}%)",
     "(increased by {{percent}}%)": "(aumentato del {{percent}}%)",
     "{{categoryName}} budget copied until year end.": "Budget per {{categoryName}} copiato fino alla fine dell'anno.",
-    "{{amount}} / day": "{{amount}} / giorno"
+    "{{amount}} / day": "{{amount}} / giorno",
+    "(filtered running total)": "(totale parziale filtrato)",
+    "{{amount}} / week": "{{amount}} / settimana",
+    "{{amount}} remained locked in pots that had not reached their access age.": "{{amount}} rimasto bloccato in fondi che non avevano maturato l'accesso."
 }
