@@ -1207,5 +1207,10 @@
     "(projected)": "(forventet)",
     "{{amount}} / month": "{{amount}} / måned",
     "{{amount}} / week": "{{amount}} / uge",
-    "{{years}} years": "{{years}} år"
+    "{{years}} years": "{{years}} år",
+    "{{percent}}% must be between 0 and 100": "{{percent}}% skal være mellem 0 og 100",
+    "{{value}} (historical)": "{{value}} (historisk)",
+    "↑ Improving": "↑ Stigende",
+    "↓ Declining": "↓ Faldende",
+    "→ Stable": "→ Stabil"
 }
