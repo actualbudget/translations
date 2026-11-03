@@ -2058,5 +2058,7 @@
     "About": "Über",
     "{{max}}+": "{{max}}+",
     "{{title}} ({{changeCount}})": "{{title}} ({{changeCount}})",
-    "{{amount}} remained locked in pots that had not reached their access age.": "{{amount}} blieb in Fonds gebunden, die das Auszahlungsalter noch nicht erreicht hatten."
+    "{{amount}} remained locked in pots that had not reached their access age.": "{{amount}} blieb in Fonds gebunden, die das Auszahlungsalter noch nicht erreicht hatten.",
+    "{{count}} accounts need attention_one": "Bei {{count}} Konto besteht Handlungsbedarf",
+    "{{count}} accounts need attention_other": "Bei {{count}} Konten besteht Handlungsbedarf"
 }
