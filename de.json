@@ -2054,5 +2054,9 @@
     "{{current}} of {{total}}": "{{current}} von {{total}}",
     "{{name}}: {{amount}}": "{{name}}: {{amount}}",
     "{{value}} (historical)": "{{value}} (historisch)",
-    "<0>Update Actual to see the latest notifications.</0> This version can't read the newest notifications format.": "<0>Aktualisieren Sie Actual, um die neuesten Benachrichtigungen anzuzeigen.</0> Diese Version kann das neueste Benachrichtigungsformat nicht lesen."
+    "<0>Update Actual to see the latest notifications.</0> This version can't read the newest notifications format.": "<0>Aktualisieren Sie Actual, um die neuesten Benachrichtigungen anzuzeigen.</0> Diese Version kann das neueste Benachrichtigungsformat nicht lesen.",
+    "About": "Über",
+    "{{max}}+": "{{max}}+",
+    "{{title}} ({{changeCount}})": "{{title}} ({{changeCount}})",
+    "{{amount}} remained locked in pots that had not reached their access age.": "{{amount}} blieb in Fonds gebunden, die das Auszahlungsalter noch nicht erreicht hatten."
 }
