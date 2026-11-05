@@ -979,7 +979,6 @@
     "Add an automation": "Добавить автоматизацию",
     "Automation type": "Тип автоматизации",
     "Active in {{scope}}": "Подключен к {{scope}}",
-    "Akahu Bank Sync (NZ banks)": "Синхронизация с Akahu Bank (банки Новой Зеландии)",
     "Balance Forecast Report": "Отчёт о прогнозе остатка средств",
     "Bar chart": "Столбчатая диаграмма",
     "Budget <2>{{amount}}</2> every {{count}} days_one": "Бюджет <2>{{amount}}</2> каждый {{count}} день",
