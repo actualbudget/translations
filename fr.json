@@ -1887,5 +1887,7 @@
     "Sort all": "Tout trier",
     "Sort as budget": "Trier par budget",
     "from": "de",
-    "{{provider}} menu": "Menu {{provider}}"
+    "{{provider}} menu": "Menu {{provider}}",
+    "{{current}} of {{total}}": "{{current}} sur {{total}}",
+    "<0><0>How are \"Average\" and \"Spent Average MTD\" calculated?</0></0><1>They are both the average cumulative spending by day for the selected average range before the selected \"compare\" month.</1>": "<0><0>Comment \"Moyenne\" and \"Moyenne dépensée du mois en cours\" sont calculés?</0></0><1>Il s'agit dans les deux cas de la moyenne des dépenses cumulées par jour pour la période sélectionnée, avant le mois de 'comparaison\" choisi</1"
 }
