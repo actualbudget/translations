@@ -286,7 +286,7 @@
     "Category \"{{name}}\" already exists in group (it may be hidden)": "La categoría «{{name}}» ya existe en el grupo (puede estar oculta)",
     "Category learning disabled": "Aprendizaje de categorías deshabilitado",
     "Click the button below to reload and apply the update.": "Haga clic en el botón de abajo para recargar y aplicar la actualización.",
-    "Compare:": "Compare:",
+    "Compare:": "Comparar:",
     "Be aware that other devices may have already created these transactions. If you have multiple devices, make sure you only do this on one device or you will have duplicate transactions.": "Ten en cuenta que es posible que otros dispositivos ya hayan creado estas transacciones. Si tienes varios dispositivos, asegúrate de realizar esta acción solo en uno de ellos o tendrás transacciones duplicadas.",
     "Bank": "Banco",
     "Complete": "Completa",
@@ -674,7 +674,7 @@
     "Import transaction notes": "Importar las notas de las transacciones",
     "Edit fields": "Editar campos",
     "Error when trying to contact Pluggy.ai": "Error al intentar contactar con Pluggy.ai",
-    "It is required to provide both the client id, client secret and at least one item id.": "Es obligatorio proporcionar tanto el ID de cliente, el secreto de cliente y al menos un ID de elemento.",
+    "It is required to provide both the client id, client secret and at least one item id.": "Es obligatorio proporcionar el ID del cliente, el secreto del cliente y al menos un ID de elemento.",
     "Fixed {{count}} non-split transactions with split errors._one": "Se ha corregido {{count}} transacción no dividida con errores de división.",
     "Fixed {{count}} non-split transactions with split errors._many": "Se han corregido {{count}} transacciones no divididas con errores de división.",
     "Fixed {{count}} non-split transactions with split errors._other": "Se han corregido {{count}} transacciones no divididas con errores de división.",
@@ -897,7 +897,7 @@
     "Cover the occurrences of the schedule &lsquo;{{name}}&rsquo; this month": "Cubrir las repeticiones de la planificacion &lsquo;{{name}}&rsquo; este mes",
     "Every month on the {{range}}": "Cada mes entre {{range}}",
     "It looks like you're using an outdated version of the Actual client. Your budget data has been updated by another client, but this client is still on the old version. For the best experience, please update Actual to the latest version.": "Parece que estás usando una versión desfasada del cliente de Actual. Tus datos de presupuesto han sido actualizados por otro cliente, pero este cliente aún está en la versión anterior. Para la mejor experiencia, por favor actualiza Actual a la última versión.",
-    "Item Ids (comma separated):": "IDs de ítem (separados por comas):",
+    "Item Ids (comma separated):": "IDs de elemento (separados por comas):",
     "More options": "Más opciones",
     "Next:": "Siguiente:",
     "Not yet reconciled": "Aún no conciliado",
@@ -1984,5 +1984,8 @@
     "A weekly or daily cap is multiplied by the number of weeks or days in the month, so the effective monthly cap changes with each month. For example, a {{weekly}}/week cap caps the balance at {{fourWeeks}} in months with 4 weeks and {{fiveWeeks}} in months with 5.": "El límite semanal o diario se multiplica por el número de semanas o días del mes, por lo que el límite mensual efectivo varía cada mes. Por ejemplo, un límite de {{weekly}} a la semana fija el saldo máximo en {{fourWeeks}} en los meses de 4 semanas y en {{fiveWeeks}} en los de 5 semanas.",
     "Account balance as of the date of the transaction, excluding the transaction amount. Use for calculations and comparisons.\n\nExample: =IF(balance < 0, \"Negative Balance\", \"Positive Balance\")": "Saldo de la cuenta a la fecha de la transacción, sin incluir el importe. Úselo para cálculos y comparaciones.\n\nEjemplo: =SI(saldo < 0; \"Saldo negativo\"; \"Saldo positivo\")",
     "Account group": "Grupo de cuentas",
-    "Account name": "Nombre de la cuenta"
+    "Account name": "Nombre de la cuenta",
+    "<0>Update Actual to see the latest notifications.</0> This version can't read the newest notifications format.": "<0>Actualiza Actual para ver las notificaciones más recientes.</0> Esta versión no puede leer el nuevo formato de notificaciones.",
+    "(decreased by {{amount}} per week)": "(reducido en {{amount}} cada semana)",
+    "(increased by {{amount}} per week)": "(aumentado en {{amount}} cada semana)"
 }
