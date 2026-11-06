@@ -82,7 +82,7 @@
     "(please select)": "（請選擇）",
     "{{displayMonth}} budget templates have been applied.": "已套用 {{displayMonth}} 預算範本。",
     "{{displayMonth}} budgets have all been set to zero.": "{{displayMonth}} 預算範本已被清零",
-    "{{displayMonth}} budget templates have been overwritten.": "已覆寫 {{displayMonth}} 預算範本",
+    "{{displayMonth}} budget templates have been overwritten.": "已覆寫 {{displayMonth}} 預算範本。",
     "(modified)": "（已修改）",
     "{{count}} associated rules_other": "{{count}} 條相關規則",
     "(none)": "（沒有）",
@@ -98,13 +98,13 @@
     "{{endOccurrences}} times": "{{endOccurrences}}次",
     "{{scheduleName}} is due {{distanceFromNow}} ({{formattedDate}})": "{{scheduleName}} 將於 {{distanceFromNow}} ({{formattedDate}}) 到期",
     "{{selectedPayeeNames}}, and more": "{{selectedPayeeNames}} 及其他",
-    "{{status}} (Split)": "{{status}} (拆分)",
+    "{{status}} (Split)": "{{status}} (拆帳)",
     "<0><0>Custom Report:</0></0> <2>{{name}}</2>": "<0><0>自訂報表：</0></0> <2>{{name}}</2>",
     "(deleted)": "（已刪除）",
     "(nothing)": "（無）",
     "<0>{{category}}</0> is used by existing transactions or it has a positive leftover balance currently.": "仍有分類在<0>{{category}}</0> 的交易或該分類仍有餘額。",
     "(+{{numHiddenPayees}} more)": "(+{{numHiddenPayees}} 更多)",
-    "{{count}} payees_other": "{{count}} 收款人",
+    "{{count}} payees_other": "{{count}} 個交易對象",
     "Compare": "比較",
     "Confirm": "確認",
     "Confirm Delete": "確認刪除",
@@ -1664,5 +1664,6 @@
     "{{month}} has already passed": "{{month}} 已經過去",
     "{{name}} (closed)": "{{name}}（已關閉）",
     "{{percent}}% must be between 0 and 100": "{{percent}}% 必須介於 0 到 100 之間",
-    "{{provider}} menu": "{{provider}} 選單"
+    "{{provider}} menu": "{{provider}} 選單",
+    "{{num}} more items...": "還有 {{num}} 個項目…"
 }
