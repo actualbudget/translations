@@ -83,7 +83,7 @@
     "{{displayMonth}} budget templates have been applied.": "已套用 {{displayMonth}} 預算範本。",
     "{{displayMonth}} budgets have all been set to zero.": "{{displayMonth}} 預算範本已被清零",
     "{{displayMonth}} budget templates have been overwritten.": "已覆寫 {{displayMonth}} 預算範本",
-    "(modified)": "（已編輯）",
+    "(modified)": "（已修改）",
     "{{count}} associated rules_other": "{{count}} 條相關規則",
     "(none)": "（沒有）",
     "(after weekend)": "（週末後）",
