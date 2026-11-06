@@ -92,7 +92,7 @@
     "<0>Language</0> support is not available. Please follow the instructions <3>here</3> to add missing translation files.": "No se dispone de soporte para <0>Traducciones</0>. Por favor, sigue las instrucciones <3>aquí</3> para añadir archivos de traducción faltantes.",
     "<0>Move schedule </0><1></1><2> {{beforeOrAfter}} weekend</2>": "<0>Mover planificación</0><1></1><2> {{beforeOrAfter}} del fin de semana</2>",
     "<0>Server self-signed certificate</0> <2><0>enables a secure connection</0></2>": "<0>Certificado auto-firmado del servidor</0> <2><0>permite una conexión segura</0></2>",
-    "<allocatedAmount /> <italic>of <totalAmount /></italic>": "<allocatedAmount /> <italic>de<totalAmount /></italic>",
+    "<allocatedAmount /> <italic>of <totalAmount /></italic>": "<allocatedAmount /> <italic>de <totalAmount /></italic>",
     "Budget \"{{id}}\" not found. Check the ID of your budget in the Advanced section of the settings page.": "Presupuesto «{{id}}» no encontrado. Comprueba el ID de tu presupuesto en la sección Avanzado de la página de configuración.",
     "Budget name": "Nombre de presupuesto",
     "Could not search: {{errorReason}}": "No se pudo buscar: {{errorReason}}",
