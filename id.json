@@ -25,5 +25,7 @@
     "{{scheduleName}} is due {{distanceFromNow}} ({{formattedDate}})": "{{scheduleName}} jatuh tempo dalam {{distanceFromNow}} ({{formattedDate}})",
     "{{selectedPayeeNames}}, and more": "{{selectedPayeeNames}}, dan lainnya",
     ":root {\n  --color-sidebarItemSelected: #007bff;\n}": ":root {\n  --color-sidebarItemSelected: #007bff;\n}",
-    "<0>Goal Type:</0><1>{{type}}</1>": "<0>Jenis Target:</0><1>{{type}}</1>"
+    "<0>Goal Type:</0><1>{{type}}</1>": "<0>Jenis Target:</0><1>{{type}}</1>",
+    "\"before\" or \"after\" (optional, uses app settings)": "\"sebelum\" atau \"sesudah\" (opsional, gunakan pengaturan aplikasi)",
+    "(beta)": "(beta)"
 }
