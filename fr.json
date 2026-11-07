@@ -1892,5 +1892,6 @@
     "<0><0>How are \"Average\" and \"Spent Average MTD\" calculated?</0></0><1>They are both the average cumulative spending by day for the selected average range before the selected \"compare\" month.</1>": "<0><0>Comment \"Moyenne\" and \"Moyenne dépensée du mois en cours\" sont calculés?</0></0><1>Il s'agit dans les deux cas de la moyenne des dépenses cumulées par jour pour la période sélectionnée, avant le mois de 'comparaison\" choisi</1",
     "(decreased by {{amount}} per week)": "(réduit de {{amount}} par semaine)",
     "(increased by {{amount}} per week)": "(augmenté de {{amount}} par semaine)",
-    "{{value}} (historical)": "{{value}} (historique)"
+    "{{value}} (historical)": "{{value}} (historique)",
+    "{{appName}} is a budgeting app that helps you understand exactly where your money goes. This short tour walks you through the basics. It only takes a couple of minutes, and you can leave at any time and replay it later from the Help menu.": "{{appName}} est une application de gestion budgétaire qui vous aide à comprendre où va votre argent. Cette courte visite guidée vous montre les bases. Cela ne prendra que quelques minutes et vous pouvez quitter à tout instant et reprendre ultérieurement depuis le menu Aide."
 }
