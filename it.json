@@ -1738,5 +1738,10 @@
     "{{amount}} / day": "{{amount}} / giorno",
     "(filtered running total)": "(totale parziale filtrato)",
     "{{amount}} / week": "{{amount}} / settimana",
-    "{{amount}} remained locked in pots that had not reached their access age.": "{{amount}} rimasto bloccato in fondi che non avevano maturato l'accesso."
+    "{{amount}} remained locked in pots that had not reached their access age.": "{{amount}} rimasto bloccato in fondi che non avevano maturato l'accesso.",
+    "{{amount}} / month": "{{amount}} / mese",
+    "{{appName}} is a budgeting app that helps you understand exactly where your money goes. This short tour walks you through the basics. It only takes a couple of minutes, and you can leave at any time and replay it later from the Help menu.": "{{appName}} è un'applicazione per la gestione del budget che ti aiuta a capire dove esattamente usi i tuoi soldi. Questo piccolo tour ti guiderà attraverso le basi. Ci vorrà solo qualche minuto, e potrai uscire e riprenderlo in qualsiasi momento dal menù Aiuto.",
+    "{{count}} scheduled transactions included in this date range_one": "{{count}} transazione programmata inclusa nell'intervallo di date",
+    "{{count}} scheduled transactions included in this date range_many": "{{count}} transazioni programmate incluse nell'intervallo di date",
+    "{{count}} scheduled transactions included in this date range_other": "{{count}} transazioni programmate incluse nell'intervallo di date"
 }
