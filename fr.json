@@ -1905,5 +1905,7 @@
     "Add Your Accounts": "Ajoutez vos comptes",
     "Categories": "Catégories",
     "Each row in the budget is a category. Click the <2>Budgeted</2> amount to assign money to a category, and keep an eye on the <4>Balance</4> column to see how much is left to spend.": "Chaque ligne du budget correspond à une catégorie. Cliquez sur le montant <2>Budgétisé</2> pour affecter une somme à une catégorie, et gardez un œil sur la colonne <4>Solde</4> pour voir combien il vous reste à dépenser.",
-    "Every month gets its own budget. Use the month picker to move between months, and the calendar icons on the left to choose how many months are shown side by side.": "Chaque mois dispose de son propre budget. Utilisez le sélecteur de mois pour changer de mois, et les icônes calendrier sur la gauche pour ajuster le nombre de mois affichés côte à côte."
+    "Every month gets its own budget. Use the month picker to move between months, and the calendar icons on the left to choose how many months are shown side by side.": "Chaque mois dispose de son propre budget. Utilisez le sélecteur de mois pour changer de mois, et les icônes calendrier sur la gauche pour ajuster le nombre de mois affichés côte à côte.",
+    "Create tag": "Créer étiquette",
+    "Discover new tags": "Rechercher les étiquettes"
 }
