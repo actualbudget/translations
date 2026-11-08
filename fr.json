@@ -1901,5 +1901,9 @@
     "A balance cap on its own does nothing. Add a contributing automation (such as a fixed amount, save by date, or whatever is left) so the cap has something to clamp.": "Un plafond de solde seul n'a aucun effet. Associez-y une règle d'automatisation (montant fixe, objectif par date ou versement des arrondis) pour que le plafond puisse s'appliquer.",
     "<0>Notifications aren't available right now.</0> Actual couldn't load them, which usually means you're offline. Everything else keeps working, and they'll load next time you're connected.": "<0>Les notifications ne sont pas disponibles pour le moment.</0> Actual n’a pas pu les charger, ce qui signifie généralement que vous êtes hors ligne. Tout le reste continue de fonctionner et elles se chargeront lors de votre prochaine connexion.",
     "100% stocks": "100 % actions",
-    "Accessible from age": "Accessible à partir de l'âge de"
+    "Accessible from age": "Accessible à partir de l'âge de",
+    "Add Your Accounts": "Ajoutez vos comptes",
+    "Categories": "Catégories",
+    "Each row in the budget is a category. Click the <2>Budgeted</2> amount to assign money to a category, and keep an eye on the <4>Balance</4> column to see how much is left to spend.": "Chaque ligne du budget correspond à une catégorie. Cliquez sur le montant <2>Budgétisé</2> pour affecter une somme à une catégorie, et gardez un œil sur la colonne <4>Solde</4> pour voir combien il vous reste à dépenser.",
+    "Every month gets its own budget. Use the month picker to move between months, and the calendar icons on the left to choose how many months are shown side by side.": "Chaque mois dispose de son propre budget. Utilisez le sélecteur de mois pour changer de mois, et les icônes calendrier sur la gauche pour ajuster le nombre de mois affichés côte à côte."
 }
