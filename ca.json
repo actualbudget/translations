@@ -132,8 +132,6 @@
     "Add transaction and close form": "Afegir una transacció i tancar el formulari",
     "Add user": "Afegir un usuari",
     "After amount": "Després de l'import",
-    "After disabling OpenID all sessions will be closed": "Després de desactivar OpenID totes les sessions es tancaran",
-    "After enabling OpenID all sessions will be closed": "Després d'activar OpenID totes les sessions es tancaran",
     "all": "tot",
     "All Accounts": "Tots els comptes",
     "All time divisor": "Divisor de temps total",

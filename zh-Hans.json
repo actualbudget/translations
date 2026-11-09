@@ -106,8 +106,6 @@
     "Add new widget": "添加新部件",
     "Add specific days": "添加特定日期",
     "Add transaction": "添加交易",
-    "After disabling OpenID all sessions will be closed": "禁用 OpenID 后，所有会话将被关闭",
-    "After enabling OpenID all sessions will be closed": "启用 OpenID 后，所有会话将关闭",
     "all transactions": "所有交易",
     "allocate": "分配",
     "amount": "金额",

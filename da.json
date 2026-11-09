@@ -100,8 +100,6 @@
     "Admin": "Administrator",
     "Advanced options": "Avancerede indstillinger",
     "after": "efter",
-    "After disabling OpenID all sessions will be closed": "Når OpenID bliver deaktiveret, vil alle sessioner blive lukket",
-    "After enabling OpenID all sessions will be closed": "Når OpenID bliver slået til, vil alle sessions blive lukket.",
     "All accounts": "Alle konti",
     "All Accounts": "Alle Konti",
     "All reconciled!": "Alt er afstemt!",
