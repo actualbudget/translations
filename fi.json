@@ -144,8 +144,6 @@
     "Automatically rename these payees in the future": "Uudelleennimeä nämä saajat tulevaisuudessa automaattisesti",
     "Choose the schedule these {{ count }} transactions belong to:_one": "Valitse aikataulu, johon tämä tapahtuma kuuluu:",
     "Choose the schedule these {{ count }} transactions belong to:_other": "Valitse aikataulu, johon nämä {{ count }} tapahtumaa kuuluvat:",
-    "Delete {{count}} rules_one": "Poista {{count}} sääntö",
-    "Delete {{count}} rules_other": "Poista {{count}} sääntöä",
     "Delete {{selectedCount}} users_one": "Poista {{selectedCount}} käyttäjä",
     "Delete {{selectedCount}} users_other": "Poista {{selectedCount}} käyttäjää",
     "Fixed {{count}} non-split transactions with split errors._one": "Korjattu {{count}} jakamaton tapahtuma, jossa oli jakovirhe.",

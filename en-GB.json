@@ -51,7 +51,6 @@
     "Choose Color:": "Choose Colour:",
     "Conditional color (optional):": "Conditional colour (optional):",
     "Formula that returns a color (e.g., &ldquo;red&rdquo;, &ldquo;#ff0000&rdquo;). Leave blank for default. Use RESULT variable to access the main formula result.": "Formula that returns a colour (e.g., &ldquo;red&rdquo;, &ldquo;#ff0000&rdquo;). Leave blank for default. Use RESULT variable to access the main formula result.",
-    "User defined tags with color and description.": "User defined tags with colour and description.",
     "{{count}} uncategorized transactions_one": "{{count}} uncategorised transactions",
     "{{count}} uncategorized transactions_other": "{{count}} uncategorised transactions",
     "Capitalizes first letter of each word.": "Capitalises first letter of each word.",
