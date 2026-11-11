@@ -1948,7 +1948,7 @@
     "% of income": "% der Einnahmen",
     "<0><0>How are \"Average\" and \"Spent Average MTD\" calculated?</0></0><1>They are both the average cumulative spending by day for the selected average range before the selected \"compare\" month.</1>": "<0><0>Wie werden \"Durchschnitt\" und \"Durchschnittliche Ausgaben (MTD)\" berechnet?</0></0><1>Beide sind der durchschnittliche kumulierte tägliche Ausgabenbetrag für den ausgewählten Durchschnittszeitraum vor dem ausgewählten Vergleichsmonat.</1>",
     "Overwrite with budget templates": "Mit Budget-Vorlagen überschreiben",
-    "\"before\" or \"after\" (optional, uses app settings)": "\"vorher\" oder \"nachher\" (optional, nutzt App-Einstellungen)",
+    "\"before\" or \"after\" (optional, uses app settings)": "\"vorher\" oder \"nachher\" (optional, benutzt App-Einstellungen)",
     "{{month}} has already passed": "{{month}} ist bereits vergangen",
     "Show original templates": "Ursprüngliche Vorlagen anzeigen",
     "Unsupported template type: {{ type } satisfies TransObjectLiteral}": "Nicht unterstützter Vorlagentyp: {{ type } entspricht TransObjectLiteral}",
@@ -2048,5 +2048,10 @@
     "{{title}} ({{changeCount}})": "{{title}} ({{changeCount}})",
     "{{amount}} remained locked in pots that had not reached their access age.": "{{amount}} blieb in Fonds gebunden, die das Auszahlungsalter noch nicht erreicht hatten.",
     "{{count}} accounts need attention_one": "Bei {{count}} Konto besteht Handlungsbedarf",
-    "{{count}} accounts need attention_other": "Bei {{count}} Konten besteht Handlungsbedarf"
+    "{{count}} accounts need attention_other": "Bei {{count}} Konten besteht Handlungsbedarf",
+    "{{share}}% stocks": "{{share}}% Aktien",
+    "{{share}}% cash": "{{share}}% Bargeld",
+    "{{count}} tags_one": "{{count}} Tag",
+    "{{count}} tags_other": "{{count}} Tags",
+    "{{failedCount}} of {{total}} scenarios ran out of money at age {{age}}": "{{failedCount}} von {{total}} Szenarien ging das Geld aus im Alter von {{age}}"
 }
