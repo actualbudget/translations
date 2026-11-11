@@ -2053,5 +2053,13 @@
     "{{share}}% cash": "{{share}}% Bargeld",
     "{{count}} tags_one": "{{count}} Tag",
     "{{count}} tags_other": "{{count}} Tags",
-    "{{failedCount}} of {{total}} scenarios ran out of money at age {{age}}": "{{failedCount}} von {{total}} Szenarien ging das Geld aus im Alter von {{age}}"
+    "{{failedCount}} of {{total}} scenarios ran out of money at age {{age}}": "{{failedCount}} von {{total}} Szenarien ging das Geld aus im Alter von {{age}}",
+    "Experimental": "Experimentell",
+    "General": "Allgemein",
+    "Advanced": "Erweitert",
+    "Choose a bank sync provider to connect this account.": "Wähle einen Anbieter für die Bank-Synchronisierung, um dieses Konto zu verbinden.",
+    "Formatting": "Formatierung",
+    "Show categories": "Kategorien anzeigen",
+    "Successfully applied templates to {{count}} categories_one": "Vorlagen erfolgreich auf {{count}} Kategorie angewendet",
+    "Successfully applied templates to {{count}} categories_other": "Vorlagen erfolgreich auf {{count}} Kategorien angewendet"
 }
