@@ -1477,5 +1477,11 @@
     "{{amount}} / month": "{{amount}} / 月",
     "{{amount}} / week": "{{amount}} / 周",
     "(decreased by {{amount}})": "(减少了 {{amount}})",
-    "{{categoryName}} budget copied until year end.": "{{categoryName}} 预算已复制到年底。"
+    "{{categoryName}} budget copied until year end.": "{{categoryName}} 预算已复制到年底。",
+    "{{count}} scheduled transactions included in this date range_other": "此日期范围内包含 {{count}} 条定期交易",
+    "{{percent}}% must be between 0 and 100": "{{percent}}% 必须介于 0 到 100 之间",
+    "{{provider}} menu": "{{provider}} 菜单",
+    "% of income": "% 收入",
+    "<0><0>What is a Sankey plot?</0></0><1>A Sankey plot visualizes the flow of quantities between multiple categories, emphasizing the distribution and proportional relationships of data streams.</1><2><0>View options:</0></2><3><0><0><0>Spent:</0> Displays actual spending by category from transactions.</0><1><0>Budgeted:</0> Shows how your budget is allocated across categories.</1></0><1>Disclaimer:</1> A Sankey chart cannot directly represent negative numbers. In some cases, such as when funds are reallocated from categories with negative budgeting (e.g. using savings to cover overspending), the chart structure may differ from the main budget overview. As a result, some category totals and flows in this diagram may not exactly match the summary figures elsewhere in the app.</3>": "<0><0>什么是桑基图（Sankey Plot）？</0></0><1>桑基图可视化了多个类别之间数量的流向，着重展示数据流的分布与比例关系。</1><2><0><0><0>支出：</0> 显示来自交易的各类别实际花费。</0><1><0><0>预算：</0> 展示您的预算在各类别中的分配情况。</1></0><1>声明：</1> 桑基图无法直接表示负数。在某些情况下（例如从预算为负的类别重新分配资金以覆盖超支），图表结构可能与主预算概览有所不同。因此，本图中的部分类别总额与流向可能无法与应用程序其他部分的汇总数据完全一致。</3>",
+    "{{month}} has already passed": "{{month}} 已过"
 }
