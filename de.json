@@ -2061,5 +2061,11 @@
     "Formatting": "Formatierung",
     "Show categories": "Kategorien anzeigen",
     "Successfully applied templates to {{count}} categories_one": "Vorlagen erfolgreich auf {{count}} Kategorie angewendet",
-    "Successfully applied templates to {{count}} categories_other": "Vorlagen erfolgreich auf {{count}} Kategorien angewendet"
+    "Successfully applied templates to {{count}} categories_other": "Vorlagen erfolgreich auf {{count}} Kategorien angewendet",
+    "All changes": "Alle Änderungen",
+    "Authentication method": "Authentifizierungsmethode",
+    "Automatic syncing": "Automatische Synchronisierung",
+    "Block length (years)": "Blockdauer (Jahre)",
+    "Budget automations UI": "Benutzeroberfläche für Budgetautomatisierungen",
+    "Display language": "Anzeigesprache"
 }
