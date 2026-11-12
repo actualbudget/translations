@@ -953,7 +953,7 @@
     "{{currency1}} to {{currency2}}": "{{currency1}} till {{currency2}}",
     "{{month}} has already passed": "{{month}} har redan passerat",
     "\"before\" or \"after\" (optional, uses app settings)": "\"före\" eller \"efter\" (valfritt, använder appinställningar)",
-    "(decreased by {{amount}})": "(minskade med {{amount}})",
+    "(decreased by {{amount}})": "(minskat med  {{amount}})",
     "{{failedCount}} of {{total}} scenarios ran out of money at age {{age}}": "{{failedCount}} av {{total}} scenarier fick slut på pengar vid ålder {{age}}",
     "{{name}} (closed)": "{{name}} (stängd)",
     "{{name}}: {{amount}}": "{{name}}: {{amount}}",
@@ -991,11 +991,12 @@
     "{{amount}} remained locked in pots that had not reached their access age.": "{{amount}} förblev låsta i pottar som inte har uppnått sin uttagsålder.",
     "{{count}} accounts need attention_one": "{{count}} konton behöver din uppmärksamhet",
     "{{count}} accounts need attention_other": "{{count}} konton behöver din uppmärksamhet",
-    "{{count}} scheduled transactions included_one": "{{count}} beräknade transaktioner inkluderad",
-    "{{count}} scheduled transactions included_other": "{{count}} beräknade transaktioner inkluderade",
+    "{{count}} scheduled transactions included_one": "Inklusive {{count}} schemalagd transaktion",
+    "{{count}} scheduled transactions included_other": "Inklusive {{count}} schemalagda transaktioner",
     "{{count}} scheduled transactions included in this date range_one": "{{count}} planerad transaktion inkluderad i detta datumintervall",
     "{{count}} scheduled transactions included in this date range_other": "{{count}} planerade transaktioner inkluderad i detta datumintervall",
     "{{current}} of {{total}}": "{{current}} av {{total}}",
     "↑ Improving": "↑ Förbättras",
-    "↓ Declining": "↓ Försämras"
+    "↓ Declining": "↓ Försämras",
+    "<0>Are you sure you want to delete it?</0> If so, you must select another category to transfer existing transactions and balance to.": "<0>Är du säker på att du vill radera den?</0>I så fall måste du välja en annan kategori att flytta befintliga transaktioner och saldon till."
 }
