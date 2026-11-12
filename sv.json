@@ -1189,7 +1189,7 @@
     "Invalid amount value": "Ogiltig summa",
     "Invalid JSON. Please check your input.": "Ogiltig JSON. Vänligen kolla din indata.",
     "Invalid regular expression": "Ogiltigt reguljärt uttryck",
-    "Invalid rule": "Ogiltig regel",
+    "Invalid rule": "Felaktig regel",
     "30% of scenarios stayed above this line.": "30 % av scenarierna stannade ovanför denna linje.",
     "A share of this month's or last month's income.": "En del av denna månads eller förra månadens inkomst.",
     "A category group with name \"{{name}}\" already exists.": "En kategorigrupp med namnet \"{{name}}\" finns redan.",
