@@ -1192,5 +1192,8 @@
     "Invalid rule": "Ogiltig regel",
     "30% of scenarios stayed above this line.": "30 % av scenarierna stannade ovanför denna linje.",
     "A share of this month's or last month's income.": "En del av denna eller förra månadens inkomst.",
-    "A category group with name \"{{name}}\" already exists.": "En kategorigrupp med namnet \"{{name}}\" finns redan."
+    "A category group with name \"{{name}}\" already exists.": "En kategorigrupp med namnet \"{{name}}\" finns redan.",
+    "Account transaction editing": "Redigera kontotransaktioner",
+    "Add a note (optional)": "Lägg till en anteckning (valfritt)",
+    "Add an automation": "Lägg till en automatisering"
 }
