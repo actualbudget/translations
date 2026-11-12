@@ -998,5 +998,5 @@
     "{{current}} of {{total}}": "{{current}} av {{total}}",
     "↑ Improving": "↑ Förbättras",
     "↓ Declining": "↓ Försämras",
-    "<0>Are you sure you want to delete it?</0> If so, you must select another category to transfer existing transactions and balance to.": "<0>Är du säker på att du vill radera den?</0>I så fall måste du välja en annan kategori att flytta befintliga transaktioner och saldon till."
+    "<0>Are you sure you want to delete it?</0> If so, you must select another category to transfer existing transactions and balance to.": "<0>Är du säker på att du vill ta bort den?</0> Om så är fallet måste du välja en annan kategori att överföra befintliga transaktioner och saldo till."
 }
