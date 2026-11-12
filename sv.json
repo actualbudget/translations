@@ -984,5 +984,8 @@
     "Additional CSS overrides:": "Ytterligare CSS-överskrivningar:",
     "Access Revocation Incomplete": "Återkallande av åtkomst är inte slutfört",
     "Add a set amount every month, week, day, or year.": "Lägg till ett fast belopp varje månad, vecka, dag eller år.",
-    "Age of Money": "Ålder av pengar"
+    "Age of Money": "Ålder av pengar",
+    "{{appName}} is a budgeting app that helps you understand exactly where your money goes. This short tour walks you through the basics. It only takes a couple of minutes, and you can leave at any time and replay it later from the Help menu.": "{{appName}} är en budgetapp som hjälper dig att förstå exakt vart dina pengar tar vägen. Den här korta rundturen går igenom grunderna. Det tar bara ett par minuter, och du kan när som helst avbryta och starta den igen senare från Hjälp-menyn.",
+    "{{count}} internal transfer occurrences have no net effect._one": "{{count}} intern överföring har ingen nettoeffekt.",
+    "{{count}} internal transfer occurrences have no net effect._other": "{{count}} interna överföringar har ingen nettoeffekt."
 }
