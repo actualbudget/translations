@@ -1015,5 +1015,11 @@
     "Average of previous months": "Genomsnitt av tidigare månader",
     "AVERAGE SPENDING": "GENOMSNITTLIGA UTGIFTER",
     "Bank": "Bank",
-    "Bank field": "Bankfält"
+    "Bank field": "Bankfält",
+    "Can do everything that Basic users can. In addition, they have the ability to add new users to the directory and access budget files from all users.": "Kan göra allt som grundläggande användare kan. Dessutom kan de lägga till nya användare i katalogen och få åtkomst till budgetfiler från alla användare.",
+    "Category Learning": "Kategorilärande",
+    "Category learning disabled": "Kategorilärande är inaktiverat",
+    "Category learning settings": "Inställningar för kategorilärande",
+    "Checking Header Token Login ...": "Kontrollerar inloggning med Header Token …",
+    "Cloud file ID is missing.": "Molnfil-ID saknas."
 }
