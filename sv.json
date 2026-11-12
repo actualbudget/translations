@@ -1135,5 +1135,10 @@
     "Failed to refresh login methods": "Kunde inte uppdatera inloggningsmetoder",
     "Failed saving report name: {{error}}": "Kunde inte spara rapportnamn: {{error}}",
     "Failed to configure sync server": "Kunde inte konfigurera synkroniserings server",
-    "Failed to delete rule. Please try again.": "Kunde inte radera regel. Försök igen."
+    "Failed to delete rule. Please try again.": "Kunde inte radera regel. Försök igen.",
+    "Failed to save dashboard widget.": "Det gick inte att spara dashboardwidgeten.",
+    "Filter name": "Filternamn",
+    "Filter schedules…": "Filtrera scheman …",
+    "Filter to the selected transactions": "Filtrera till de valda transaktionerna",
+    "Filter users...": "Filtrera användare …"
 }
