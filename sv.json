@@ -1130,5 +1130,7 @@
     "Expand": "Utvidga",
     "Expense category groups": "Kostnadskategorigrupper",
     "Export Dashboard": "Exportera Infopanel",
-    "Export query configuration": "Exportera sökningskonfiguration"
+    "Export query configuration": "Exportera sökningskonfiguration",
+    "Failed importing the dashboard file.": "Det gick inte att importera dashboardfilen.",
+    "Failed to refresh login methods": "Det gick inte att uppdatera inloggningsmetoderna"
 }
