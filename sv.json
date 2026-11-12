@@ -1035,5 +1035,12 @@
     "Choose a bank sync provider to connect this account.": "Välj en leverantör av banksynkning för att ansluta det här kontot.",
     "Choose from catalog:": "Välj från katalog:",
     "Clear": "Rensa",
-    "Collapse": "Stäng"
+    "Collapse": "Stäng",
+    "Complete": "Slutförd",
+    "Dashboard widget successfully saved.": "Dashboardwidgeten har sparats.",
+    "Disabling OpenID will deactivate multi-user mode.": "Om OpenID inaktiveras stängs fleranvändarläget av.",
+    "Display": "Visning",
+    "Edit dashboard": "Redigera dashboard",
+    "Edit this widget to change the **markdown** content.": "Redigera den här widgeten för att ändra innehållet i **markdown**.",
+    "End of month cleanup": "Rensning vid månadsslut"
 }
