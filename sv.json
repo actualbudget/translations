@@ -1131,6 +1131,9 @@
     "Expense category groups": "Kostnadskategorigrupper",
     "Export Dashboard": "Exportera Infopanel",
     "Export query configuration": "Exportera sökningskonfiguration",
-    "Failed importing the dashboard file.": "Det gick inte att importera dashboardfilen.",
-    "Failed to refresh login methods": "Det gick inte att uppdatera inloggningsmetoderna"
+    "Failed importing the dashboard file.": "Misslyckades med att importera infopanelsfilen.",
+    "Failed to refresh login methods": "Kunde inte uppdatera inloggningsmetoder",
+    "Failed saving report name: {{error}}": "Kunde inte spara rapportnamn: {{error}}",
+    "Failed to configure sync server": "Kunde inte konfigurera synkroniserings server",
+    "Failed to delete rule. Please try again.": "Kunde inte radera regel. Försök igen."
 }
