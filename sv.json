@@ -1005,5 +1005,6 @@
     "1 account needs attention": "1 konto behöver uppmärksamhet",
     "0 = end of period, 1 = start of period": "0 = periodens slut, 1 = periodens början",
     "100% stocks": "100% aktier",
-    "Account page general": "Kontosida allmän"
+    "Account page general": "Kontosida allmän",
+    "Bank Sync Offline": "Banksynkronisering är frånkopplad"
 }
