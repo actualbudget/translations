@@ -1021,5 +1021,19 @@
     "Category learning disabled": "Kategorilärande är inaktiverat",
     "Category learning settings": "Inställningar för kategorilärande",
     "Checking Header Token Login ...": "Kontrollerar inloggning med Header Token …",
-    "Cloud file ID is missing.": "Molnfil-ID saknas."
+    "Cloud file ID is missing.": "Molnfil-ID saknas.",
+    "Authorization successful! This window will close automatically.": "Auktoriseringen lyckades! Det här fönstret kommer stängas automatiskt.",
+    "Authorization was denied or failed: {{error}}": "Auktoriseringen nekades eller misslyckades: {{error}}",
+    "Automatically create transactions in the specified account": "Skapa transaktioner automatiskt i det specificerade kontot",
+    "Automation": "Automatisering",
+    "Automation note": "Notis för automatisering",
+    "Automation type": "Typ av automatisering",
+    "Automations": "Automatiseringar",
+    "Category+Group": "Kategori+Grupp",
+    "Change layer {{direction}}": "Ändra lager {{direction}}",
+    "Change mode": "Ändra läge",
+    "Choose a bank sync provider to connect this account.": "Välj en leverantör av banksynkning för att ansluta det här kontot.",
+    "Choose from catalog:": "Välj från katalog:",
+    "Clear": "Rensa",
+    "Collapse": "Stäng"
 }
