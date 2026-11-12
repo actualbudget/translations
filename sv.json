@@ -926,7 +926,7 @@
     "{{percent}}% must be between 0 and 100": "{{percent}}% måste vara mellan 0 och 100",
     "% of income": "% av inkomst",
     "30 days": "30 dagar",
-    "a fixed percent of the remainder": "en fast procent av det resterande",
+    "a fixed percent of the remainder": "en fast procentandel av resten",
     "Post transaction": "Bokför transaktion",
     "Post transaction today": "Lägg ut överföring idag",
     "Post transactions": "Lägg ut överföringar",
@@ -982,7 +982,7 @@
     "Add balance limit automation": "Lägg till automatisering av saldogränser",
     "Add new dashboard": "Lägg till ny infopanel",
     "Additional CSS overrides:": "Ytterligare CSS-överskrivningar:",
-    "Access Revocation Incomplete": "Återkallande av åtkomst är inte slutfört",
+    "Access Revocation Incomplete": "Återkallelse av åtkomst är ofullständig",
     "Add a set amount every month, week, day, or year.": "Lägg till ett fast belopp varje månad, vecka, dag eller år.",
     "Age of Money": "Ålder av pengar",
     "{{appName}} is a budgeting app that helps you understand exactly where your money goes. This short tour walks you through the basics. It only takes a couple of minutes, and you can leave at any time and replay it later from the Help menu.": "{{appName}} är en budgetapp som hjälper dig att förstå exakt var dina pengar tar vägen. Den här korta rundturen guidar dig genom grunderna. Det tar bara ett par minuter, och du kan avbryta när som helst och se den igen senare via Hjälp-menyn.",
@@ -1005,7 +1005,7 @@
     "1 account needs attention": "1 konto behöver uppmärksamhet",
     "0 = end of period, 1 = start of period": "0 = periodens slut, 1 = periodens början",
     "100% stocks": "100% aktier",
-    "Account page general": "Kontosida allmän",
+    "Account page general": "Allmänt Kontosida",
     "Bank Sync Offline": "Banksynkronisering nere",
     "Australian Dollar": "Australiensk Dollar",
     "Available funds to budget": "Tillgängliga medel att budgetera",
@@ -1191,5 +1191,6 @@
     "Invalid regular expression": "Ogiltigt reguljärt uttryck",
     "Invalid rule": "Ogiltig regel",
     "30% of scenarios stayed above this line.": "30 % av scenarierna stannade ovanför denna linje.",
-    "A share of this month's or last month's income.": "En del av denna eller förra månadens inkomst."
+    "A share of this month's or last month's income.": "En del av denna eller förra månadens inkomst.",
+    "A category group with name \"{{name}}\" already exists.": "En kategorigrupp med namnet \"{{name}}\" finns redan."
 }
