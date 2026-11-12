@@ -1189,5 +1189,7 @@
     "Invalid amount value": "Ogiltig summa",
     "Invalid JSON. Please check your input.": "Ogiltig JSON. Vänligen kolla din indata.",
     "Invalid regular expression": "Ogiltigt reguljärt uttryck",
-    "Invalid rule": "Ogiltig regel"
+    "Invalid rule": "Ogiltig regel",
+    "30% of scenarios stayed above this line.": "30 % av scenarierna stannade ovanför denna linje.",
+    "A share of this month's or last month's income.": "En del av denna eller förra månadens inkomst."
 }
