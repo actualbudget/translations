@@ -1838,7 +1838,6 @@
     "{{count}} scheduled transactions included in this date range_other": "{{count}} transacciones planificadas incluidas en este rango de fechas",
     "{{current}} of {{total}}": "{{current}} de {{total}}",
     "{{failedCount}} of {{total}} scenarios ran out of money at age {{age}}": "{{failedCount}} de {{total}} escenarios se quedaron sin dinero a los {{age}} años",
-    "{{month}} has already passed": "{{month}} ya pasó",
     "{{name}} (closed)": "{{name}} (cerrado)",
     "Evaluate a budget query using extracted parameters. Supply dimension, categories, and timeframe explicitly.": "Evalúa una consulta presupuestaria utilizando los parámetros extraídos. Indica explícitamente la dimensión, las categorías y el periodo.",
     "Extract category IDs from a named query.": "Extraer los ID de categoría de una consulta con nombre.",

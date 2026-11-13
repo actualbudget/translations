@@ -1702,7 +1702,6 @@
     "{{count}} scheduled transactions included in this date range_few": "{{count}} заплановані транзакції включено в цьому діапазоні дат",
     "{{count}} scheduled transactions included in this date range_many": "{{count}} запланованих транзакцій включено в цьому діапазоні дат",
     "{{days}} days": "{{days}} днів",
-    "{{month}} has already passed": "{{month}} вже минув",
     "{{percent}}% must be between 0 and 100": "{{percent}}% має бути між 0 та 100",
     "{{provider}} menu": "{{provider}} меню",
     "% of income": "% від доходу",

@@ -945,7 +945,6 @@
     "A share of this month's or last month's income.": "Доля дохода за этот или прошлый месяц.",
     "(increased by {{percent}}%)": "(вырос на {{percent}}%)",
     "{{provider}} menu": "{{provider}} меню",
-    "{{month}} has already passed": "{{month}} уже закончился",
     "(increased by {{amount}})": "(вырост на {{amount}})",
     "{{categoryName}} budget copied until year end.": "{{categoryName}} бюджет скопирован до конца года.",
     "{{percent}}% must be between 0 and 100": "От 0 до 100%",

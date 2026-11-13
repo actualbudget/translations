@@ -41,7 +41,6 @@
     "{{amount}} / day": "{{amount}} / 일",
     "{{count}} scheduled transactions included_other": "예정 거래 {{count}}건 포함됨",
     "{{count}} scheduled transactions included in this date range_other": "이 날짜 범위에 예정 거래 {{count}}건 포함됨",
-    "{{month}} has already passed": "{{month}}은 이미 지났음",
     "{{provider}} menu": "{{provider}} 메뉴",
     "→ Stable": "→ 안정",
     "↑ Improving": "↑ 개선 중",

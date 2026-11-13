@@ -1655,7 +1655,6 @@
     "{{current}} of {{total}}": "{{current}} / {{total}}",
     "{{days}} days": "{{days}} 天",
     "{{failedCount}} of {{total}} scenarios ran out of money at age {{age}}": "{{failedCount}} / {{total}} 個情境在 {{age}} 歲時資金用盡",
-    "{{month}} has already passed": "{{month}} 已經過去",
     "{{name}} (closed)": "{{name}}（已關閉）",
     "{{percent}}% must be between 0 and 100": "{{percent}}% 必須介於 0 到 100 之間",
     "{{provider}} menu": "{{provider}} 選單",

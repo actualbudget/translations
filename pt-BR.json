@@ -1882,7 +1882,6 @@
     "Filters on <1>{ignoredFilterFieldsList}</1> are ignored in <4>Budgeted</4> mode.": "Filtros em <1>{ignoredFilterFieldsList}</1> são ignorados no modo <4>Orçado</4>.",
     "(beta)": "(fase de teste)",
     "(filtered running total)": "(total acumulado filtrado)",
-    "{{month}} has already passed": "{{month}} já passou",
     "{{percent}}% must be between 0 and 100": "{{percent}}% deve estar entre 0 e 100",
     "{{provider}} menu": "{{provider}} menu",
     "% of income": "% da renda",

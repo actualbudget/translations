@@ -951,7 +951,6 @@
     "{{amount}} / month": "{{amount}} / månad",
     "{{amount}} / week": "{{amount}} / vecka",
     "{{currency1}} to {{currency2}}": "{{currency1}} till {{currency2}}",
-    "{{month}} has already passed": "{{month}} har redan passerat",
     "\"before\" or \"after\" (optional, uses app settings)": "\"före\" eller \"efter\" (valfritt, använder appinställningar)",
     "(decreased by {{amount}})": "(minskat med  {{amount}})",
     "{{failedCount}} of {{total}} scenarios ran out of money at age {{age}}": "{{failedCount}} av {{total}} scenarier fick slut på pengar vid ålder {{age}}",
