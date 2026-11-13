@@ -2067,5 +2067,7 @@
     "Automatic syncing": "Automatische Synchronisierung",
     "Block length (years)": "Blockdauer (Jahre)",
     "Budget automations UI": "Benutzeroberfläche für Budgetautomatisierungen",
-    "Display language": "Anzeigesprache"
+    "Display language": "Anzeigesprache",
+    "(decreased by {{amount}} per week)": "(verringert um {{amount}} pro Woche)",
+    "{{displayMonth}} budgets have all been set to yearly average.": "{{displayMonth}}-Budgets wurden alle auf Jahresdurchschnitt gesetzt."
 }
