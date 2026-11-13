@@ -2068,6 +2068,12 @@
     "Block length (years)": "Blockdauer (Jahre)",
     "Budget automations UI": "Benutzeroberfläche für Budgetautomatisierungen",
     "Display language": "Anzeigesprache",
-    "(decreased by {{amount}} per week)": "(verringert um {{amount}} pro Woche)",
-    "{{displayMonth}} budgets have all been set to yearly average.": "{{displayMonth}}-Budgets wurden alle auf Jahresdurchschnitt gesetzt."
+    "(decreased by {{amount}} per week)": "(um {{amount}} pro Woche gesunken)",
+    "{{displayMonth}} budgets have all been set to yearly average.": "{{displayMonth}}-Budgets wurden alle auf den Jahresdurchschnitt gesetzt.",
+    "(increased by {{amount}} per week)": "(um {{amount}} pro Woche gestiegen)",
+    "{{count}} internal transfer occurrences have no net effect._one": "{{count}} interne Umbuchung hat keinen Einfluss auf das Endergebnis.",
+    "{{count}} internal transfer occurrences have no net effect._other": "{{count}} interne Umbuchungen haben keinen Einfluss auf das Endergebnis.",
+    "{{count}} rules_one": "{{count}} Regel",
+    "{{count}} rules_other": "{{count}} Regeln",
+    "{{displayMonth}} budgets have all been set to {{months}} month average.": "{{displayMonth}}-Budgets wurden alle auf den {{months}}-Monatsdurchschnitt gesetzt."
 }
