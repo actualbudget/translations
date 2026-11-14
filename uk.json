@@ -1883,5 +1883,6 @@
     "You don't have the required permissions to configure bank sync providers. Please contact an Admin.": "У вас немає необхідних прав для налаштування провайдерів банківської синхронізації. Будь ласка, зверніться до адміністратора.",
     "You don't have the required permissions to configure all bank sync providers. You can set up Pluggy.ai because you are the owner of this budget file.": "У вас немає необхідних прав для налаштування всіх провайдерів банківської синхронізації. Ви можете налаштувати Pluggy.ai, оскільки є власником цього файлу бюджету.",
     "Set up a bank sync provider, then link new accounts or connect an existing Actual account.": "Налаштуйте провайдера банківської синхронізації, а потім зв'яжіть нові рахунки або підключіть наявний рахунок Actual.",
-    "Configured": "Налаштовано"
+    "Configured": "Налаштовано",
+    "Not configured": "Не налаштовано"
 }
