@@ -1884,5 +1884,11 @@
     "You don't have the required permissions to configure all bank sync providers. You can set up Pluggy.ai because you are the owner of this budget file.": "У вас немає необхідних прав для налаштування всіх провайдерів банківської синхронізації. Ви можете налаштувати Pluggy.ai, оскільки є власником цього файлу бюджету.",
     "Set up a bank sync provider, then link new accounts or connect an existing Actual account.": "Налаштуйте провайдера банківської синхронізації, а потім зв'яжіть нові рахунки або підключіть наявний рахунок Actual.",
     "Configured": "Налаштовано",
-    "Not configured": "Не налаштовано"
+    "Not configured": "Не налаштовано",
+    "Refill needs a balance cap": "Для поповнення потрібен ліміт балансу",
+    "Refill automations must have a &ldquo;Balance cap&rdquo; automation added to use as the target.": "Щоб використовувати автоматизацію поповнення, потрібно додати &ldquo;Ліміт балансу&rdquo;",
+    "Automation type": "Тип автоматизації",
+    "Total amount": "Загальна сума",
+    "Target month": "Цільовий місяць",
+    "Target month missing": "Пропущено цільовий місяць"
 }
