@@ -1086,7 +1086,7 @@
     "a fixed percent of the remainder": "een vast percentage van het restbedrag",
     "account": "rekening",
     "Account is a required field": "Rekening is een verplicht veld",
-    "<0>{{category}}</0> is used by existing transactions.": "<0>{{category}}</0> is gebruikt door bestaande transacties.",
+    "<0>{{category}}</0> is used by existing transactions.": "<0>{{category}}</0> wordt gebruikt door bestaande transacties.",
     "Budgeted MTD": "Gebudgetteerd sinds begin van de maand",
     "New Transaction": "Nieuwe transactie",
     "Update conditions": "Condities bijwerken",
