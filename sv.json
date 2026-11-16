@@ -3064,5 +3064,12 @@
     "Target amount is negative": "Målbeloppet är negativt",
     "Target month has passed": "Målmånaden har passerat",
     "Theme default": "Temats standard",
-    "Transactions": "Transaktioner"
+    "Transactions": "Transaktioner",
+    "Pick a valid income category": "Välj en giltig inkomstkategori",
+    "Refill needs a balance cap": "Påfyllning kräver ett saldotak",
+    "Retain existing funds over the cap": "Behåll befintliga pengar över taket",
+    "Save <1>{{amount}}</1> by {{month}}": "Spara <1>{{amount}}</1> till {{month}}",
+    "Select cleanup": "Välj rensning",
+    "Show up to {{n}}": "Visa upp till {{n}}",
+    "Floor & ceiling: {{rate}} of the accessible balance = {{amount}}, within {{floorPct}} below ({{floor}}) and {{ceilingPct}} above ({{ceiling}}) the planned amount.": "Golv och tak: {{rate}} av det tillgängliga saldot = {{amount}}, inom {{floorPct}} under ({{floor}}) och {{ceilingPct}} över ({{ceiling}}) det planerade beloppet."
 }
