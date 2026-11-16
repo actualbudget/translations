@@ -2817,5 +2817,6 @@
     "Pick a target month": "Välj en målmånad",
     "Enable Banking integration has not yet been configured.": "Integrationen med Enable Banking har inte konfigurerats ännu.",
     "Adjustment out of range": "Justeringen är utanför tillåtet intervall",
-    "Automations will demand more than income": "Automatiseringarna kommer att kräva mer än inkomsten"
+    "Automations will demand more than income": "Automatiseringarna kommer att kräva mer än inkomsten",
+    "Are you sure you want to unlink <1>{accountName}</1>?": "Är du säker på att du vill koppla bort <1>{accountName}</1>?"
 }
