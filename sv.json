@@ -380,7 +380,7 @@
     "There was a problem loading your report": "Det uppstod ett problem med att ladda din rapport",
     "There was an unrecoverable error in the UI. Sorry!": "Det uppstod ett problem i gränssnittet som vi inte kan återhämta oss från. Ursäkta!",
     "This account has no transactions so it will be permanently deleted.": "Detta konto har inga överföringar och kommer att tas bort permanent.",
-    "This account has transactions so we can't permanently delete it.": "Dettta konto har transaktioner så vi kan inte ta bort det permanent.",
+    "This account has transactions so we can't permanently delete it.": "Detta konto har transaktioner så vi kan inte ta bort det permanent.",
     "Reauthorize": "Auktorisera på nytt",
     "Set budgets to 6 month average": "Ställ budgetposter till 6-månaderssnitt",
     "<0>Language</0> support is not available. Please follow the instructions <3>here</3> to add missing translation files.": "Detta <0>språk</0> stöds inte. Följ <3>dessa</3> instruktioner för att lägga till filer med översättningar.",
