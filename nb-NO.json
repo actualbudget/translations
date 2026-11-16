@@ -1638,5 +1638,16 @@
     "(increased by {{percent}}%)": "(steget med {{percent}}%)",
     "(decreased by {{percent}}%)": "(sunket {{percent}}%)",
     "(decreased by {{amount}})": "(sunket {{amount}})",
-    "\"before\" or \"after\" (optional, uses app settings)": "\"før\" eller \"etter\" (valgfritt, bruker appens innstillinger)"
+    "\"before\" or \"after\" (optional, uses app settings)": "\"før\" eller \"etter\" (valgfritt, bruker appens innstillinger)",
+    "{{amount}} / day": "{{amount}} / dag",
+    "{{amount}} / month": "{{amount}} / måned",
+    "{{amount}} / week": "{{amount}} / uke",
+    "{{count}} scheduled transactions included_one": "{{count}} planlagt transaksjon er inkludert",
+    "{{count}} scheduled transactions included_other": "{{count}} planlagte transaksjoner er inkludert",
+    "{{count}} scheduled transactions included in this date range_one": "{{count}} planlagt transaksjon er inkludert i denne perioden",
+    "{{count}} scheduled transactions included in this date range_other": "{{count}} planlagte transaksjoner er inkludert i denne perioden",
+    "{{current}} of {{total}}": "{{current}} av {{total}}",
+    "{{days}} days": "{{days}} dager",
+    "{{percent}}% must be between 0 and 100": "{{percent}}% må være mellom 0 og 100",
+    "{{provider}} menu": "{{provider}} meny"
 }
