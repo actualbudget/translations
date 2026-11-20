@@ -1971,5 +1971,7 @@
     "Nearby": "Поблизу",
     "Nearby Payees": "Отримувачі поблизу",
     "forget": "Забути",
-    "There was an error forgetting the location. Please try again.": "Не вдалося видалити місце розташування. Будь ласка, спробуйте ще раз."
+    "There was an error forgetting the location. Please try again.": "Не вдалося видалити місце розташування. Будь ласка, спробуйте ще раз.",
+    "category group": "група категорій",
+    "Category group": "Група категорій"
 }
