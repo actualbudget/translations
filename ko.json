@@ -31,8 +31,6 @@
     "{{selectedPayeeNames}}, and more": "{{selectedPayeeNames}} 외 기타",
     "{{status}} (Split)": "{{status}} (분할)",
     "{{num}} more items...": "{{num}}개 항목 더 보기…",
-    "<0>{{category}}</0> is used by existing transactions or it has a positive leftover balance currently.": "<0>{{category}}</0> 카테고리는 기존 거래에서 사용 중이거나 현재 잔액이 남아 있습니다.",
-    "<0>{{category}}</0> is used by existing transactions.": "<0>{{category}}</0> 카테고리는 기존 거래에서 사용 중입니다.",
     "<0><0>Custom Report:</0></0> <2>{{name}}</2>": "<0><0>사용자 정의 보고서:</0></0> <2>{{name}}</2>",
     "(beta)": "(베타)",
     "(decreased by {{amount}})": "({{amount}} 감소)",

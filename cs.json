@@ -76,8 +76,6 @@
     "<0>Goal:</0><1>{{amount}}</1>": "<0>Cíl:</0><1>{{amount}}</1>",
     "Ascending": "Vzestupně",
     "Average": "Průměr",
-    "<0>{{category}}</0> is used by existing transactions or it has a positive leftover balance currently.": "<0>{{category}}</0> je použitá existujícími transakcemi nebo má pozitivní zůstatek.",
-    "<0>{{category}}</0> is used by existing transactions.": "<0>{{category}}</0> je použita existujícími transakcemi.",
     "<0>Budgeted:</0><1>{{amount}}</1>": "<0>Rozpočtováno:</0><1>{{amount}}</1>",
     "<0>Actual's data directory</0> <2><0>where your files are stored</0></2>": "<0>Datový adresář Actual</0> <2><0>kde jsou uložené vaše soubory</0></2>",
     "<0>Actual</0> is a super fast privacy-focused app for managing your finances.": "<0>Actual</0> je superrychlá aplikace pro správu vašich financí se zaměřením na soukromí.",

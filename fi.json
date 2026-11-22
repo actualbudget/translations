@@ -28,8 +28,6 @@
     "{{accountName}} bank sync settings": "{{accountName}} pankin synkronointiasetukset",
     "{{categoryGroupName}} expense group categories": "{{categoryGroupName}} kuluryhmäkategoriat",
     "{{scheduleName}} is due {{distanceFromNow}} ({{formattedDate}})": "{{scheduleName}} erääntyy {{distanceFromNow}} ({{formattedDate}})",
-    "<0>{{category}}</0> is used by existing transactions or it has a positive leftover balance currently.": "<0>{{category}}</0> on olemassaolevien tapahtumien käytössä tai sillä on tällä hetkellä positiivinen jäljellä oleva saldo.",
-    "<0>{{category}}</0> is used by existing transactions.": "<0>{{category}}</0> on olemassaolevien tapahtumien käytössä.",
     "<0><0>Custom Report:</0></0> <2>{{name}}</2>": "<0><0>Mukautettu Raportti:</0></0> <2>{{name}}</2>",
     "<0><0>How is cash flow calculated?</0></0><1>Cash flow shows the balance of your budgeted accounts over time, and the amount of expenses/income each day or month. Your budgeted accounts are considered to be \"cash on hand,\" so this gives you a picture of how available money fluctuates.</1>": "<0><0>Miten kassavirta lasketaan?</0></0><1>Kassavirta näyttää budjetoitujen tiliesi saldon ajan mittaan sekä menojen/tulojen summan päivittäin tai kuukausittain. Budjetoidut tilit lasketaan mukaan käytettävissä olevaan rahaan, joten kassavirta antaa kuvan siitä, miten käytettävissä oleva rahasumma vaihtelee.</1>",
     "(none)": "(ei yhtään)",
