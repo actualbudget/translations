@@ -1581,7 +1581,6 @@
     "Delete dashboard": "Usuń panel",
     "Enable Banking integration has not yet been configured.": "Integracja Enable Banking nie została jeszcze skonfigurowana.",
     "Enable Banking requires HTTPS for the redirect URL. Your current connection is not secure.": "Enable Banking wymaga protokołu HTTPS dla adresu URL przekierowania. Twoje obecne połączenie nie jest bezpieczne.",
-    "Enable Banking sync (EU banks)": "Synchronizacja Enable Banking (banki z UE)",
     "Enable this to specify custom monthly contribution amounts and investment returns that will be used to project your investments into the future.<1></1><2></2>When disabled, uses historical performance from your Income Accounts (which includes both past contributions and investment growth).": "Włącz tę opcję, aby określić niestandardowe kwoty miesięcznych składek i zwroty z inwestycji, które zostaną wykorzystane do prognozowania Twoich inwestycji w przyszłości.<1></1> <2></2>Gdy opcja jest wyłączona, wykorzystuje wyniki historyczne z rachunków dochodów (które obejmują zarówno wcześniejsze składki, jak i wzrost inwestycji).",
     "Exponent": "Wykładnik",
     "Export as CSV": "Eksportuj jako CSV",
