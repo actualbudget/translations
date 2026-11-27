@@ -172,5 +172,7 @@
     "$50 each month": "$50 kuukaudessa",
     "A file with id \"{{id}}\" already exists with the name \"{{name}}\". This file will be replaced. This probably happened because files were manually moved around outside of Actual.": "Tiedosto tunnuksella \"{{id}}\" on jo olemassa nimellä \"{{name}}\". Tämä tiedosto korvataan. Tämä johtui luultavasti siitä, että tiedostoja on siirretty manuaalisesti Actualin ulkopuolella.",
     "a fixed amount": "kiinteä summa",
-    "<0>Move schedule </0><1></1><2> {{beforeOrAfter}} weekend</2>": "<0>Siirrä aikataulu</0><1></1><2> {{beforeOrAfter}} viikonlopuksi</2>"
+    "<0>Move schedule </0><1></1><2> {{beforeOrAfter}} weekend</2>": "<0>Siirrä aikataulu</0><1></1><2> {{beforeOrAfter}} viikonlopuksi</2>",
+    "Your browser doesn't support IndexedDB in this environment, a feature that Actual requires to run. This might happen if you are in private browsing mode. Please try a different browser or turn off private browsing.": "Selaimesi ei tue IndexedDB:tä tässä ympäristössä. Actual vaatii tämän ominaisuuden toimiakseen. Näin voi käydä, jos olet yksityisessä selaustilassa. Kokeile toista selainta tai poista yksityinen selaus käytöstä.",
+    "Your budget is hosted on a server, making it accessible for download on your devices.<1></1>Would you like to duplicate this budget for all your devices or keep it stored locally on this device?": "Budjettisi on isännöity palvelimella, joten se on ladattavissa laitteillesi.<1></1>Haluatko monistaa tämän budjetin kaikille laitteillesi vai säilyttää sen paikallisesti tällä laitteella?"
 }
