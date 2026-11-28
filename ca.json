@@ -1805,7 +1805,6 @@
     "based on a formula": "basat en una fórmula",
     "Category+Group": "Categoria+Grup",
     "Closing balance with extracted parameters from {{queryName}}.": "Saldo final amb paràmetres extrets de {{queryName}}.",
-    "Connection failed. If you use a self-signed certificate or were recently offline, try refreshing the page. Otherwise ensure you have HTTPS set up properly.": "La connexió ha fallat. Si fas servir un certificat autosignat o si recentment has estat fora de línia, prova d'actualitzar la pàgina. En cas contrari, assegura't que tens HTTPS configurat correctament.",
     "Formula mode indicator": "Indicador de mode de fórmula",
     "Merging will delete the selected payee(s) and transfer any associated rules to the target payee.": "La fusió eliminarà el(s) beneficiari(s) seleccionat(s) i transferirà totes les regles associades al beneficiari de destinació.",
     "Nearby Payees": "Beneficiaris propers",

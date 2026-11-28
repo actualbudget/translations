@@ -1798,7 +1798,6 @@
     "Clear": "Limpar",
     "Closing balance with extracted parameters from {{queryName}}.": "Saldo final com parâmetros extraídos de {{queryName}}.",
     "Confirm Merge": "Confirmar Mesclagem",
-    "Connection failed. If you use a self-signed certificate or were recently offline, try refreshing the page. Otherwise ensure you have HTTPS set up properly.": "Falha na conexão. Se você estiver usando um certificado autoassinado ou esteve offline recentemente, tente atualizar a página. Caso contrário, verifique se o HTTPS está configurado corretamente.",
     "Declining": "Em queda",
     "Evaluate a budget query using extracted parameters. Supply dimension, categories, and timeframe explicitly.": "Avalia uma consulta de orçamento usando parâmetros extraídos. Forneça dimensão, categorias e período explicitamente.",
     "Extract category IDs from a named query.": "Extrair IDs de categoria de uma consulta nomeada.",

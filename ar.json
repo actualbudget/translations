@@ -385,7 +385,6 @@
     "Confirm Unlink": "تأكيد إلغاء الربط",
     "Connect to an Actual server to set up <2>automatic syncing</2>.": "اتصل بخادم Actual لإعداد <2>المزامنة التلقائية</2>",
     "Connecting...": "جارٍ الاتصال…",
-    "Connection failed. If you use a self-signed certificate or were recently offline, try refreshing the page. Otherwise ensure you have HTTPS set up properly.": "فشل الاتصال. إذا كنت تستخدم شهادة موقّعة ذاتيًا أو كنت غير متصل مؤخرًا، حاول تحديث الصفحة. تأكد أيضًا من إعداد HTTPS بشكل صحيح",
     "Consider opening <2>our tour</2> in a new tab for some guidance on what to do when you've set your password.": "يمكنك فتح <2>جولتنا</2> في تبويب جديد للحصول على إرشادات حول ما يجب فعله بعد تعيين كلمة المرور",
     "contains": "يحتوي على",
     "Convert to Schedule": "تحويل إلى جدولة",

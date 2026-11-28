@@ -1475,7 +1475,6 @@
     "Configure providers and link accounts from the Bank Sync page.": "Skonfiguruj dostawców i połącz konta na stronie Synchronizacja z bankiem.",
     "Configured": "Skonfigurowane",
     "Confirm Merge": "Potwierdź łączenie",
-    "Connection failed. If you use a self-signed certificate or were recently offline, try refreshing the page. Otherwise ensure you have HTTPS set up properly.": "Połączenie nie powiodło się. Jeśli używasz certyfikatu z podpisem własnym lub ostatnio byłeś offline, spróbuj odświeżyć stronę. W przeciwnym razie upewnij się, że masz poprawnie skonfigurowany protokół HTTPS.",
     "Converts integer amount to decimal amount (e.g., 1234 -> 12.34).": "Konwertuje liczbę całkowitą na liczbę dziesiętną (np. 1234 -> 12,34).",
     "Converts number to character.": "Konwertuje liczbę na znak.",
     "Converts number to text with format.": "Konwertuje liczbę na tekst w formacie.",

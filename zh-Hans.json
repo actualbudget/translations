@@ -741,7 +741,6 @@
     "Clear": "清除",
     "Closing balance with extracted parameters from {{queryName}}.": "从 {{queryName}} 提取参数得出的期末余额。",
     "Confirm Merge": "确认合并",
-    "Connection failed. If you use a self-signed certificate or were recently offline, try refreshing the page. Otherwise ensure you have HTTPS set up properly.": "连接失败。如果您使用自签名证书或最近处于离线状态，请尝试刷新此页面。否则请确保已正确配置 HTTPS。",
     "Czech Koruna": "捷克克朗",
     "Delimiter:": "分隔符:",
     "Dominican Peso": "多米尼加比索",

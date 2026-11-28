@@ -1728,7 +1728,6 @@
     "Clear": "Supprimer",
     "Closing balance with extracted parameters from {{queryName}}.": "Solde de clôture avec les paramètres extraits de {{queryName}}.",
     "Confirm Merge": "Confirmer la fusion",
-    "Connection failed. If you use a self-signed certificate or were recently offline, try refreshing the page. Otherwise ensure you have HTTPS set up properly.": "Echec de la connexion. Si vous utilisez un certificat auto-signé ou étiez hors-ligne récemment, essayer de rafraichir la page. Autrement assurez-vous d'avoir paramétré HTTPS correctement.",
     "Czech Koruna": "Couronne Tchèque",
     "Dominican Peso": "Peso Dominicain",
     "Enable this to specify custom monthly contribution amounts and investment returns that will be used to project your investments into the future.<1></1><2></2>When disabled, uses historical performance from your Income Accounts (which includes both past contributions and investment growth).": "Activer ceci pour définir des montants de cotisations mensuelles et des taux de rendement personnalisés qui serviront à projeter l'évolution future de vos placements.<1></1><2></2>Si désactivée, le système utilise les performances historiques de vos comptes de revenus (qui incluent à la fois les cotisations passées et la croissance des placements).",

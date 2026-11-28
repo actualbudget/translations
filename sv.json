@@ -1195,7 +1195,6 @@
     "Client-Side plugins (soon)": "Klientsidetillägg (snart)",
     "Configured": "Konfigurerad",
     "Confirm Merge": "Bekräfta ihopslagning",
-    "Connection failed. If you use a self-signed certificate or were recently offline, try refreshing the page. Otherwise ensure you have HTTPS set up properly.": "Anslutningen misslyckades. Prova att ladda om sidan om du använder ett själv-signerat certifikan eller har varit offline nyligen. Kontrollera att du har konfigurerat HTTPS korrekt.",
     "Copy to dashboard": "Kopiera till dashboard",
     "Copy until year end": "Kopiera till slutet av året",
     "Create \"{{name}}\"": "Skapa \"{{name}}\"",

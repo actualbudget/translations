@@ -1429,7 +1429,6 @@
     "Configure providers and link accounts from the Bank Sync page.": "Configureer providers en koppel accounts via de pagina ‘Bank Sync’.",
     "Configured": "Geconfigureerd",
     "Confirm Merge": "Samenvoeging bevestigen",
-    "Connection failed. If you use a self-signed certificate or were recently offline, try refreshing the page. Otherwise ensure you have HTTPS set up properly.": "Verbinding mislukt. Als u een zelfondertekend certificaat gebruikt of onlangs offline bent geweest, probeer dan de pagina te verversen. Controleer anders of HTTPS correct is geconfigureerd.",
     "Converts integer amount to decimal amount (e.g., 1234 -> 12.34).": "Zet een geheel getal om in een decimaal getal (bijv. 1234 -> 12,34).",
     "Converts number to character.": "Zet een getal om in een teken.",
     "Could not validate the credentials. Please check your Application ID and secret key.": "De inloggegevens konden niet worden geverifieerd. Controleer je applicatie-ID en geheime sleutel.",
